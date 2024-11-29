@@ -777,6 +777,25 @@
 	.homepage {
 		#header {
 			background-image: url('../../images/header.gif');
+
+			header {
+				display: grid;
+				grid-template-columns: auto auto;
+				max-width: 30em;
+				text-align: center;
+
+				> p {
+					font-size: 1.25em;
+					margin: 0;
+				}
+
+				.logo {
+					height: 8em;
+					width: 8em;
+					grid-row-start: 1;
+					grid-row-end: 3;
+				}
+			}
 		}
 	}
 
@@ -804,25 +823,6 @@
 			margin: 0;
 			display: inline-block;
 			vertical-align: left;
-		}
-
-		header {
-			display: grid;
-			grid-template-columns: auto auto;
-			max-width: 30em;
-			text-align: center;
-
-			> p {
-				font-size: 1.25em;
-				margin: 0;
-			}
-
-			.logo {
-				height: 8em;
-				width: 8em;
-				grid-row-start: 1;
-				grid-row-end: 3;
-			}
 		}
 
 		h1 {
@@ -1219,6 +1219,8 @@
 			white-space: normal;
 			opacity: 1.0;
 			@include vendor('transition', 'opacity 0.75s ease-in-out');
+
+			vertical-align: top;
 
 			&.loading {
 				opacity: 0;
@@ -1739,3 +1741,7 @@
 			}
 
 	}
+
+.bb_img {
+	display: block;
+}

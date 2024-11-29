@@ -1,0 +1,94 @@
+<!doctype html>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		<title>{{ site.title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}" />
+		<link rel="preload" href="{{ '/images/header.gif?v=' | append: site.github.build_revision | relative_url }}" as="image" />
+		<noscript><link rel="stylesheet" href="{{ '/assets/css/noscript.css?v=' | append: site.github.build_revision | relative_url }}" /></noscript>
+		<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<![endif]-->
+
+		{% seo %}
+
+		{% include head-custom.html %}
+	</head>
+	<body class="left-sidebar is-preload">
+		<div id="page-wrapper">
+				<div id="header">
+					<div class="inner">
+						<header>
+							<h1>Entry #{{page.steamid}}</h1>
+							<p>{{ page.genres | array_to_sentence_string }}</p>
+						</header>
+					</div>
+
+					{% include nav.html %}
+				</div>
+
+				<div class="wrapper style1">
+
+					<div class="container">
+						<div class="row gtr-200">
+							<div class="col-4 col-12-mobile" id="sidebar">
+								<hr class="first" />
+								{% for movie in page.movies %}
+								<section>
+									<header>
+										<h3><a href="{{ movie.webm.max }}">{{ movie.name }}</a></h3>
+									</header>
+									<p>
+										<a href="{{ movie.webm.max }}" class="image fit"><img src="{{ movie.thumbnail }}" alt="{{movie.name}}" /></a>
+									</p>
+								</section>
+								<hr />
+								{% endfor %}
+								<section>
+									<header>
+										<h3><a href="#">Screenshots</a></h3>
+									</header>
+									<div class="row gtr-50">
+										{% for screenshot in page.screenshots %}
+										<div class="col-4">
+											<a href="{{ screenshot.path_full }}" class="image fit" target="_blank"><img src="{{ screenshot.path_thumbnail }}" alt="Screenshot #{{screenshot.id}}" /></a>
+										</div>
+										{% endfor %}
+									</div>
+								</section>
+							</div>
+
+							<div class="col-8 col-12-mobile imp-mobile" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="https://store.steampowered.com/app/{{ page.steamid }}">{{ page.title }}</a></h2>
+										<p>
+											{{ page.description }}
+										</p>
+									</header>
+									<a href="#" class="image featured"><img src="{{page.image}}" alt=""></a>
+									<article id="main" class="special">
+										{{ content }}
+									</article>
+									<header>
+										<h2>Buy or wishlist on Steam</h2>
+									</header>
+									<iframe src="https://store.steampowered.com/widget/{{ page.steamid }}/" frameborder="0" width="646" height="190"></iframe>
+								</article>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			{% include footer.html %}
+		</div>
+	</body>
+</html>

@@ -9,3 +9,17 @@ logo: images/logo.jpg
 sass:
   sass_dir:           _sass
   style:              compressed
+
+collections:
+  games:
+    output: true
+    layout: default
+
+excerpt_separator: <!--more-->
+
+defaults:
+  - scope:
+      path: ""
+      type: "games"
+    values:
+      layout: "game"
