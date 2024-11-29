@@ -1,0 +1,148 @@
+<!doctype html>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		<title>{{ site.title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}" />
+		<link rel="preload" href="{{ '/images/header.gif?v=' | append: site.github.build_revision | relative_url }}" as="image" />
+		<noscript><link rel="stylesheet" href="{{ '/assets/css/noscript.css?v=' | append: site.github.build_revision | relative_url }}" /></noscript>
+		<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<![endif]-->
+
+		{% seo %}
+
+		{% include head-custom.html %}
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+			<!-- Header -->
+				<div id="header">
+					<!-- Inner -->
+					<div class="inner">
+						<header>
+							<div class="logo"></div>
+							<h1>The Game Awards</h1>
+							<p>for Games Who Can't Afford the Game Awards</p>
+						</header>
+						<footer>
+							<a href="#banner" class="button circled scrolly">Start</a>
+						</footer>
+					</div>
+
+					{% include nav.html %}
+				</div>
+
+			<!-- Banner -->
+				<section id="banner">
+					<header>
+						<h2>Hi. You're looking at <strong>The Game Awards</strong></h2>
+						<h3>(for Games Who Can't Afford the Game Awards)</h3>
+						<p>
+							Showcasing the best of indie developers to help them pay for rent.
+						</p>
+					</header>
+				</section>
+
+			<!-- Carousel -->
+				<section class="carousel">
+					<header>
+						<h2>Explore</h2>
+					</header>
+
+					<div class="reel">
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic01.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Pulvinar sagittis congue</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic02.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Fermentum sagittis proin</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic03.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Sed quis rhoncus placerat</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic04.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Ultrices urna sit lobortis</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic05.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Varius magnis sollicitudin</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic01.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Pulvinar sagittis congue</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic02.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Fermentum sagittis proin</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic03.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Sed quis rhoncus placerat</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic04.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Ultrices urna sit lobortis</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+						<article>
+							<a href="#" class="image featured"><img src="{{ 'images/pic05.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="" /></a>
+							<header>
+								<h3><a href="#">Varius magnis sollicitudin</a></h3>
+							</header>
+							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+						</article>
+
+					</div>
+				</section>
+
+			{% include footer.html %}
+		</div>
+	</body>
+</html>

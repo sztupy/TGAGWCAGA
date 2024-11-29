@@ -1,0 +1,4 @@
+---
+title: Nominees
+permalink: /nominees/
+---
