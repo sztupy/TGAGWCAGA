@@ -14,7 +14,10 @@ developers: ["Sleeping Panda Games"]
 publishers: ["Sleeping Panda Games"]
 release_date: {"coming_soon":true,"date":"Q4 2025"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "<p class=\"bb_paragraph\">Put on your mittens and your beanie to discover an icy world in this retro arcade-style game from the heyday of the GameBoy.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">Cool features included:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\">1 little &amp; cute flexible penguin</p></li><li><p class=\"bb_paragraph\">GameBoy-like graphics and audio</p></li><li><p class=\"bb_paragraph\">Wholesome &amp; family friendly</p></li><li><p class=\"bb_paragraph\">Approximately ~2 hours long</p></li><li><p class=\"bb_paragraph\">40 short levels filled with unique puzzles</p></li><li><p class=\"bb_paragraph\">40 ice creams to collect as an additional challenge</p></li><li><p class=\"bb_paragraph\">15 achievements for completionist lovers</p></li><li><p class=\"bb_paragraph\">An optional binocular view to help you solve larger levels</p></li><li><p class=\"bb_paragraph\">Mouse, keyboard, and full gamepad support</p></li></ul>"
 detailed_description: "<p class=\"bb_paragraph\">Put on your mittens and your beanie to discover an icy world in this retro arcade-style game from the heyday of the GameBoy.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\">Cool features included:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\">1 little &amp; cute flexible penguin</p></li><li><p class=\"bb_paragraph\">GameBoy-like graphics and audio</p></li><li><p class=\"bb_paragraph\">Wholesome &amp; family friendly</p></li><li><p class=\"bb_paragraph\">Approximately ~2 hours long</p></li><li><p class=\"bb_paragraph\">40 short levels filled with unique puzzles</p></li><li><p class=\"bb_paragraph\">40 ice creams to collect as an additional challenge</p></li><li><p class=\"bb_paragraph\">15 achievements for completionist lovers</p></li><li><p class=\"bb_paragraph\">An optional binocular view to help you solve larger levels</p></li><li><p class=\"bb_paragraph\">Mouse, keyboard, and full gamepad support</p></li></ul>"
+languages: "English"
+reviews: null
+support_info: {"url":"https://discord.gg/A8DGFx5","email":"support@sleepingpanda.games"}
 ---
 

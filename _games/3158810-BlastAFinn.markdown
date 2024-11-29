@@ -14,7 +14,10 @@ developers: ["Blast-A-Finn team"]
 publishers: ["Blast-A-Finn team"]
 release_date: {"coming_soon":true,"date":"Coming soon"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "A 2D physics-based platformer where you play as a fish whose only method of movement is by blasting arm cannons in a direction and getting launched the opposite way. <br />\r\nBlast through several different locales full of danger. But fear not, finn can fly through anything using his arm cannons, and utilizing level layouts + unique items. At the end of each level an exciting boss fight awaits, will finn defeat them all?"
 detailed_description: "A 2D physics-based platformer where you play as a fish whose only method of movement is by blasting arm cannons in a direction and getting launched the opposite way. <br />\r\nBlast through several different locales full of danger. But fear not, finn can fly through anything using his arm cannons, and utilizing level layouts + unique items. At the end of each level an exciting boss fight awaits, will finn defeat them all?"
+languages: "English"
+reviews: null
+support_info: {"url":"","email":"blast.a.finn.team@gmail.com"}
 ---
 

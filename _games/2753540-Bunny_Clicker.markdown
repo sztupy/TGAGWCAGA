@@ -14,7 +14,10 @@ developers: ["brxken games"]
 publishers: ["brxken games"]
 release_date: {"coming_soon":true,"date":"Coming soon"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "<p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753540/extras/Click9.gif?t=1731336820\" /><strong>The rules are simple:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\">Collect carrots</p></li><li><p class=\"bb_paragraph\"> Spend carrots on decorations and upgrades</p></li><li><p class=\"bb_paragraph\">Collect more carrots </p></li><li><p class=\"bb_paragraph\">Try to make the bunnies happy <br><br>You can invite kids to help you collect carrots, but be careful, they leave a mess behind, and that makes the bunnies unhappy. You can always clean the mess or make toys out of it! But for that...you need to upgrade your farm. <br> Just like in other clicker games, you’ll open more upgrades as soon as you refresh your farm to start all over again. <br><br> And did we tell you about the cute bunnies?</p></li></ul>"
 detailed_description: "<p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753540/extras/Click9.gif?t=1731336820\" /><strong>The rules are simple:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\">Collect carrots</p></li><li><p class=\"bb_paragraph\"> Spend carrots on decorations and upgrades</p></li><li><p class=\"bb_paragraph\">Collect more carrots </p></li><li><p class=\"bb_paragraph\">Try to make the bunnies happy <br><br>You can invite kids to help you collect carrots, but be careful, they leave a mess behind, and that makes the bunnies unhappy. You can always clean the mess or make toys out of it! But for that...you need to upgrade your farm. <br> Just like in other clicker games, you’ll open more upgrades as soon as you refresh your farm to start all over again. <br><br> And did we tell you about the cute bunnies?</p></li></ul>"
+languages: "English, Russian"
+reviews: null
+support_info: {"url":"","email":"bunnyclickergame@gmail.com"}
 ---
 

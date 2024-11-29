@@ -14,7 +14,10 @@ developers: ["SURREALIST GAMES, LLC"]
 publishers: ["SURREALIST GAMES, LLC"]
 release_date: {"coming_soon":false,"date":"10 Jun, 2024"}
 content_warning: {"ids":[5],"notes":"Alcohol Use"}
-about: null
+about: "<h2 class=\"bb_tag\">WATCH STREAMS</h2>Watch livestreams with other people in many virtual venues and environments on Desktop PC or VR.<h2 class=\"bb_tag\">CREATE VENUES</h2>Create custom venues with our in-game Venue Builder using our library of models or uploading your own. <br>(VR is not currently supported in the Venue Builder).<h2 class=\"bb_tag\">CONTROL THE SHOW</h2>Control the lighting and visuals using your keyboard, in VR, TouchOSC, or other supported MIDI devices to simulate a realistic VJ (Video Jockey) setup.<h2 class=\"bb_tag\">COMMUNICATE</h2>Communicate and interact with people using proximity voice chat, text chat, emojis, and some killer dance moves. <br>(Text Chat and Emojis are not currently supported in VR).<h2 class=\"bb_tag\">VR FLOW TOYS</h2>Jump in VR to spin different flow props such as Poi, Contact Staffs, and LED Swords. Choose and combine different ones to flow with. Practice your IRL skills in a safe virtual environment or try out something new."
 detailed_description: "<h2 class=\"bb_tag\">WATCH STREAMS</h2>Watch livestreams with other people in many virtual venues and environments on Desktop PC or VR.<h2 class=\"bb_tag\">CREATE VENUES</h2>Create custom venues with our in-game Venue Builder using our library of models or uploading your own. <br>(VR is not currently supported in the Venue Builder).<h2 class=\"bb_tag\">CONTROL THE SHOW</h2>Control the lighting and visuals using your keyboard, in VR, TouchOSC, or other supported MIDI devices to simulate a realistic VJ (Video Jockey) setup.<h2 class=\"bb_tag\">COMMUNICATE</h2>Communicate and interact with people using proximity voice chat, text chat, emojis, and some killer dance moves. <br>(Text Chat and Emojis are not currently supported in VR).<h2 class=\"bb_tag\">VR FLOW TOYS</h2>Jump in VR to spin different flow props such as Poi, Contact Staffs, and LED Swords. Choose and combine different ones to flow with. Practice your IRL skills in a safe virtual environment or try out something new."
+languages: "English, Spanish - Spain"
+reviews: null
+support_info: {"url":"https://ravegameofficial.com","email":"contact@ravegameofficial.com"}
 ---
 

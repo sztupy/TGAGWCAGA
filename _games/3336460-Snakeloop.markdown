@@ -14,7 +14,10 @@ developers: ["Axel Born"]
 publishers: ["Axel Born"]
 release_date: {"coming_soon":true,"date":"Q1 2025"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "<p class=\"bb_paragraph\">Snakeloop is a challenging puzzle game based on a simple idea: What if you took classic Snake but inverted the goal and made it so you have to form a loop by eating your own tail.</p><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\">Over 60 hand-crafted levels</p></li><li><p class=\"bb_paragraph\">Multiple solutions to levels - Try to find the optimal solution</p></li><li><p class=\"bb_paragraph\">Several twists to the base puzzle mechanics</p></li><li><p class=\"bb_paragraph\">Create your own levels easily</p></li><li><p class=\"bb_paragraph\">Play community-made levels through the Steam Workshop</p></li></ul>"
 detailed_description: "<p class=\"bb_paragraph\">Snakeloop is a challenging puzzle game based on a simple idea: What if you took classic Snake but inverted the goal and made it so you have to form a loop by eating your own tail.</p><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\">Over 60 hand-crafted levels</p></li><li><p class=\"bb_paragraph\">Multiple solutions to levels - Try to find the optimal solution</p></li><li><p class=\"bb_paragraph\">Several twists to the base puzzle mechanics</p></li><li><p class=\"bb_paragraph\">Create your own levels easily</p></li><li><p class=\"bb_paragraph\">Play community-made levels through the Steam Workshop</p></li></ul>"
+languages: "English, French, German, Spanish - Spain"
+reviews: null
+support_info: {"url":"","email":"snakeloopgame@gmail.com"}
 ---
 

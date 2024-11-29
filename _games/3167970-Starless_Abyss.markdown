@@ -14,7 +14,10 @@ developers: ["Konafa Games"]
 publishers: ["No More Robots"]
 release_date: {"coming_soon":true,"date":"Coming soon"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "<p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Starless-Abyss_DialogueGifRealityJumpWeb.gif?t=1730128669\" /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Main_Page_Asset1_Correct_Size_NewCardGreySpace.gif?t=1730128669\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Main_Page_Asset2_Final.gif?t=1730128669\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Main_Page_Asset4_Final.gif?t=1730128669\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Main_Page_Asset3_Final.gif?t=1730128669\" /></p>"
 detailed_description: "<p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Starless-Abyss_DialogueGifRealityJumpWeb.gif?t=1730128669\" /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Main_Page_Asset1_Correct_Size_NewCardGreySpace.gif?t=1730128669\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Main_Page_Asset2_Final.gif?t=1730128669\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Main_Page_Asset4_Final.gif?t=1730128669\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167970/extras/Main_Page_Asset3_Final.gif?t=1730128669\" /></p>"
+languages: "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support"
+reviews: null
+support_info: {"url":"www.nomorerobots.io","email":"info@nomorerobots.io"}
 ---
 

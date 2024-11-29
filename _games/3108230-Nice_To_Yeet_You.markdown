@@ -14,7 +14,10 @@ developers: ["Empty Bottle"]
 publishers: ["Empty Bottle"]
 release_date: {"coming_soon":true,"date":"To be announced"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "Get ready to brawl in the wild world of <strong>Nice to Yeet You</strong>!<br><br>Take on your friends in local or online multiplayer and show them who's boss in fast-paced and intense battles. <br>Bounce against your opponents, throw them against the wall and make the box rotate.<br>Freeze to defend from dangerous attacks and find all the endless opportunities to yeet your enemies into oblivion in this brawler you don't want to miss.<br><br>It's brawler time: to win, throw your opponent outside the screen!<br><br><ul class=\"bb_ul\"><li> Two button brawler game<br></li><li> Classic battles 1v1 with rounds and lives<br></li><li> Timed battles (score as much as you can in a limited amount of time)<br></li><li> Couch co-op multiplayer<br></li><li> Online multiplayer</li></ul><br>So grab your controller, buckle up, and prepare for a face-off like no other in <strong>Nice to Yeet You</strong>!"
 detailed_description: "Get ready to brawl in the wild world of <strong>Nice to Yeet You</strong>!<br><br>Take on your friends in local or online multiplayer and show them who's boss in fast-paced and intense battles. <br>Bounce against your opponents, throw them against the wall and make the box rotate.<br>Freeze to defend from dangerous attacks and find all the endless opportunities to yeet your enemies into oblivion in this brawler you don't want to miss.<br><br>It's brawler time: to win, throw your opponent outside the screen!<br><br><ul class=\"bb_ul\"><li> Two button brawler game<br></li><li> Classic battles 1v1 with rounds and lives<br></li><li> Timed battles (score as much as you can in a limited amount of time)<br></li><li> Couch co-op multiplayer<br></li><li> Online multiplayer</li></ul><br>So grab your controller, buckle up, and prepare for a face-off like no other in <strong>Nice to Yeet You</strong>!"
+languages: "English<strong>*</strong>, Italian<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support"
+reviews: null
+support_info: {"url":"https://x.com/trick_o","email":""}
 ---
 

@@ -14,7 +14,10 @@ developers: ["GasGod Games","cockydoody","GLUE MAN"]
 publishers: ["GasGod Games"]
 release_date: {"coming_soon":true,"date":"2025"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "• Explore underwater domains, defeat enemies, and krill your friends<br>• Unlock and pilot new SHRIMPs with unique strengths and weaknesses<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824880/extras/shrimpgif.gif?t=1721681894\" /><br>• SHRIMPs can fuse elemental classes - resulting in tons of unique abilities!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824880/extras/ults.png?t=1721681894\" /><br>• A SHRIMP GAME concludes with a special event - like a boss battle!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824880/extras/boss.png?t=1721681894\" /><br>• Players can use the SHRIMPs they've completed a SHRIMP GAME with in a variety of PRO MODES"
 detailed_description: "• Explore underwater domains, defeat enemies, and krill your friends<br>• Unlock and pilot new SHRIMPs with unique strengths and weaknesses<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824880/extras/shrimpgif.gif?t=1721681894\" /><br>• SHRIMPs can fuse elemental classes - resulting in tons of unique abilities!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824880/extras/ults.png?t=1721681894\" /><br>• A SHRIMP GAME concludes with a special event - like a boss battle!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824880/extras/boss.png?t=1721681894\" /><br>• Players can use the SHRIMPs they've completed a SHRIMP GAME with in a variety of PRO MODES"
+languages: "English"
+reviews: null
+support_info: {"url":"","email":"godarenadungeon@gmail.com"}
 ---
 

@@ -1,0 +1,63 @@
+<div id="header">
+    <div class="inner">
+        <header>
+            <h1>Entry #{{page.itchid}}</h1>
+            <p>{{ page.genres | array_to_sentence_string }}</p>
+        </header>
+    </div>
+
+    {% include nav.html %}
+</div>
+
+<div class="wrapper style1">
+
+    <div class="container">
+        <div class="row gtr-200">
+            <div class="col-4 col-12-mobile" id="sidebar">
+                <hr class="first" />
+                {% for movie in page.movies %}
+                <section>
+                    <header>
+                        <h3><a href="{{ movie.webm.max }}">{{ movie.name }}</a></h3>
+                    </header>
+                    <p>
+                        <a href="{{ movie.webm.max }}" class="image fit"><img src="{{ movie.thumbnail }}" alt="{{movie.name}}" /></a>
+                    </p>
+                </section>
+                <hr />
+                {% endfor %}
+                <section>
+                    <header>
+                        <h3><a href="#">Screenshots</a></h3>
+                    </header>
+                    <div class="row gtr-50">
+                        {% for screenshot in page.screenshots %}
+                        <div class="col-4">
+                            <a href="{{ screenshot.path_full }}" class="image fit" target="_blank"><img src="{{ screenshot.path_thumbnail }}" alt="Screenshot #{{screenshot.id}}" /></a>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </section>
+            </div>
+
+            <div class="col-8 col-12-mobile imp-mobile" id="content">
+                <article id="main">
+                    <header>
+                        <h2><a href="{{ page.itchlink }}">{{ page.title }}</a></h2>
+                        <p>
+                            {{ page.description }}
+                        </p>
+                    </header>
+                    <a href="#" class="image featured"><img src="{{page.image}}" alt=""></a>
+                    <article id="main" class="special">
+                        {{ content }}
+                    </article>
+                    <header>
+                        <h2>Access game on itch.io</h2>
+                    </header>
+                    <iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/{{ page.itchid }}"><a href="{{ page.itchlink }}">{{ page.title }}</a></iframe>
+                </article>
+            </div>
+        </div>
+    </div>
+</div>

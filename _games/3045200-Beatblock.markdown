@@ -14,7 +14,10 @@ developers: ["BubbleTabby"]
 publishers: ["SKY HOUR WORKS"]
 release_date: {"coming_soon":true,"date":"To be announced"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "SPIN TO WIN: move your paddle around to hit blocks to the beat in BubbleTabby's headspinning rhythm arcade game! Taps and different block types- like mines and sides- keep things fresh.<br><br><ul class=\"bb_ul\"><li>Groove your way through a variety of genres with both licensed and original tracks!<br></li><li>Visuals use a unique 2-bit palette system that has charm without distracting from gameplay.<br></li><li>A level editor to keep the fun going! Create to your heart's content. (Level editor is currently only available on Windows and Linux. Mac support is coming soon.)<br></li><li>Planned features include: more levels, block types, song unlocks, costumes, and level editor improvements.</li></ul>"
 detailed_description: "SPIN TO WIN: move your paddle around to hit blocks to the beat in BubbleTabby's headspinning rhythm arcade game! Taps and different block types- like mines and sides- keep things fresh.<br><br><ul class=\"bb_ul\"><li>Groove your way through a variety of genres with both licensed and original tracks!<br></li><li>Visuals use a unique 2-bit palette system that has charm without distracting from gameplay.<br></li><li>A level editor to keep the fun going! Create to your heart's content. (Level editor is currently only available on Windows and Linux. Mac support is coming soon.)<br></li><li>Planned features include: more levels, block types, song unlocks, costumes, and level editor improvements.</li></ul>"
+languages: "English<strong>*</strong><br><strong>*</strong>languages with full audio support"
+reviews: null
+support_info: {"url":"","email":"contact@bubbletabby.com"}
 ---
 

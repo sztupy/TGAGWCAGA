@@ -14,7 +14,10 @@ developers: ["ElStrawFedora"]
 publishers: ["ElStrawFedora"]
 release_date: {"coming_soon":false,"date":"2 Jul, 2024"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "<strong>Enter the colorful world of Pixelitos!</strong><br><br>Your role as a Pixelito Trainer is to build teams of digital creatures, known as Pixelitos, to fight on your behalf. <br>You only need to make the team, no need to tell them how to fight! After a round is up, you will go back to the shop and make your team stronger. <br>Keep it up, make stronger and smarter teams, and soon enough you will be a Pixel Master! <br>Climb the Online Global Ladder, challenge your friends in Online Versus, or take on the league in Story Mode.<br><br>With over 130 Pixelitos to collect, the perfect Pixelito experience is waiting for you!"
 detailed_description: "<strong>Enter the colorful world of Pixelitos!</strong><br><br>Your role as a Pixelito Trainer is to build teams of digital creatures, known as Pixelitos, to fight on your behalf. <br>You only need to make the team, no need to tell them how to fight! After a round is up, you will go back to the shop and make your team stronger. <br>Keep it up, make stronger and smarter teams, and soon enough you will be a Pixel Master! <br>Climb the Online Global Ladder, challenge your friends in Online Versus, or take on the league in Story Mode.<br><br>With over 130 Pixelitos to collect, the perfect Pixelito experience is waiting for you!"
+languages: "English"
+reviews: null
+support_info: {"url":"","email":"elstrawfedora@gmail.com"}
 ---
 

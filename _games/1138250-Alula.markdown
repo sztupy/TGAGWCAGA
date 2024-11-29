@@ -14,7 +14,10 @@ developers: ["Miracle Tea"]
 publishers: ["Miracle Tea"]
 release_date: {"coming_soon":true,"date":"To be announced"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "<h2 class=\"bb_tag\">About</h2>You awaken on a mysterious island with no knowledge of how you got there. You’re guided along a path that transports you into the muddled minds of various characters. As you help resolve the problematic psyches of each character through puzzles, you gradually discover the reason you are there.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/extras/long_description_insomniac_616x252.gif?t=1732222889\" /><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/extras/long_description_tree_dweller_616x252.gif?t=1732222889\" />"
 detailed_description: "<h2 class=\"bb_tag\">About</h2>You awaken on a mysterious island with no knowledge of how you got there. You’re guided along a path that transports you into the muddled minds of various characters. As you help resolve the problematic psyches of each character through puzzles, you gradually discover the reason you are there.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/extras/long_description_insomniac_616x252.gif?t=1732222889\" /><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/extras/long_description_tree_dweller_616x252.gif?t=1732222889\" />"
+languages: "English<strong>*</strong><br><strong>*</strong>languages with full audio support"
+reviews: null
+support_info: {"url":"https://miracleteastudios.com","email":"info@miracleteastudios.com"}
 ---
 

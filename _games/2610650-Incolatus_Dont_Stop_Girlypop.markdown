@@ -14,7 +14,10 @@ developers: ["Funny Fintan Softworks"]
 publishers: ["Funny Fintan Softworks"]
 release_date: {"coming_soon":true,"date":"Coming soon"}
 content_warning: {"ids":[],"notes":null}
-about: null
+about: "<strong><i>Incolatus </i></strong>is a <strong> Y2K girly-pop</strong> <i> arena-style movement shooter </i>where standing still is not an option! <strong><i><u>This sh❤t is serious!!!!!!!!!! :3</u></i></strong><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610650/extras/2.gif?t=1732688882\" /><br><br>❤ A mining company is attempting to destroy an ecosystem for profit. <u>Shocker!</u> <i>Tigris Nix</i> wants to drain your world of <i>The Love</i>, a natural force keeping the planet alive. Lay waste to its robotic <i>Ormyk </i>drones to heal<i> the Oasis!</i><br>❤ Kill ‘em with kindness! Every point of damage dealt against a robot is one piece of <i>The Love</i> released back into the environment and one step closer to the end of <i>Tigris Nix.</i><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610650/extras/1.gif?t=1732688882\" /><br><br>❤ <i>The faster you go, the more damage you deal and the more you heal! </i>Incolatus combines the ridiculous fun of janky old-school mechanics with contemporary innovations in advanced movement abilities.<br>❤ <i>Wave hopping</i> combines the feeling of a classic bunny hop with modern slam, dash and double jump mechanics to create a fast, fluid and precise flow state.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610650/extras/3.gif?t=1732688882\" /><br><br>❤ <i>Unleash the horrors &lt;3</i> Guns with alt-fires combine symbiotically with each other and with magical abilities to create incredible moments of complex interplay<br>❤ Master a deep and flexible push-forward combat system to generate high Love scores and become the Cupid of death!"
 detailed_description: "<h1>Join Our Community &lt;3</h1><p>"
+languages: "English<strong>*</strong><br><strong>*</strong>languages with full audio support"
+reviews: null
+support_info: {"url":"","email":"contact@incolatus.com"}
 ---
 
