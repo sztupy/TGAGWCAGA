@@ -3,9 +3,12 @@ require 'uri'
 require 'net/http'
 require 'json'
 
-games = [2097570,2097570,2113850,1835240,2000210,1830970,3223000,2219390,1717730]
+#3367740
+
+games = []
 
 games.each do |game|
+  p game
   uri = URI("https://store.steampowered.com/api/appdetails?appids=#{game}")
   res = Net::HTTP.get_response(uri)
   if res.is_a?(Net::HTTPSuccess)
@@ -25,8 +28,8 @@ games.each do |game|
       steamid: #{game}
       screenshots: #{gd['screenshots'].to_json}
       movies: #{gd['movies'].to_json}
-      genres: #{gd['genres'].map{|g| g['description']}.to_json}
-      steam_categories: #{gd['categories'].map{|g| g['description']}.to_json}
+      genres: #{(gd['genres'] || []).map{|g| g['description']}.to_json}
+      steam_categories: #{(gd['categories']||[]).map{|g| g['description']}.to_json}
       platforms: #{gd['platforms'].to_json}
       developers: #{gd['developers'].to_json}
       publishers: #{gd['publishers'].to_json}

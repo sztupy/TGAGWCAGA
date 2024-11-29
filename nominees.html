@@ -4,7 +4,8 @@ permalink: /nominees/
 layout: default
 ---
 
-{% for game in site.games limit:20 %}
+{% assign gamelist = site.games | sort: 'featured', 'last' %}
+{% for game in gamelist %}
 
 {% assign mod3 = forloop.index0 | modulo: 3 %}
 {% if mod3 == 0 %}<div class="row">{% endif %}

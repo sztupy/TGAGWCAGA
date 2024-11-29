@@ -59,7 +59,8 @@
 					</header>
 
 					<div class="reel">
-						{% for game in site.games limit:8 %}
+						{% assign gamelist = site.games | sort: 'featured', 'last' %}
+						{% for game in gamelist limit:8 %}
 						<article>
 							<a href="{{game.url | relative_url}}" class="image featured"><img src="{{ game.image }}" alt="" /></a>
 							<header>

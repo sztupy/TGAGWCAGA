@@ -1,0 +1,20 @@
+---
+title: "Alula"
+description: "Alula is a 2.5DHD puzzle game where you help people solve their problems by exploring parts of their psyche."
+image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/header.jpg?t=1732222889"
+capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/capsule_231x87.jpg?t=1732222889"
+categories: game
+steamid: 1138250
+screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_b28c1e413f5f64ea7d31e3cbdab6e0bcbce028ce.600x338.jpg?t=1732222889","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_b28c1e413f5f64ea7d31e3cbdab6e0bcbce028ce.1920x1080.jpg?t=1732222889"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_e0f8a23905bf7fab1526a0f96180ce1396a2611b.600x338.jpg?t=1732222889","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_e0f8a23905bf7fab1526a0f96180ce1396a2611b.1920x1080.jpg?t=1732222889"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_672a9077d0eed3ad4c9017424e4c6ad5d80e3233.600x338.jpg?t=1732222889","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_672a9077d0eed3ad4c9017424e4c6ad5d80e3233.1920x1080.jpg?t=1732222889"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_9d421a2fb46fdc3aac2600bd1908928af12311c9.600x338.jpg?t=1732222889","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_9d421a2fb46fdc3aac2600bd1908928af12311c9.1920x1080.jpg?t=1732222889"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_b295a1d7312d3208a5cff0f741ccc6dac19bfa31.600x338.jpg?t=1732222889","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/ss_b295a1d7312d3208a5cff0f741ccc6dac19bfa31.1920x1080.jpg?t=1732222889"}]
+movies: [{"id":257006646,"name":"Alula Gameplay 2024","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257006646/movie.293x165.jpg?t=1710175592","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/257006646/movie480_vp9.webm?t=1710175592","max":"http://video.akamai.steamstatic.com/store_trailers/257006646/movie_max_vp9.webm?t=1710175592"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/257006646/movie480.mp4?t=1710175592","max":"http://video.akamai.steamstatic.com/store_trailers/257006646/movie_max.mp4?t=1710175592"},"highlight":true}]
+genres: ["Casual","Indie","Strategy"]
+steam_categories: ["Single-player","Steam Achievements","Full controller support"]
+platforms: {"windows":true,"mac":true,"linux":false}
+developers: ["Miracle Tea"]
+publishers: ["Miracle Tea"]
+release_date: {"coming_soon":true,"date":"To be announced"}
+content_warning: {"ids":[],"notes":null}
+about: null
+detailed_description: "<h2 class=\"bb_tag\">About</h2>You awaken on a mysterious island with no knowledge of how you got there. You’re guided along a path that transports you into the muddled minds of various characters. As you help resolve the problematic psyches of each character through puzzles, you gradually discover the reason you are there.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/extras/long_description_insomniac_616x252.gif?t=1732222889\" /><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138250/extras/long_description_tree_dweller_616x252.gif?t=1732222889\" />"
+---
+
