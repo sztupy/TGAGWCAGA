@@ -60,7 +60,7 @@ games.each do |game|
       genres: #{gd['tags'].to_json}
       platforms: #{data2['traits'].to_json}
       developers: #{(gd['authors']||[]).map{|a|a['name']}.to_json}
-      release_date: #{data2['published_at'].to_json}
+      release_date: #{{ coming_soon: false, date: data2['published_at']}.to_json}
       ---
 
       DATA

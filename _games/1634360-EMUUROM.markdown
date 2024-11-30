@@ -1,23 +1,146 @@
 ---
-title: "EMUUROM"
-description: "Document an ancient paradise before it's lost forever. Study the behaviour of the EMUUROM creatures and use the gained knowledge to create new paths forward. Slowly, the machinations of the mythic forest sprites begin to unfold."
-image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/header.jpg?t=1706791008"
-capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/capsule_231x87.jpg?t=1706791008"
+title: EMUUROM
+description: Document an ancient paradise before it's lost forever. Study the behaviour
+  of the EMUUROM creatures and use the gained knowledge to create new paths forward.
+  Slowly, the machinations of the mythic forest sprites begin to unfold.
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/header.jpg?t=1706791008
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/capsule_231x87.jpg?t=1706791008
 categories: game
 steamid: 1634360
-screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_8d9e786b2364c17e235abeb0ee62d1ef9d24f2f1.600x338.jpg?t=1706791008","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_8d9e786b2364c17e235abeb0ee62d1ef9d24f2f1.1920x1080.jpg?t=1706791008"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_fb5e9982fd62079dbb487cfa9f37a2b49966ed9a.600x338.jpg?t=1706791008","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_fb5e9982fd62079dbb487cfa9f37a2b49966ed9a.1920x1080.jpg?t=1706791008"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_d355d990bf468d81c0886f45eed3d31a8d1ec48d.600x338.jpg?t=1706791008","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_d355d990bf468d81c0886f45eed3d31a8d1ec48d.1920x1080.jpg?t=1706791008"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_b6b21ba76c33eb7c1c5e7204addc5fd395dfc78d.600x338.jpg?t=1706791008","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_b6b21ba76c33eb7c1c5e7204addc5fd395dfc78d.1920x1080.jpg?t=1706791008"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_10f1fd9e9becd33d580d35ceded4466e817f577e.600x338.jpg?t=1706791008","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_10f1fd9e9becd33d580d35ceded4466e817f577e.1920x1080.jpg?t=1706791008"},{"id":5,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_d7807545aef6f6872826acd07501984fd2197ef2.600x338.jpg?t=1706791008","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_d7807545aef6f6872826acd07501984fd2197ef2.1920x1080.jpg?t=1706791008"},{"id":6,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_dfdff6774da6b6947c56bdb7f00bd8fadd20a291.600x338.jpg?t=1706791008","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_dfdff6774da6b6947c56bdb7f00bd8fadd20a291.1920x1080.jpg?t=1706791008"}]
-movies: [{"id":256846015,"name":"EMUUROM trailer (Steam version)","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846015/movie.293x165.jpg?t=1628511647","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/256846015/movie480_vp9.webm?t=1628511647","max":"http://video.akamai.steamstatic.com/store_trailers/256846015/movie_max_vp9.webm?t=1628511647"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/256846015/movie480.mp4?t=1628511647","max":"http://video.akamai.steamstatic.com/store_trailers/256846015/movie_max.mp4?t=1628511647"},"highlight":true},{"id":256911060,"name":"EMUUROM story trailer 2022","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911060/movie.293x165.jpg?t=1665840748","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/256911060/movie480_vp9.webm?t=1665840748","max":"http://video.akamai.steamstatic.com/store_trailers/256911060/movie_max_vp9.webm?t=1665840748"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/256911060/movie480.mp4?t=1665840748","max":"http://video.akamai.steamstatic.com/store_trailers/256911060/movie_max.mp4?t=1665840748"},"highlight":true}]
-genres: ["Action","Adventure","Casual","Indie"]
-steam_categories: ["Single-player","Full controller support"]
-platforms: {"windows":true,"mac":true,"linux":true}
-developers: ["borbware"]
-publishers: ["borbware"]
-release_date: {"coming_soon":true,"date":"Coming soon"}
-content_warning: {"ids":[],"notes":null}
-about: "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/enter-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> Jump into the virtual homeworld of creatures known as <i><strong>EMUUROM!</strong></i><br></li><li> Explore a dense, interconnected land brimming with surprises around every corner.</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/scan-kehr.gif?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/chronicle-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> Document your findings in the <i><strong>EMUUDEX</strong></i>.<br></li><li> Encounter unseen EMUUROM, and witness how the tree of life branches out!</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/dextree.gif?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/evolve-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> Study the local wildlife with a data-gathering <i><strong>scanner beam</strong></i>.<br></li><li> Use the scanner to transform the world around you and create new pathways!</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/rainy.gif?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/befriend-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> Cooperate with a cavalcade of creatures and make use of their systemic behaviour to get around!<br></li><li> Some creatures are less willing to help than others...</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/wolfy.gif?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/cancel-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> In the horizon, an approaching comet is getting closer by the minute.<br></li><li> Can you save the EMUUROM before it's too late?</li></ul> <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/scan-const.gif?t=1706791008\" />"
-detailed_description: "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/enter-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> Jump into the virtual homeworld of creatures known as <i><strong>EMUUROM!</strong></i><br></li><li> Explore a dense, interconnected land brimming with surprises around every corner.</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/scan-kehr.gif?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/chronicle-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> Document your findings in the <i><strong>EMUUDEX</strong></i>.<br></li><li> Encounter unseen EMUUROM, and witness how the tree of life branches out!</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/dextree.gif?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/evolve-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> Study the local wildlife with a data-gathering <i><strong>scanner beam</strong></i>.<br></li><li> Use the scanner to transform the world around you and create new pathways!</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/rainy.gif?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/befriend-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> Cooperate with a cavalcade of creatures and make use of their systemic behaviour to get around!<br></li><li> Some creatures are less willing to help than others...</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/wolfy.gif?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/cancel-wide-nobg.png?t=1706791008\" /><br><br><ul class=\"bb_ul\"><li> In the horizon, an approaching comet is getting closer by the minute.<br></li><li> Can you save the EMUUROM before it's too late?</li></ul> <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/scan-const.gif?t=1706791008\" />"
-languages: "English"
-reviews: "“it's literally for the people who go into the journal feature of creatures in games and just spend hours there”<br>CheshireCreeper<br><br>“Emuurom brought me back to the golden age of indie Flash games – it's a beautifully crafted, creative, exploration-focused experience full of secrets and cozy feelings.”<br>5/5 – Samuel “obskyr” Messner<br><br>“The energy of the game is certainly different from other titles. Cozier and inquisitive, it appeals to a more academic mindset that adores the surprise that video games can deliver. It’s a medium that can be anything that you can possibly fathom. Emuurom embodies this at its core”<br>The Visualist's Veranda<br>"
-support_info: {"url":"","email":"borbware@gmail.com"}
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_8d9e786b2364c17e235abeb0ee62d1ef9d24f2f1.600x338.jpg?t=1706791008
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_8d9e786b2364c17e235abeb0ee62d1ef9d24f2f1.1920x1080.jpg?t=1706791008
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_fb5e9982fd62079dbb487cfa9f37a2b49966ed9a.600x338.jpg?t=1706791008
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_fb5e9982fd62079dbb487cfa9f37a2b49966ed9a.1920x1080.jpg?t=1706791008
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_d355d990bf468d81c0886f45eed3d31a8d1ec48d.600x338.jpg?t=1706791008
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_d355d990bf468d81c0886f45eed3d31a8d1ec48d.1920x1080.jpg?t=1706791008
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_b6b21ba76c33eb7c1c5e7204addc5fd395dfc78d.600x338.jpg?t=1706791008
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_b6b21ba76c33eb7c1c5e7204addc5fd395dfc78d.1920x1080.jpg?t=1706791008
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_10f1fd9e9becd33d580d35ceded4466e817f577e.600x338.jpg?t=1706791008
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_10f1fd9e9becd33d580d35ceded4466e817f577e.1920x1080.jpg?t=1706791008
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_d7807545aef6f6872826acd07501984fd2197ef2.600x338.jpg?t=1706791008
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_d7807545aef6f6872826acd07501984fd2197ef2.1920x1080.jpg?t=1706791008
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_dfdff6774da6b6947c56bdb7f00bd8fadd20a291.600x338.jpg?t=1706791008
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/ss_dfdff6774da6b6947c56bdb7f00bd8fadd20a291.1920x1080.jpg?t=1706791008
+movies:
+- id: 256846015
+  name: EMUUROM trailer (Steam version)
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846015/movie.293x165.jpg?t=1628511647
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256846015/movie480_vp9.webm?t=1628511647
+    max: http://video.akamai.steamstatic.com/store_trailers/256846015/movie_max_vp9.webm?t=1628511647
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256846015/movie480.mp4?t=1628511647
+    max: http://video.akamai.steamstatic.com/store_trailers/256846015/movie_max.mp4?t=1628511647
+  highlight: true
+- id: 256911060
+  name: EMUUROM story trailer 2022
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911060/movie.293x165.jpg?t=1665840748
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256911060/movie480_vp9.webm?t=1665840748
+    max: http://video.akamai.steamstatic.com/store_trailers/256911060/movie_max_vp9.webm?t=1665840748
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256911060/movie480.mp4?t=1665840748
+    max: http://video.akamai.steamstatic.com/store_trailers/256911060/movie_max.mp4?t=1665840748
+  highlight: true
+genres:
+- Action
+- Adventure
+- Casual
+- Indie
+steam_categories:
+- Single-player
+- Full controller support
+platforms:
+  windows: true
+  mac: true
+  linux: true
+developers:
+- borbware
+publishers:
+- borbware
+release_date:
+  coming_soon: true
+  date: Coming soon
+content_warning:
+  ids: []
+  notes:
+about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/enter-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> Jump into the virtual homeworld of creatures known
+  as <i><strong>EMUUROM!</strong></i><br></li><li> Explore a dense, interconnected
+  land brimming with surprises around every corner.</li></ul><br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/scan-kehr.gif?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/chronicle-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> Document your findings in the <i><strong>EMUUDEX</strong></i>.<br></li><li>
+  Encounter unseen EMUUROM, and witness how the tree of life branches out!</li></ul><br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/dextree.gif?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/evolve-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> Study the local wildlife with a data-gathering
+  <i><strong>scanner beam</strong></i>.<br></li><li> Use the scanner to transform
+  the world around you and create new pathways!</li></ul><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/rainy.gif?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/befriend-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> Cooperate with a cavalcade of creatures and make
+  use of their systemic behaviour to get around!<br></li><li> Some creatures are less
+  willing to help than others...</li></ul><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/wolfy.gif?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/cancel-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> In the horizon, an approaching comet is getting
+  closer by the minute.<br></li><li> Can you save the EMUUROM before it's too late?</li></ul>
+  <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/scan-const.gif?t=1706791008"
+  />
+detailed_description: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/enter-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> Jump into the virtual homeworld of creatures known
+  as <i><strong>EMUUROM!</strong></i><br></li><li> Explore a dense, interconnected
+  land brimming with surprises around every corner.</li></ul><br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/scan-kehr.gif?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/chronicle-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> Document your findings in the <i><strong>EMUUDEX</strong></i>.<br></li><li>
+  Encounter unseen EMUUROM, and witness how the tree of life branches out!</li></ul><br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/dextree.gif?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/evolve-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> Study the local wildlife with a data-gathering
+  <i><strong>scanner beam</strong></i>.<br></li><li> Use the scanner to transform
+  the world around you and create new pathways!</li></ul><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/rainy.gif?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/befriend-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> Cooperate with a cavalcade of creatures and make
+  use of their systemic behaviour to get around!<br></li><li> Some creatures are less
+  willing to help than others...</li></ul><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/wolfy.gif?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/metähhengget-wide-chonk.svg.png?t=1706791008"
+  /><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/cancel-wide-nobg.png?t=1706791008"
+  /><br><br><ul class="bb_ul"><li> In the horizon, an approaching comet is getting
+  closer by the minute.<br></li><li> Can you save the EMUUROM before it's too late?</li></ul>
+  <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634360/extras/scan-const.gif?t=1706791008"
+  />
+languages: English
+reviews: "“it's literally for the people who go into the journal feature of creatures
+  in games and just spend hours there”<br>CheshireCreeper<br><br>“Emuurom brought
+  me back to the golden age of indie Flash games – it's a beautifully crafted, creative,
+  exploration-focused experience full of secrets and cozy feelings.”<br>5/5 – Samuel
+  “obskyr” Messner<br><br>“The energy of the game is certainly different from other
+  titles. Cozier and inquisitive, it appeals to a more academic mindset that adores
+  the surprise that video games can deliver. It’s a medium that can be anything that
+  you can possibly fathom. Emuurom embodies this at its core”<br>The Visualist's Veranda<br>"
+support_info:
+  url: ''
+  email: borbware@gmail.com
+tags:
+- action
+- adventure
+- casual
 ---
 

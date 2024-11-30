@@ -1,0 +1,8 @@
+---
+title: Nominees - Strategy
+permalink: /nominees/strategy
+layout: default
+---
+
+{% assign gamelist = site.games | where_exp: "item", "item.tags contains 'strategy'" | sort: 'featured', 'last' %}
+{% include gamelist.html %}

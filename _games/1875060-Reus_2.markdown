@@ -1,23 +1,136 @@
 ---
-title: "Reus 2"
-description: "Shape worlds with your godly titans. Make symbiotic ecosystems and inspire humanity with your creations. Their achievements unlock new possibilities. Make different planets for different human spirits, and fill the universe with life!"
-image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/header.jpg?t=1732720987"
-capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/8cbfb6eb800d81f97d72b7ea887da607d70eabb5/capsule_231x87.jpg?t=1732720987"
+title: Reus 2
+description: Shape worlds with your godly titans. Make symbiotic ecosystems and inspire
+  humanity with your creations. Their achievements unlock new possibilities. Make
+  different planets for different human spirits, and fill the universe with life!
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/header.jpg?t=1732720987
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/8cbfb6eb800d81f97d72b7ea887da607d70eabb5/capsule_231x87.jpg?t=1732720987
 categories: game
 steamid: 1875060
-screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_96779e4b5d25579294a6db9a733e0c0b977c773e.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_96779e4b5d25579294a6db9a733e0c0b977c773e.1920x1080.jpg?t=1732720987"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_98bfe72c1f49c00f337c841ad034cbf5ba497c48.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_98bfe72c1f49c00f337c841ad034cbf5ba497c48.1920x1080.jpg?t=1732720987"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_6df15484ccb945174ead2556e309b2e5ebcc93d7.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_6df15484ccb945174ead2556e309b2e5ebcc93d7.1920x1080.jpg?t=1732720987"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_97361f210a085ad629c0c041ee43224cbe9ff03c.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_97361f210a085ad629c0c041ee43224cbe9ff03c.1920x1080.jpg?t=1732720987"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_b92be11895576aa05e72b0800d08e9c4313e7a34.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_b92be11895576aa05e72b0800d08e9c4313e7a34.1920x1080.jpg?t=1732720987"},{"id":5,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_dadaf870ae5595c2831f0f86b350f86f041be7fc.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_dadaf870ae5595c2831f0f86b350f86f041be7fc.1920x1080.jpg?t=1732720987"},{"id":6,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_099121512f998e53753ff8aac13939494eb30381.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_099121512f998e53753ff8aac13939494eb30381.1920x1080.jpg?t=1732720987"},{"id":7,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_877bb429d25712425515e2fbdcf5a9b77fe914e4.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_877bb429d25712425515e2fbdcf5a9b77fe914e4.1920x1080.jpg?t=1732720987"},{"id":8,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_987f5172e75853466bbf4d70b7858d4b73579f88.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_987f5172e75853466bbf4d70b7858d4b73579f88.1920x1080.jpg?t=1732720987"},{"id":9,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_f7ec565f93b298704c1ac19732510e9ea1b95b5c.600x338.jpg?t=1732720987","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_f7ec565f93b298704c1ac19732510e9ea1b95b5c.1920x1080.jpg?t=1732720987"}]
-movies: [{"id":257026174,"name":"Reus 2 Release Trailer","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026174/movie.293x165.jpg?t=1716903181","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/257026174/movie480_vp9.webm?t=1716903181","max":"http://video.akamai.steamstatic.com/store_trailers/257026174/movie_max_vp9.webm?t=1716903181"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/257026174/movie480.mp4?t=1716903181","max":"http://video.akamai.steamstatic.com/store_trailers/257026174/movie_max.mp4?t=1716903181"},"highlight":true}]
-genres: ["Indie","Simulation","Strategy"]
-steam_categories: ["Single-player","Steam Achievements","Steam Cloud","Family Sharing"]
-platforms: {"windows":true,"mac":false,"linux":false}
-developers: ["Abbey Games"]
-publishers: ["Firesquid"]
-release_date: {"coming_soon":false,"date":"28 May, 2024"}
-content_warning: {"ids":[],"notes":null}
-about: "Become a God once again in <strong>Reus 2</strong> by taking control of mighty giants whose command over their elements allows you to shape worlds, create an ecosystem of resources and enable human civilizations to thrive. Your choices will determine the fates of these fragile human beings, whose autonomy may lead them to great heights.<h2 class=\"bb_tag\">Shape worlds with Giants</h2> <img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_1.gif?t=1732720987\" /><br><br>Utilize a roster of <strong>6 powerful Giants</strong>, each with their own unique abilities over plants, animals and minerals that will allow you to create new biomes for humans to settle their villages. As you progress, gain inspiration to unlock more skills for your Giants, providing you with a diversity of choices.<h2 class=\"bb_tag\">Create thriving ecosystems</h2> <img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_2.gif?t=1732720987\" /><br><br>Terraform a variety of biomes, strategically build up different combinations of flora, fauna and materials specific to those environments. By experimenting, discover which combinations create the best synergies for the inhabitants' needs and goals, leading you into exciting new eras of their existence.<h2 class=\"bb_tag\">Lead humanity into the future</h2> <img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_3.gif?t=1732720987\" /><br><br>Shape the development of humanity with your choices as they evolve from early human societies to modern civilizations. Whether it's travelling to the stars as space explorers, starting a cult or wishing to cultivate nature, they will all have their goals. No matter the outcome, remember, you can always start a new humanity.<h2 class=\"bb_tag\">Fill a galaxy with life</h2><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/REUS2-GIF4-Update.gif?t=1732720987\" /><br><br>Each playthrough leaves a lasting legacy in the stars by generating a new planet for you to experiment with. Fill the galaxy with endless variations of life and be inspired to take a new path with your next creation.<br><br><strong>This game is supported by Creative Industries Fund NL</strong>"
-detailed_description: "<h1>Roadmap</h1><p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/REUS2_RoadMap05Vertical_Variation1_2025__1_.jpg?t=1732720987\" /></p></p><br><h1>About the Game</h1>Become a God once again in <strong>Reus 2</strong> by taking control of mighty giants whose command over their elements allows you to shape worlds, create an ecosystem of resources and enable human civilizations to thrive. Your choices will determine the fates of these fragile human beings, whose autonomy may lead them to great heights.<h2 class=\"bb_tag\">Shape worlds with Giants</h2> <img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_1.gif?t=1732720987\" /><br><br>Utilize a roster of <strong>6 powerful Giants</strong>, each with their own unique abilities over plants, animals and minerals that will allow you to create new biomes for humans to settle their villages. As you progress, gain inspiration to unlock more skills for your Giants, providing you with a diversity of choices.<h2 class=\"bb_tag\">Create thriving ecosystems</h2> <img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_2.gif?t=1732720987\" /><br><br>Terraform a variety of biomes, strategically build up different combinations of flora, fauna and materials specific to those environments. By experimenting, discover which combinations create the best synergies for the inhabitants' needs and goals, leading you into exciting new eras of their existence.<h2 class=\"bb_tag\">Lead humanity into the future</h2> <img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_3.gif?t=1732720987\" /><br><br>Shape the development of humanity with your choices as they evolve from early human societies to modern civilizations. Whether it's travelling to the stars as space explorers, starting a cult or wishing to cultivate nature, they will all have their goals. No matter the outcome, remember, you can always start a new humanity.<h2 class=\"bb_tag\">Fill a galaxy with life</h2><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/REUS2-GIF4-Update.gif?t=1732720987\" /><br><br>Each playthrough leaves a lasting legacy in the stars by generating a new planet for you to experiment with. Fill the galaxy with endless variations of life and be inspired to take a new path with your next creation.<br><br><strong>This game is supported by Creative Industries Fund NL</strong>"
-languages: "English, Simplified Chinese, French, German, Spanish - Spain, Portuguese - Brazil"
-reviews: null
-support_info: {"url":"https://firesquid.games/games/reus-2","email":"reus@firesquid.fr"}
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_96779e4b5d25579294a6db9a733e0c0b977c773e.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_96779e4b5d25579294a6db9a733e0c0b977c773e.1920x1080.jpg?t=1732720987
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_98bfe72c1f49c00f337c841ad034cbf5ba497c48.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_98bfe72c1f49c00f337c841ad034cbf5ba497c48.1920x1080.jpg?t=1732720987
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_6df15484ccb945174ead2556e309b2e5ebcc93d7.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_6df15484ccb945174ead2556e309b2e5ebcc93d7.1920x1080.jpg?t=1732720987
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_97361f210a085ad629c0c041ee43224cbe9ff03c.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_97361f210a085ad629c0c041ee43224cbe9ff03c.1920x1080.jpg?t=1732720987
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_b92be11895576aa05e72b0800d08e9c4313e7a34.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_b92be11895576aa05e72b0800d08e9c4313e7a34.1920x1080.jpg?t=1732720987
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_dadaf870ae5595c2831f0f86b350f86f041be7fc.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_dadaf870ae5595c2831f0f86b350f86f041be7fc.1920x1080.jpg?t=1732720987
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_099121512f998e53753ff8aac13939494eb30381.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_099121512f998e53753ff8aac13939494eb30381.1920x1080.jpg?t=1732720987
+- id: 7
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_877bb429d25712425515e2fbdcf5a9b77fe914e4.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_877bb429d25712425515e2fbdcf5a9b77fe914e4.1920x1080.jpg?t=1732720987
+- id: 8
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_987f5172e75853466bbf4d70b7858d4b73579f88.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_987f5172e75853466bbf4d70b7858d4b73579f88.1920x1080.jpg?t=1732720987
+- id: 9
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_f7ec565f93b298704c1ac19732510e9ea1b95b5c.600x338.jpg?t=1732720987
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/ss_f7ec565f93b298704c1ac19732510e9ea1b95b5c.1920x1080.jpg?t=1732720987
+movies:
+- id: 257026174
+  name: Reus 2 Release Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026174/movie.293x165.jpg?t=1716903181
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257026174/movie480_vp9.webm?t=1716903181
+    max: http://video.akamai.steamstatic.com/store_trailers/257026174/movie_max_vp9.webm?t=1716903181
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257026174/movie480.mp4?t=1716903181
+    max: http://video.akamai.steamstatic.com/store_trailers/257026174/movie_max.mp4?t=1716903181
+  highlight: true
+genres:
+- Indie
+- Simulation
+- Strategy
+steam_categories:
+- Single-player
+- Steam Achievements
+- Steam Cloud
+- Family Sharing
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- Abbey Games
+publishers:
+- Firesquid
+release_date:
+  coming_soon: false
+  date: 28 May, 2024
+content_warning:
+  ids: []
+  notes:
+about: Become a God once again in <strong>Reus 2</strong> by taking control of mighty
+  giants whose command over their elements allows you to shape worlds, create an ecosystem
+  of resources and enable human civilizations to thrive. Your choices will determine
+  the fates of these fragile human beings, whose autonomy may lead them to great heights.<h2
+  class="bb_tag">Shape worlds with Giants</h2> <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_1.gif?t=1732720987"
+  /><br><br>Utilize a roster of <strong>6 powerful Giants</strong>, each with their
+  own unique abilities over plants, animals and minerals that will allow you to create
+  new biomes for humans to settle their villages. As you progress, gain inspiration
+  to unlock more skills for your Giants, providing you with a diversity of choices.<h2
+  class="bb_tag">Create thriving ecosystems</h2> <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_2.gif?t=1732720987"
+  /><br><br>Terraform a variety of biomes, strategically build up different combinations
+  of flora, fauna and materials specific to those environments. By experimenting,
+  discover which combinations create the best synergies for the inhabitants' needs
+  and goals, leading you into exciting new eras of their existence.<h2 class="bb_tag">Lead
+  humanity into the future</h2> <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_3.gif?t=1732720987"
+  /><br><br>Shape the development of humanity with your choices as they evolve from
+  early human societies to modern civilizations. Whether it's travelling to the stars
+  as space explorers, starting a cult or wishing to cultivate nature, they will all
+  have their goals. No matter the outcome, remember, you can always start a new humanity.<h2
+  class="bb_tag">Fill a galaxy with life</h2><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/REUS2-GIF4-Update.gif?t=1732720987"
+  /><br><br>Each playthrough leaves a lasting legacy in the stars by generating a
+  new planet for you to experiment with. Fill the galaxy with endless variations of
+  life and be inspired to take a new path with your next creation.<br><br><strong>This
+  game is supported by Creative Industries Fund NL</strong>
+detailed_description: <h1>Roadmap</h1><p><p class="bb_paragraph"><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/REUS2_RoadMap05Vertical_Variation1_2025__1_.jpg?t=1732720987"
+  /></p></p><br><h1>About the Game</h1>Become a God once again in <strong>Reus 2</strong>
+  by taking control of mighty giants whose command over their elements allows you
+  to shape worlds, create an ecosystem of resources and enable human civilizations
+  to thrive. Your choices will determine the fates of these fragile human beings,
+  whose autonomy may lead them to great heights.<h2 class="bb_tag">Shape worlds with
+  Giants</h2> <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_1.gif?t=1732720987"
+  /><br><br>Utilize a roster of <strong>6 powerful Giants</strong>, each with their
+  own unique abilities over plants, animals and minerals that will allow you to create
+  new biomes for humans to settle their villages. As you progress, gain inspiration
+  to unlock more skills for your Giants, providing you with a diversity of choices.<h2
+  class="bb_tag">Create thriving ecosystems</h2> <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_2.gif?t=1732720987"
+  /><br><br>Terraform a variety of biomes, strategically build up different combinations
+  of flora, fauna and materials specific to those environments. By experimenting,
+  discover which combinations create the best synergies for the inhabitants' needs
+  and goals, leading you into exciting new eras of their existence.<h2 class="bb_tag">Lead
+  humanity into the future</h2> <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/GIF_3.gif?t=1732720987"
+  /><br><br>Shape the development of humanity with your choices as they evolve from
+  early human societies to modern civilizations. Whether it's travelling to the stars
+  as space explorers, starting a cult or wishing to cultivate nature, they will all
+  have their goals. No matter the outcome, remember, you can always start a new humanity.<h2
+  class="bb_tag">Fill a galaxy with life</h2><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875060/extras/REUS2-GIF4-Update.gif?t=1732720987"
+  /><br><br>Each playthrough leaves a lasting legacy in the stars by generating a
+  new planet for you to experiment with. Fill the galaxy with endless variations of
+  life and be inspired to take a new path with your next creation.<br><br><strong>This
+  game is supported by Creative Industries Fund NL</strong>
+languages: English, Simplified Chinese, French, German, Spanish - Spain, Portuguese
+  - Brazil
+reviews:
+support_info:
+  url: https://firesquid.games/games/reus-2
+  email: reus@firesquid.fr
+tags:
+- simulation
+- strategy
 ---
 

@@ -1,0 +1,8 @@
+---
+title: Nominees - Released
+permalink: /nominees/released
+layout: default
+---
+
+{% assign gamelist = site.games | where_exp: "item", "item.release_date.coming_soon == false" | sort: 'featured', 'last' %}
+{% include gamelist.html %}

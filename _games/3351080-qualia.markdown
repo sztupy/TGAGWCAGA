@@ -1,23 +1,119 @@
 ---
-title: "qualia"
-description: "Intellica thanks you for volunteering in this short text-based AMT study. Pay attention to the participants answers, and classify them as either Human or Artificial. Remember, think happy!"
-image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/header.jpg?t=1732299039"
-capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/efcf3889870b0bde4b4b7ed00a83d643ac0027fd/capsule_231x87.jpg?t=1732299039"
+title: qualia
+description: Intellica thanks you for volunteering in this short text-based AMT study.
+  Pay attention to the participants answers, and classify them as either Human or
+  Artificial. Remember, think happy!
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/header.jpg?t=1732299039
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/efcf3889870b0bde4b4b7ed00a83d643ac0027fd/capsule_231x87.jpg?t=1732299039
 categories: game
 steamid: 3351080
-screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_89d74e34b1683475317a328697ecf8208af766f7.600x338.jpg?t=1732299039","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_89d74e34b1683475317a328697ecf8208af766f7.1920x1080.jpg?t=1732299039"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_26137f4adc6001f80704fad6ccd2e5f967c78ce0.600x338.jpg?t=1732299039","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_26137f4adc6001f80704fad6ccd2e5f967c78ce0.1920x1080.jpg?t=1732299039"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_2f449f1eb55153e16d657499301ad01189b1345d.600x338.jpg?t=1732299039","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_2f449f1eb55153e16d657499301ad01189b1345d.1920x1080.jpg?t=1732299039"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_24480e47fc8e187f95e870b6e35c90f5fdc98f23.600x338.jpg?t=1732299039","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_24480e47fc8e187f95e870b6e35c90f5fdc98f23.1920x1080.jpg?t=1732299039"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_88d12a19fd98b77a58c7a104b1a900b5998eea82.600x338.jpg?t=1732299039","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_88d12a19fd98b77a58c7a104b1a900b5998eea82.1920x1080.jpg?t=1732299039"},{"id":5,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_7aab180f58e80811124aa0794de18ef8c00b5890.600x338.jpg?t=1732299039","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_7aab180f58e80811124aa0794de18ef8c00b5890.1920x1080.jpg?t=1732299039"},{"id":6,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_0f5211eb8610eeb5f60bc6d647f27aa9b06a3db5.600x338.jpg?t=1732299039","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_0f5211eb8610eeb5f60bc6d647f27aa9b06a3db5.1920x1080.jpg?t=1732299039"},{"id":7,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_cca59351bbbd96013dd1f6fe16cf8e6cfaa79aa3.600x338.jpg?t=1732299039","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_cca59351bbbd96013dd1f6fe16cf8e6cfaa79aa3.1920x1080.jpg?t=1732299039"}]
-movies: [{"id":257075655,"name":"Teaser","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075655/1e45c0b9ae7ff259b0e4783a7ce419d4d64385b4/movie_600x337.jpg?t=1732299032","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/257075655/movie480_vp9.webm?t=1732299032","max":"http://video.akamai.steamstatic.com/store_trailers/257075655/movie_max_vp9.webm?t=1732299032"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/257075655/movie480.mp4?t=1732299032","max":"http://video.akamai.steamstatic.com/store_trailers/257075655/movie_max.mp4?t=1732299032"},"highlight":true}]
-genres: ["Indie","Free To Play"]
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_89d74e34b1683475317a328697ecf8208af766f7.600x338.jpg?t=1732299039
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_89d74e34b1683475317a328697ecf8208af766f7.1920x1080.jpg?t=1732299039
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_26137f4adc6001f80704fad6ccd2e5f967c78ce0.600x338.jpg?t=1732299039
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_26137f4adc6001f80704fad6ccd2e5f967c78ce0.1920x1080.jpg?t=1732299039
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_2f449f1eb55153e16d657499301ad01189b1345d.600x338.jpg?t=1732299039
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_2f449f1eb55153e16d657499301ad01189b1345d.1920x1080.jpg?t=1732299039
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_24480e47fc8e187f95e870b6e35c90f5fdc98f23.600x338.jpg?t=1732299039
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_24480e47fc8e187f95e870b6e35c90f5fdc98f23.1920x1080.jpg?t=1732299039
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_88d12a19fd98b77a58c7a104b1a900b5998eea82.600x338.jpg?t=1732299039
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_88d12a19fd98b77a58c7a104b1a900b5998eea82.1920x1080.jpg?t=1732299039
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_7aab180f58e80811124aa0794de18ef8c00b5890.600x338.jpg?t=1732299039
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_7aab180f58e80811124aa0794de18ef8c00b5890.1920x1080.jpg?t=1732299039
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_0f5211eb8610eeb5f60bc6d647f27aa9b06a3db5.600x338.jpg?t=1732299039
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_0f5211eb8610eeb5f60bc6d647f27aa9b06a3db5.1920x1080.jpg?t=1732299039
+- id: 7
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_cca59351bbbd96013dd1f6fe16cf8e6cfaa79aa3.600x338.jpg?t=1732299039
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351080/ss_cca59351bbbd96013dd1f6fe16cf8e6cfaa79aa3.1920x1080.jpg?t=1732299039
+movies:
+- id: 257075655
+  name: Teaser
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075655/1e45c0b9ae7ff259b0e4783a7ce419d4d64385b4/movie_600x337.jpg?t=1732299032
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257075655/movie480_vp9.webm?t=1732299032
+    max: http://video.akamai.steamstatic.com/store_trailers/257075655/movie_max_vp9.webm?t=1732299032
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257075655/movie480.mp4?t=1732299032
+    max: http://video.akamai.steamstatic.com/store_trailers/257075655/movie_max.mp4?t=1732299032
+  highlight: true
+genres:
+- Indie
+- Free To Play
 steam_categories: []
-platforms: {"windows":true,"mac":false,"linux":false}
-developers: ["CMY2K"]
-publishers: ["CMY2K"]
-release_date: {"coming_soon":true,"date":"Coming soon"}
-content_warning: {"ids":[5],"notes":"Mature philosophical and existential themes, suicidal ideation, abuse and death of a computer program"}
-about: "<p class=\"bb_paragraph\">We greatly appreciate your participation in Intellica's research. Our team is dedicated to developing and deploying the most intelligent artificial algorithms in the machine learning field, but we like to call them our Friends. </p><p class=\"bb_paragraph\"> </p><p class=\"bb_paragraph\">Today we’ve brought you in as a volunteer participant in our newest adapted study. You may be familiar with <strong>The Chinese Room</strong>, as well as <strong>The Turing Test</strong>. This study will run similarly.</p><p class=\"bb_paragraph\"> </p><p class=\"bb_paragraph\">You have been anonymously selected to play the role of <strong>the Evaluator</strong>. You will be tasked with providing a predetermined question to two other anonymous participants. You will then note their responses to each question based on how <strong>Human</strong> or <strong>Artificial</strong> you deem them to be, to the best of your ability. For the test to provide valuable insight into machine intelligence, you (the Evaluator) must not know which, if any, conversational participant is a machine.</p><p class=\"bb_paragraph\">It’s important to note <strong>the A.M.T.</strong> <strong>Study</strong> is not a measurement of intelligence, but a questionnaire designed to determine the ability of an AI to be able to convincingly appear as a human. It is up to you to decide whether or not the participants are <strong>Human</strong> or <strong>Artificial</strong>. We recommend judging the answers to each question based on:</p><p class=\"bb_paragraph\">⦿ Creativity</p><p class=\"bb_paragraph\">⦿ Empathy</p><p class=\"bb_paragraph\">⦿ Natural language use</p><p class=\"bb_paragraph\">⦿ Ethical considerations</p><p class=\"bb_paragraph\">⦿ Relevance</p><p class=\"bb_paragraph\">You may begin <strong>the A.M.T. Study</strong> when you are ready.</p>"
-detailed_description: "<p class=\"bb_paragraph\">We greatly appreciate your participation in Intellica's research. Our team is dedicated to developing and deploying the most intelligent artificial algorithms in the machine learning field, but we like to call them our Friends. </p><p class=\"bb_paragraph\"> </p><p class=\"bb_paragraph\">Today we’ve brought you in as a volunteer participant in our newest adapted study. You may be familiar with <strong>The Chinese Room</strong>, as well as <strong>The Turing Test</strong>. This study will run similarly.</p><p class=\"bb_paragraph\"> </p><p class=\"bb_paragraph\">You have been anonymously selected to play the role of <strong>the Evaluator</strong>. You will be tasked with providing a predetermined question to two other anonymous participants. You will then note their responses to each question based on how <strong>Human</strong> or <strong>Artificial</strong> you deem them to be, to the best of your ability. For the test to provide valuable insight into machine intelligence, you (the Evaluator) must not know which, if any, conversational participant is a machine.</p><p class=\"bb_paragraph\">It’s important to note <strong>the A.M.T.</strong> <strong>Study</strong> is not a measurement of intelligence, but a questionnaire designed to determine the ability of an AI to be able to convincingly appear as a human. It is up to you to decide whether or not the participants are <strong>Human</strong> or <strong>Artificial</strong>. We recommend judging the answers to each question based on:</p><p class=\"bb_paragraph\">⦿ Creativity</p><p class=\"bb_paragraph\">⦿ Empathy</p><p class=\"bb_paragraph\">⦿ Natural language use</p><p class=\"bb_paragraph\">⦿ Ethical considerations</p><p class=\"bb_paragraph\">⦿ Relevance</p><p class=\"bb_paragraph\">You may begin <strong>the A.M.T. Study</strong> when you are ready.</p>"
-languages: "English"
-reviews: null
-support_info: {"url":"","email":"heycmy2k@gmail.com"}
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- CMY2K
+publishers:
+- CMY2K
+release_date:
+  coming_soon: true
+  date: Coming soon
+content_warning:
+  ids:
+  - 5
+  notes: Mature philosophical and existential themes, suicidal ideation, abuse and
+    death of a computer program
+about: <p class="bb_paragraph">We greatly appreciate your participation in Intellica's
+  research. Our team is dedicated to developing and deploying the most intelligent
+  artificial algorithms in the machine learning field, but we like to call them our
+  Friends. </p><p class="bb_paragraph"> </p><p class="bb_paragraph">Today we’ve brought
+  you in as a volunteer participant in our newest adapted study. You may be familiar
+  with <strong>The Chinese Room</strong>, as well as <strong>The Turing Test</strong>.
+  This study will run similarly.</p><p class="bb_paragraph"> </p><p class="bb_paragraph">You
+  have been anonymously selected to play the role of <strong>the Evaluator</strong>.
+  You will be tasked with providing a predetermined question to two other anonymous
+  participants. You will then note their responses to each question based on how <strong>Human</strong>
+  or <strong>Artificial</strong> you deem them to be, to the best of your ability.
+  For the test to provide valuable insight into machine intelligence, you (the Evaluator)
+  must not know which, if any, conversational participant is a machine.</p><p class="bb_paragraph">It’s
+  important to note <strong>the A.M.T.</strong> <strong>Study</strong> is not a measurement
+  of intelligence, but a questionnaire designed to determine the ability of an AI
+  to be able to convincingly appear as a human. It is up to you to decide whether
+  or not the participants are <strong>Human</strong> or <strong>Artificial</strong>.
+  We recommend judging the answers to each question based on:</p><p class="bb_paragraph">⦿
+  Creativity</p><p class="bb_paragraph">⦿ Empathy</p><p class="bb_paragraph">⦿ Natural
+  language use</p><p class="bb_paragraph">⦿ Ethical considerations</p><p class="bb_paragraph">⦿
+  Relevance</p><p class="bb_paragraph">You may begin <strong>the A.M.T. Study</strong>
+  when you are ready.</p>
+detailed_description: <p class="bb_paragraph">We greatly appreciate your participation
+  in Intellica's research. Our team is dedicated to developing and deploying the most
+  intelligent artificial algorithms in the machine learning field, but we like to
+  call them our Friends. </p><p class="bb_paragraph"> </p><p class="bb_paragraph">Today
+  we’ve brought you in as a volunteer participant in our newest adapted study. You
+  may be familiar with <strong>The Chinese Room</strong>, as well as <strong>The Turing
+  Test</strong>. This study will run similarly.</p><p class="bb_paragraph"> </p><p
+  class="bb_paragraph">You have been anonymously selected to play the role of <strong>the
+  Evaluator</strong>. You will be tasked with providing a predetermined question to
+  two other anonymous participants. You will then note their responses to each question
+  based on how <strong>Human</strong> or <strong>Artificial</strong> you deem them
+  to be, to the best of your ability. For the test to provide valuable insight into
+  machine intelligence, you (the Evaluator) must not know which, if any, conversational
+  participant is a machine.</p><p class="bb_paragraph">It’s important to note <strong>the
+  A.M.T.</strong> <strong>Study</strong> is not a measurement of intelligence, but
+  a questionnaire designed to determine the ability of an AI to be able to convincingly
+  appear as a human. It is up to you to decide whether or not the participants are
+  <strong>Human</strong> or <strong>Artificial</strong>. We recommend judging the
+  answers to each question based on:</p><p class="bb_paragraph">⦿ Creativity</p><p
+  class="bb_paragraph">⦿ Empathy</p><p class="bb_paragraph">⦿ Natural language use</p><p
+  class="bb_paragraph">⦿ Ethical considerations</p><p class="bb_paragraph">⦿ Relevance</p><p
+  class="bb_paragraph">You may begin <strong>the A.M.T. Study</strong> when you are
+  ready.</p>
+languages: English
+reviews:
+support_info:
+  url: ''
+  email: heycmy2k@gmail.com
+tags:
+- unspecified
 ---
 

@@ -1,23 +1,205 @@
 ---
-title: "Été"
-description: "Été (summer) is a relaxing painting game set in Montréal. Color the city to explore, create artworks on canvas, collect stamps in your album, decorate your studio, fulfill commissions from your neighbors, and unleash your inner artist!"
-image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/header.jpg?t=1731731430"
-capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/capsule_231x87.jpg?t=1731731430"
+title: Été
+description: Été (summer) is a relaxing painting game set in Montréal. Color the city
+  to explore, create artworks on canvas, collect stamps in your album, decorate your
+  studio, fulfill commissions from your neighbors, and unleash your inner artist!
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/header.jpg?t=1731731430
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/capsule_231x87.jpg?t=1731731430
 categories: game
 steamid: 1065070
-screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_76165479732e4b6d9575d43f0d41b5b215fcab87.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_76165479732e4b6d9575d43f0d41b5b215fcab87.1920x1080.jpg?t=1731731430"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_5f988403189bba1098d511de4c01a38a1e4375ee.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_5f988403189bba1098d511de4c01a38a1e4375ee.1920x1080.jpg?t=1731731430"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_88cf7ff7547446d8bb41fb2aa112b191dbb31c2a.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_88cf7ff7547446d8bb41fb2aa112b191dbb31c2a.1920x1080.jpg?t=1731731430"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_77f01fe2e8398c2f7600c6c7b39351f1e49643cd.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_77f01fe2e8398c2f7600c6c7b39351f1e49643cd.1920x1080.jpg?t=1731731430"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_632ff0dd2e0554b19518891197347b4c588b66a3.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_632ff0dd2e0554b19518891197347b4c588b66a3.1920x1080.jpg?t=1731731430"},{"id":5,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_9fa180b39841cbc1d84872b5583b8fe9f45eac68.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_9fa180b39841cbc1d84872b5583b8fe9f45eac68.1920x1080.jpg?t=1731731430"},{"id":6,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_a40b834fd19a1b937032200bdb965b3a78c8ee56.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_a40b834fd19a1b937032200bdb965b3a78c8ee56.1920x1080.jpg?t=1731731430"},{"id":7,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_e251afacf3303bd09a041f39439bad5c9cae45ca.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_e251afacf3303bd09a041f39439bad5c9cae45ca.1920x1080.jpg?t=1731731430"},{"id":8,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_f1effc3437b082b8ef56c63f955bbbb8c393e3d4.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_f1effc3437b082b8ef56c63f955bbbb8c393e3d4.1920x1080.jpg?t=1731731430"},{"id":9,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_e67a55b0870aa1cf3f61943149f6cffcb2665b3f.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_e67a55b0870aa1cf3f61943149f6cffcb2665b3f.1920x1080.jpg?t=1731731430"},{"id":10,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_edfa42e8ac2be9da6bf0dba7499e42c87f201fa4.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_edfa42e8ac2be9da6bf0dba7499e42c87f201fa4.1920x1080.jpg?t=1731731430"},{"id":11,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_14b3b47de01610999cbecd0225402c07c9c01fd3.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_14b3b47de01610999cbecd0225402c07c9c01fd3.1920x1080.jpg?t=1731731430"},{"id":12,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_b3c10dc1cbbf263ffa1d549060542049f1488d16.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_b3c10dc1cbbf263ffa1d549060542049f1488d16.1920x1080.jpg?t=1731731430"},{"id":13,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_659c9e81ad120e1e744aead006c82fcfb3f1c781.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_659c9e81ad120e1e744aead006c82fcfb3f1c781.1920x1080.jpg?t=1731731430"},{"id":14,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_46d606ee50f9b9b5120cc051db617b1ec37d5959.600x338.jpg?t=1731731430","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_46d606ee50f9b9b5120cc051db617b1ec37d5959.1920x1080.jpg?t=1731731430"}]
-movies: [{"id":257029496,"name":"Été - Launch Trailer","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029496/movie.293x165.jpg?t=1717864774","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/257029496/movie480_vp9.webm?t=1717864774","max":"http://video.akamai.steamstatic.com/store_trailers/257029496/movie_max_vp9.webm?t=1717864774"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/257029496/movie480.mp4?t=1717864774","max":"http://video.akamai.steamstatic.com/store_trailers/257029496/movie_max.mp4?t=1717864774"},"highlight":true},{"id":256947481,"name":"Été - Teaser Trailer","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947481/movie.293x165.jpg?t=1684338313","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/256947481/movie480_vp9.webm?t=1684338313","max":"http://video.akamai.steamstatic.com/store_trailers/256947481/movie_max_vp9.webm?t=1684338313"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/256947481/movie480.mp4?t=1684338313","max":"http://video.akamai.steamstatic.com/store_trailers/256947481/movie_max.mp4?t=1684338313"},"highlight":true}]
-genres: ["Adventure","Casual","Indie","RPG"]
-steam_categories: ["Single-player","Partial Controller Support","Steam Cloud","Family Sharing"]
-platforms: {"windows":true,"mac":false,"linux":false}
-developers: ["Impossible"]
-publishers: ["Impossible"]
-release_date: {"coming_soon":false,"date":"23 Jul, 2024"}
-content_warning: {"ids":[],"notes":null}
-about: "<strong>Été</strong> [pronounced /ay·tay/, French for &quot;summer&quot;] is a relaxing painting game made for people who love exploration and creativity. Step into the shoes of a budding painter who travels abroad to Montreal for a summer. Unleash color with your paintbrush to freely explore the city and capture its everyday wonders on canvas. Befriend locals by fulfilling their inspiring commissions or prepare an original expo in your very own art studio.<br><br><strong>Features:</strong><h2 class=\"bb_tag\"><strong>Explore</strong> Montreal in the summer</h2>Use gorgeous watercolor to paint the world in 3D and reveal its wonders. Roam around peaceful open city scenes and bring them to life by filling them with color.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Exploration.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Collect</strong> ideas for your album</h2>Everything you discover while exploring — from flowers to birds — is added to your album, an ever-growing compendium of stamps that you can then mix and match in your artworks. <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Album.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Create</strong> artworks on canvas</h2>Create gorgeous 2D watercolor artworks effortlessly with Été's unique canvas system. Any stamp collected in your album can be added to your composition, moved, resized, recolored, and even spun around in 3D!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Canvas.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Show off</strong> your talent</h2>Some NPCs will commission you with inspiring requests for specific artworks, but you're also free to paint as many unrestricted creative artworks as you like. Those artworks can then be hung on your walls or auctioned at the local café... and maybe, if you get famous enough, be exhibited in your very own exposition.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Gallery.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Decorate</strong> your studio and your apartment</h2>Build your ideal creative nook by collecting furniture and arranging it your way with Été's flexible decoration system. Decorations can be placed precisely where you want them, combined into complex set pieces, and even recolored!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Decoration.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Mix</strong> your own colors</h2>Find rare pigment collectibles hidden throughout the city to mix new dyes for your artworks and decorations.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Progression.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Befriend</strong> the neighbours</h2>Meet dozens of locals with colorful personalities as you get acquainted with your new city. Some of your neighbours will have paid commissions for you to fulfill, while others will tend to unique shops that let you spend your hard-earned money on decorations.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Story.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Relax</strong> and smell the flowers</h2>Été is a deeply relaxing game with no failure and no pressure. There is no time limit, no wrong way to paint and no order in which to explore or complete quests. Take things at your own pace and let your worries go as you immerse in your new life as the friendly neighborhood painter.<br><br><i>Été is a labor of love from Impossible, a small &amp; diverse team of indies based in Montréal.</i>"
-detailed_description: "<strong>Été</strong> [pronounced /ay·tay/, French for &quot;summer&quot;] is a relaxing painting game made for people who love exploration and creativity. Step into the shoes of a budding painter who travels abroad to Montreal for a summer. Unleash color with your paintbrush to freely explore the city and capture its everyday wonders on canvas. Befriend locals by fulfilling their inspiring commissions or prepare an original expo in your very own art studio.<br><br><strong>Features:</strong><h2 class=\"bb_tag\"><strong>Explore</strong> Montreal in the summer</h2>Use gorgeous watercolor to paint the world in 3D and reveal its wonders. Roam around peaceful open city scenes and bring them to life by filling them with color.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Exploration.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Collect</strong> ideas for your album</h2>Everything you discover while exploring — from flowers to birds — is added to your album, an ever-growing compendium of stamps that you can then mix and match in your artworks. <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Album.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Create</strong> artworks on canvas</h2>Create gorgeous 2D watercolor artworks effortlessly with Été's unique canvas system. Any stamp collected in your album can be added to your composition, moved, resized, recolored, and even spun around in 3D!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Canvas.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Show off</strong> your talent</h2>Some NPCs will commission you with inspiring requests for specific artworks, but you're also free to paint as many unrestricted creative artworks as you like. Those artworks can then be hung on your walls or auctioned at the local café... and maybe, if you get famous enough, be exhibited in your very own exposition.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Gallery.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Decorate</strong> your studio and your apartment</h2>Build your ideal creative nook by collecting furniture and arranging it your way with Été's flexible decoration system. Decorations can be placed precisely where you want them, combined into complex set pieces, and even recolored!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Decoration.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Mix</strong> your own colors</h2>Find rare pigment collectibles hidden throughout the city to mix new dyes for your artworks and decorations.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Progression.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Befriend</strong> the neighbours</h2>Meet dozens of locals with colorful personalities as you get acquainted with your new city. Some of your neighbours will have paid commissions for you to fulfill, while others will tend to unique shops that let you spend your hard-earned money on decorations.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Story.gif?t=1731731430\" /><h2 class=\"bb_tag\"><strong>Relax</strong> and smell the flowers</h2>Été is a deeply relaxing game with no failure and no pressure. There is no time limit, no wrong way to paint and no order in which to explore or complete quests. Take things at your own pace and let your worries go as you immerse in your new life as the friendly neighborhood painter.<br><br><i>Été is a labor of love from Impossible, a small &amp; diverse team of indies based in Montréal.</i>"
-languages: "English, French"
-reviews: "“Été is a sincere, optimistic game that reminds us that it’s never too late to start again. Even when it seems impossible to uproot ourselves from our current situations, we can always find a way to make a new home anywhere we land. A blank canvas doesn’t have to be intimidating; it’s an opportunity.”<br>Giovanni Colantonio, Digital Trends<br><br>“Été is less about the process of making art on a canvas, and more about making players feel as if they are making the world more beautiful. It lets you make art without any of the friction.”<br>Vincent Acovino, The Guardian<br><br>“Été [is] an experience that celebrates the beauty in everyday life. A chance to pause, reflect and savor the quiet moments. The developers at Impossible strived to immerse players into the game, and they hit the ball out of the park.”<br>10/10 – Bright Mylar, Gamer Social Club<br>"
-support_info: {"url":"https://impossible.dev","email":"support@imposible.dev"}
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_76165479732e4b6d9575d43f0d41b5b215fcab87.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_76165479732e4b6d9575d43f0d41b5b215fcab87.1920x1080.jpg?t=1731731430
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_5f988403189bba1098d511de4c01a38a1e4375ee.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_5f988403189bba1098d511de4c01a38a1e4375ee.1920x1080.jpg?t=1731731430
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_88cf7ff7547446d8bb41fb2aa112b191dbb31c2a.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_88cf7ff7547446d8bb41fb2aa112b191dbb31c2a.1920x1080.jpg?t=1731731430
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_77f01fe2e8398c2f7600c6c7b39351f1e49643cd.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_77f01fe2e8398c2f7600c6c7b39351f1e49643cd.1920x1080.jpg?t=1731731430
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_632ff0dd2e0554b19518891197347b4c588b66a3.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_632ff0dd2e0554b19518891197347b4c588b66a3.1920x1080.jpg?t=1731731430
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_9fa180b39841cbc1d84872b5583b8fe9f45eac68.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_9fa180b39841cbc1d84872b5583b8fe9f45eac68.1920x1080.jpg?t=1731731430
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_a40b834fd19a1b937032200bdb965b3a78c8ee56.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_a40b834fd19a1b937032200bdb965b3a78c8ee56.1920x1080.jpg?t=1731731430
+- id: 7
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_e251afacf3303bd09a041f39439bad5c9cae45ca.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_e251afacf3303bd09a041f39439bad5c9cae45ca.1920x1080.jpg?t=1731731430
+- id: 8
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_f1effc3437b082b8ef56c63f955bbbb8c393e3d4.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_f1effc3437b082b8ef56c63f955bbbb8c393e3d4.1920x1080.jpg?t=1731731430
+- id: 9
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_e67a55b0870aa1cf3f61943149f6cffcb2665b3f.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_e67a55b0870aa1cf3f61943149f6cffcb2665b3f.1920x1080.jpg?t=1731731430
+- id: 10
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_edfa42e8ac2be9da6bf0dba7499e42c87f201fa4.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_edfa42e8ac2be9da6bf0dba7499e42c87f201fa4.1920x1080.jpg?t=1731731430
+- id: 11
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_14b3b47de01610999cbecd0225402c07c9c01fd3.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_14b3b47de01610999cbecd0225402c07c9c01fd3.1920x1080.jpg?t=1731731430
+- id: 12
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_b3c10dc1cbbf263ffa1d549060542049f1488d16.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_b3c10dc1cbbf263ffa1d549060542049f1488d16.1920x1080.jpg?t=1731731430
+- id: 13
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_659c9e81ad120e1e744aead006c82fcfb3f1c781.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_659c9e81ad120e1e744aead006c82fcfb3f1c781.1920x1080.jpg?t=1731731430
+- id: 14
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_46d606ee50f9b9b5120cc051db617b1ec37d5959.600x338.jpg?t=1731731430
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/ss_46d606ee50f9b9b5120cc051db617b1ec37d5959.1920x1080.jpg?t=1731731430
+movies:
+- id: 257029496
+  name: Été - Launch Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029496/movie.293x165.jpg?t=1717864774
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257029496/movie480_vp9.webm?t=1717864774
+    max: http://video.akamai.steamstatic.com/store_trailers/257029496/movie_max_vp9.webm?t=1717864774
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257029496/movie480.mp4?t=1717864774
+    max: http://video.akamai.steamstatic.com/store_trailers/257029496/movie_max.mp4?t=1717864774
+  highlight: true
+- id: 256947481
+  name: Été - Teaser Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947481/movie.293x165.jpg?t=1684338313
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256947481/movie480_vp9.webm?t=1684338313
+    max: http://video.akamai.steamstatic.com/store_trailers/256947481/movie_max_vp9.webm?t=1684338313
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256947481/movie480.mp4?t=1684338313
+    max: http://video.akamai.steamstatic.com/store_trailers/256947481/movie_max.mp4?t=1684338313
+  highlight: true
+genres:
+- Adventure
+- Casual
+- Indie
+- RPG
+steam_categories:
+- Single-player
+- Partial Controller Support
+- Steam Cloud
+- Family Sharing
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- Impossible
+publishers:
+- Impossible
+release_date:
+  coming_soon: false
+  date: 23 Jul, 2024
+content_warning:
+  ids: []
+  notes:
+about: <strong>Été</strong> [pronounced /ay·tay/, French for &quot;summer&quot;] is
+  a relaxing painting game made for people who love exploration and creativity. Step
+  into the shoes of a budding painter who travels abroad to Montreal for a summer.
+  Unleash color with your paintbrush to freely explore the city and capture its everyday
+  wonders on canvas. Befriend locals by fulfilling their inspiring commissions or
+  prepare an original expo in your very own art studio.<br><br><strong>Features:</strong><h2
+  class="bb_tag"><strong>Explore</strong> Montreal in the summer</h2>Use gorgeous
+  watercolor to paint the world in 3D and reveal its wonders. Roam around peaceful
+  open city scenes and bring them to life by filling them with color.<br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Exploration.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Collect</strong> ideas for your album</h2>Everything
+  you discover while exploring — from flowers to birds — is added to your album, an
+  ever-growing compendium of stamps that you can then mix and match in your artworks.
+  <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Album.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Create</strong> artworks on canvas</h2>Create gorgeous
+  2D watercolor artworks effortlessly with Été's unique canvas system. Any stamp collected
+  in your album can be added to your composition, moved, resized, recolored, and even
+  spun around in 3D!<br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Canvas.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Show off</strong> your talent</h2>Some NPCs will commission
+  you with inspiring requests for specific artworks, but you're also free to paint
+  as many unrestricted creative artworks as you like. Those artworks can then be hung
+  on your walls or auctioned at the local café... and maybe, if you get famous enough,
+  be exhibited in your very own exposition.<br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Gallery.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Decorate</strong> your studio and your apartment</h2>Build
+  your ideal creative nook by collecting furniture and arranging it your way with
+  Été's flexible decoration system. Decorations can be placed precisely where you
+  want them, combined into complex set pieces, and even recolored!<br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Decoration.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Mix</strong> your own colors</h2>Find rare pigment
+  collectibles hidden throughout the city to mix new dyes for your artworks and decorations.<br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Progression.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Befriend</strong> the neighbours</h2>Meet dozens of
+  locals with colorful personalities as you get acquainted with your new city. Some
+  of your neighbours will have paid commissions for you to fulfill, while others will
+  tend to unique shops that let you spend your hard-earned money on decorations.<br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Story.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Relax</strong> and smell the flowers</h2>Été is a deeply
+  relaxing game with no failure and no pressure. There is no time limit, no wrong
+  way to paint and no order in which to explore or complete quests. Take things at
+  your own pace and let your worries go as you immerse in your new life as the friendly
+  neighborhood painter.<br><br><i>Été is a labor of love from Impossible, a small
+  &amp; diverse team of indies based in Montréal.</i>
+detailed_description: <strong>Été</strong> [pronounced /ay·tay/, French for &quot;summer&quot;]
+  is a relaxing painting game made for people who love exploration and creativity.
+  Step into the shoes of a budding painter who travels abroad to Montreal for a summer.
+  Unleash color with your paintbrush to freely explore the city and capture its everyday
+  wonders on canvas. Befriend locals by fulfilling their inspiring commissions or
+  prepare an original expo in your very own art studio.<br><br><strong>Features:</strong><h2
+  class="bb_tag"><strong>Explore</strong> Montreal in the summer</h2>Use gorgeous
+  watercolor to paint the world in 3D and reveal its wonders. Roam around peaceful
+  open city scenes and bring them to life by filling them with color.<br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Exploration.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Collect</strong> ideas for your album</h2>Everything
+  you discover while exploring — from flowers to birds — is added to your album, an
+  ever-growing compendium of stamps that you can then mix and match in your artworks.
+  <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Album.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Create</strong> artworks on canvas</h2>Create gorgeous
+  2D watercolor artworks effortlessly with Été's unique canvas system. Any stamp collected
+  in your album can be added to your composition, moved, resized, recolored, and even
+  spun around in 3D!<br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Canvas.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Show off</strong> your talent</h2>Some NPCs will commission
+  you with inspiring requests for specific artworks, but you're also free to paint
+  as many unrestricted creative artworks as you like. Those artworks can then be hung
+  on your walls or auctioned at the local café... and maybe, if you get famous enough,
+  be exhibited in your very own exposition.<br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Gallery.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Decorate</strong> your studio and your apartment</h2>Build
+  your ideal creative nook by collecting furniture and arranging it your way with
+  Été's flexible decoration system. Decorations can be placed precisely where you
+  want them, combined into complex set pieces, and even recolored!<br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Decoration.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Mix</strong> your own colors</h2>Find rare pigment
+  collectibles hidden throughout the city to mix new dyes for your artworks and decorations.<br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Progression.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Befriend</strong> the neighbours</h2>Meet dozens of
+  locals with colorful personalities as you get acquainted with your new city. Some
+  of your neighbours will have paid commissions for you to fulfill, while others will
+  tend to unique shops that let you spend your hard-earned money on decorations.<br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065070/extras/Header_Story.gif?t=1731731430"
+  /><h2 class="bb_tag"><strong>Relax</strong> and smell the flowers</h2>Été is a deeply
+  relaxing game with no failure and no pressure. There is no time limit, no wrong
+  way to paint and no order in which to explore or complete quests. Take things at
+  your own pace and let your worries go as you immerse in your new life as the friendly
+  neighborhood painter.<br><br><i>Été is a labor of love from Impossible, a small
+  &amp; diverse team of indies based in Montréal.</i>
+languages: English, French
+reviews: "“Été is a sincere, optimistic game that reminds us that it’s never too late
+  to start again. Even when it seems impossible to uproot ourselves from our current
+  situations, we can always find a way to make a new home anywhere we land. A blank
+  canvas doesn’t have to be intimidating; it’s an opportunity.”<br>Giovanni Colantonio,
+  Digital Trends<br><br>“Été is less about the process of making art on a canvas,
+  and more about making players feel as if they are making the world more beautiful.
+  It lets you make art without any of the friction.”<br>Vincent Acovino, The Guardian<br><br>“Été
+  [is] an experience that celebrates the beauty in everyday life. A chance to pause,
+  reflect and savor the quiet moments. The developers at Impossible strived to immerse
+  players into the game, and they hit the ball out of the park.”<br>10/10 – Bright
+  Mylar, Gamer Social Club<br>"
+support_info:
+  url: https://impossible.dev
+  email: support@imposible.dev
+tags:
+- adventure
+- casual
+- rpg
 ---
 

@@ -1,0 +1,8 @@
+---
+title: Nominees - Adventure
+permalink: /nominees/adventure
+layout: default
+---
+
+{% assign gamelist = site.games | where_exp: "item", "item.tags contains 'adventure'" | sort: 'featured', 'last' %}
+{% include gamelist.html %}

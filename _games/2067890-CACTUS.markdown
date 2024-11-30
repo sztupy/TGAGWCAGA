@@ -1,23 +1,140 @@
 ---
-title: "CACTUS"
-description: "Be the cactus, become the legend! Master foes, evade traps, and uncover artifacts as a spiky hero in this unique indie FPS, blending classic elements with quirky new ideas."
-image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/header.jpg?t=1725122304"
-capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/6c6322d3bf28826c4d439c0a72d022eb95a98f2f/capsule_231x87.jpg?t=1725122304"
+title: CACTUS
+description: Be the cactus, become the legend! Master foes, evade traps, and uncover
+  artifacts as a spiky hero in this unique indie FPS, blending classic elements with
+  quirky new ideas.
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/header.jpg?t=1725122304
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/6c6322d3bf28826c4d439c0a72d022eb95a98f2f/capsule_231x87.jpg?t=1725122304
 categories: game
 steamid: 2067890
-screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_511ccec31f1f3b6e44058950dbb816d0c38e7543.600x338.jpg?t=1725122304","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_511ccec31f1f3b6e44058950dbb816d0c38e7543.1920x1080.jpg?t=1725122304"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_bfea881d2b0f72e9758b7651a241a6c41abbbbe1.600x338.jpg?t=1725122304","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_bfea881d2b0f72e9758b7651a241a6c41abbbbe1.1920x1080.jpg?t=1725122304"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_d0ae3534409f8e13cfb895211f634fc1e75cf38a.600x338.jpg?t=1725122304","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_d0ae3534409f8e13cfb895211f634fc1e75cf38a.1920x1080.jpg?t=1725122304"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_fecc480b3237f46019af8f46a52f8c1ae37f8b96.600x338.jpg?t=1725122304","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_fecc480b3237f46019af8f46a52f8c1ae37f8b96.1920x1080.jpg?t=1725122304"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_742507703489d050ef64801184ad6243faa83301.600x338.jpg?t=1725122304","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_742507703489d050ef64801184ad6243faa83301.1920x1080.jpg?t=1725122304"},{"id":5,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_7237e1e2266ee45c03f3eed6a5b2a73097057326.600x338.jpg?t=1725122304","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_7237e1e2266ee45c03f3eed6a5b2a73097057326.1920x1080.jpg?t=1725122304"},{"id":6,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_94ab6f11baf30c59c2cff8ffcf8fe2a0a646a23d.600x338.jpg?t=1725122304","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_94ab6f11baf30c59c2cff8ffcf8fe2a0a646a23d.1920x1080.jpg?t=1725122304"},{"id":7,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_5c07138ce7fa9a5e047a962eaab7c937df156d9c.600x338.jpg?t=1725122304","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_5c07138ce7fa9a5e047a962eaab7c937df156d9c.1920x1080.jpg?t=1725122304"}]
-movies: [{"id":257047926,"name":"CACTUS | Gamescom 2024 Trailer","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047926/movie.293x165.jpg?t=1724272853","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/257047926/movie480_vp9.webm?t=1724272853","max":"http://video.akamai.steamstatic.com/store_trailers/257047926/movie_max_vp9.webm?t=1724272853"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/257047926/movie480.mp4?t=1724272853","max":"http://video.akamai.steamstatic.com/store_trailers/257047926/movie_max.mp4?t=1724272853"},"highlight":true}]
-genres: ["Action","Adventure","Indie"]
-steam_categories: ["Single-player","Steam Achievements","Full controller support","Steam Cloud"]
-platforms: {"windows":true,"mac":false,"linux":false}
-developers: ["Axon Flux"]
-publishers: ["Axon Flux"]
-release_date: {"coming_soon":true,"date":"March 2025"}
-content_warning: {"ids":[],"notes":null}
-about: "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_HeroRise_EN.gif?t=1725122304\" /><br><br><br><u><br><strong>Free demo now available!</strong></u><br><br>Your home planet is under threat. After being hit by an unknown object, the orbiting sun god has turned mad. Bringing destruction to every corner of the desert, the ravaging god turns creatures into minions and kills those daring to resist its reign. After losing all its loved ones, you, a surviving cactus embarks on a revenge tale to battle the sun and defeat its hordes.<br><br>Become the legendary hero in this fast-paced single player FPS. Shoot explosive needles from your spiky body to wipe entire groups using timed detonations. Grow strong by unlocking mighty skills, like the explosive pear launcher, wreaking havoc in dynamic levels filled with physics and chaos. You must prevail: travel the desert, find sun valley and stop the mad god!<br><br>CACTUS is a celebration of classic 3D shooter games like Serious Sam, Doom and Quake.<br>True to the roots, modernized for a new era.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_YouWeapon_EN.gif?t=1725122304\" /><br><br><strong>Forget Guns!</strong><br>(for once)<br><br>Fueled by anger, your plant body bubbles with hot water. Boil it up to shoot and tag enemies with explosive needles. Tap quickly during reload to blow up groups of tagged enemies and instantly regrow a full set of new needles in a snap. Keep firing!<br><br>Successfully nail the timing to earn action points, required to trigger devastating special skills. So be on the look for magic items as you venture through dusty tombs below the sand.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_SpikyBody_EN.gif?t=1725122304\" /><br><br>To succeed, you must find, unlock and master ferocious abilities to enhance your cactus powers. Emit a deadly heatwave using the blast shot, launch an explosive plant or go full-on frenzy, turning you into a plant-based gattling gun. Finding the right ability for the right situation is key.<br><br>You will even grow additional arms by discovering long-hidden artifacts, giving you even more firepower to counter the onslaught.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_SaveHome_EN.gif?t=1725122304\" /><br><br>As you travel a vast desert planet, you'll discover huge sandscapes, ancient temples, lots of treasure, traps, puzzles and, of course, collectible secrets. Immerse yourself in a new universe, rendered in stylized graphics and driven by an upbeat soundtrack that makes you want to keep firing non-stop.<br><br>Are you ready to become the hero your planet needs?"
-detailed_description: "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_HeroRise_EN.gif?t=1725122304\" /><br><br><br><u><br><strong>Free demo now available!</strong></u><br><br>Your home planet is under threat. After being hit by an unknown object, the orbiting sun god has turned mad. Bringing destruction to every corner of the desert, the ravaging god turns creatures into minions and kills those daring to resist its reign. After losing all its loved ones, you, a surviving cactus embarks on a revenge tale to battle the sun and defeat its hordes.<br><br>Become the legendary hero in this fast-paced single player FPS. Shoot explosive needles from your spiky body to wipe entire groups using timed detonations. Grow strong by unlocking mighty skills, like the explosive pear launcher, wreaking havoc in dynamic levels filled with physics and chaos. You must prevail: travel the desert, find sun valley and stop the mad god!<br><br>CACTUS is a celebration of classic 3D shooter games like Serious Sam, Doom and Quake.<br>True to the roots, modernized for a new era.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_YouWeapon_EN.gif?t=1725122304\" /><br><br><strong>Forget Guns!</strong><br>(for once)<br><br>Fueled by anger, your plant body bubbles with hot water. Boil it up to shoot and tag enemies with explosive needles. Tap quickly during reload to blow up groups of tagged enemies and instantly regrow a full set of new needles in a snap. Keep firing!<br><br>Successfully nail the timing to earn action points, required to trigger devastating special skills. So be on the look for magic items as you venture through dusty tombs below the sand.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_SpikyBody_EN.gif?t=1725122304\" /><br><br>To succeed, you must find, unlock and master ferocious abilities to enhance your cactus powers. Emit a deadly heatwave using the blast shot, launch an explosive plant or go full-on frenzy, turning you into a plant-based gattling gun. Finding the right ability for the right situation is key.<br><br>You will even grow additional arms by discovering long-hidden artifacts, giving you even more firepower to counter the onslaught.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_SaveHome_EN.gif?t=1725122304\" /><br><br>As you travel a vast desert planet, you'll discover huge sandscapes, ancient temples, lots of treasure, traps, puzzles and, of course, collectible secrets. Immerse yourself in a new universe, rendered in stylized graphics and driven by an upbeat soundtrack that makes you want to keep firing non-stop.<br><br>Are you ready to become the hero your planet needs?"
-languages: "English"
-reviews: null
-support_info: {"url":"www.axon-flux.com","email":"contact@axon-flux.com"}
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_511ccec31f1f3b6e44058950dbb816d0c38e7543.600x338.jpg?t=1725122304
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_511ccec31f1f3b6e44058950dbb816d0c38e7543.1920x1080.jpg?t=1725122304
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_bfea881d2b0f72e9758b7651a241a6c41abbbbe1.600x338.jpg?t=1725122304
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_bfea881d2b0f72e9758b7651a241a6c41abbbbe1.1920x1080.jpg?t=1725122304
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_d0ae3534409f8e13cfb895211f634fc1e75cf38a.600x338.jpg?t=1725122304
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_d0ae3534409f8e13cfb895211f634fc1e75cf38a.1920x1080.jpg?t=1725122304
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_fecc480b3237f46019af8f46a52f8c1ae37f8b96.600x338.jpg?t=1725122304
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_fecc480b3237f46019af8f46a52f8c1ae37f8b96.1920x1080.jpg?t=1725122304
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_742507703489d050ef64801184ad6243faa83301.600x338.jpg?t=1725122304
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_742507703489d050ef64801184ad6243faa83301.1920x1080.jpg?t=1725122304
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_7237e1e2266ee45c03f3eed6a5b2a73097057326.600x338.jpg?t=1725122304
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_7237e1e2266ee45c03f3eed6a5b2a73097057326.1920x1080.jpg?t=1725122304
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_94ab6f11baf30c59c2cff8ffcf8fe2a0a646a23d.600x338.jpg?t=1725122304
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_94ab6f11baf30c59c2cff8ffcf8fe2a0a646a23d.1920x1080.jpg?t=1725122304
+- id: 7
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_5c07138ce7fa9a5e047a962eaab7c937df156d9c.600x338.jpg?t=1725122304
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/ss_5c07138ce7fa9a5e047a962eaab7c937df156d9c.1920x1080.jpg?t=1725122304
+movies:
+- id: 257047926
+  name: CACTUS | Gamescom 2024 Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047926/movie.293x165.jpg?t=1724272853
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257047926/movie480_vp9.webm?t=1724272853
+    max: http://video.akamai.steamstatic.com/store_trailers/257047926/movie_max_vp9.webm?t=1724272853
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257047926/movie480.mp4?t=1724272853
+    max: http://video.akamai.steamstatic.com/store_trailers/257047926/movie_max.mp4?t=1724272853
+  highlight: true
+genres:
+- Action
+- Adventure
+- Indie
+steam_categories:
+- Single-player
+- Steam Achievements
+- Full controller support
+- Steam Cloud
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- Axon Flux
+publishers:
+- Axon Flux
+release_date:
+  coming_soon: true
+  date: March 2025
+content_warning:
+  ids: []
+  notes:
+about: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_HeroRise_EN.gif?t=1725122304"
+  /><br><br><br><u><br><strong>Free demo now available!</strong></u><br><br>Your home
+  planet is under threat. After being hit by an unknown object, the orbiting sun god
+  has turned mad. Bringing destruction to every corner of the desert, the ravaging
+  god turns creatures into minions and kills those daring to resist its reign. After
+  losing all its loved ones, you, a surviving cactus embarks on a revenge tale to
+  battle the sun and defeat its hordes.<br><br>Become the legendary hero in this fast-paced
+  single player FPS. Shoot explosive needles from your spiky body to wipe entire groups
+  using timed detonations. Grow strong by unlocking mighty skills, like the explosive
+  pear launcher, wreaking havoc in dynamic levels filled with physics and chaos. You
+  must prevail: travel the desert, find sun valley and stop the mad god!<br><br>CACTUS
+  is a celebration of classic 3D shooter games like Serious Sam, Doom and Quake.<br>True
+  to the roots, modernized for a new era.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_YouWeapon_EN.gif?t=1725122304"
+  /><br><br><strong>Forget Guns!</strong><br>(for once)<br><br>Fueled by anger, your
+  plant body bubbles with hot water. Boil it up to shoot and tag enemies with explosive
+  needles. Tap quickly during reload to blow up groups of tagged enemies and instantly
+  regrow a full set of new needles in a snap. Keep firing!<br><br>Successfully nail
+  the timing to earn action points, required to trigger devastating special skills.
+  So be on the look for magic items as you venture through dusty tombs below the sand.<br><br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_SpikyBody_EN.gif?t=1725122304"
+  /><br><br>To succeed, you must find, unlock and master ferocious abilities to enhance
+  your cactus powers. Emit a deadly heatwave using the blast shot, launch an explosive
+  plant or go full-on frenzy, turning you into a plant-based gattling gun. Finding
+  the right ability for the right situation is key.<br><br>You will even grow additional
+  arms by discovering long-hidden artifacts, giving you even more firepower to counter
+  the onslaught.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_SaveHome_EN.gif?t=1725122304"
+  /><br><br>As you travel a vast desert planet, you''ll discover huge sandscapes,
+  ancient temples, lots of treasure, traps, puzzles and, of course, collectible secrets.
+  Immerse yourself in a new universe, rendered in stylized graphics and driven by
+  an upbeat soundtrack that makes you want to keep firing non-stop.<br><br>Are you
+  ready to become the hero your planet needs?'
+detailed_description: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_HeroRise_EN.gif?t=1725122304"
+  /><br><br><br><u><br><strong>Free demo now available!</strong></u><br><br>Your home
+  planet is under threat. After being hit by an unknown object, the orbiting sun god
+  has turned mad. Bringing destruction to every corner of the desert, the ravaging
+  god turns creatures into minions and kills those daring to resist its reign. After
+  losing all its loved ones, you, a surviving cactus embarks on a revenge tale to
+  battle the sun and defeat its hordes.<br><br>Become the legendary hero in this fast-paced
+  single player FPS. Shoot explosive needles from your spiky body to wipe entire groups
+  using timed detonations. Grow strong by unlocking mighty skills, like the explosive
+  pear launcher, wreaking havoc in dynamic levels filled with physics and chaos. You
+  must prevail: travel the desert, find sun valley and stop the mad god!<br><br>CACTUS
+  is a celebration of classic 3D shooter games like Serious Sam, Doom and Quake.<br>True
+  to the roots, modernized for a new era.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_YouWeapon_EN.gif?t=1725122304"
+  /><br><br><strong>Forget Guns!</strong><br>(for once)<br><br>Fueled by anger, your
+  plant body bubbles with hot water. Boil it up to shoot and tag enemies with explosive
+  needles. Tap quickly during reload to blow up groups of tagged enemies and instantly
+  regrow a full set of new needles in a snap. Keep firing!<br><br>Successfully nail
+  the timing to earn action points, required to trigger devastating special skills.
+  So be on the look for magic items as you venture through dusty tombs below the sand.<br><br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_SpikyBody_EN.gif?t=1725122304"
+  /><br><br>To succeed, you must find, unlock and master ferocious abilities to enhance
+  your cactus powers. Emit a deadly heatwave using the blast shot, launch an explosive
+  plant or go full-on frenzy, turning you into a plant-based gattling gun. Finding
+  the right ability for the right situation is key.<br><br>You will even grow additional
+  arms by discovering long-hidden artifacts, giving you even more firepower to counter
+  the onslaught.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067890/extras/AF02_SteamStore_SectionBanner_SaveHome_EN.gif?t=1725122304"
+  /><br><br>As you travel a vast desert planet, you''ll discover huge sandscapes,
+  ancient temples, lots of treasure, traps, puzzles and, of course, collectible secrets.
+  Immerse yourself in a new universe, rendered in stylized graphics and driven by
+  an upbeat soundtrack that makes you want to keep firing non-stop.<br><br>Are you
+  ready to become the hero your planet needs?'
+languages: English
+reviews:
+support_info:
+  url: www.axon-flux.com
+  email: contact@axon-flux.com
+tags:
+- action
+- adventure
 ---
 

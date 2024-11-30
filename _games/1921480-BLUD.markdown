@@ -1,23 +1,157 @@
 ---
 title: "#BLUD"
-description: "Save your friends, fight off the vampire apocalypse, and survive the horrors of freshman field hockey practice in #BLUD, a delightfully zany animated dungeon crawler that blurs the line between action RPGs and hyperkinetic 90s cartoons."
-image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/header.jpg?t=1730932868"
-capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/capsule_231x87.jpg?t=1730932868"
+description: 'Save your friends, fight off the vampire apocalypse, and survive the
+  horrors of freshman field hockey practice in #BLUD, a delightfully zany animated
+  dungeon crawler that blurs the line between action RPGs and hyperkinetic 90s cartoons.'
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/header.jpg?t=1730932868
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/capsule_231x87.jpg?t=1730932868
 categories: game
 steamid: 1921480
-screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_758f37582fa3646edbf6b40d5b769accc21200fc.600x338.jpg?t=1730932868","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_758f37582fa3646edbf6b40d5b769accc21200fc.1920x1080.jpg?t=1730932868"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_3ae62b2d60c3421da9ad8963eb76cab5e5c76e9a.600x338.jpg?t=1730932868","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_3ae62b2d60c3421da9ad8963eb76cab5e5c76e9a.1920x1080.jpg?t=1730932868"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_58776f6aebdfd129e328c1a49710ef7ea43cc4c0.600x338.jpg?t=1730932868","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_58776f6aebdfd129e328c1a49710ef7ea43cc4c0.1920x1080.jpg?t=1730932868"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_59db6e81a275401d71f60407f2a0bf85689683e6.600x338.jpg?t=1730932868","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_59db6e81a275401d71f60407f2a0bf85689683e6.1920x1080.jpg?t=1730932868"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_dbb8bde89de9d3ad2a5a3cc9585545ba0b9b8691.600x338.jpg?t=1730932868","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_dbb8bde89de9d3ad2a5a3cc9585545ba0b9b8691.1920x1080.jpg?t=1730932868"},{"id":5,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_e8dba43e9a22388c6d38a5475101202df8dc4e10.600x338.jpg?t=1730932868","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_e8dba43e9a22388c6d38a5475101202df8dc4e10.1920x1080.jpg?t=1730932868"},{"id":6,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_373fa13cca6c97aa6c4fc67a05e26cca63379361.600x338.jpg?t=1730932868","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_373fa13cca6c97aa6c4fc67a05e26cca63379361.1920x1080.jpg?t=1730932868"}]
-movies: [{"id":257071400,"name":"#Blud Claws for Alarm Trailer","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071400/e19db16a2beb2fc55f65214d20c3df5f5a26d70e/movie_600x337.jpg?t=1730932861","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/257071400/movie480_vp9.webm?t=1730932861","max":"http://video.akamai.steamstatic.com/store_trailers/257071400/movie_max_vp9.webm?t=1730932861"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/257071400/movie480.mp4?t=1730932861","max":"http://video.akamai.steamstatic.com/store_trailers/257071400/movie_max.mp4?t=1730932861"},"highlight":true},{"id":257031807,"name":"#BLUD Launch Trailer","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031807/movie.293x165.jpg?t=1718729957","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/257031807/movie480_vp9.webm?t=1718729957","max":"http://video.akamai.steamstatic.com/store_trailers/257031807/movie_max_vp9.webm?t=1718729957"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/257031807/movie480.mp4?t=1718729957","max":"http://video.akamai.steamstatic.com/store_trailers/257031807/movie_max.mp4?t=1718729957"},"highlight":true}]
-genres: ["Action","Adventure","Indie","RPG"]
-steam_categories: ["Single-player","Steam Achievements","Full controller support","Steam Cloud","Family Sharing"]
-platforms: {"windows":true,"mac":false,"linux":false}
-developers: ["Exit 73 Studios"]
-publishers: ["Humble Games"]
-release_date: {"coming_soon":false,"date":"18 Jun, 2024"}
-content_warning: {"ids":[],"notes":null}
-about: "Save your friends, fight off the vampire apocalypse, and survive the horrors of freshman field hockey practice in #BLUD, a delightfully zany animated dungeon crawler that blurs the line between action RPGs and hyperkinetic 90s cartoons. <br><br>Slaying the undead is just another day at high school for Becky Brewster, new kid in town and latest in an ancient bloodline of spellcasting vampire hunters. Root out demonic infestations through the town’s buzzing social media, and take selfies with demonic forces to analyze their weaknesses. Power up your trusty fiend-thwacking field hockey stick, and level up your latent magic skills through grimoires and school supplies. Master the slaying game with the help of an eclectic cast of hilarious characters, and teach the vampires a thing or two about messing with Carpentersville High!<br><br><strong>Slay the vampiric legions</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_03.gif?t=1730932868\" /><br>Take on a delightfully macabre menagerie of outrageously mutated animals and vampirically possessed townsfolk. Engage in epic, energetic boss battles as you defend your hometown.<br><br><strong>Small-town dungeon crawl</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_05.gif?t=1730932868\" /><br>Hunt the forces of evil in high school halls, convenience store aisles, and shopping malls. Discover and accept missions from the town’s social media, and track down evil (and other after-school plans) with modern tech.<br><br><strong>In a class of your own</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_06.gif?t=1730932868\" /><br>Freshman life is ultrafast-paced—even more so when you’re the vampire-hunting new kid. Assist and befriend and assist a comic cast of quirky and memorable classmates as you find your place as a teenager in the world of #BLUD.<br><br><strong>Upgrade your field arsenal</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_04.gif?t=1730932868\" /><br>Discover and earn upgrades for Becky’s trusty vampire-slaying field hockey stick to face the mounting challenges, including handy attachments like a grappling hook, shovel, and umbrella shield.<br><br><strong>Uncover fiendish mysteries</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_02.gif?t=1730932868\" /><br>Research the demonic legions through means archaic and new. Translate your family’s mystic grimoire, and snap selfies with monsters to tag their strengths and weaknesses (just don't let them bite you!).<br><br><strong>Lively undead animated adventure</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_01.gif?t=1730932868\" /><br>#BLUD is brought to life by Exit 73 Studios, a team of creators with a passion for traditional hand-drawn 2D illustration and animation, the joyous and jubilant cartoons of the modern era, and game development."
-detailed_description: "Save your friends, fight off the vampire apocalypse, and survive the horrors of freshman field hockey practice in #BLUD, a delightfully zany animated dungeon crawler that blurs the line between action RPGs and hyperkinetic 90s cartoons. <br><br>Slaying the undead is just another day at high school for Becky Brewster, new kid in town and latest in an ancient bloodline of spellcasting vampire hunters. Root out demonic infestations through the town’s buzzing social media, and take selfies with demonic forces to analyze their weaknesses. Power up your trusty fiend-thwacking field hockey stick, and level up your latent magic skills through grimoires and school supplies. Master the slaying game with the help of an eclectic cast of hilarious characters, and teach the vampires a thing or two about messing with Carpentersville High!<br><br><strong>Slay the vampiric legions</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_03.gif?t=1730932868\" /><br>Take on a delightfully macabre menagerie of outrageously mutated animals and vampirically possessed townsfolk. Engage in epic, energetic boss battles as you defend your hometown.<br><br><strong>Small-town dungeon crawl</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_05.gif?t=1730932868\" /><br>Hunt the forces of evil in high school halls, convenience store aisles, and shopping malls. Discover and accept missions from the town’s social media, and track down evil (and other after-school plans) with modern tech.<br><br><strong>In a class of your own</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_06.gif?t=1730932868\" /><br>Freshman life is ultrafast-paced—even more so when you’re the vampire-hunting new kid. Assist and befriend and assist a comic cast of quirky and memorable classmates as you find your place as a teenager in the world of #BLUD.<br><br><strong>Upgrade your field arsenal</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_04.gif?t=1730932868\" /><br>Discover and earn upgrades for Becky’s trusty vampire-slaying field hockey stick to face the mounting challenges, including handy attachments like a grappling hook, shovel, and umbrella shield.<br><br><strong>Uncover fiendish mysteries</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_02.gif?t=1730932868\" /><br>Research the demonic legions through means archaic and new. Translate your family’s mystic grimoire, and snap selfies with monsters to tag their strengths and weaknesses (just don't let them bite you!).<br><br><strong>Lively undead animated adventure</strong><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_01.gif?t=1730932868\" /><br>#BLUD is brought to life by Exit 73 Studios, a team of creators with a passion for traditional hand-drawn 2D illustration and animation, the joyous and jubilant cartoons of the modern era, and game development."
-languages: "English, French, German, Japanese, Simplified Chinese, Spanish - Latin America, Portuguese - Brazil, Korean"
-reviews: null
-support_info: {"url":"https://www.humblegames.com/contact-us/","email":"info@exit73studios.com"}
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_758f37582fa3646edbf6b40d5b769accc21200fc.600x338.jpg?t=1730932868
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_758f37582fa3646edbf6b40d5b769accc21200fc.1920x1080.jpg?t=1730932868
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_3ae62b2d60c3421da9ad8963eb76cab5e5c76e9a.600x338.jpg?t=1730932868
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_3ae62b2d60c3421da9ad8963eb76cab5e5c76e9a.1920x1080.jpg?t=1730932868
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_58776f6aebdfd129e328c1a49710ef7ea43cc4c0.600x338.jpg?t=1730932868
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_58776f6aebdfd129e328c1a49710ef7ea43cc4c0.1920x1080.jpg?t=1730932868
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_59db6e81a275401d71f60407f2a0bf85689683e6.600x338.jpg?t=1730932868
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_59db6e81a275401d71f60407f2a0bf85689683e6.1920x1080.jpg?t=1730932868
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_dbb8bde89de9d3ad2a5a3cc9585545ba0b9b8691.600x338.jpg?t=1730932868
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_dbb8bde89de9d3ad2a5a3cc9585545ba0b9b8691.1920x1080.jpg?t=1730932868
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_e8dba43e9a22388c6d38a5475101202df8dc4e10.600x338.jpg?t=1730932868
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_e8dba43e9a22388c6d38a5475101202df8dc4e10.1920x1080.jpg?t=1730932868
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_373fa13cca6c97aa6c4fc67a05e26cca63379361.600x338.jpg?t=1730932868
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/ss_373fa13cca6c97aa6c4fc67a05e26cca63379361.1920x1080.jpg?t=1730932868
+movies:
+- id: 257071400
+  name: "#Blud Claws for Alarm Trailer"
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071400/e19db16a2beb2fc55f65214d20c3df5f5a26d70e/movie_600x337.jpg?t=1730932861
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257071400/movie480_vp9.webm?t=1730932861
+    max: http://video.akamai.steamstatic.com/store_trailers/257071400/movie_max_vp9.webm?t=1730932861
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257071400/movie480.mp4?t=1730932861
+    max: http://video.akamai.steamstatic.com/store_trailers/257071400/movie_max.mp4?t=1730932861
+  highlight: true
+- id: 257031807
+  name: "#BLUD Launch Trailer"
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031807/movie.293x165.jpg?t=1718729957
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257031807/movie480_vp9.webm?t=1718729957
+    max: http://video.akamai.steamstatic.com/store_trailers/257031807/movie_max_vp9.webm?t=1718729957
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257031807/movie480.mp4?t=1718729957
+    max: http://video.akamai.steamstatic.com/store_trailers/257031807/movie_max.mp4?t=1718729957
+  highlight: true
+genres:
+- Action
+- Adventure
+- Indie
+- RPG
+steam_categories:
+- Single-player
+- Steam Achievements
+- Full controller support
+- Steam Cloud
+- Family Sharing
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- Exit 73 Studios
+publishers:
+- Humble Games
+release_date:
+  coming_soon: false
+  date: 18 Jun, 2024
+content_warning:
+  ids: []
+  notes:
+about: 'Save your friends, fight off the vampire apocalypse, and survive the horrors
+  of freshman field hockey practice in #BLUD, a delightfully zany animated dungeon
+  crawler that blurs the line between action RPGs and hyperkinetic 90s cartoons. <br><br>Slaying
+  the undead is just another day at high school for Becky Brewster, new kid in town
+  and latest in an ancient bloodline of spellcasting vampire hunters. Root out demonic
+  infestations through the town’s buzzing social media, and take selfies with demonic
+  forces to analyze their weaknesses. Power up your trusty fiend-thwacking field hockey
+  stick, and level up your latent magic skills through grimoires and school supplies.
+  Master the slaying game with the help of an eclectic cast of hilarious characters,
+  and teach the vampires a thing or two about messing with Carpentersville High!<br><br><strong>Slay
+  the vampiric legions</strong><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_03.gif?t=1730932868"
+  /><br>Take on a delightfully macabre menagerie of outrageously mutated animals and
+  vampirically possessed townsfolk. Engage in epic, energetic boss battles as you
+  defend your hometown.<br><br><strong>Small-town dungeon crawl</strong><br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_05.gif?t=1730932868"
+  /><br>Hunt the forces of evil in high school halls, convenience store aisles, and
+  shopping malls. Discover and accept missions from the town’s social media, and track
+  down evil (and other after-school plans) with modern tech.<br><br><strong>In a class
+  of your own</strong><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_06.gif?t=1730932868"
+  /><br>Freshman life is ultrafast-paced—even more so when you’re the vampire-hunting
+  new kid. Assist and befriend and assist a comic cast of quirky and memorable classmates
+  as you find your place as a teenager in the world of #BLUD.<br><br><strong>Upgrade
+  your field arsenal</strong><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_04.gif?t=1730932868"
+  /><br>Discover and earn upgrades for Becky’s trusty vampire-slaying field hockey
+  stick to face the mounting challenges, including handy attachments like a grappling
+  hook, shovel, and umbrella shield.<br><br><strong>Uncover fiendish mysteries</strong><br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_02.gif?t=1730932868"
+  /><br>Research the demonic legions through means archaic and new. Translate your
+  family’s mystic grimoire, and snap selfies with monsters to tag their strengths
+  and weaknesses (just don''t let them bite you!).<br><br><strong>Lively undead animated
+  adventure</strong><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_01.gif?t=1730932868"
+  /><br>#BLUD is brought to life by Exit 73 Studios, a team of creators with a passion
+  for traditional hand-drawn 2D illustration and animation, the joyous and jubilant
+  cartoons of the modern era, and game development.'
+detailed_description: 'Save your friends, fight off the vampire apocalypse, and survive
+  the horrors of freshman field hockey practice in #BLUD, a delightfully zany animated
+  dungeon crawler that blurs the line between action RPGs and hyperkinetic 90s cartoons.
+  <br><br>Slaying the undead is just another day at high school for Becky Brewster,
+  new kid in town and latest in an ancient bloodline of spellcasting vampire hunters.
+  Root out demonic infestations through the town’s buzzing social media, and take
+  selfies with demonic forces to analyze their weaknesses. Power up your trusty fiend-thwacking
+  field hockey stick, and level up your latent magic skills through grimoires and
+  school supplies. Master the slaying game with the help of an eclectic cast of hilarious
+  characters, and teach the vampires a thing or two about messing with Carpentersville
+  High!<br><br><strong>Slay the vampiric legions</strong><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_03.gif?t=1730932868"
+  /><br>Take on a delightfully macabre menagerie of outrageously mutated animals and
+  vampirically possessed townsfolk. Engage in epic, energetic boss battles as you
+  defend your hometown.<br><br><strong>Small-town dungeon crawl</strong><br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_05.gif?t=1730932868"
+  /><br>Hunt the forces of evil in high school halls, convenience store aisles, and
+  shopping malls. Discover and accept missions from the town’s social media, and track
+  down evil (and other after-school plans) with modern tech.<br><br><strong>In a class
+  of your own</strong><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_06.gif?t=1730932868"
+  /><br>Freshman life is ultrafast-paced—even more so when you’re the vampire-hunting
+  new kid. Assist and befriend and assist a comic cast of quirky and memorable classmates
+  as you find your place as a teenager in the world of #BLUD.<br><br><strong>Upgrade
+  your field arsenal</strong><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_04.gif?t=1730932868"
+  /><br>Discover and earn upgrades for Becky’s trusty vampire-slaying field hockey
+  stick to face the mounting challenges, including handy attachments like a grappling
+  hook, shovel, and umbrella shield.<br><br><strong>Uncover fiendish mysteries</strong><br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_02.gif?t=1730932868"
+  /><br>Research the demonic legions through means archaic and new. Translate your
+  family’s mystic grimoire, and snap selfies with monsters to tag their strengths
+  and weaknesses (just don''t let them bite you!).<br><br><strong>Lively undead animated
+  adventure</strong><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/extras/HG_BLUD_GIF_01.gif?t=1730932868"
+  /><br>#BLUD is brought to life by Exit 73 Studios, a team of creators with a passion
+  for traditional hand-drawn 2D illustration and animation, the joyous and jubilant
+  cartoons of the modern era, and game development.'
+languages: English, French, German, Japanese, Simplified Chinese, Spanish - Latin
+  America, Portuguese - Brazil, Korean
+reviews:
+support_info:
+  url: https://www.humblegames.com/contact-us/
+  email: info@exit73studios.com
+tags:
+- action
+- adventure
+- rpg
 ---
 

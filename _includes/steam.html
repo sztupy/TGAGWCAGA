@@ -14,6 +14,21 @@
     <div class="container">
         <div class="row gtr-200">
             <div class="col-4 col-12-mobile" id="sidebar">
+                {% if page.developers %}
+                <h3>Development</h3>
+                <p>{{ page.developers | array_to_sentence_string }}</p>
+                {% endif %}
+                {% if page.developers %}
+                <h3>Publishing</h3>
+                <p>{{ page.publishers | array_to_sentence_string }}</p>
+                {% endif %}
+                {% if page.release_date.coming_soon %}
+                <h3>Will release in</h3>
+                <p>{{page.release_date.date}}</p>
+                {% else %}
+                <h3>Released on</h3>
+                <p>{{page.release_date.date}}</p>
+                {% endif %}
                 <hr class="first" />
                 {% for movie in page.movies %}
                 <section>
@@ -28,7 +43,7 @@
                 {% endfor %}
                 <section>
                     <header>
-                        <h3><a href="#">Screenshots</a></h3>
+                        <h3>Screenshots</h3>
                     </header>
                     <div class="row gtr-50">
                         {% for screenshot in page.screenshots %}

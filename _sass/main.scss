@@ -364,6 +364,19 @@
 				text-align: center;
 			}
 		}
+
+	}
+
+	.boxed {
+		border: 1px solid black;
+		border-radius: 5px;
+		text-align: center;
+		padding: 1em;
+		transition: 1s;
+	}
+
+	.boxed:hover {
+		background-color: #f2f8fc;
 	}
 
 	.row > {

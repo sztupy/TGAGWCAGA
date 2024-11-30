@@ -1,0 +1,8 @@
+---
+title: Nominees - RPG
+permalink: /nominees/rpg
+layout: default
+---
+
+{% assign gamelist = site.games | where_exp: "item", "item.tags contains 'rpg'" | sort: 'featured', 'last' %}
+{% include gamelist.html %}

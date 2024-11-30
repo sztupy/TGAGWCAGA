@@ -1,20 +1,16 @@
----
-title: Nominees
-permalink: /nominees/
-layout: default
----
-
-{% assign gamelist = site.games | sort: 'featured', 'last' %}
 {% for game in gamelist %}
 
 {% assign mod3 = forloop.index0 | modulo: 3 %}
 {% if mod3 == 0 %}<div class="row">{% endif %}
 <article class="col-4 col-12-mobile special">
+    <div class="boxed">
     <a href="{{game.url | relative_url}}" class="image"><img src="{{ game.image }}" alt="" /></a>
     <header>
         <h3><a href="{{ game.url | relative_url}}">{{ game.title }}</a></h3>
     </header>
     <p>{{ game.description }}</p>
+    </div>
+    <br/>
 </article>
 {% if mod3 == 2 or forloop.last %}</div>{% endif %}
 

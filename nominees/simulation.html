@@ -1,0 +1,8 @@
+---
+title: Nominees - Simulation
+permalink: /nominees/simulation
+layout: default
+---
+
+{% assign gamelist = site.games | where_exp: "item", "item.tags contains 'simulation'" | sort: 'featured', 'last' %}
+{% include gamelist.html %}

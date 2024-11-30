@@ -1,0 +1,8 @@
+---
+title: Nominees - Casual
+permalink: /nominees/casual
+layout: default
+---
+
+{% assign gamelist = site.games | where_exp: "item", "item.tags contains 'casual'" | sort: 'featured', 'last' %}
+{% include gamelist.html %}

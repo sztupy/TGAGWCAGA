@@ -1,23 +1,95 @@
 ---
-title: "Boreas"
-description: "You've been wandering the seas for years. It's time to think about the future. Trade, improve your settlements, build relationships with the locals. Build your own safe haven!"
-image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/header.jpg?t=1727435313"
-capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/capsule_231x87.jpg?t=1727435313"
+title: Boreas
+description: You've been wandering the seas for years. It's time to think about the
+  future. Trade, improve your settlements, build relationships with the locals. Build
+  your own safe haven!
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/header.jpg?t=1727435313
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/capsule_231x87.jpg?t=1727435313
 categories: game
 steamid: 2488450
-screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_9f2aff7320e4de2208a43e831bae6934fe0fe3e3.600x338.jpg?t=1727435313","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_9f2aff7320e4de2208a43e831bae6934fe0fe3e3.1920x1080.jpg?t=1727435313"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_9a5f3cf995090b10922104e2e06d8c3d2d01acd5.600x338.jpg?t=1727435313","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_9a5f3cf995090b10922104e2e06d8c3d2d01acd5.1920x1080.jpg?t=1727435313"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_b321444355a7302897ce91260562adeabf63324e.600x338.jpg?t=1727435313","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_b321444355a7302897ce91260562adeabf63324e.1920x1080.jpg?t=1727435313"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_d5d7566cfbb3313efb986edd3b7da54f093ecddd.600x338.jpg?t=1727435313","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_d5d7566cfbb3313efb986edd3b7da54f093ecddd.1920x1080.jpg?t=1727435313"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_f060813492f5ab17cde86e747155b20b53a044e3.600x338.jpg?t=1727435313","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_f060813492f5ab17cde86e747155b20b53a044e3.1920x1080.jpg?t=1727435313"},{"id":5,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_92bd11dba8b4ccefc25258e2d4b99d299781e84c.600x338.jpg?t=1727435313","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_92bd11dba8b4ccefc25258e2d4b99d299781e84c.1920x1080.jpg?t=1727435313"}]
-movies: [{"id":256957127,"name":"Very first","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957127/movie.293x165.jpg?t=1688800407","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/256957127/movie480_vp9.webm?t=1688800407","max":"http://video.akamai.steamstatic.com/store_trailers/256957127/movie_max_vp9.webm?t=1688800407"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/256957127/movie480.mp4?t=1688800407","max":"http://video.akamai.steamstatic.com/store_trailers/256957127/movie_max.mp4?t=1688800407"},"highlight":true}]
-genres: ["Adventure","Indie","Simulation"]
-steam_categories: ["Single-player"]
-platforms: {"windows":true,"mac":false,"linux":false}
-developers: ["LOW PONY"]
-publishers: ["LOW PONY"]
-release_date: {"coming_soon":true,"date":"To be announced"}
-content_warning: {"ids":[],"notes":null}
-about: "<p class=\"bb_paragraph\"><strong>Boreas </strong>is a relaxing trading simulation with sea voyages. Set up trade between islands, improve your ship, run errands for the locals. And who knows what secrets the sea and land will reveal to you!</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>Ship and Sea</strong></p><p class=\"bb_paragraph\">Secrets and dangers. You never know if it's going to be calm or stormy. Competently steer your ship and it will take you to your destination.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>Trade</strong></p><p class=\"bb_paragraph\">The islanders are always happy to trade with you. Build lucrative routes, look for the best prices and save up for your dreams.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>Settlement Upgrade</strong></p><p class=\"bb_paragraph\">Help the inhabitants in word and deed and they will reciprocate in kind. Upgrade islands for access to new goods and quests.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p>"
-detailed_description: "<p class=\"bb_paragraph\"><strong>Boreas </strong>is a relaxing trading simulation with sea voyages. Set up trade between islands, improve your ship, run errands for the locals. And who knows what secrets the sea and land will reveal to you!</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>Ship and Sea</strong></p><p class=\"bb_paragraph\">Secrets and dangers. You never know if it's going to be calm or stormy. Competently steer your ship and it will take you to your destination.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>Trade</strong></p><p class=\"bb_paragraph\">The islanders are always happy to trade with you. Build lucrative routes, look for the best prices and save up for your dreams.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>Settlement Upgrade</strong></p><p class=\"bb_paragraph\">Help the inhabitants in word and deed and they will reciprocate in kind. Upgrade islands for access to new goods and quests.</p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p>"
-languages: "English<strong>*</strong>, French<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support"
-reviews: null
-support_info: {"url":"","email":"lowponygames@gmail.com"}
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_9f2aff7320e4de2208a43e831bae6934fe0fe3e3.600x338.jpg?t=1727435313
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_9f2aff7320e4de2208a43e831bae6934fe0fe3e3.1920x1080.jpg?t=1727435313
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_9a5f3cf995090b10922104e2e06d8c3d2d01acd5.600x338.jpg?t=1727435313
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_9a5f3cf995090b10922104e2e06d8c3d2d01acd5.1920x1080.jpg?t=1727435313
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_b321444355a7302897ce91260562adeabf63324e.600x338.jpg?t=1727435313
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_b321444355a7302897ce91260562adeabf63324e.1920x1080.jpg?t=1727435313
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_d5d7566cfbb3313efb986edd3b7da54f093ecddd.600x338.jpg?t=1727435313
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_d5d7566cfbb3313efb986edd3b7da54f093ecddd.1920x1080.jpg?t=1727435313
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_f060813492f5ab17cde86e747155b20b53a044e3.600x338.jpg?t=1727435313
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_f060813492f5ab17cde86e747155b20b53a044e3.1920x1080.jpg?t=1727435313
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_92bd11dba8b4ccefc25258e2d4b99d299781e84c.600x338.jpg?t=1727435313
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488450/ss_92bd11dba8b4ccefc25258e2d4b99d299781e84c.1920x1080.jpg?t=1727435313
+movies:
+- id: 256957127
+  name: Very first
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957127/movie.293x165.jpg?t=1688800407
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256957127/movie480_vp9.webm?t=1688800407
+    max: http://video.akamai.steamstatic.com/store_trailers/256957127/movie_max_vp9.webm?t=1688800407
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256957127/movie480.mp4?t=1688800407
+    max: http://video.akamai.steamstatic.com/store_trailers/256957127/movie_max.mp4?t=1688800407
+  highlight: true
+genres:
+- Adventure
+- Indie
+- Simulation
+steam_categories:
+- Single-player
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- LOW PONY
+publishers:
+- LOW PONY
+release_date:
+  coming_soon: true
+  date: To be announced
+content_warning:
+  ids: []
+  notes:
+about: <p class="bb_paragraph"><strong>Boreas </strong>is a relaxing trading simulation
+  with sea voyages. Set up trade between islands, improve your ship, run errands for
+  the locals. And who knows what secrets the sea and land will reveal to you!</p><p
+  class="bb_paragraph"></p><p class="bb_paragraph"><strong>Ship and Sea</strong></p><p
+  class="bb_paragraph">Secrets and dangers. You never know if it's going to be calm
+  or stormy. Competently steer your ship and it will take you to your destination.</p><p
+  class="bb_paragraph"></p><p class="bb_paragraph"><strong>Trade</strong></p><p class="bb_paragraph">The
+  islanders are always happy to trade with you. Build lucrative routes, look for the
+  best prices and save up for your dreams.</p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Settlement
+  Upgrade</strong></p><p class="bb_paragraph">Help the inhabitants in word and deed
+  and they will reciprocate in kind. Upgrade islands for access to new goods and quests.</p><p
+  class="bb_paragraph"></p><p class="bb_paragraph"></p>
+detailed_description: <p class="bb_paragraph"><strong>Boreas </strong>is a relaxing
+  trading simulation with sea voyages. Set up trade between islands, improve your
+  ship, run errands for the locals. And who knows what secrets the sea and land will
+  reveal to you!</p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Ship
+  and Sea</strong></p><p class="bb_paragraph">Secrets and dangers. You never know
+  if it's going to be calm or stormy. Competently steer your ship and it will take
+  you to your destination.</p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Trade</strong></p><p
+  class="bb_paragraph">The islanders are always happy to trade with you. Build lucrative
+  routes, look for the best prices and save up for your dreams.</p><p class="bb_paragraph"></p><p
+  class="bb_paragraph"><strong>Settlement Upgrade</strong></p><p class="bb_paragraph">Help
+  the inhabitants in word and deed and they will reciprocate in kind. Upgrade islands
+  for access to new goods and quests.</p><p class="bb_paragraph"></p><p class="bb_paragraph"></p>
+languages: English<strong>*</strong>, French<strong>*</strong>, Spanish - Spain<strong>*</strong>,
+  Simplified Chinese<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages
+  with full audio support
+reviews:
+support_info:
+  url: ''
+  email: lowponygames@gmail.com
+tags:
+- adventure
+- simulation
 ---
 

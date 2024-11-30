@@ -1,23 +1,128 @@
 ---
-title: "Lovux"
-description: "Lovux is a minimalist puzzle game where you try to break all glasses on the screen using different glass types and mechanics wisely. It offers a rich puzzle experience thanks to new mechanics added approximately every 13 levels."
-image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/header.jpg?t=1730808148"
-capsule_image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/capsule_231x87.jpg?t=1730808148"
+title: Lovux
+description: Lovux is a minimalist puzzle game where you try to break all glasses
+  on the screen using different glass types and mechanics wisely. It offers a rich
+  puzzle experience thanks to new mechanics added approximately every 13 levels.
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/header.jpg?t=1730808148
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/capsule_231x87.jpg?t=1730808148
 categories: game
 steamid: 2244630
-screenshots: [{"id":0,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_717c9a4b46d60ae85217858334564dcd1baf83f9.600x338.jpg?t=1730808148","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_717c9a4b46d60ae85217858334564dcd1baf83f9.1920x1080.jpg?t=1730808148"},{"id":1,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_f48751ae68a349a343fd82ad851edcdb2f3508a8.600x338.jpg?t=1730808148","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_f48751ae68a349a343fd82ad851edcdb2f3508a8.1920x1080.jpg?t=1730808148"},{"id":2,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_7fd4749ec8efe852dc3703a97ebad9c990ad8473.600x338.jpg?t=1730808148","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_7fd4749ec8efe852dc3703a97ebad9c990ad8473.1920x1080.jpg?t=1730808148"},{"id":3,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_d72a5472fe5c2e501e0b1712fc5c26a3ee85e7e7.600x338.jpg?t=1730808148","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_d72a5472fe5c2e501e0b1712fc5c26a3ee85e7e7.1920x1080.jpg?t=1730808148"},{"id":4,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_7254a17c8210b7c94eb6c41ae7b87143bd9794d0.600x338.jpg?t=1730808148","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_7254a17c8210b7c94eb6c41ae7b87143bd9794d0.1920x1080.jpg?t=1730808148"},{"id":5,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_2463e9d0e74f2a11e1ce8bcf6aa138713743b7a5.600x338.jpg?t=1730808148","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_2463e9d0e74f2a11e1ce8bcf6aa138713743b7a5.1920x1080.jpg?t=1730808148"},{"id":6,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_731f7b9d02512d3ef4f1d6d15e9273a4a20f7429.600x338.jpg?t=1730808148","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_731f7b9d02512d3ef4f1d6d15e9273a4a20f7429.1920x1080.jpg?t=1730808148"},{"id":7,"path_thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_1914dd9ab2ce3cd394af7ca2e3f3a26d59b8223b.600x338.jpg?t=1730808148","path_full":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_1914dd9ab2ce3cd394af7ca2e3f3a26d59b8223b.1920x1080.jpg?t=1730808148"}]
-movies: [{"id":256978408,"name":"Lovux Trailer","thumbnail":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256978408/movie.293x165.jpg?t=1698312413","webm":{"480":"http://video.akamai.steamstatic.com/store_trailers/256978408/movie480_vp9.webm?t=1698312413","max":"http://video.akamai.steamstatic.com/store_trailers/256978408/movie_max_vp9.webm?t=1698312413"},"mp4":{"480":"http://video.akamai.steamstatic.com/store_trailers/256978408/movie480.mp4?t=1698312413","max":"http://video.akamai.steamstatic.com/store_trailers/256978408/movie_max.mp4?t=1698312413"},"highlight":true}]
-genres: ["Casual","Indie"]
-steam_categories: ["Single-player","Steam Achievements","Full controller support","Steam Cloud","Family Sharing"]
-platforms: {"windows":true,"mac":true,"linux":true}
-developers: ["Mindlabor"]
-publishers: ["Mindlabor"]
-release_date: {"coming_soon":false,"date":"7 Jul, 2023"}
-content_warning: {"ids":[],"notes":null}
-about: "<strong>Lovux</strong> is a minimalist puzzle game where you try to break all glasses on the screen using different glass types and mechanics wisely. It offers a rich puzzle experience thanks to new mechanics added approximately every 13 levels.<h2 class=\"bb_tag\">Gameplay:</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>Discover the game on your own, no tutorials!<br></li><li>Break the whole line by activating the breakers<br></li><li>Create a line you will break by moving the glasses<br></li><li>Use breakers wisely<br></li><li>Use all 3 dimensions<br></li><li>Sometimes you'll have to think a bit</li></ul></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/gameplay620.gif?t=1730808148\" /><h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>New mechanics added every 13 levels<br></li><li>8 different mechanics in total<br></li><li>108 levels (from simple to insufferably difficult)<br></li><li>Simple, relaxing, peaceful puzzle experience<br></li><li>Full HD in all resolutions<br></li><li>Smooth animations<br></li><li>Good game feel<br></li><li>Gamepad support<br></li><li>Color themes<br></li><li>No text<br></li><li>Minimalist interface<br></li><li>Steam Achievements<br></li><li>Steam Cloud</li></ul></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/features620.gif?t=1730808148\" /><h2 class=\"bb_tag\">Controls:</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>You can play the whole game using only your mouse!</li></ul></ul><h2 class=\"bb_tag\">Music and Sound Design by Emir Mahi Uysal &lt;3</h2>"
-detailed_description: "<h1>DISCORD</h1><p><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/discord.gif?t=1730808148\" /></p><br><h1>About the Game</h1><strong>Lovux</strong> is a minimalist puzzle game where you try to break all glasses on the screen using different glass types and mechanics wisely. It offers a rich puzzle experience thanks to new mechanics added approximately every 13 levels.<h2 class=\"bb_tag\">Gameplay:</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>Discover the game on your own, no tutorials!<br></li><li>Break the whole line by activating the breakers<br></li><li>Create a line you will break by moving the glasses<br></li><li>Use breakers wisely<br></li><li>Use all 3 dimensions<br></li><li>Sometimes you'll have to think a bit</li></ul></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/gameplay620.gif?t=1730808148\" /><h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>New mechanics added every 13 levels<br></li><li>8 different mechanics in total<br></li><li>108 levels (from simple to insufferably difficult)<br></li><li>Simple, relaxing, peaceful puzzle experience<br></li><li>Full HD in all resolutions<br></li><li>Smooth animations<br></li><li>Good game feel<br></li><li>Gamepad support<br></li><li>Color themes<br></li><li>No text<br></li><li>Minimalist interface<br></li><li>Steam Achievements<br></li><li>Steam Cloud</li></ul></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/features620.gif?t=1730808148\" /><h2 class=\"bb_tag\">Controls:</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>You can play the whole game using only your mouse!</li></ul></ul><h2 class=\"bb_tag\">Music and Sound Design by Emir Mahi Uysal &lt;3</h2>"
-languages: "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian, Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian, Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Indonesian, Irish, K'iche', Kannada, Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa, Yoruba, Zulu"
-reviews: "“Nice and affordable alternative for those who like logic &amp; puzzle games.”<br>70/100 – Oyungezer<br><br>“It's like going to the gym except for your mind. Verdict: smashing!”<br>Gaming on Linux<br>"
-support_info: {"url":"https://mindlabor.dev/","email":"chisenoa@mindlabor.dev"}
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_717c9a4b46d60ae85217858334564dcd1baf83f9.600x338.jpg?t=1730808148
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_717c9a4b46d60ae85217858334564dcd1baf83f9.1920x1080.jpg?t=1730808148
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_f48751ae68a349a343fd82ad851edcdb2f3508a8.600x338.jpg?t=1730808148
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_f48751ae68a349a343fd82ad851edcdb2f3508a8.1920x1080.jpg?t=1730808148
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_7fd4749ec8efe852dc3703a97ebad9c990ad8473.600x338.jpg?t=1730808148
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_7fd4749ec8efe852dc3703a97ebad9c990ad8473.1920x1080.jpg?t=1730808148
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_d72a5472fe5c2e501e0b1712fc5c26a3ee85e7e7.600x338.jpg?t=1730808148
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_d72a5472fe5c2e501e0b1712fc5c26a3ee85e7e7.1920x1080.jpg?t=1730808148
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_7254a17c8210b7c94eb6c41ae7b87143bd9794d0.600x338.jpg?t=1730808148
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_7254a17c8210b7c94eb6c41ae7b87143bd9794d0.1920x1080.jpg?t=1730808148
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_2463e9d0e74f2a11e1ce8bcf6aa138713743b7a5.600x338.jpg?t=1730808148
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_2463e9d0e74f2a11e1ce8bcf6aa138713743b7a5.1920x1080.jpg?t=1730808148
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_731f7b9d02512d3ef4f1d6d15e9273a4a20f7429.600x338.jpg?t=1730808148
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_731f7b9d02512d3ef4f1d6d15e9273a4a20f7429.1920x1080.jpg?t=1730808148
+- id: 7
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_1914dd9ab2ce3cd394af7ca2e3f3a26d59b8223b.600x338.jpg?t=1730808148
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/ss_1914dd9ab2ce3cd394af7ca2e3f3a26d59b8223b.1920x1080.jpg?t=1730808148
+movies:
+- id: 256978408
+  name: Lovux Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256978408/movie.293x165.jpg?t=1698312413
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256978408/movie480_vp9.webm?t=1698312413
+    max: http://video.akamai.steamstatic.com/store_trailers/256978408/movie_max_vp9.webm?t=1698312413
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256978408/movie480.mp4?t=1698312413
+    max: http://video.akamai.steamstatic.com/store_trailers/256978408/movie_max.mp4?t=1698312413
+  highlight: true
+genres:
+- Casual
+- Indie
+steam_categories:
+- Single-player
+- Steam Achievements
+- Full controller support
+- Steam Cloud
+- Family Sharing
+platforms:
+  windows: true
+  mac: true
+  linux: true
+developers:
+- Mindlabor
+publishers:
+- Mindlabor
+release_date:
+  coming_soon: false
+  date: 7 Jul, 2023
+content_warning:
+  ids: []
+  notes:
+about: <strong>Lovux</strong> is a minimalist puzzle game where you try to break all
+  glasses on the screen using different glass types and mechanics wisely. It offers
+  a rich puzzle experience thanks to new mechanics added approximately every 13 levels.<h2
+  class="bb_tag">Gameplay:</h2><ul class="bb_ul"><ul class="bb_ul"><li>Discover the
+  game on your own, no tutorials!<br></li><li>Break the whole line by activating the
+  breakers<br></li><li>Create a line you will break by moving the glasses<br></li><li>Use
+  breakers wisely<br></li><li>Use all 3 dimensions<br></li><li>Sometimes you'll have
+  to think a bit</li></ul></ul><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/gameplay620.gif?t=1730808148"
+  /><h2 class="bb_tag">Features:</h2><ul class="bb_ul"><ul class="bb_ul"><li>New mechanics
+  added every 13 levels<br></li><li>8 different mechanics in total<br></li><li>108
+  levels (from simple to insufferably difficult)<br></li><li>Simple, relaxing, peaceful
+  puzzle experience<br></li><li>Full HD in all resolutions<br></li><li>Smooth animations<br></li><li>Good
+  game feel<br></li><li>Gamepad support<br></li><li>Color themes<br></li><li>No text<br></li><li>Minimalist
+  interface<br></li><li>Steam Achievements<br></li><li>Steam Cloud</li></ul></ul><br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/features620.gif?t=1730808148"
+  /><h2 class="bb_tag">Controls:</h2><ul class="bb_ul"><ul class="bb_ul"><li>You can
+  play the whole game using only your mouse!</li></ul></ul><h2 class="bb_tag">Music
+  and Sound Design by Emir Mahi Uysal &lt;3</h2>
+detailed_description: <h1>DISCORD</h1><p><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/discord.gif?t=1730808148"
+  /></p><br><h1>About the Game</h1><strong>Lovux</strong> is a minimalist puzzle game
+  where you try to break all glasses on the screen using different glass types and
+  mechanics wisely. It offers a rich puzzle experience thanks to new mechanics added
+  approximately every 13 levels.<h2 class="bb_tag">Gameplay:</h2><ul class="bb_ul"><ul
+  class="bb_ul"><li>Discover the game on your own, no tutorials!<br></li><li>Break
+  the whole line by activating the breakers<br></li><li>Create a line you will break
+  by moving the glasses<br></li><li>Use breakers wisely<br></li><li>Use all 3 dimensions<br></li><li>Sometimes
+  you'll have to think a bit</li></ul></ul><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/gameplay620.gif?t=1730808148"
+  /><h2 class="bb_tag">Features:</h2><ul class="bb_ul"><ul class="bb_ul"><li>New mechanics
+  added every 13 levels<br></li><li>8 different mechanics in total<br></li><li>108
+  levels (from simple to insufferably difficult)<br></li><li>Simple, relaxing, peaceful
+  puzzle experience<br></li><li>Full HD in all resolutions<br></li><li>Smooth animations<br></li><li>Good
+  game feel<br></li><li>Gamepad support<br></li><li>Color themes<br></li><li>No text<br></li><li>Minimalist
+  interface<br></li><li>Steam Achievements<br></li><li>Steam Cloud</li></ul></ul><br><img
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244630/extras/features620.gif?t=1730808148"
+  /><h2 class="bb_tag">Controls:</h2><ul class="bb_ul"><ul class="bb_ul"><li>You can
+  play the whole game using only your mouse!</li></ul></ul><h2 class="bb_tag">Music
+  and Sound Design by Emir Mahi Uysal &lt;3</h2>
+languages: English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech,
+  Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese
+  - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish
+  - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese,
+  Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bangla, Basque, Belarusian,
+  Bosnian, Catalan, Cherokee, Croatian, Dari, Estonian, Filipino, Galician, Georgian,
+  Gujarati, Hausa, Hebrew, Hindi, Icelandic, Igbo, Indonesian, Irish, K'iche', Kannada,
+  Kazakh, Khmer, Kinyarwanda, Konkani, Kyrgyz, Latvian, Lithuanian, Luxembourgish,
+  Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia,
+  Persian, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Scots, Serbian, Sindhi,
+  Sinhala, Slovak, Slovenian, Sorani, Sotho, Swahili, Tajik, Tamil, Tatar, Telugu,
+  Tigrinya, Tswana, Turkmen, Urdu, Uyghur, Uzbek, Valencian, Welsh, Wolof, Xhosa,
+  Yoruba, Zulu
+reviews: "“Nice and affordable alternative for those who like logic &amp; puzzle games.”<br>70/100
+  – Oyungezer<br><br>“It's like going to the gym except for your mind. Verdict: smashing!”<br>Gaming
+  on Linux<br>"
+support_info:
+  url: https://mindlabor.dev/
+  email: chisenoa@mindlabor.dev
+tags:
+- casual
 ---
 
