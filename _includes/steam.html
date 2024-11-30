@@ -35,8 +35,8 @@
                     <header>
                         <h3><a href="{{ movie.webm.max }}">{{ movie.name }}</a></h3>
                     </header>
-                    <p>
-                        <a href="{{ movie.webm.max }}" class="image fit"><img src="{{ movie.thumbnail }}" alt="{{movie.name}}" /></a>
+                    <p class="thumb">
+                        <a href="{{ movie.webm.max }}" class="image fit" data-poptrox="iframe,1200x800"><img src="{{ movie.thumbnail }}" alt="{{movie.name}}" /></a>
                     </p>
                 </section>
                 <hr />
@@ -47,7 +47,7 @@
                     </header>
                     <div class="row gtr-50">
                         {% for screenshot in page.screenshots %}
-                        <div class="col-4">
+                        <div class="col-4 thumb">
                             <a href="{{ screenshot.path_full }}" class="image fit" target="_blank"><img src="{{ screenshot.path_thumbnail }}" alt="Screenshot #{{screenshot.id}}" /></a>
                         </div>
                         {% endfor %}
