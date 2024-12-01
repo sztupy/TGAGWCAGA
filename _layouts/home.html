@@ -68,13 +68,20 @@
 						{% assign gamelist = site.games | sort: 'featured', 'last' %}
 						{% for game in gamelist limit:8 %}
 						<article>
-							<a href="{{game.url | relative_url}}" class="image featured"><img src="{{ game.image }}" alt="" /></a>
+							<a href="{{game.url | relative_url}}" class="image featured"><img src="{{ game.image }}" alt="{{ game.title }}" /></a>
 							<header>
 								<h3><a href="{{ game.url | relative_url}}">{{ game.title }}</a></h3>
 							</header>
 							<p>{{ game.description }}</p>
 						</article>
 						{% endfor %}
+						<article>
+							<a href="{{ '/nominees' | relative_url}}" class="image featured"><img src="{{ '/images/ga_header.jpg' | relative_url }}" alt="Explore more..." /></a>
+							<header>
+								<h3><a href="{{ '/nominees' | relative_url}}">Explore more...</a></h3>
+							</header>
+							<p>Check the other nominees as well</p>
+						</article>
 					</div>
 				</section>
 

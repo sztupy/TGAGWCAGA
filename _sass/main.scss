@@ -326,6 +326,8 @@
 /* Row */
 
 	.row {
+		padding-bottom: 2em;
+
 		@include html-grid((40px, 40px));
 
 		@include breakpoint('<=wide') {
@@ -371,8 +373,22 @@
 		border: 1px solid black;
 		border-radius: 5px;
 		text-align: center;
-		padding: 1em;
 		transition: 1s;
+		height: 100%;
+
+		header {
+			padding-left: 1em;
+			padding-right: 1em;
+		}
+
+		p {
+			padding-left: 1em;
+			padding-right: 1em;
+		}
+
+		img {
+			object-fit: cover;
+		}
 	}
 
 	.boxed:hover {
