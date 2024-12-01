@@ -2,8 +2,8 @@ title: The Game Awards for Games Who Can't Afford the Game Awards
 email: mail@tgagwcaga.com
 description: >-
   We love the Game Awards but we're struggling to pay rent. Showcasing and celebrating the amazing indies that also have no money for events!
-baseurl: "/TGAGWCAGA" # the subpath of your site, e.g. /blog
-url: "https://sztupy.hu" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://TheGAGWCAGA.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: images/logo.jpg
 
 sass:
