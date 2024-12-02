@@ -1,0 +1,102 @@
+---
+title: Duil
+description: Duil is an action-platformer with RPG elements. A mysterious journey
+  through a mysterious world full of secrets. Upgrade your hero and burn this world
+  to the ground. The final of the game will depend on your decisions.
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/header.jpg?t=1733131254
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/11cd5a69e26acb7fb0188c7d179b6d4096cc0a10/capsule_231x87.jpg?t=1733131254
+categories: game
+steamid: 1462030
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_6de77ddf11668b941d536b066d5017792381ebba.600x338.jpg?t=1733131254
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_6de77ddf11668b941d536b066d5017792381ebba.1920x1080.jpg?t=1733131254
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_a01702ed6285d8fe52c56b20e6b08bc12a9533c6.600x338.jpg?t=1733131254
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_a01702ed6285d8fe52c56b20e6b08bc12a9533c6.1920x1080.jpg?t=1733131254
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_5e779b9ebd4fc7233e8511b835526c6b2cceb718.600x338.jpg?t=1733131254
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_5e779b9ebd4fc7233e8511b835526c6b2cceb718.1920x1080.jpg?t=1733131254
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_e516e60fa4cdd71a490ca67684d656446f52c994.600x338.jpg?t=1733131254
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_e516e60fa4cdd71a490ca67684d656446f52c994.1920x1080.jpg?t=1733131254
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_42000457e78aa1d0b70f8fb3b0124b8520fef3fb.600x338.jpg?t=1733131254
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_42000457e78aa1d0b70f8fb3b0124b8520fef3fb.1920x1080.jpg?t=1733131254
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_d12d318820960d0b485fc7a3a0945ed890919a94.600x338.jpg?t=1733131254
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_d12d318820960d0b485fc7a3a0945ed890919a94.1920x1080.jpg?t=1733131254
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_1d69626f699301cb7848c220759dcd05d226cd9c.600x338.jpg?t=1733131254
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/ss_1d69626f699301cb7848c220759dcd05d226cd9c.1920x1080.jpg?t=1733131254
+movies:
+- id: 256807328
+  name: Duil Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256807328/b69858eb306422d4c769f2fdb70b39f73fe54bf0/movie_600x337.jpg?t=1733110997
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256807328/movie480_vp9.webm?t=1733110997
+    max: http://video.akamai.steamstatic.com/store_trailers/256807328/movie_max_vp9.webm?t=1733110997
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256807328/movie480.mp4?t=1733110997
+    max: http://video.akamai.steamstatic.com/store_trailers/256807328/movie_max.mp4?t=1733110997
+  highlight: true
+genres:
+- Action
+- Adventure
+- Indie
+- RPG
+steam_categories:
+- Single-player
+- Steam Achievements
+- Full controller support
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- JL studio
+publishers:
+- JL studio
+release_date:
+  coming_soon: true
+  date: To be announced
+content_warning:
+  ids: []
+  notes:
+about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/extras/2Wishlist_add1.gif?t=1733131254"
+  /><br><br>The Kingdom of Targat was destroyed by the invading army of evil headed
+  Vizruvil. The whole family was executed and thrown to the dogs, Duil-the main character
+  was placed in prison and doomed to suffer. But nothing lasts forever, and by chance,
+  the hero is freed from the shackles. You have to find out what happened and take
+  revenge on the aggressor.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/extras/Duil_45_small3.gif?t=1733131254"
+  /><br><br><ul class="bb_ul"><li>An exciting Action RPG in a mysterious world<br></li><li>
+  Non-linear story with multiple final<br></li><li> Fierce battles with enemies and
+  bosses<br></li><li> Lots of weapons, magic and abilities of the hero<br></li><li>
+  Inventory and character upgrade<br></li><li> A variety of options for improving
+  skills<br></li><li> Random generation of levels<br></li><li> Different ways of passing<br></li><li>
+  Replayability</li></ul><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/extras/gif2.gif?t=1733131254"
+  />
+detailed_description: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/extras/2Wishlist_add1.gif?t=1733131254"
+  /><br><br>The Kingdom of Targat was destroyed by the invading army of evil headed
+  Vizruvil. The whole family was executed and thrown to the dogs, Duil-the main character
+  was placed in prison and doomed to suffer. But nothing lasts forever, and by chance,
+  the hero is freed from the shackles. You have to find out what happened and take
+  revenge on the aggressor.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/extras/Duil_45_small3.gif?t=1733131254"
+  /><br><br><ul class="bb_ul"><li>An exciting Action RPG in a mysterious world<br></li><li>
+  Non-linear story with multiple final<br></li><li> Fierce battles with enemies and
+  bosses<br></li><li> Lots of weapons, magic and abilities of the hero<br></li><li>
+  Inventory and character upgrade<br></li><li> A variety of options for improving
+  skills<br></li><li> Random generation of levels<br></li><li> Different ways of passing<br></li><li>
+  Replayability</li></ul><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462030/extras/gif2.gif?t=1733131254"
+  />
+languages: English, French, German, Spanish - Spain, Simplified Chinese, Korean, Russian
+reviews:
+support_info:
+  url: ''
+  email: info.jlapps@gmail.com
+tags:
+- action
+- adventure
+- rpg
+---
+

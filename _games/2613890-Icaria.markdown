@@ -1,0 +1,120 @@
+---
+title: Icaria
+description: Automate a team of robots to gather resources, scale up production, reshape
+  terrain, and expand your colony on a procedurally generated alien world.
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/header.jpg?t=1729356745
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/capsule_231x87.jpg?t=1729356745
+categories: game
+steamid: 2613890
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_a9a782ed0cb596b4147dee780feae21cf218d19e.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_a9a782ed0cb596b4147dee780feae21cf218d19e.1920x1080.jpg?t=1729356745
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_42c5a2605415109c5bc64713c76300b73863c419.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_42c5a2605415109c5bc64713c76300b73863c419.1920x1080.jpg?t=1729356745
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_b8b9772ae255b259f39371a75960df8bd9929394.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_b8b9772ae255b259f39371a75960df8bd9929394.1920x1080.jpg?t=1729356745
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_471e83ed3c039182fb3b5d084d6d95ea62746810.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_471e83ed3c039182fb3b5d084d6d95ea62746810.1920x1080.jpg?t=1729356745
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_3f9dc5f17bb3728c40d4379bbd229e9db1f959c1.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_3f9dc5f17bb3728c40d4379bbd229e9db1f959c1.1920x1080.jpg?t=1729356745
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_cca522301a201651d5b4fba24623cf8c207b5308.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_cca522301a201651d5b4fba24623cf8c207b5308.1920x1080.jpg?t=1729356745
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_07149c7b62f271813a2f6559effb8fe34b820636.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_07149c7b62f271813a2f6559effb8fe34b820636.1920x1080.jpg?t=1729356745
+- id: 7
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_5a1202f6c8582c28a2a49338dc398fa00e04013d.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_5a1202f6c8582c28a2a49338dc398fa00e04013d.1920x1080.jpg?t=1729356745
+- id: 8
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_70afb4d3f838fdfe8399507756520affe5ad5dce.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_70afb4d3f838fdfe8399507756520affe5ad5dce.1920x1080.jpg?t=1729356745
+- id: 9
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_627b4f5c2a4fa28eb50f2b090618154b0501cb48.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_627b4f5c2a4fa28eb50f2b090618154b0501cb48.1920x1080.jpg?t=1729356745
+- id: 10
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_f750c8b44b81f18d0d693ff4553ba1d8da6692f3.600x338.jpg?t=1729356745
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/ss_f750c8b44b81f18d0d693ff4553ba1d8da6692f3.1920x1080.jpg?t=1729356745
+movies:
+- id: 256972572
+  name: Icaria Reveal Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256972572/movie.293x165.jpg?t=1696377543
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256972572/movie480_vp9.webm?t=1696377543
+    max: http://video.akamai.steamstatic.com/store_trailers/256972572/movie_max_vp9.webm?t=1696377543
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/256972572/movie480.mp4?t=1696377543
+    max: http://video.akamai.steamstatic.com/store_trailers/256972572/movie_max.mp4?t=1696377543
+  highlight: true
+genres:
+- Simulation
+steam_categories:
+- Single-player
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- Blindsight Games LLC
+publishers:
+- Blindsight Games LLC
+release_date:
+  coming_soon: true
+  date: Q1 2025
+content_warning:
+  ids: []
+  notes:
+about: Automate a team of robots to gather resources, scale up production, reshape
+  terrain, and expand your colony on a procedurally generated alien world.<h2 class="bb_tag">Explore
+  a procedural world</h2>Every game you are exploring a different planet, with a different
+  set of resources and biomes that present unique challenge. You start able to only
+  see a small area, but as you progress you build out a radio network and unlock more
+  of the world. <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/extras/Montage.gif?t=1729356745"
+  /><h2 class="bb_tag">Collect resources</h2>Expanding your colony requires ever increasing
+  quantity of resources. Luckily, the planet you're on is ripe with them to find and
+  use. <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/extras/Mine2.gif?t=1729356745"
+  /><h2 class="bb_tag">Automate Everything</h2>Anything you can do you can automate.
+  It becomes a necessity as your colony grows larger, and recipes get more complex.
+  <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/extras/UIGIF.gif?t=1729356745"
+  /><h2 class="bb_tag">Reshape the Terrain</h2>As the resources near your base run
+  dry, you need to look farther to continue expansion. Build roads, pathways, quarries,
+  bridges, and other structures to extract and transport materials. <br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/extras/RoadGIF.gif?t=1729356745"
+  /><h2 class="bb_tag">Features</h2><ul class="bb_ul"><li> Single-player colony-builder<br></li><li>
+  Automatable robots and factories<br></li><li> Procedurally generated voxel world<br></li><li>
+  Mutable terrain<br></li><li> An easy-to-learn visual scripting language<br></li><li>
+  Sharable scripts<br></li><li> Fog-of-war and power mechanics<br></li><li> Crafting</li></ul>
+detailed_description: Automate a team of robots to gather resources, scale up production,
+  reshape terrain, and expand your colony on a procedurally generated alien world.<h2
+  class="bb_tag">Explore a procedural world</h2>Every game you are exploring a different
+  planet, with a different set of resources and biomes that present unique challenge.
+  You start able to only see a small area, but as you progress you build out a radio
+  network and unlock more of the world. <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/extras/Montage.gif?t=1729356745"
+  /><h2 class="bb_tag">Collect resources</h2>Expanding your colony requires ever increasing
+  quantity of resources. Luckily, the planet you're on is ripe with them to find and
+  use. <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/extras/Mine2.gif?t=1729356745"
+  /><h2 class="bb_tag">Automate Everything</h2>Anything you can do you can automate.
+  It becomes a necessity as your colony grows larger, and recipes get more complex.
+  <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/extras/UIGIF.gif?t=1729356745"
+  /><h2 class="bb_tag">Reshape the Terrain</h2>As the resources near your base run
+  dry, you need to look farther to continue expansion. Build roads, pathways, quarries,
+  bridges, and other structures to extract and transport materials. <br><img class="bb_img"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613890/extras/RoadGIF.gif?t=1729356745"
+  /><h2 class="bb_tag">Features</h2><ul class="bb_ul"><li> Single-player colony-builder<br></li><li>
+  Automatable robots and factories<br></li><li> Procedurally generated voxel world<br></li><li>
+  Mutable terrain<br></li><li> An easy-to-learn visual scripting language<br></li><li>
+  Sharable scripts<br></li><li> Fog-of-war and power mechanics<br></li><li> Crafting</li></ul>
+languages: English
+reviews:
+support_info:
+  url: ''
+  email: contactblindsightgames@gmail.com
+tags:
+- simulation
+---
+

@@ -1,0 +1,162 @@
+---
+title: Crab God
+description: Crab God is an atmospheric underwater strategy game. Guide your Crabling
+  colony through wild ocean depths, and defend the egg of the next Crab God.Restore
+  and protect diverse coral reefs, making a difference in the real world as you progress
+  in-game. Make waves, praise the claw!
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/header.jpg?t=1731492662
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/37dec62457341763e027d2759b9663cfaf3968b0/capsule_231x87.jpg?t=1731492662
+categories: game
+steamid: 2289390
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_71e7fe9ec799c67d00b36254aa8f0df9987a7c34.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_71e7fe9ec799c67d00b36254aa8f0df9987a7c34.1920x1080.jpg?t=1731492662
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_22ca72365f038c8526ef3a728267902b805da300.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_22ca72365f038c8526ef3a728267902b805da300.1920x1080.jpg?t=1731492662
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_b3bd00e9d0fff1c7657a711ee1b2b2b16dab4742.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_b3bd00e9d0fff1c7657a711ee1b2b2b16dab4742.1920x1080.jpg?t=1731492662
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_a4eaf1336e51044d5143bf01b6fe3d867ef9b762.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_a4eaf1336e51044d5143bf01b6fe3d867ef9b762.1920x1080.jpg?t=1731492662
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_15eca29c7d122eddcfe59051572ba51ad2b79a8f.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_15eca29c7d122eddcfe59051572ba51ad2b79a8f.1920x1080.jpg?t=1731492662
+- id: 5
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_e18f14d9e018d64d48fa9cf81e5f4e8f79c9c7f0.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_e18f14d9e018d64d48fa9cf81e5f4e8f79c9c7f0.1920x1080.jpg?t=1731492662
+- id: 6
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_b6d4fef34ca768b7291f8ade6daa1eb413ee1c5c.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_b6d4fef34ca768b7291f8ade6daa1eb413ee1c5c.1920x1080.jpg?t=1731492662
+- id: 7
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_d860ab3eec723e4017d442fc1e68fb6359f5e55a.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_d860ab3eec723e4017d442fc1e68fb6359f5e55a.1920x1080.jpg?t=1731492662
+- id: 8
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_d1f05566d6117625383fad33fca2cea81c32da52.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_d1f05566d6117625383fad33fca2cea81c32da52.1920x1080.jpg?t=1731492662
+- id: 9
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_e2737d254d489839b1569b357e5eebd3fab5d3eb.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_e2737d254d489839b1569b357e5eebd3fab5d3eb.1920x1080.jpg?t=1731492662
+- id: 10
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_89aa74bc879abed1a54830161ad9e274c74cd90b.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_89aa74bc879abed1a54830161ad9e274c74cd90b.1920x1080.jpg?t=1731492662
+- id: 11
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_07baab6d58a4317107d630bb99a4c048d57ac168.600x338.jpg?t=1731492662
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/ss_07baab6d58a4317107d630bb99a4c048d57ac168.1920x1080.jpg?t=1731492662
+movies:
+- id: 257053481
+  name: Crab God - Release Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257053481/movie.293x165.jpg?t=1725876031
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257053481/movie480_vp9.webm?t=1725876031
+    max: http://video.akamai.steamstatic.com/store_trailers/257053481/movie_max_vp9.webm?t=1725876031
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257053481/movie480.mp4?t=1725876031
+    max: http://video.akamai.steamstatic.com/store_trailers/257053481/movie_max.mp4?t=1725876031
+  highlight: true
+- id: 257030086
+  name: Crab God - IGN LIVE 2024
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030086/movie.293x165.jpg?t=1725876040
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257030086/movie480_vp9.webm?t=1725876040
+    max: http://video.akamai.steamstatic.com/store_trailers/257030086/movie_max_vp9.webm?t=1725876040
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257030086/movie480.mp4?t=1725876040
+    max: http://video.akamai.steamstatic.com/store_trailers/257030086/movie_max.mp4?t=1725876040
+  highlight: true
+genres:
+- Adventure
+- Indie
+- Simulation
+- Strategy
+steam_categories:
+- Single-player
+- Steam Achievements
+- Full controller support
+- Steam Cloud
+- Family Sharing
+platforms:
+  windows: true
+  mac: false
+  linux: false
+developers:
+- Chaos Theory Games
+publishers:
+- Firesquid
+release_date:
+  coming_soon: false
+  date: 20 Jun, 2024
+content_warning:
+  ids: []
+  notes:
+about: "Become the Guardian of the Abyss and lead the Great Migration to bring forth
+  the next Crab God \U0001F980 Use your growing knowledge and great power to command
+  your loveable crab babies (Crablings) to restore your ocean domain and protect your
+  successor’s egg as you venture into the watery depths.<br><br><img class=\"bb_img\"
+  src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CrabGod-crablings-GIF1.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\">Grow Your Crabling Colony</h2>Raise your Crablings! Nurture
+  their personalities and potential as they worship you, build mighty coral reefs,
+  fend off threats, and collect food for the journey ahead. Name them. Upgrade them.
+  Grow your unique colony and guide them with your mighty claw as they become the
+  next generation of ocean caretakers.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CrabGod-enviro-GIF2.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\">Lead the Great Migration</h2>It is time for a new Crab God
+  to rise and protect the oceans and it is your job to lead a successful migration,
+  taking your egg to the depths where it can hatch. Balance the growth of your colony
+  with the safety of your egg, otherwise, you will need to return to the shallows
+  and start the migration anew.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CrabGod-combat_GIF3.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\">Cultivate a Vibrant Underwater Ecosystem</h2>Reintroduce
+  a healthy and vibrant diversity back to the ocean, and protect it from predators
+  seeking easy prey. Varied sea life will sustain your colony. Unlock new combinations
+  of flora and fauna to create a beautiful underwater environment.<br><br><img class=\"bb_img\"
+  src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CrabGod-eco-GIF4.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\">Real World Change</h2>Working with dots.eco, your in-game
+  progression will help contribute to actual ocean conservation efforts. As you cultivate
+  the great reefs of the Crab God, you will also be helping to sustain the beautiful
+  world environment that inspires games like ours.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CustomizationGif1b.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\"><strong>!UPDATE!</strong> Crabling Customisation</h2>Make
+  each of your precious Crablings unique by customising their color, accessories,
+  tools and more! You can even unlock little fish buddies to keep them company as
+  you play."
+detailed_description: "Become the Guardian of the Abyss and lead the Great Migration
+  to bring forth the next Crab God \U0001F980 Use your growing knowledge and great
+  power to command your loveable crab babies (Crablings) to restore your ocean domain
+  and protect your successor’s egg as you venture into the watery depths.<br><br><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CrabGod-crablings-GIF1.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\">Grow Your Crabling Colony</h2>Raise your Crablings! Nurture
+  their personalities and potential as they worship you, build mighty coral reefs,
+  fend off threats, and collect food for the journey ahead. Name them. Upgrade them.
+  Grow your unique colony and guide them with your mighty claw as they become the
+  next generation of ocean caretakers.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CrabGod-enviro-GIF2.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\">Lead the Great Migration</h2>It is time for a new Crab God
+  to rise and protect the oceans and it is your job to lead a successful migration,
+  taking your egg to the depths where it can hatch. Balance the growth of your colony
+  with the safety of your egg, otherwise, you will need to return to the shallows
+  and start the migration anew.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CrabGod-combat_GIF3.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\">Cultivate a Vibrant Underwater Ecosystem</h2>Reintroduce
+  a healthy and vibrant diversity back to the ocean, and protect it from predators
+  seeking easy prey. Varied sea life will sustain your colony. Unlock new combinations
+  of flora and fauna to create a beautiful underwater environment.<br><br><img class=\"bb_img\"
+  src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CrabGod-eco-GIF4.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\">Real World Change</h2>Working with dots.eco, your in-game
+  progression will help contribute to actual ocean conservation efforts. As you cultivate
+  the great reefs of the Crab God, you will also be helping to sustain the beautiful
+  world environment that inspires games like ours.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289390/extras/CustomizationGif1b.gif?t=1731492662\"
+  /><h2 class=\"bb_tag\"><strong>!UPDATE!</strong> Crabling Customisation</h2>Make
+  each of your precious Crablings unique by customising their color, accessories,
+  tools and more! You can even unlock little fish buddies to keep them company as
+  you play."
+languages: English, French, Italian, German, Spanish - Spain, Indonesian, Japanese,
+  Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Turkish,
+  Ukrainian
+reviews:
+support_info:
+  url: https://firesquid.games/
+  email: contact@firesquid.fr
+tags:
+- adventure
+- simulation
+- strategy
+---
+

@@ -1,0 +1,95 @@
+---
+title: Incrate
+description: Incrate is a mind-warping 2D/3D puzzle game within a crate! Bend reality
+  and manipulate your perspective to solve the puzzles and escape!
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/header.jpg?t=1732173815
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/198df60946fc8bfbd810a93d09d0c9293fa7c975/capsule_231x87.jpg?t=1732173815
+categories: game
+steamid: 3250330
+screenshots:
+- id: 0
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_4858136f65641bc10435fb139282e7bdf3af070d.600x338.jpg?t=1732173815
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_4858136f65641bc10435fb139282e7bdf3af070d.1920x1080.jpg?t=1732173815
+- id: 1
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_4f0409a72156522ae97ffdba7a267c5a08fd32b3.600x338.jpg?t=1732173815
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_4f0409a72156522ae97ffdba7a267c5a08fd32b3.1920x1080.jpg?t=1732173815
+- id: 2
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_51947493133198795c2fee946d3cce217339d439.600x338.jpg?t=1732173815
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_51947493133198795c2fee946d3cce217339d439.1920x1080.jpg?t=1732173815
+- id: 3
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_a730530dd7fcfb65872b367499c38e64af12a205.600x338.jpg?t=1732173815
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_a730530dd7fcfb65872b367499c38e64af12a205.1920x1080.jpg?t=1732173815
+- id: 4
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_4299e36d62ff366510a1d51bd8c1ee71b6c1f8bd.600x338.jpg?t=1732173815
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/ss_4299e36d62ff366510a1d51bd8c1ee71b6c1f8bd.1920x1080.jpg?t=1732173815
+movies:
+- id: 257069570
+  name: Teaser Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069570/def50b70537da8b10c1a9582cc1f6bdc222c1147/movie_600x337.jpg?t=1732034105
+  webm:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257069570/movie480_vp9.webm?t=1732034105
+    max: http://video.akamai.steamstatic.com/store_trailers/257069570/movie_max_vp9.webm?t=1732034105
+  mp4:
+    '480': http://video.akamai.steamstatic.com/store_trailers/257069570/movie480.mp4?t=1732034105
+    max: http://video.akamai.steamstatic.com/store_trailers/257069570/movie_max.mp4?t=1732034105
+  highlight: true
+genres:
+- Casual
+- Indie
+- Strategy
+steam_categories:
+- Single-player
+- Full controller support
+platforms:
+  windows: true
+  mac: false
+  linux: true
+developers:
+- Mikeware
+publishers:
+- Mikeware
+release_date:
+  coming_soon: true
+  date: '2025'
+content_warning:
+  ids: []
+  notes:
+about: <p class="bb_paragraph"><strong>Incrate</strong> is a mind-warping 2D/3D puzzle
+  game contained within a crate! You've been mysteriously trapped in a bizarre box-shaped
+  prison. Rotating the prison will twist your notions of perspective. Bend reality
+  to your whim and manipulate your world and the things in it to solve the puzzles
+  and escape!</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/extras/Perspective1.gif?t=1732173815"
+  /></p><p class="bb_paragraph">You find yourself suddenly uplifted from your life
+  and discover you're an inmate in a crate with no recollection of how or why you
+  got there. The crate is an otherworldly prison contained within a boxed world. The
+  local inhabitants that greet and guide you seem to be a despondent guard and mysterious
+  ghost...</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/extras/Perspective2.gif?t=1732173815"
+  /></p><p class="bb_paragraph">The ghost provides you with a new perspective to manipulate
+  your prison to escape! Will you escape? Will you discover how you arrived here or
+  who imprisoned you? Only one way to find out...<br><br><i>Trailer Music by Zoe Wynns
+  (Contagonist)</i></p>
+detailed_description: <p class="bb_paragraph"><strong>Incrate</strong> is a mind-warping
+  2D/3D puzzle game contained within a crate! You've been mysteriously trapped in
+  a bizarre box-shaped prison. Rotating the prison will twist your notions of perspective.
+  Bend reality to your whim and manipulate your world and the things in it to solve
+  the puzzles and escape!</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/extras/Perspective1.gif?t=1732173815"
+  /></p><p class="bb_paragraph">You find yourself suddenly uplifted from your life
+  and discover you're an inmate in a crate with no recollection of how or why you
+  got there. The crate is an otherworldly prison contained within a boxed world. The
+  local inhabitants that greet and guide you seem to be a despondent guard and mysterious
+  ghost...</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250330/extras/Perspective2.gif?t=1732173815"
+  /></p><p class="bb_paragraph">The ghost provides you with a new perspective to manipulate
+  your prison to escape! Will you escape? Will you discover how you arrived here or
+  who imprisoned you? Only one way to find out...<br><br><i>Trailer Music by Zoe Wynns
+  (Contagonist)</i></p>
+languages: English<strong>*</strong><br><strong>*</strong>languages with full audio
+  support
+reviews:
+support_info:
+  url: https://www.mikeware.com/
+  email: questions@mikeware.com
+tags:
+- casual
+- strategy
+---
+
