@@ -22,9 +22,20 @@ platforms:
 developers:
 - Breach VR
 - Adam Krupicka
+screenshots:
+- id: 0
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMjk0NTMxNS8xNzYzMTQyMy5qcGc=/347x500/BI9oNr.jpg
+  path_full: https://img.itch.zone/aW1hZ2UvMjk0NTMxNS8xNzYzMTQyMy5qcGc=/original/ffwwzz.jpg
+- id: 1
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMjk0NTMxNS8xNzYzMTQyMi5qcGc=/347x500/JarSMT.jpg
+  path_full: https://img.itch.zone/aW1hZ2UvMjk0NTMxNS8xNzYzMTQyMi5qcGc=/original/fEMCom.jpg
+- id: 2
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMjk0NTMxNS8xNzYzMTQyNC5qcGc=/347x500/3bBRUE.jpg
+  path_full: https://img.itch.zone/aW1hZ2UvMjk0NTMxNS8xNzYzMTQyNC5qcGc=/original/hm6aNR.jpg
 release_date:
   coming_soon: false
   date: '2024-09-12T09:26:52.000000000Z'
 tags:
 - adventure
 ---
+

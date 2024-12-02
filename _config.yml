@@ -17,6 +17,13 @@ collections:
 
 excerpt_separator: <!--more-->
 
+exclude:
+  - '*.rb'
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
 defaults:
   - scope:
       path: ""

@@ -1,0 +1,37 @@
+---
+title: LE FOL
+description: inspirado na jornada do louco, LE FOL conta a história de iris, uma mulher
+  perdida nos caminhos caósmicos
+image: https://img.itch.zone/aW1nLzExNDU1Nzc0LnBuZw==/315x250%23c/V6d8bH.png
+categories: game
+itchid: 1748277
+itchlink: https://zagoiris.itch.io/lefol
+genres:
+- art-book
+- card-game
+- multiple-endings
+- no-ai
+- point-and-click
+- puzzle
+- tarot
+platforms:
+- p_windows
+developers:
+- zagoiris
+screenshots:
+- id: 0
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMTc0ODI3Ny8xMTQ2MDU2OC5wbmc=/347x500/auapwj.png
+  path_full: https://img.itch.zone/aW1hZ2UvMTc0ODI3Ny8xMTQ2MDU2OC5wbmc=/original/BwGR77.png
+- id: 1
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMTc0ODI3Ny8xMDYxMzc4MS5wbmc=/347x500/Oxc8or.png
+  path_full: https://img.itch.zone/aW1hZ2UvMTc0ODI3Ny8xMDYxMzc4MS5wbmc=/original/JzZNy8.png
+- id: 2
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMTc0ODI3Ny8xMTQ2MDU2Ny5wbmc=/347x500/khXstn.png
+  path_full: https://img.itch.zone/aW1hZ2UvMTc0ODI3Ny8xMTQ2MDU2Ny5wbmc=/original/ozfXFr.png
+release_date:
+  coming_soon: false
+  date: '2022-11-25T16:27:19.000000000Z'
+tags:
+- unspecified
+---
+

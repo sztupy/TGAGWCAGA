@@ -25,9 +25,20 @@ developers:
 - BlueBrain
 - soiiwa
 - Tanatip Wongboonnak
+screenshots:
+- id: 0
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMjQ5MzgwOC8xNTAwOTgzMy5wbmc=/347x500/O51RBY.png
+  path_full: https://img.itch.zone/aW1hZ2UvMjQ5MzgwOC8xNTAwOTgzMy5wbmc=/original/U3ifFs.png
+- id: 1
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMjQ5MzgwOC8xNTAwOTgyMS5wbmc=/347x500/%2BlmVS1.png
+  path_full: https://img.itch.zone/aW1hZ2UvMjQ5MzgwOC8xNTAwOTgyMS5wbmc=/original/x9mkzD.png
+- id: 2
+  path_thumbnail: https://img.itch.zone/aW1hZ2UvMjQ5MzgwOC8xNTAwOTgyMy5wbmc=/347x500/UOXr1z.png
+  path_full: https://img.itch.zone/aW1hZ2UvMjQ5MzgwOC8xNTAwOTgyMy5wbmc=/original/qRSJG%2F.png
 release_date:
   coming_soon: false
   date: '2024-01-28T10:29:16.000000000Z'
 tags:
 - adventure
 ---
+
