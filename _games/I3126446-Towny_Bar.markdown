@@ -41,7 +41,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMzEyNjQ0Ni8xODY4MDgyNi5wbmc=/347x500/fu%2BAkr.png
   path_full: https://img.itch.zone/aW1hZ2UvMzEyNjQ0Ni8xODY4MDgyNi5wbmc=/original/Lr00Xa.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-11-22T08:24:02.000000000Z'
 tags:
 - simulation

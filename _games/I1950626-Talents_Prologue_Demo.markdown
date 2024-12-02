@@ -44,7 +44,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMTk1MDYyNi8xMTg2OTExMy5qcGc=/347x500/7D2oe1.jpg
   path_full: https://img.itch.zone/aW1hZ2UvMTk1MDYyNi8xMTg2OTExMy5qcGc=/original/RqpsO9.jpg
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2023-05-01T12:54:21.000000000Z'
 tags:
 - unspecified

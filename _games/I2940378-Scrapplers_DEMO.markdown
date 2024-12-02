@@ -40,7 +40,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMjk0MDM3OC8xNzYwOTEwMC5wbmc=/347x500/dHbBRw.png
   path_full: https://img.itch.zone/aW1hZ2UvMjk0MDM3OC8xNzYwOTEwMC5wbmc=/original/zBJLkK.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-09-02T14:31:05.000000000Z'
 tags:
 - action

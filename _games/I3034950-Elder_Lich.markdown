@@ -35,7 +35,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMzAzNDk1MC8xODIxNjQ5MS5wbmc=/347x500/2FJmHI.png
   path_full: https://img.itch.zone/aW1hZ2UvMzAzNDk1MC8xODIxNjQ5MS5wbmc=/original/ThhO3J.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-10-20T21:48:49.000000000Z'
 tags:
 - rpg

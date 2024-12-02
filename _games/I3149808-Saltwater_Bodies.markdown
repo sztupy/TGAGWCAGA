@@ -32,7 +32,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMzE0OTgwOC8xODgxODc0Ny5wbmc=/347x500/tEYJQQ.png
   path_full: https://img.itch.zone/aW1hZ2UvMzE0OTgwOC8xODgxODc0Ny5wbmc=/original/Xs1ll2.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-12-02T03:19:51.000000000Z'
 tags:
 - unspecified

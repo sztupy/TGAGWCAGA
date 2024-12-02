@@ -44,7 +44,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMjEwMDA5NC8xNjc0MzIyMC5wbmc=/347x500/CTJD4v.png
   path_full: https://img.itch.zone/aW1hZ2UvMjEwMDA5NC8xNjc0MzIyMC5wbmc=/original/%2FtmYD%2B.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-07-06T01:24:44.000000000Z'
 tags:
 - adventure

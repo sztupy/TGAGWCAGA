@@ -17,7 +17,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1nLzE4NjkwNDc0LnBuZw==/347x500/KuMv1d.png
   path_full: https://img.itch.zone/aW1nLzE4NjkwNDc0LnBuZw==/original/gOFkkA.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-12-02T01:46:53.000000000Z'
 tags:
 - unspecified

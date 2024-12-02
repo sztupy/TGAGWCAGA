@@ -41,7 +41,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMjg3ODc4MC8xODc4MjcwMy5wbmc=/347x500/S%2BtdMi.png
   path_full: https://img.itch.zone/aW1hZ2UvMjg3ODc4MC8xODc4MjcwMy5wbmc=/original/liCStF.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-12-01T22:16:52.000000000Z'
 tags:
 - action

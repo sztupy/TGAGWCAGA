@@ -33,7 +33,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMTk1MTY5NC8xNjU3NTgxOS5wbmc=/347x500/7jw6W9.png
   path_full: https://img.itch.zone/aW1hZ2UvMTk1MTY5NC8xNjU3NTgxOS5wbmc=/original/A1NH04.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-06-17T00:46:18.000000000Z'
 tags:
 - unspecified

@@ -28,7 +28,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMzE0NzY4My8xODgwMjgxNS5wbmc=/347x500/hEwIFO.png
   path_full: https://img.itch.zone/aW1hZ2UvMzE0NzY4My8xODgwMjgxNS5wbmc=/original/1tHR1g.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-12-01T04:34:10.000000000Z'
 tags:
 - unspecified

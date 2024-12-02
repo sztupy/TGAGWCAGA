@@ -83,7 +83,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMTk5Njc2Ny8xNzg5NDMzOS5wbmc=/347x500/q4y5oi.png
   path_full: https://img.itch.zone/aW1hZ2UvMTk5Njc2Ny8xNzg5NDMzOS5wbmc=/original/BL7sFO.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2023-04-01T09:32:37.000000000Z'
 tags:
 - rpg

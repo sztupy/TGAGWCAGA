@@ -36,7 +36,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMzEyNjI0Ny8xODczNjg5My5qcGVn/347x500/7LW5lg.jpeg
   path_full: https://img.itch.zone/aW1hZ2UvMzEyNjI0Ny8xODczNjg5My5qcGVn/original/%2BABFiw.jpeg
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-11-22T05:07:51.000000000Z'
 tags:
 - unspecified

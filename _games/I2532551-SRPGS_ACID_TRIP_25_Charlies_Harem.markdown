@@ -70,7 +70,7 @@ screenshots:
   path_thumbnail: https://img.itch.zone/aW1hZ2UvMjUzMjU1MS8xNjcyMDQzNS5wbmc=/347x500/klpaTj.png
   path_full: https://img.itch.zone/aW1hZ2UvMjUzMjU1MS8xNjcyMDQzNS5wbmc=/original/Ceog%2Ft.png
 release_date:
-  coming_soon: false
+  coming_soon: true
   date: '2024-02-16T19:10:43.000000000Z'
 tags:
 - strategy

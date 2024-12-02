@@ -83,6 +83,12 @@ games.each do |game|
       start_id += 1
     end
 
+    unreleased = false
+
+    if html_doc.xpath("//a[@href='https://itch.io/games/in-development']").length>0
+      unreleased = true
+    end
+
     File.open("_games/I#{id}-#{slug}.markdown","w+") do |out|
       out.puts <<~"DATA"
       ---
@@ -96,7 +102,7 @@ games.each do |game|
       platforms: #{data2['traits'].to_json}
       developers: #{(gd['authors']||[]).map{|a|a['name']}.to_json}
       screenshots: #{screenshots.to_json}
-      release_date: #{{ coming_soon: false, date: data2['published_at']}.to_json}
+      release_date: #{{ coming_soon: unreleased, date: data2['published_at']}.to_json}
       ---
 
       DATA
