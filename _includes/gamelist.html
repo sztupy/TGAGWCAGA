@@ -1,8 +1,6 @@
+<div class="row">
 {% for game in gamelist %}
-
-{% assign mod3 = forloop.index0 | modulo: 3 %}
-{% if mod3 == 0 %}<div class="row">{% endif %}
-<article class="col-4 col-12-mobile special">
+<article class="col-3 col-4-normal col-6-narrow col-12-mobile special">
     <div class="boxed">
     <a href="{{game.url | relative_url}}" class="image"><img src="{{ game.image }}" alt="{{game.title}}" /></a>
     <header>
@@ -12,6 +10,5 @@
     </div>
     <br/>
 </article>
-{% if mod3 == 2 or forloop.last %}</div>{% endif %}
-
 {% endfor %}
+</div>
