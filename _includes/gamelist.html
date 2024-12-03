@@ -1,10 +1,10 @@
-<div class="row">
+<div class="row gamelist">
 {% for game in gamelist %}
-<article class="col-3 col-4-normal col-6-narrow col-12-mobile special">
+<article class="col-3 col-4-normal col-6-narrow col-12-mobile special" data-featured="{{ game.featured }}">
     <div class="boxed">
-    <a href="{{game.url | relative_url}}" class="image"><img src="{{ game.image }}" alt="{{game.title}}" /></a>
+    <a href="{{game.url | relative_url }}" class="image"><img src="{{ game.image }}" alt="{{ game.title }}" /></a>
     <header>
-        <h3><a href="{{ game.url | relative_url}}">{{ game.title }}</a></h3>
+        <h3><a href="{{ game.url | relative_url }}">{{ game.title }}</a></h3>
     </header>
     <p>{{ game.description }}</p>
     </div>

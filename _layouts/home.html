@@ -10,7 +10,8 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}" />
-		<link rel="preload" href="{{ '/images/header.gif?v=' | append: site.github.build_revision | relative_url }}" as="image" />
+		<link rel="preload" href="{{ '/images/header.gif' }}" as="image" />
+		<link rel="preload" href="{{ '/nominees/data.json' }}" as="fetch" />
 		<noscript><link rel="stylesheet" href="{{ '/assets/css/noscript.css?v=' | append: site.github.build_revision | relative_url }}" /></noscript>
 		<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 		<link rel="icon" type="image/png" href="{{ '/favicon-96x96.png?v=' | append: site.github.build_revision | relative_url }}" sizes="96x96" />
@@ -70,7 +71,7 @@
 						<article>
 							<a href="{{game.url | relative_url}}" class="image featured"><img src="{{ game.image }}" alt="{{ game.title }}" /></a>
 							<header>
-								<h3><a href="{{ game.url | relative_url}}">{{ game.title }}</a></h3>
+								<h3><a href="{{ game.url | relative_url}}" class="title">{{ game.title }}</a></h3>
 							</header>
 							<p>{{ game.description }}</p>
 						</article>
@@ -78,7 +79,7 @@
 						<article>
 							<a href="{{ '/nominees' | relative_url}}" class="image featured"><img src="{{ '/images/ga_header.jpg' | relative_url }}" alt="Explore more..." /></a>
 							<header>
-								<h3><a href="{{ '/nominees' | relative_url}}">Explore more...</a></h3>
+								<h3><a href="{{ '/nominees' | relative_url}}" class="title">Explore more...</a></h3>
 							</header>
 							<p>Check the other nominees as well</p>
 						</article>

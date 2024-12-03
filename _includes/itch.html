@@ -22,8 +22,10 @@
                 <h3>Publishing</h3>
                 <p>{{ page.publishers | array_to_sentence_string }}</p>
                 {% endif %}
-                <h3>Released on</h3>
+                <h3>Published on</h3>
                 <p>{{page.release_date.date | date: "%-d %B %Y"}}</p>
+                <h3>Itch.io link</h3>
+                <p><a href="{{ page.itchlink }}">{{ page.itchlink }}</a></p>
                 <hr class="first" />
                 {% for movie in page.movies %}
                 <section>

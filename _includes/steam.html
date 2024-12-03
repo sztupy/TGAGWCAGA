@@ -30,6 +30,8 @@
                 <p>{{page.release_date.date}}</p>
                 {% endif %}
                 <hr class="first" />
+                <h3>Steam link</h3>
+                <p><a href="https://store.steampowered.com/app/{{ page.steamid }}">#{{ page.steamid }}</a></p>
                 {% for movie in page.movies %}
                 <section>
                     <header>

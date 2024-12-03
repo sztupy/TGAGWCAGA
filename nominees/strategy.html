@@ -4,5 +4,7 @@ permalink: /nominees/strategy
 layout: default
 ---
 
+<article><h3><a href="{{ '/nominees' | relative_url }}">&lt;&lt;&lt; Back to the categories</a></h3></article>
+
 {% assign gamelist = site.games | where_exp: "item", "item.tags contains 'strategy'" | sort: 'featured', 'last' %}
 {% include gamelist.html %}
