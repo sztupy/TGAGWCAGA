@@ -209,27 +209,27 @@
 						reelWidth = $reel[0].scrollWidth;
 						$t._update();
 					}).trigger('resize');
-
-					$.ajax('/nominees/data.json',{dataType:"json"}).done(function(data) {
-						for (var i=0; i<data.length; i++) {
-							data[i]['rnd'] = Math.random();
-							if (data[i]['featured']) {
-								data[i]['rnd'] *= 1.5;
-							}
-						}
-						data.sort(function(a,b) { return b['rnd'] - a['rnd'] });
-
-						for (var i=0; i<8; i++) {
-							var source = $(".reel article").eq(i);
-							source.find("a").attr("href",data[i]['url']);
-							source.find("a.title").html(data[i]['title']);
-							source.find("img").attr("src",data[i]['image']);
-							source.find("img").attr("alt",data[i]['title']);
-							source.find("p").html(data[i]['description']);
-						}
-					});
 				});
 
+		});
+
+		$.ajax('/nominees/data.json',{dataType:"json"}).done(function(data) {
+			for (var i=0; i<data.length; i++) {
+				data[i]['rnd'] = Math.random();
+				if (data[i]['featured']) {
+					data[i]['rnd'] *= 1.5;
+				}
+			}
+			data.sort(function(a,b) { return b['rnd'] - a['rnd'] });
+
+			for (var i=0; i<8; i++) {
+				var source = $(".reel article").eq(i);
+				source.find("a").attr("href",data[i]['url']);
+				source.find("a.title").html(data[i]['title']);
+				source.find("img").attr("src",data[i]['image']);
+				source.find("img").attr("alt",data[i]['title']);
+				source.find("p").html(data[i]['description']);
+			}
 		});
 
 		$('div.gamelist article').each(function() {
