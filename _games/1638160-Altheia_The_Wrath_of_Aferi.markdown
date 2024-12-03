@@ -53,11 +53,11 @@ movies:
   name: Altheia Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256968874/movie.293x165.jpg?t=1695200050
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256968874/movie480_vp9.webm?t=1695200050
-    max: http://video.akamai.steamstatic.com/store_trailers/256968874/movie_max_vp9.webm?t=1695200050
+    '480': https://video.akamai.steamstatic.com/store_trailers/256968874/movie480_vp9.webm?t=1695200050
+    max: https://video.akamai.steamstatic.com/store_trailers/256968874/movie_max_vp9.webm?t=1695200050
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256968874/movie480.mp4?t=1695200050
-    max: http://video.akamai.steamstatic.com/store_trailers/256968874/movie_max.mp4?t=1695200050
+    '480': https://video.akamai.steamstatic.com/store_trailers/256968874/movie480.mp4?t=1695200050
+    max: https://video.akamai.steamstatic.com/store_trailers/256968874/movie_max.mp4?t=1695200050
   highlight: true
 genres:
 - Action
@@ -139,4 +139,3 @@ tags:
 - action
 - adventure
 ---
-

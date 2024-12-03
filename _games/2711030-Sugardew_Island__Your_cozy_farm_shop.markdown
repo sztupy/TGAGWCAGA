@@ -53,11 +53,11 @@ movies:
   name: Sugardew Island - CozyQuest
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030385/24946e81bdf4f40831da87d2c1a8eb5cb54984fb/movie_600x337.jpg?t=1731585363
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030385/movie480_vp9.webm?t=1731585363
-    max: http://video.akamai.steamstatic.com/store_trailers/257030385/movie_max_vp9.webm?t=1731585363
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030385/movie480_vp9.webm?t=1731585363
+    max: https://video.akamai.steamstatic.com/store_trailers/257030385/movie_max_vp9.webm?t=1731585363
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030385/movie480.mp4?t=1731585363
-    max: http://video.akamai.steamstatic.com/store_trailers/257030385/movie_max.mp4?t=1731585363
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030385/movie480.mp4?t=1731585363
+    max: https://video.akamai.steamstatic.com/store_trailers/257030385/movie_max.mp4?t=1731585363
   highlight: true
 genres:
 - Casual
@@ -176,4 +176,3 @@ tags:
 - casual
 - simulation
 ---
-

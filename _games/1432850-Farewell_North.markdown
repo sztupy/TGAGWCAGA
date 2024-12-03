@@ -87,11 +87,11 @@ movies:
   name: Farewell North Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048819/movie.293x165.jpg?t=1724412955
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048819/movie480_vp9.webm?t=1724412955
-    max: http://video.akamai.steamstatic.com/store_trailers/257048819/movie_max_vp9.webm?t=1724412955
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048819/movie480_vp9.webm?t=1724412955
+    max: https://video.akamai.steamstatic.com/store_trailers/257048819/movie_max_vp9.webm?t=1724412955
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048819/movie480.mp4?t=1724412955
-    max: http://video.akamai.steamstatic.com/store_trailers/257048819/movie_max.mp4?t=1724412955
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048819/movie480.mp4?t=1724412955
+    max: https://video.akamai.steamstatic.com/store_trailers/257048819/movie_max.mp4?t=1724412955
   highlight: true
 genres:
 - Adventure
@@ -192,4 +192,3 @@ tags:
 - adventure
 - casual
 ---
-

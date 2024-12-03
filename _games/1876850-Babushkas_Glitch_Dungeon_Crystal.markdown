@@ -36,11 +36,11 @@ movies:
   name: Gameplay Trailer 2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062347/52b72815e649daba6d1069263b805e5f499a59ca/movie_600x337.jpg?t=1728256301
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062347/movie480_vp9.webm?t=1728256301
-    max: http://video.akamai.steamstatic.com/store_trailers/257062347/movie_max_vp9.webm?t=1728256301
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062347/movie480_vp9.webm?t=1728256301
+    max: https://video.akamai.steamstatic.com/store_trailers/257062347/movie_max_vp9.webm?t=1728256301
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062347/movie480.mp4?t=1728256301
-    max: http://video.akamai.steamstatic.com/store_trailers/257062347/movie_max.mp4?t=1728256301
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062347/movie480.mp4?t=1728256301
+    max: https://video.akamai.steamstatic.com/store_trailers/257062347/movie_max.mp4?t=1728256301
   highlight: true
 genres:
 - Action
@@ -109,4 +109,3 @@ tags:
 - action
 - adventure
 ---
-

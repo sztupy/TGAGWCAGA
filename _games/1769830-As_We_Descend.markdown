@@ -32,21 +32,21 @@ movies:
   name: Beta Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046500/movie.293x165.jpg?t=1723748213
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046500/movie480_vp9.webm?t=1723748213
-    max: http://video.akamai.steamstatic.com/store_trailers/257046500/movie_max_vp9.webm?t=1723748213
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046500/movie480_vp9.webm?t=1723748213
+    max: https://video.akamai.steamstatic.com/store_trailers/257046500/movie_max_vp9.webm?t=1723748213
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046500/movie480.mp4?t=1723748213
-    max: http://video.akamai.steamstatic.com/store_trailers/257046500/movie_max.mp4?t=1723748213
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046500/movie480.mp4?t=1723748213
+    max: https://video.akamai.steamstatic.com/store_trailers/257046500/movie_max.mp4?t=1723748213
   highlight: true
 - id: 257062943
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062943/8505d085c173a39ff12be84ea24e8b66bcf6020f/movie_600x337.jpg?t=1728588597
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062943/movie480_vp9.webm?t=1728588597
-    max: http://video.akamai.steamstatic.com/store_trailers/257062943/movie_max_vp9.webm?t=1728588597
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062943/movie480_vp9.webm?t=1728588597
+    max: https://video.akamai.steamstatic.com/store_trailers/257062943/movie_max_vp9.webm?t=1728588597
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062943/movie480.mp4?t=1728588597
-    max: http://video.akamai.steamstatic.com/store_trailers/257062943/movie_max.mp4?t=1728588597
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062943/movie480.mp4?t=1728588597
+    max: https://video.akamai.steamstatic.com/store_trailers/257062943/movie_max.mp4?t=1728588597
   highlight: true
 genres:
 - Strategy
@@ -134,4 +134,3 @@ support_info:
 tags:
 - strategy
 ---
-

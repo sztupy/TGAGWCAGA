@@ -47,21 +47,21 @@ movies:
   name: Closed Alpha Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257022622/movie.293x165.jpg?t=1726482943
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022622/movie480_vp9.webm?t=1726482943
-    max: http://video.akamai.steamstatic.com/store_trailers/257022622/movie_max_vp9.webm?t=1726482943
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022622/movie480_vp9.webm?t=1726482943
+    max: https://video.akamai.steamstatic.com/store_trailers/257022622/movie_max_vp9.webm?t=1726482943
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022622/movie480.mp4?t=1726482943
-    max: http://video.akamai.steamstatic.com/store_trailers/257022622/movie_max.mp4?t=1726482943
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022622/movie480.mp4?t=1726482943
+    max: https://video.akamai.steamstatic.com/store_trailers/257022622/movie_max.mp4?t=1726482943
   highlight: true
 - id: 257060351
   name: Launch Accolades Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060351/8888ee2adb957313cb7b2e05c1537f62df561fb6/movie_600x337.jpg?t=1727703718
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060351/movie480_vp9.webm?t=1727703718
-    max: http://video.akamai.steamstatic.com/store_trailers/257060351/movie_max_vp9.webm?t=1727703718
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060351/movie480_vp9.webm?t=1727703718
+    max: https://video.akamai.steamstatic.com/store_trailers/257060351/movie_max_vp9.webm?t=1727703718
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060351/movie480.mp4?t=1727703718
-    max: http://video.akamai.steamstatic.com/store_trailers/257060351/movie_max.mp4?t=1727703718
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060351/movie480.mp4?t=1727703718
+    max: https://video.akamai.steamstatic.com/store_trailers/257060351/movie_max.mp4?t=1727703718
   highlight: true
 genres:
 - Casual
@@ -149,4 +149,3 @@ tags:
 - rpg
 - strategy
 ---
-

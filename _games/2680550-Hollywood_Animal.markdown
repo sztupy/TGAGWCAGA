@@ -44,61 +44,61 @@ movies:
   name: Hollywood Animal — 'A box of spiders disguised as a tycoon game'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069007/74bce004a110b3e8b28eb602735f671c4b9926bb/movie_600x337.jpg?t=1730206675
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069007/movie480_vp9.webm?t=1730206675
-    max: http://video.akamai.steamstatic.com/store_trailers/257069007/movie_max_vp9.webm?t=1730206675
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069007/movie480_vp9.webm?t=1730206675
+    max: https://video.akamai.steamstatic.com/store_trailers/257069007/movie_max_vp9.webm?t=1730206675
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069007/movie480.mp4?t=1730206675
-    max: http://video.akamai.steamstatic.com/store_trailers/257069007/movie_max.mp4?t=1730206675
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069007/movie480.mp4?t=1730206675
+    max: https://video.akamai.steamstatic.com/store_trailers/257069007/movie_max.mp4?t=1730206675
   highlight: true
 - id: 257005706
   name: 'Hollywood Animal: How To Make a Quick Buck With a Shameless Sequel'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257005706/movie.293x165.jpg?t=1709820050
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257005706/movie480_vp9.webm?t=1709820050
-    max: http://video.akamai.steamstatic.com/store_trailers/257005706/movie_max_vp9.webm?t=1709820050
+    '480': https://video.akamai.steamstatic.com/store_trailers/257005706/movie480_vp9.webm?t=1709820050
+    max: https://video.akamai.steamstatic.com/store_trailers/257005706/movie_max_vp9.webm?t=1709820050
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257005706/movie480.mp4?t=1709820050
-    max: http://video.akamai.steamstatic.com/store_trailers/257005706/movie_max.mp4?t=1709820050
+    '480': https://video.akamai.steamstatic.com/store_trailers/257005706/movie480.mp4?t=1709820050
+    max: https://video.akamai.steamstatic.com/store_trailers/257005706/movie_max.mp4?t=1709820050
   highlight: true
 - id: 257029368
   name: Hollywood Animal — Gameplay Video (Next Fest)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029368/movie.293x165.jpg?t=1717800155
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029368/movie480_vp9.webm?t=1717800155
-    max: http://video.akamai.steamstatic.com/store_trailers/257029368/movie_max_vp9.webm?t=1717800155
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029368/movie480_vp9.webm?t=1717800155
+    max: https://video.akamai.steamstatic.com/store_trailers/257029368/movie_max_vp9.webm?t=1717800155
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029368/movie480.mp4?t=1717800155
-    max: http://video.akamai.steamstatic.com/store_trailers/257029368/movie_max.mp4?t=1717800155
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029368/movie480.mp4?t=1717800155
+    max: https://video.akamai.steamstatic.com/store_trailers/257029368/movie_max.mp4?t=1717800155
   highlight: true
 - id: 257022836
   name: Poor Sheep | A 'Hollywood Animal' Short Film
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257022836/movie.293x165.jpg?t=1715691434
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022836/movie480_vp9.webm?t=1715691434
-    max: http://video.akamai.steamstatic.com/store_trailers/257022836/movie_max_vp9.webm?t=1715691434
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022836/movie480_vp9.webm?t=1715691434
+    max: https://video.akamai.steamstatic.com/store_trailers/257022836/movie_max_vp9.webm?t=1715691434
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022836/movie480.mp4?t=1715691434
-    max: http://video.akamai.steamstatic.com/store_trailers/257022836/movie_max.mp4?t=1715691434
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022836/movie480.mp4?t=1715691434
+    max: https://video.akamai.steamstatic.com/store_trailers/257022836/movie_max.mp4?t=1715691434
   highlight: true
 - id: 256980983
   name: Hollywood Animal — Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980983/movie.293x165.jpg?t=1699534683
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256980983/movie480_vp9.webm?t=1699534683
-    max: http://video.akamai.steamstatic.com/store_trailers/256980983/movie_max_vp9.webm?t=1699534683
+    '480': https://video.akamai.steamstatic.com/store_trailers/256980983/movie480_vp9.webm?t=1699534683
+    max: https://video.akamai.steamstatic.com/store_trailers/256980983/movie_max_vp9.webm?t=1699534683
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256980983/movie480.mp4?t=1699534683
-    max: http://video.akamai.steamstatic.com/store_trailers/256980983/movie_max.mp4?t=1699534683
+    '480': https://video.akamai.steamstatic.com/store_trailers/256980983/movie480.mp4?t=1699534683
+    max: https://video.akamai.steamstatic.com/store_trailers/256980983/movie_max.mp4?t=1699534683
   highlight: true
 - id: 256993010
   name: Hollywood Animal — Now you run Hollywood
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993010/movie.293x165.jpg?t=1704830089
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256993010/movie480_vp9.webm?t=1704830089
-    max: http://video.akamai.steamstatic.com/store_trailers/256993010/movie_max_vp9.webm?t=1704830089
+    '480': https://video.akamai.steamstatic.com/store_trailers/256993010/movie480_vp9.webm?t=1704830089
+    max: https://video.akamai.steamstatic.com/store_trailers/256993010/movie_max_vp9.webm?t=1704830089
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256993010/movie480.mp4?t=1704830089
-    max: http://video.akamai.steamstatic.com/store_trailers/256993010/movie_max.mp4?t=1704830089
+    '480': https://video.akamai.steamstatic.com/store_trailers/256993010/movie480.mp4?t=1704830089
+    max: https://video.akamai.steamstatic.com/store_trailers/256993010/movie_max.mp4?t=1704830089
   highlight: true
 genres:
 - Simulation
@@ -227,4 +227,3 @@ tags:
 - simulation
 - strategy
 ---
-

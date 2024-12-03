@@ -56,21 +56,21 @@ movies:
   name: Action Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065161/dcac0cf67f53ff7e2c95647ea9a7512358b7c2e3/movie_600x337.jpg?t=1728948042
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065161/movie480_vp9.webm?t=1728948042
-    max: http://video.akamai.steamstatic.com/store_trailers/257065161/movie_max_vp9.webm?t=1728948042
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065161/movie480_vp9.webm?t=1728948042
+    max: https://video.akamai.steamstatic.com/store_trailers/257065161/movie_max_vp9.webm?t=1728948042
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065161/movie480.mp4?t=1728948042
-    max: http://video.akamai.steamstatic.com/store_trailers/257065161/movie_max.mp4?t=1728948042
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065161/movie480.mp4?t=1728948042
+    max: https://video.akamai.steamstatic.com/store_trailers/257065161/movie_max.mp4?t=1728948042
   highlight: true
 - id: 257032430
   name: Release Window Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032430/3c66457160d73f6cb92446a7f83bb9c979679131/movie_600x337.jpg?t=1728912968
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257032430/movie480_vp9.webm?t=1728912968
-    max: http://video.akamai.steamstatic.com/store_trailers/257032430/movie_max_vp9.webm?t=1728912968
+    '480': https://video.akamai.steamstatic.com/store_trailers/257032430/movie480_vp9.webm?t=1728912968
+    max: https://video.akamai.steamstatic.com/store_trailers/257032430/movie_max_vp9.webm?t=1728912968
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257032430/movie480.mp4?t=1728912968
-    max: http://video.akamai.steamstatic.com/store_trailers/257032430/movie_max.mp4?t=1728912968
+    '480': https://video.akamai.steamstatic.com/store_trailers/257032430/movie480.mp4?t=1728912968
+    max: https://video.akamai.steamstatic.com/store_trailers/257032430/movie_max.mp4?t=1728912968
   highlight: true
 genres:
 - Action
@@ -176,4 +176,3 @@ support_info:
 tags:
 - action
 ---
-

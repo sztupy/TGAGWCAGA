@@ -41,21 +41,21 @@ movies:
   name: Monster Montage
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064076/b86a298f5667f7438e1e7e27f0dd7d8c965d8b27/movie_600x337.jpg?t=1728639927
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064076/movie480_vp9.webm?t=1728639927
-    max: http://video.akamai.steamstatic.com/store_trailers/257064076/movie_max_vp9.webm?t=1728639927
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064076/movie480_vp9.webm?t=1728639927
+    max: https://video.akamai.steamstatic.com/store_trailers/257064076/movie_max_vp9.webm?t=1728639927
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064076/movie480.mp4?t=1728639927
-    max: http://video.akamai.steamstatic.com/store_trailers/257064076/movie_max.mp4?t=1728639927
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064076/movie480.mp4?t=1728639927
+    max: https://video.akamai.steamstatic.com/store_trailers/257064076/movie_max.mp4?t=1728639927
   highlight: true
 - id: 257004762
   name: Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257004762/446faa2a6e8eddff406a0914d4300a22ad03a448/movie_600x337.jpg?t=1731314446
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257004762/movie480_vp9.webm?t=1731314446
-    max: http://video.akamai.steamstatic.com/store_trailers/257004762/movie_max_vp9.webm?t=1731314446
+    '480': https://video.akamai.steamstatic.com/store_trailers/257004762/movie480_vp9.webm?t=1731314446
+    max: https://video.akamai.steamstatic.com/store_trailers/257004762/movie_max_vp9.webm?t=1731314446
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257004762/movie480.mp4?t=1731314446
-    max: http://video.akamai.steamstatic.com/store_trailers/257004762/movie_max.mp4?t=1731314446
+    '480': https://video.akamai.steamstatic.com/store_trailers/257004762/movie480.mp4?t=1731314446
+    max: https://video.akamai.steamstatic.com/store_trailers/257004762/movie_max.mp4?t=1731314446
   highlight: true
 genres:
 - Action
@@ -165,4 +165,3 @@ tags:
 - action
 - rpg
 ---
-

@@ -58,31 +58,31 @@ movies:
   name: November Playtest Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076691/2580ba814106a174facd6b464bcb7d67fcf3aea8/movie_600x337.jpg?t=1732614835
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076691/movie480_vp9.webm?t=1732614835
-    max: http://video.akamai.steamstatic.com/store_trailers/257076691/movie_max_vp9.webm?t=1732614835
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076691/movie480_vp9.webm?t=1732614835
+    max: https://video.akamai.steamstatic.com/store_trailers/257076691/movie_max_vp9.webm?t=1732614835
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076691/movie480.mp4?t=1732614835
-    max: http://video.akamai.steamstatic.com/store_trailers/257076691/movie_max.mp4?t=1732614835
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076691/movie480.mp4?t=1732614835
+    max: https://video.akamai.steamstatic.com/store_trailers/257076691/movie_max.mp4?t=1732614835
   highlight: true
 - id: 257018066
   name: Five pillars of gameplay Alpha
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018066/movie.293x165.jpg?t=1713902578
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018066/movie480_vp9.webm?t=1713902578
-    max: http://video.akamai.steamstatic.com/store_trailers/257018066/movie_max_vp9.webm?t=1713902578
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018066/movie480_vp9.webm?t=1713902578
+    max: https://video.akamai.steamstatic.com/store_trailers/257018066/movie_max_vp9.webm?t=1713902578
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018066/movie480.mp4?t=1713902578
-    max: http://video.akamai.steamstatic.com/store_trailers/257018066/movie_max.mp4?t=1713902578
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018066/movie480.mp4?t=1713902578
+    max: https://video.akamai.steamstatic.com/store_trailers/257018066/movie_max.mp4?t=1713902578
   highlight: true
 - id: 256983024
   name: Kaiserpunk Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256983024/movie.293x165.jpg?t=1700147186
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256983024/movie480_vp9.webm?t=1700147186
-    max: http://video.akamai.steamstatic.com/store_trailers/256983024/movie_max_vp9.webm?t=1700147186
+    '480': https://video.akamai.steamstatic.com/store_trailers/256983024/movie480_vp9.webm?t=1700147186
+    max: https://video.akamai.steamstatic.com/store_trailers/256983024/movie_max_vp9.webm?t=1700147186
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256983024/movie480.mp4?t=1700147186
-    max: http://video.akamai.steamstatic.com/store_trailers/256983024/movie_max.mp4?t=1700147186
+    '480': https://video.akamai.steamstatic.com/store_trailers/256983024/movie480.mp4?t=1700147186
+    max: https://video.akamai.steamstatic.com/store_trailers/256983024/movie_max.mp4?t=1700147186
   highlight: true
 genres:
 - Simulation
@@ -208,4 +208,3 @@ tags:
 - simulation
 - strategy
 ---
-

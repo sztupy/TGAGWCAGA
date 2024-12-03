@@ -43,11 +43,11 @@ movies:
   name: Zombie Tower Survivor Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060822/ab56582097caf5d55be8f73113f92c27a0b6d164/movie_600x337.jpg?t=1730125367
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060822/movie480_vp9.webm?t=1730125367
-    max: http://video.akamai.steamstatic.com/store_trailers/257060822/movie_max_vp9.webm?t=1730125367
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060822/movie480_vp9.webm?t=1730125367
+    max: https://video.akamai.steamstatic.com/store_trailers/257060822/movie_max_vp9.webm?t=1730125367
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060822/movie480.mp4?t=1730125367
-    max: http://video.akamai.steamstatic.com/store_trailers/257060822/movie_max.mp4?t=1730125367
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060822/movie480.mp4?t=1730125367
+    max: https://video.akamai.steamstatic.com/store_trailers/257060822/movie_max.mp4?t=1730125367
   highlight: true
 genres:
 - Action
@@ -155,4 +155,3 @@ tags:
 - action
 - strategy
 ---
-

@@ -50,11 +50,11 @@ movies:
   name: Launch Window Revel Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075868/fbd7bffcef6e3d02cecc4c1f1167b8c93251310c/movie_600x337.jpg?t=1732283133
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075868/movie480_vp9.webm?t=1732283133
-    max: http://video.akamai.steamstatic.com/store_trailers/257075868/movie_max_vp9.webm?t=1732283133
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075868/movie480_vp9.webm?t=1732283133
+    max: https://video.akamai.steamstatic.com/store_trailers/257075868/movie_max_vp9.webm?t=1732283133
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075868/movie480.mp4?t=1732283133
-    max: http://video.akamai.steamstatic.com/store_trailers/257075868/movie_max.mp4?t=1732283133
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075868/movie480.mp4?t=1732283133
+    max: https://video.akamai.steamstatic.com/store_trailers/257075868/movie_max.mp4?t=1732283133
   highlight: true
 genres:
 - Adventure
@@ -155,4 +155,3 @@ tags:
 - casual
 - simulation
 ---
-

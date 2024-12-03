@@ -36,21 +36,21 @@ movies:
   name: Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066579/a3387670a52e1df4ba121bc82b48e906b834ceb6/movie_600x337.jpg?t=1729277045
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066579/movie480_vp9.webm?t=1729277045
-    max: http://video.akamai.steamstatic.com/store_trailers/257066579/movie_max_vp9.webm?t=1729277045
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066579/movie480_vp9.webm?t=1729277045
+    max: https://video.akamai.steamstatic.com/store_trailers/257066579/movie_max_vp9.webm?t=1729277045
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066579/movie480.mp4?t=1729277045
-    max: http://video.akamai.steamstatic.com/store_trailers/257066579/movie_max.mp4?t=1729277045
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066579/movie480.mp4?t=1729277045
+    max: https://video.akamai.steamstatic.com/store_trailers/257066579/movie_max.mp4?t=1729277045
   highlight: true
 - id: 256945521
   name: Official Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945521/movie.293x165.jpg?t=1683351952
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256945521/movie480_vp9.webm?t=1683351952
-    max: http://video.akamai.steamstatic.com/store_trailers/256945521/movie_max_vp9.webm?t=1683351952
+    '480': https://video.akamai.steamstatic.com/store_trailers/256945521/movie480_vp9.webm?t=1683351952
+    max: https://video.akamai.steamstatic.com/store_trailers/256945521/movie_max_vp9.webm?t=1683351952
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256945521/movie480.mp4?t=1683351952
-    max: http://video.akamai.steamstatic.com/store_trailers/256945521/movie_max.mp4?t=1683351952
+    '480': https://video.akamai.steamstatic.com/store_trailers/256945521/movie480.mp4?t=1683351952
+    max: https://video.akamai.steamstatic.com/store_trailers/256945521/movie_max.mp4?t=1683351952
   highlight: false
 genres:
 - Action
@@ -126,4 +126,3 @@ tags:
 - casual
 - strategy
 ---
-

@@ -53,31 +53,31 @@ movies:
   name: Seer's Gambit Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257011826/movie.293x165.jpg?t=1711637971
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257011826/movie480_vp9.webm?t=1711637971
-    max: http://video.akamai.steamstatic.com/store_trailers/257011826/movie_max_vp9.webm?t=1711637971
+    '480': https://video.akamai.steamstatic.com/store_trailers/257011826/movie480_vp9.webm?t=1711637971
+    max: https://video.akamai.steamstatic.com/store_trailers/257011826/movie_max_vp9.webm?t=1711637971
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257011826/movie480.mp4?t=1711637971
-    max: http://video.akamai.steamstatic.com/store_trailers/257011826/movie_max.mp4?t=1711637971
+    '480': https://video.akamai.steamstatic.com/store_trailers/257011826/movie480.mp4?t=1711637971
+    max: https://video.akamai.steamstatic.com/store_trailers/257011826/movie_max.mp4?t=1711637971
   highlight: true
 - id: 256995052
   name: Stats
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256995052/movie.293x165.jpg?t=1705663311
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256995052/movie480_vp9.webm?t=1705663311
-    max: http://video.akamai.steamstatic.com/store_trailers/256995052/movie_max_vp9.webm?t=1705663311
+    '480': https://video.akamai.steamstatic.com/store_trailers/256995052/movie480_vp9.webm?t=1705663311
+    max: https://video.akamai.steamstatic.com/store_trailers/256995052/movie_max_vp9.webm?t=1705663311
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256995052/movie480.mp4?t=1705663311
-    max: http://video.akamai.steamstatic.com/store_trailers/256995052/movie_max.mp4?t=1705663311
+    '480': https://video.akamai.steamstatic.com/store_trailers/256995052/movie480.mp4?t=1705663311
+    max: https://video.akamai.steamstatic.com/store_trailers/256995052/movie_max.mp4?t=1705663311
   highlight: true
 - id: 256968143
   name: Claudia Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256968143/movie.293x165.jpg?t=1694030223
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256968143/movie480_vp9.webm?t=1694030223
-    max: http://video.akamai.steamstatic.com/store_trailers/256968143/movie_max_vp9.webm?t=1694030223
+    '480': https://video.akamai.steamstatic.com/store_trailers/256968143/movie480_vp9.webm?t=1694030223
+    max: https://video.akamai.steamstatic.com/store_trailers/256968143/movie_max_vp9.webm?t=1694030223
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256968143/movie480.mp4?t=1694030223
-    max: http://video.akamai.steamstatic.com/store_trailers/256968143/movie_max.mp4?t=1694030223
+    '480': https://video.akamai.steamstatic.com/store_trailers/256968143/movie480.mp4?t=1694030223
+    max: https://video.akamai.steamstatic.com/store_trailers/256968143/movie_max.mp4?t=1694030223
   highlight: true
 genres:
 - RPG
@@ -148,4 +148,3 @@ support_info:
 tags:
 - rpg
 ---
-

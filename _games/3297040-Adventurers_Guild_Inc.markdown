@@ -29,11 +29,11 @@ movies:
   name: Early Gameplay Preview (Nov 2024)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076397/4f488bea0677014bb0e21628f90633e6e149f8bc/movie_600x337.jpg?t=1732865425
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076397/movie480_vp9.webm?t=1732865425
-    max: http://video.akamai.steamstatic.com/store_trailers/257076397/movie_max_vp9.webm?t=1732865425
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076397/movie480_vp9.webm?t=1732865425
+    max: https://video.akamai.steamstatic.com/store_trailers/257076397/movie_max_vp9.webm?t=1732865425
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076397/movie480.mp4?t=1732865425
-    max: http://video.akamai.steamstatic.com/store_trailers/257076397/movie_max.mp4?t=1732865425
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076397/movie480.mp4?t=1732865425
+    max: https://video.akamai.steamstatic.com/store_trailers/257076397/movie_max.mp4?t=1732865425
   highlight: true
 genres:
 - Casual
@@ -152,4 +152,3 @@ tags:
 - simulation
 - strategy
 ---
-

@@ -44,11 +44,11 @@ movies:
   name: Cabin Crew Life Simulator Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034711/movie.293x165.jpg?t=1719650599
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257034711/movie480_vp9.webm?t=1719650599
-    max: http://video.akamai.steamstatic.com/store_trailers/257034711/movie_max_vp9.webm?t=1719650599
+    '480': https://video.akamai.steamstatic.com/store_trailers/257034711/movie480_vp9.webm?t=1719650599
+    max: https://video.akamai.steamstatic.com/store_trailers/257034711/movie_max_vp9.webm?t=1719650599
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257034711/movie480.mp4?t=1719650599
-    max: http://video.akamai.steamstatic.com/store_trailers/257034711/movie_max.mp4?t=1719650599
+    '480': https://video.akamai.steamstatic.com/store_trailers/257034711/movie480.mp4?t=1719650599
+    max: https://video.akamai.steamstatic.com/store_trailers/257034711/movie_max.mp4?t=1719650599
   highlight: true
 genres:
 - Casual
@@ -169,4 +169,3 @@ tags:
 - casual
 - simulation
 ---
-

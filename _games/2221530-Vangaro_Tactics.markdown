@@ -47,21 +47,21 @@ movies:
   name: Updated Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257040933/movie.293x165.jpg?t=1722005347
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257040933/movie480_vp9.webm?t=1722005347
-    max: http://video.akamai.steamstatic.com/store_trailers/257040933/movie_max_vp9.webm?t=1722005347
+    '480': https://video.akamai.steamstatic.com/store_trailers/257040933/movie480_vp9.webm?t=1722005347
+    max: https://video.akamai.steamstatic.com/store_trailers/257040933/movie_max_vp9.webm?t=1722005347
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257040933/movie480.mp4?t=1722005347
-    max: http://video.akamai.steamstatic.com/store_trailers/257040933/movie_max.mp4?t=1722005347
+    '480': https://video.akamai.steamstatic.com/store_trailers/257040933/movie480.mp4?t=1722005347
+    max: https://video.akamai.steamstatic.com/store_trailers/257040933/movie_max.mp4?t=1722005347
   highlight: true
 - id: 256979835
   name: Reveal Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979835/movie.293x165.jpg?t=1699011512
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979835/movie480_vp9.webm?t=1699011512
-    max: http://video.akamai.steamstatic.com/store_trailers/256979835/movie_max_vp9.webm?t=1699011512
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979835/movie480_vp9.webm?t=1699011512
+    max: https://video.akamai.steamstatic.com/store_trailers/256979835/movie_max_vp9.webm?t=1699011512
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979835/movie480.mp4?t=1699011512
-    max: http://video.akamai.steamstatic.com/store_trailers/256979835/movie_max.mp4?t=1699011512
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979835/movie480.mp4?t=1699011512
+    max: https://video.akamai.steamstatic.com/store_trailers/256979835/movie_max.mp4?t=1699011512
   highlight: true
 genres:
 - Indie
@@ -175,4 +175,3 @@ support_info:
 tags:
 - strategy
 ---
-

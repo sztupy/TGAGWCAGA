@@ -38,21 +38,21 @@ movies:
   name: Rusty Flesh Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065532/17c2342ef3384ba4e9148b55be319e6a26929d9b/movie_600x337.jpg?t=1729017694
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065532/movie480_vp9.webm?t=1729017694
-    max: http://video.akamai.steamstatic.com/store_trailers/257065532/movie_max_vp9.webm?t=1729017694
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065532/movie480_vp9.webm?t=1729017694
+    max: https://video.akamai.steamstatic.com/store_trailers/257065532/movie_max_vp9.webm?t=1729017694
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065532/movie480.mp4?t=1729017694
-    max: http://video.akamai.steamstatic.com/store_trailers/257065532/movie_max.mp4?t=1729017694
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065532/movie480.mp4?t=1729017694
+    max: https://video.akamai.steamstatic.com/store_trailers/257065532/movie_max.mp4?t=1729017694
   highlight: true
 - id: 257018692
   name: Rusty Flesh Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018692/movie.293x165.jpg?t=1729017698
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018692/movie480_vp9.webm?t=1729017698
-    max: http://video.akamai.steamstatic.com/store_trailers/257018692/movie_max_vp9.webm?t=1729017698
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018692/movie480_vp9.webm?t=1729017698
+    max: https://video.akamai.steamstatic.com/store_trailers/257018692/movie_max_vp9.webm?t=1729017698
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018692/movie480.mp4?t=1729017698
-    max: http://video.akamai.steamstatic.com/store_trailers/257018692/movie_max.mp4?t=1729017698
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018692/movie480.mp4?t=1729017698
+    max: https://video.akamai.steamstatic.com/store_trailers/257018692/movie_max.mp4?t=1729017698
   highlight: true
 genres:
 - Action
@@ -123,4 +123,3 @@ tags:
 - action
 - adventure
 ---
-

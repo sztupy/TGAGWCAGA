@@ -62,41 +62,41 @@ movies:
   name: Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257051583/movie.293x165.jpg?t=1725270530
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257051583/movie480_vp9.webm?t=1725270530
-    max: http://video.akamai.steamstatic.com/store_trailers/257051583/movie_max_vp9.webm?t=1725270530
+    '480': https://video.akamai.steamstatic.com/store_trailers/257051583/movie480_vp9.webm?t=1725270530
+    max: https://video.akamai.steamstatic.com/store_trailers/257051583/movie_max_vp9.webm?t=1725270530
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257051583/movie480.mp4?t=1725270530
-    max: http://video.akamai.steamstatic.com/store_trailers/257051583/movie_max.mp4?t=1725270530
+    '480': https://video.akamai.steamstatic.com/store_trailers/257051583/movie480.mp4?t=1725270530
+    max: https://video.akamai.steamstatic.com/store_trailers/257051583/movie_max.mp4?t=1725270530
   highlight: true
 - id: 256952548
   name: Trailer Future Games Show
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952548/movie.293x165.jpg?t=1725363462
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952548/movie480_vp9.webm?t=1725363462
-    max: http://video.akamai.steamstatic.com/store_trailers/256952548/movie_max_vp9.webm?t=1725363462
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952548/movie480_vp9.webm?t=1725363462
+    max: https://video.akamai.steamstatic.com/store_trailers/256952548/movie_max_vp9.webm?t=1725363462
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952548/movie480.mp4?t=1725363462
-    max: http://video.akamai.steamstatic.com/store_trailers/256952548/movie_max.mp4?t=1725363462
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952548/movie480.mp4?t=1725363462
+    max: https://video.akamai.steamstatic.com/store_trailers/256952548/movie_max.mp4?t=1725363462
   highlight: true
 - id: 256998207
   name: Wall Puzzle
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256998207/movie.293x165.jpg?t=1725363476
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256998207/movie480_vp9.webm?t=1725363476
-    max: http://video.akamai.steamstatic.com/store_trailers/256998207/movie_max_vp9.webm?t=1725363476
+    '480': https://video.akamai.steamstatic.com/store_trailers/256998207/movie480_vp9.webm?t=1725363476
+    max: https://video.akamai.steamstatic.com/store_trailers/256998207/movie_max_vp9.webm?t=1725363476
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256998207/movie480.mp4?t=1725363476
-    max: http://video.akamai.steamstatic.com/store_trailers/256998207/movie_max.mp4?t=1725363476
+    '480': https://video.akamai.steamstatic.com/store_trailers/256998207/movie480.mp4?t=1725363476
+    max: https://video.akamai.steamstatic.com/store_trailers/256998207/movie_max.mp4?t=1725363476
   highlight: true
 - id: 257015472
   name: Moon Island
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015472/movie.293x165.jpg?t=1725363469
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257015472/movie480_vp9.webm?t=1725363469
-    max: http://video.akamai.steamstatic.com/store_trailers/257015472/movie_max_vp9.webm?t=1725363469
+    '480': https://video.akamai.steamstatic.com/store_trailers/257015472/movie480_vp9.webm?t=1725363469
+    max: https://video.akamai.steamstatic.com/store_trailers/257015472/movie_max_vp9.webm?t=1725363469
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257015472/movie480.mp4?t=1725363469
-    max: http://video.akamai.steamstatic.com/store_trailers/257015472/movie_max.mp4?t=1725363469
+    '480': https://video.akamai.steamstatic.com/store_trailers/257015472/movie480.mp4?t=1725363469
+    max: https://video.akamai.steamstatic.com/store_trailers/257015472/movie_max.mp4?t=1725363469
   highlight: false
 genres:
 - Action
@@ -236,4 +236,3 @@ tags:
 - rpg
 - simulation
 ---
-

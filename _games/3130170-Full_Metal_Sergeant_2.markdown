@@ -35,11 +35,11 @@ movies:
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060283/6c14442e3c557ed19caf32605c11d513011381e6/movie_600x337.jpg?t=1728458708
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060283/movie480_vp9.webm?t=1728458708
-    max: http://video.akamai.steamstatic.com/store_trailers/257060283/movie_max_vp9.webm?t=1728458708
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060283/movie480_vp9.webm?t=1728458708
+    max: https://video.akamai.steamstatic.com/store_trailers/257060283/movie_max_vp9.webm?t=1728458708
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060283/movie480.mp4?t=1728458708
-    max: http://video.akamai.steamstatic.com/store_trailers/257060283/movie_max.mp4?t=1728458708
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060283/movie480.mp4?t=1728458708
+    max: https://video.akamai.steamstatic.com/store_trailers/257060283/movie_max.mp4?t=1728458708
   highlight: true
 genres:
 - Simulation
@@ -134,4 +134,3 @@ tags:
 - simulation
 - strategy
 ---
-

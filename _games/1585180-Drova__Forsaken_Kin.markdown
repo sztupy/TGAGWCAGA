@@ -53,31 +53,31 @@ movies:
   name: Accolades Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071821/34a128fd0e65a269eeb89537908690622f37095d/movie_600x337.jpg?t=1731072418
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071821/movie480_vp9.webm?t=1731072418
-    max: http://video.akamai.steamstatic.com/store_trailers/257071821/movie_max_vp9.webm?t=1731072418
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071821/movie480_vp9.webm?t=1731072418
+    max: https://video.akamai.steamstatic.com/store_trailers/257071821/movie_max_vp9.webm?t=1731072418
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071821/movie480.mp4?t=1731072418
-    max: http://video.akamai.steamstatic.com/store_trailers/257071821/movie_max.mp4?t=1731072418
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071821/movie480.mp4?t=1731072418
+    max: https://video.akamai.steamstatic.com/store_trailers/257071821/movie_max.mp4?t=1731072418
   highlight: true
 - id: 257064109
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064109/9d7c50dc95fd9e24e81bd67f69b6a5f8461f1b55/movie_600x337.jpg?t=1729000238
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064109/movie480_vp9.webm?t=1729000238
-    max: http://video.akamai.steamstatic.com/store_trailers/257064109/movie_max_vp9.webm?t=1729000238
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064109/movie480_vp9.webm?t=1729000238
+    max: https://video.akamai.steamstatic.com/store_trailers/257064109/movie_max_vp9.webm?t=1729000238
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064109/movie480.mp4?t=1729000238
-    max: http://video.akamai.steamstatic.com/store_trailers/257064109/movie_max.mp4?t=1729000238
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064109/movie480.mp4?t=1729000238
+    max: https://video.akamai.steamstatic.com/store_trailers/257064109/movie_max.mp4?t=1729000238
   highlight: true
 - id: 257038421
   name: Character Progression Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038421/movie.293x165.jpg?t=1725374238
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038421/movie480_vp9.webm?t=1725374238
-    max: http://video.akamai.steamstatic.com/store_trailers/257038421/movie_max_vp9.webm?t=1725374238
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038421/movie480_vp9.webm?t=1725374238
+    max: https://video.akamai.steamstatic.com/store_trailers/257038421/movie_max_vp9.webm?t=1725374238
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038421/movie480.mp4?t=1725374238
-    max: http://video.akamai.steamstatic.com/store_trailers/257038421/movie_max.mp4?t=1725374238
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038421/movie480.mp4?t=1725374238
+    max: https://video.akamai.steamstatic.com/store_trailers/257038421/movie_max.mp4?t=1725374238
   highlight: false
 genres:
 - Action
@@ -176,4 +176,3 @@ tags:
 - adventure
 - rpg
 ---
-

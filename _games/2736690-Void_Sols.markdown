@@ -40,31 +40,31 @@ movies:
   name: Void Sols | Launch Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257058374/c00a122f803c247a50354f6448ed0466f29d7683/movie_600x337.jpg?t=1731426793
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257058374/movie480_vp9.webm?t=1731426793
-    max: http://video.akamai.steamstatic.com/store_trailers/257058374/movie_max_vp9.webm?t=1731426793
+    '480': https://video.akamai.steamstatic.com/store_trailers/257058374/movie480_vp9.webm?t=1731426793
+    max: https://video.akamai.steamstatic.com/store_trailers/257058374/movie_max_vp9.webm?t=1731426793
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257058374/movie480.mp4?t=1731426793
-    max: http://video.akamai.steamstatic.com/store_trailers/257058374/movie_max.mp4?t=1731426793
+    '480': https://video.akamai.steamstatic.com/store_trailers/257058374/movie480.mp4?t=1731426793
+    max: https://video.akamai.steamstatic.com/store_trailers/257058374/movie_max.mp4?t=1731426793
   highlight: true
 - id: 257072700
   name: Accolades Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257072700/b7331a82033971873db4af8c95d88272f4a4116d/movie_600x337.jpg?t=1731426801
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257072700/movie480_vp9.webm?t=1731426801
-    max: http://video.akamai.steamstatic.com/store_trailers/257072700/movie_max_vp9.webm?t=1731426801
+    '480': https://video.akamai.steamstatic.com/store_trailers/257072700/movie480_vp9.webm?t=1731426801
+    max: https://video.akamai.steamstatic.com/store_trailers/257072700/movie_max_vp9.webm?t=1731426801
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257072700/movie480.mp4?t=1731426801
-    max: http://video.akamai.steamstatic.com/store_trailers/257072700/movie_max.mp4?t=1731426801
+    '480': https://video.akamai.steamstatic.com/store_trailers/257072700/movie480.mp4?t=1731426801
+    max: https://video.akamai.steamstatic.com/store_trailers/257072700/movie_max.mp4?t=1731426801
   highlight: true
 - id: 257011578
   name: Void Sols | Announce Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257011578/movie.293x165.jpg?t=1711634716
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257011578/movie480_vp9.webm?t=1711634716
-    max: http://video.akamai.steamstatic.com/store_trailers/257011578/movie_max_vp9.webm?t=1711634716
+    '480': https://video.akamai.steamstatic.com/store_trailers/257011578/movie480_vp9.webm?t=1711634716
+    max: https://video.akamai.steamstatic.com/store_trailers/257011578/movie_max_vp9.webm?t=1711634716
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257011578/movie480.mp4?t=1711634716
-    max: http://video.akamai.steamstatic.com/store_trailers/257011578/movie_max.mp4?t=1711634716
+    '480': https://video.akamai.steamstatic.com/store_trailers/257011578/movie480.mp4?t=1711634716
+    max: https://video.akamai.steamstatic.com/store_trailers/257011578/movie_max.mp4?t=1711634716
   highlight: true
 genres:
 - Action
@@ -167,4 +167,3 @@ tags:
 - adventure
 - rpg
 ---
-

@@ -50,11 +50,11 @@ movies:
   name: Lonely Space Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070061/e62cc063edba373b513f5f1a64e60928fa9306c6/movie_600x337.jpg?t=1730454161
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070061/movie480_vp9.webm?t=1730454161
-    max: http://video.akamai.steamstatic.com/store_trailers/257070061/movie_max_vp9.webm?t=1730454161
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070061/movie480_vp9.webm?t=1730454161
+    max: https://video.akamai.steamstatic.com/store_trailers/257070061/movie_max_vp9.webm?t=1730454161
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070061/movie480.mp4?t=1730454161
-    max: http://video.akamai.steamstatic.com/store_trailers/257070061/movie_max.mp4?t=1730454161
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070061/movie480.mp4?t=1730454161
+    max: https://video.akamai.steamstatic.com/store_trailers/257070061/movie_max.mp4?t=1730454161
   highlight: true
 genres:
 - Action
@@ -113,4 +113,3 @@ tags:
 - rpg
 - simulation
 ---
-

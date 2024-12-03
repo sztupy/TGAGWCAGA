@@ -44,31 +44,31 @@ movies:
   name: Kloppyssimo - Gameplay Video 3
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257037171/movie.293x165.jpg?t=1720712073
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037171/movie480_vp9.webm?t=1720712073
-    max: http://video.akamai.steamstatic.com/store_trailers/257037171/movie_max_vp9.webm?t=1720712073
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037171/movie480_vp9.webm?t=1720712073
+    max: https://video.akamai.steamstatic.com/store_trailers/257037171/movie_max_vp9.webm?t=1720712073
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037171/movie480.mp4?t=1720712073
-    max: http://video.akamai.steamstatic.com/store_trailers/257037171/movie_max.mp4?t=1720712073
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037171/movie480.mp4?t=1720712073
+    max: https://video.akamai.steamstatic.com/store_trailers/257037171/movie_max.mp4?t=1720712073
   highlight: true
 - id: 257013773
   name: Kloppyssimo - Gameplay Video 2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257013773/movie.293x165.jpg?t=1712353351
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257013773/movie480_vp9.webm?t=1712353351
-    max: http://video.akamai.steamstatic.com/store_trailers/257013773/movie_max_vp9.webm?t=1712353351
+    '480': https://video.akamai.steamstatic.com/store_trailers/257013773/movie480_vp9.webm?t=1712353351
+    max: https://video.akamai.steamstatic.com/store_trailers/257013773/movie_max_vp9.webm?t=1712353351
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257013773/movie480.mp4?t=1712353351
-    max: http://video.akamai.steamstatic.com/store_trailers/257013773/movie_max.mp4?t=1712353351
+    '480': https://video.akamai.steamstatic.com/store_trailers/257013773/movie480.mp4?t=1712353351
+    max: https://video.akamai.steamstatic.com/store_trailers/257013773/movie_max.mp4?t=1712353351
   highlight: true
 - id: 257007345
   name: Kloppyssimo - Gameplay Trailer Fall 23
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257007345/movie.293x165.jpg?t=1711125749
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257007345/movie480_vp9.webm?t=1711125749
-    max: http://video.akamai.steamstatic.com/store_trailers/257007345/movie_max_vp9.webm?t=1711125749
+    '480': https://video.akamai.steamstatic.com/store_trailers/257007345/movie480_vp9.webm?t=1711125749
+    max: https://video.akamai.steamstatic.com/store_trailers/257007345/movie_max_vp9.webm?t=1711125749
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257007345/movie480.mp4?t=1711125749
-    max: http://video.akamai.steamstatic.com/store_trailers/257007345/movie_max.mp4?t=1711125749
+    '480': https://video.akamai.steamstatic.com/store_trailers/257007345/movie480.mp4?t=1711125749
+    max: https://video.akamai.steamstatic.com/store_trailers/257007345/movie_max.mp4?t=1711125749
   highlight: true
 genres:
 - Adventure
@@ -146,4 +146,3 @@ tags:
 - simulation
 - strategy
 ---
-

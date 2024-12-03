@@ -56,21 +56,21 @@ movies:
   name: Trailer - EA - 2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256994421/movie.293x165.jpg?t=1705510434
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256994421/movie480_vp9.webm?t=1705510434
-    max: http://video.akamai.steamstatic.com/store_trailers/256994421/movie_max_vp9.webm?t=1705510434
+    '480': https://video.akamai.steamstatic.com/store_trailers/256994421/movie480_vp9.webm?t=1705510434
+    max: https://video.akamai.steamstatic.com/store_trailers/256994421/movie_max_vp9.webm?t=1705510434
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256994421/movie480.mp4?t=1705510434
-    max: http://video.akamai.steamstatic.com/store_trailers/256994421/movie_max.mp4?t=1705510434
+    '480': https://video.akamai.steamstatic.com/store_trailers/256994421/movie480.mp4?t=1705510434
+    max: https://video.akamai.steamstatic.com/store_trailers/256994421/movie_max.mp4?t=1705510434
   highlight: true
 - id: 256959538
   name: Trailer v4
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256959538/movie.293x165.jpg?t=1690870421
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256959538/movie480_vp9.webm?t=1690870421
-    max: http://video.akamai.steamstatic.com/store_trailers/256959538/movie_max_vp9.webm?t=1690870421
+    '480': https://video.akamai.steamstatic.com/store_trailers/256959538/movie480_vp9.webm?t=1690870421
+    max: https://video.akamai.steamstatic.com/store_trailers/256959538/movie_max_vp9.webm?t=1690870421
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256959538/movie480.mp4?t=1690870421
-    max: http://video.akamai.steamstatic.com/store_trailers/256959538/movie_max.mp4?t=1690870421
+    '480': https://video.akamai.steamstatic.com/store_trailers/256959538/movie480.mp4?t=1690870421
+    max: https://video.akamai.steamstatic.com/store_trailers/256959538/movie_max.mp4?t=1690870421
   highlight: true
 genres:
 - Adventure
@@ -166,4 +166,3 @@ tags:
 - rpg
 - strategy
 ---
-

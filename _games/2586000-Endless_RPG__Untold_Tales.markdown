@@ -35,11 +35,11 @@ movies:
   name: Promo
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057013/movie.293x165.jpg?t=1726858638
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257057013/movie480_vp9.webm?t=1726858638
-    max: http://video.akamai.steamstatic.com/store_trailers/257057013/movie_max_vp9.webm?t=1726858638
+    '480': https://video.akamai.steamstatic.com/store_trailers/257057013/movie480_vp9.webm?t=1726858638
+    max: https://video.akamai.steamstatic.com/store_trailers/257057013/movie_max_vp9.webm?t=1726858638
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257057013/movie480.mp4?t=1726858638
-    max: http://video.akamai.steamstatic.com/store_trailers/257057013/movie_max.mp4?t=1726858638
+    '480': https://video.akamai.steamstatic.com/store_trailers/257057013/movie480.mp4?t=1726858638
+    max: https://video.akamai.steamstatic.com/store_trailers/257057013/movie_max.mp4?t=1726858638
   highlight: true
 genres:
 - Indie
@@ -133,4 +133,3 @@ support_info:
 tags:
 - rpg
 ---
-

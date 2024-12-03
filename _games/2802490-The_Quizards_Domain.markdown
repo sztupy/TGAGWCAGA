@@ -47,21 +47,21 @@ movies:
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025306/movie.293x165.jpg?t=1716886723
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025306/movie480_vp9.webm?t=1716886723
-    max: http://video.akamai.steamstatic.com/store_trailers/257025306/movie_max_vp9.webm?t=1716886723
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025306/movie480_vp9.webm?t=1716886723
+    max: https://video.akamai.steamstatic.com/store_trailers/257025306/movie_max_vp9.webm?t=1716886723
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025306/movie480.mp4?t=1716886723
-    max: http://video.akamai.steamstatic.com/store_trailers/257025306/movie_max.mp4?t=1716886723
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025306/movie480.mp4?t=1716886723
+    max: https://video.akamai.steamstatic.com/store_trailers/257025306/movie_max.mp4?t=1716886723
   highlight: true
 - id: 257019258
   name: Derelict Dungeon - Full Round
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257019258/movie.293x165.jpg?t=1716475910
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257019258/movie480_vp9.webm?t=1716475910
-    max: http://video.akamai.steamstatic.com/store_trailers/257019258/movie_max_vp9.webm?t=1716475910
+    '480': https://video.akamai.steamstatic.com/store_trailers/257019258/movie480_vp9.webm?t=1716475910
+    max: https://video.akamai.steamstatic.com/store_trailers/257019258/movie_max_vp9.webm?t=1716475910
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257019258/movie480.mp4?t=1716475910
-    max: http://video.akamai.steamstatic.com/store_trailers/257019258/movie_max.mp4?t=1716475910
+    '480': https://video.akamai.steamstatic.com/store_trailers/257019258/movie480.mp4?t=1716475910
+    max: https://video.akamai.steamstatic.com/store_trailers/257019258/movie_max.mp4?t=1716475910
   highlight: true
 genres:
 - Action
@@ -162,4 +162,3 @@ tags:
 - action
 - casual
 ---
-

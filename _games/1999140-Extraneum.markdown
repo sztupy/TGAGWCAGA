@@ -31,11 +31,11 @@ movies:
   name: 1.0 Official Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257055964/movie.293x165.jpg?t=1727292530
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055964/movie480_vp9.webm?t=1727292530
-    max: http://video.akamai.steamstatic.com/store_trailers/257055964/movie_max_vp9.webm?t=1727292530
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055964/movie480_vp9.webm?t=1727292530
+    max: https://video.akamai.steamstatic.com/store_trailers/257055964/movie_max_vp9.webm?t=1727292530
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055964/movie480.mp4?t=1727292530
-    max: http://video.akamai.steamstatic.com/store_trailers/257055964/movie_max.mp4?t=1727292530
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055964/movie480.mp4?t=1727292530
+    max: https://video.akamai.steamstatic.com/store_trailers/257055964/movie_max.mp4?t=1727292530
   highlight: true
 genres:
 - Action
@@ -115,4 +115,3 @@ support_info:
 tags:
 - action
 ---
-

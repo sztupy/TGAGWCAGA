@@ -46,11 +46,11 @@ movies:
   name: This is (not) a chess game
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257033983/movie.293x165.jpg?t=1719414007
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257033983/movie480_vp9.webm?t=1719414007
-    max: http://video.akamai.steamstatic.com/store_trailers/257033983/movie_max_vp9.webm?t=1719414007
+    '480': https://video.akamai.steamstatic.com/store_trailers/257033983/movie480_vp9.webm?t=1719414007
+    max: https://video.akamai.steamstatic.com/store_trailers/257033983/movie_max_vp9.webm?t=1719414007
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257033983/movie480.mp4?t=1719414007
-    max: http://video.akamai.steamstatic.com/store_trailers/257033983/movie_max.mp4?t=1719414007
+    '480': https://video.akamai.steamstatic.com/store_trailers/257033983/movie480.mp4?t=1719414007
+    max: https://video.akamai.steamstatic.com/store_trailers/257033983/movie_max.mp4?t=1719414007
   highlight: true
 genres:
 - Adventure
@@ -150,4 +150,3 @@ support_info:
 tags:
 - adventure
 ---
-

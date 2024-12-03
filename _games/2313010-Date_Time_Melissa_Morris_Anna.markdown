@@ -40,11 +40,11 @@ movies:
   name: Main Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934862/movie.293x165.jpg?t=1681494358
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256934862/movie480_vp9.webm?t=1681494358
-    max: http://video.akamai.steamstatic.com/store_trailers/256934862/movie_max_vp9.webm?t=1681494358
+    '480': https://video.akamai.steamstatic.com/store_trailers/256934862/movie480_vp9.webm?t=1681494358
+    max: https://video.akamai.steamstatic.com/store_trailers/256934862/movie_max_vp9.webm?t=1681494358
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256934862/movie480.mp4?t=1681494358
-    max: http://video.akamai.steamstatic.com/store_trailers/256934862/movie_max.mp4?t=1681494358
+    '480': https://video.akamai.steamstatic.com/store_trailers/256934862/movie480.mp4?t=1681494358
+    max: https://video.akamai.steamstatic.com/store_trailers/256934862/movie_max.mp4?t=1681494358
   highlight: true
 genres:
 - Adventure
@@ -160,4 +160,3 @@ tags:
 - casual
 - simulation
 ---
-

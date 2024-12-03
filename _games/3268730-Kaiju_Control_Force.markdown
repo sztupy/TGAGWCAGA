@@ -29,11 +29,11 @@ movies:
   name: FirstAction
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063255/514a077ad656a01bfec7ce923af269719b3fd04b/movie_600x337.jpg?t=1728981144
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063255/movie480_vp9.webm?t=1728981144
-    max: http://video.akamai.steamstatic.com/store_trailers/257063255/movie_max_vp9.webm?t=1728981144
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063255/movie480_vp9.webm?t=1728981144
+    max: https://video.akamai.steamstatic.com/store_trailers/257063255/movie_max_vp9.webm?t=1728981144
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063255/movie480.mp4?t=1728981144
-    max: http://video.akamai.steamstatic.com/store_trailers/257063255/movie_max.mp4?t=1728981144
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063255/movie480.mp4?t=1728981144
+    max: https://video.akamai.steamstatic.com/store_trailers/257063255/movie_max.mp4?t=1728981144
   highlight: true
 genres:
 - Action
@@ -100,4 +100,3 @@ support_info:
 tags:
 - action
 ---
-

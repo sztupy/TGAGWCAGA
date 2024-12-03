@@ -29,21 +29,21 @@ movies:
   name: What is Projected Dreams?
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044953/movie.293x165.jpg?t=1723215814
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044953/movie480_vp9.webm?t=1723215814
-    max: http://video.akamai.steamstatic.com/store_trailers/257044953/movie_max_vp9.webm?t=1723215814
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044953/movie480_vp9.webm?t=1723215814
+    max: https://video.akamai.steamstatic.com/store_trailers/257044953/movie_max_vp9.webm?t=1723215814
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044953/movie480.mp4?t=1723215814
-    max: http://video.akamai.steamstatic.com/store_trailers/257044953/movie_max.mp4?t=1723215814
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044953/movie480.mp4?t=1723215814
+    max: https://video.akamai.steamstatic.com/store_trailers/257044953/movie_max.mp4?t=1723215814
   highlight: true
 - id: 257030789
   name: Projected Dreams – Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030789/movie.293x165.jpg?t=1718272512
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030789/movie480_vp9.webm?t=1718272512
-    max: http://video.akamai.steamstatic.com/store_trailers/257030789/movie_max_vp9.webm?t=1718272512
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030789/movie480_vp9.webm?t=1718272512
+    max: https://video.akamai.steamstatic.com/store_trailers/257030789/movie_max_vp9.webm?t=1718272512
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030789/movie480.mp4?t=1718272512
-    max: http://video.akamai.steamstatic.com/store_trailers/257030789/movie_max.mp4?t=1718272512
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030789/movie480.mp4?t=1718272512
+    max: https://video.akamai.steamstatic.com/store_trailers/257030789/movie_max.mp4?t=1718272512
   highlight: true
 genres:
 - Casual
@@ -132,4 +132,3 @@ tags:
 - casual
 - simulation
 ---
-

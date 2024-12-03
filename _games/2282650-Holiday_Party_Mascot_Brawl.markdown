@@ -89,21 +89,21 @@ movies:
   name: Holiday Party Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257037178/movie.293x165.jpg?t=1720716244
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037178/movie480_vp9.webm?t=1720716244
-    max: http://video.akamai.steamstatic.com/store_trailers/257037178/movie_max_vp9.webm?t=1720716244
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037178/movie480_vp9.webm?t=1720716244
+    max: https://video.akamai.steamstatic.com/store_trailers/257037178/movie_max_vp9.webm?t=1720716244
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037178/movie480.mp4?t=1720716244
-    max: http://video.akamai.steamstatic.com/store_trailers/257037178/movie_max.mp4?t=1720716244
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037178/movie480.mp4?t=1720716244
+    max: https://video.akamai.steamstatic.com/store_trailers/257037178/movie_max.mp4?t=1720716244
   highlight: true
 - id: 257023904
   name: Holiday Party Gameplay mix
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257023904/9c2037449c21f4d34a659b5934a39a755450bee2/movie_600x337.jpg?t=1729920950
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023904/movie480_vp9.webm?t=1729920950
-    max: http://video.akamai.steamstatic.com/store_trailers/257023904/movie_max_vp9.webm?t=1729920950
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023904/movie480_vp9.webm?t=1729920950
+    max: https://video.akamai.steamstatic.com/store_trailers/257023904/movie_max_vp9.webm?t=1729920950
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023904/movie480.mp4?t=1729920950
-    max: http://video.akamai.steamstatic.com/store_trailers/257023904/movie_max.mp4?t=1729920950
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023904/movie480.mp4?t=1729920950
+    max: https://video.akamai.steamstatic.com/store_trailers/257023904/movie_max.mp4?t=1729920950
   highlight: true
 genres:
 - Action
@@ -198,4 +198,3 @@ tags:
 - action
 - casual
 ---
-

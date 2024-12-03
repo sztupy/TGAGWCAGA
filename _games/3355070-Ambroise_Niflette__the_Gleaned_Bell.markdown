@@ -25,11 +25,11 @@ movies:
   name: Ambroise Niflette - First teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077917/cf8af1fc199ac76574576817f11c2f6fc672534b/movie_600x337.jpg?t=1732983090
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257077917/movie480_vp9.webm?t=1732983090
-    max: http://video.akamai.steamstatic.com/store_trailers/257077917/movie_max_vp9.webm?t=1732983090
+    '480': https://video.akamai.steamstatic.com/store_trailers/257077917/movie480_vp9.webm?t=1732983090
+    max: https://video.akamai.steamstatic.com/store_trailers/257077917/movie_max_vp9.webm?t=1732983090
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257077917/movie480.mp4?t=1732983090
-    max: http://video.akamai.steamstatic.com/store_trailers/257077917/movie_max.mp4?t=1732983090
+    '480': https://video.akamai.steamstatic.com/store_trailers/257077917/movie480.mp4?t=1732983090
+    max: https://video.akamai.steamstatic.com/store_trailers/257077917/movie_max.mp4?t=1732983090
   highlight: true
 genres:
 - Adventure
@@ -139,4 +139,3 @@ tags:
 - adventure
 - casual
 ---
-

@@ -56,11 +56,11 @@ movies:
   name: Release Trailer Out Now
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257002763/movie.293x165.jpg?t=1708615809
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257002763/movie480_vp9.webm?t=1708615809
-    max: http://video.akamai.steamstatic.com/store_trailers/257002763/movie_max_vp9.webm?t=1708615809
+    '480': https://video.akamai.steamstatic.com/store_trailers/257002763/movie480_vp9.webm?t=1708615809
+    max: https://video.akamai.steamstatic.com/store_trailers/257002763/movie_max_vp9.webm?t=1708615809
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257002763/movie480.mp4?t=1708615809
-    max: http://video.akamai.steamstatic.com/store_trailers/257002763/movie_max.mp4?t=1708615809
+    '480': https://video.akamai.steamstatic.com/store_trailers/257002763/movie480.mp4?t=1708615809
+    max: https://video.akamai.steamstatic.com/store_trailers/257002763/movie_max.mp4?t=1708615809
   highlight: true
 genres:
 - Simulation
@@ -228,4 +228,3 @@ support_info:
 tags:
 - simulation
 ---
-

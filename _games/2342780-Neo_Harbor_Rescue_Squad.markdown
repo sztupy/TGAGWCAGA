@@ -53,21 +53,21 @@ movies:
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064737/8e391a6920752b31ca97638a4cf532478df32dca/movie_600x337.jpg?t=1731264033
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064737/movie480_vp9.webm?t=1731264033
-    max: http://video.akamai.steamstatic.com/store_trailers/257064737/movie_max_vp9.webm?t=1731264033
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064737/movie480_vp9.webm?t=1731264033
+    max: https://video.akamai.steamstatic.com/store_trailers/257064737/movie_max_vp9.webm?t=1731264033
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064737/movie480.mp4?t=1731264033
-    max: http://video.akamai.steamstatic.com/store_trailers/257064737/movie_max.mp4?t=1731264033
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064737/movie480.mp4?t=1731264033
+    max: https://video.akamai.steamstatic.com/store_trailers/257064737/movie_max.mp4?t=1731264033
   highlight: true
 - id: 257027020
   name: Reveal Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257027020/movie.293x165.jpg?t=1720545272
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257027020/movie480_vp9.webm?t=1720545272
-    max: http://video.akamai.steamstatic.com/store_trailers/257027020/movie_max_vp9.webm?t=1720545272
+    '480': https://video.akamai.steamstatic.com/store_trailers/257027020/movie480_vp9.webm?t=1720545272
+    max: https://video.akamai.steamstatic.com/store_trailers/257027020/movie_max_vp9.webm?t=1720545272
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257027020/movie480.mp4?t=1720545272
-    max: http://video.akamai.steamstatic.com/store_trailers/257027020/movie_max.mp4?t=1720545272
+    '480': https://video.akamai.steamstatic.com/store_trailers/257027020/movie480.mp4?t=1720545272
+    max: https://video.akamai.steamstatic.com/store_trailers/257027020/movie_max.mp4?t=1720545272
   highlight: false
 genres:
 - Action
@@ -158,4 +158,3 @@ tags:
 - adventure
 - simulation
 ---
-

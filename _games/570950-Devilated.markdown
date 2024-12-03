@@ -64,21 +64,21 @@ movies:
   name: Devilated_1.0_Out Now
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068268/6bb14d0791d353b05368ec104d26be3c57d2dbe0/movie_600x337.jpg?t=1730136633
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068268/movie480_vp9.webm?t=1730136633
-    max: http://video.akamai.steamstatic.com/store_trailers/257068268/movie_max_vp9.webm?t=1730136633
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068268/movie480_vp9.webm?t=1730136633
+    max: https://video.akamai.steamstatic.com/store_trailers/257068268/movie_max_vp9.webm?t=1730136633
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068268/movie480.mp4?t=1730136633
-    max: http://video.akamai.steamstatic.com/store_trailers/257068268/movie_max.mp4?t=1730136633
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068268/movie480.mp4?t=1730136633
+    max: https://video.akamai.steamstatic.com/store_trailers/257068268/movie_max.mp4?t=1730136633
   highlight: true
 - id: 257030552
   name: Devilated_095_1
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030552/movie.293x165.jpg?t=1718286920
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030552/movie480_vp9.webm?t=1718286920
-    max: http://video.akamai.steamstatic.com/store_trailers/257030552/movie_max_vp9.webm?t=1718286920
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030552/movie480_vp9.webm?t=1718286920
+    max: https://video.akamai.steamstatic.com/store_trailers/257030552/movie_max_vp9.webm?t=1718286920
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030552/movie480.mp4?t=1718286920
-    max: http://video.akamai.steamstatic.com/store_trailers/257030552/movie_max.mp4?t=1718286920
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030552/movie480.mp4?t=1718286920
+    max: https://video.akamai.steamstatic.com/store_trailers/257030552/movie_max.mp4?t=1718286920
   highlight: true
 genres:
 - Action
@@ -196,4 +196,3 @@ tags:
 - casual
 - rpg
 ---
-

@@ -35,11 +35,11 @@ movies:
   name: CronyCorp_PreLaunch
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050638/a41ff034c56bdebb918fe53b35637bd66e1fff08/movie_600x337.jpg?t=1727715822
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257050638/movie480_vp9.webm?t=1727715822
-    max: http://video.akamai.steamstatic.com/store_trailers/257050638/movie_max_vp9.webm?t=1727715822
+    '480': https://video.akamai.steamstatic.com/store_trailers/257050638/movie480_vp9.webm?t=1727715822
+    max: https://video.akamai.steamstatic.com/store_trailers/257050638/movie_max_vp9.webm?t=1727715822
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257050638/movie480.mp4?t=1727715822
-    max: http://video.akamai.steamstatic.com/store_trailers/257050638/movie_max.mp4?t=1727715822
+    '480': https://video.akamai.steamstatic.com/store_trailers/257050638/movie480.mp4?t=1727715822
+    max: https://video.akamai.steamstatic.com/store_trailers/257050638/movie_max.mp4?t=1727715822
   highlight: true
 genres:
 - Simulation
@@ -242,4 +242,3 @@ tags:
 - simulation
 - strategy
 ---
-

@@ -35,11 +35,11 @@ movies:
   name: Inferius Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069428/97b4fcc3eed8974a4ae52e0ec75fd42c2ea32ddc/movie_600x337.jpg?t=1730226550
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069428/movie480_vp9.webm?t=1730226550
-    max: http://video.akamai.steamstatic.com/store_trailers/257069428/movie_max_vp9.webm?t=1730226550
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069428/movie480_vp9.webm?t=1730226550
+    max: https://video.akamai.steamstatic.com/store_trailers/257069428/movie_max_vp9.webm?t=1730226550
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069428/movie480.mp4?t=1730226550
-    max: http://video.akamai.steamstatic.com/store_trailers/257069428/movie_max.mp4?t=1730226550
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069428/movie480.mp4?t=1730226550
+    max: https://video.akamai.steamstatic.com/store_trailers/257069428/movie_max.mp4?t=1730226550
   highlight: true
 genres:
 - Adventure
@@ -161,4 +161,3 @@ tags:
 - adventure
 - strategy
 ---
-

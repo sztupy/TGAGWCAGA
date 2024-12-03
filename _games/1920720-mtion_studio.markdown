@@ -53,31 +53,31 @@ movies:
   name: Your own virtual sandbox
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010534/7ffceff67457eff2a68d06724143f4a3a1b37185/movie_600x337.jpg?t=1730419520
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010534/movie480_vp9.webm?t=1730419520
-    max: http://video.akamai.steamstatic.com/store_trailers/257010534/movie_max_vp9.webm?t=1730419520
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010534/movie480_vp9.webm?t=1730419520
+    max: https://video.akamai.steamstatic.com/store_trailers/257010534/movie_max_vp9.webm?t=1730419520
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010534/movie480.mp4?t=1730419520
-    max: http://video.akamai.steamstatic.com/store_trailers/257010534/movie_max.mp4?t=1730419520
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010534/movie480.mp4?t=1730419520
+    max: https://video.akamai.steamstatic.com/store_trailers/257010534/movie_max.mp4?t=1730419520
   highlight: true
 - id: 257070079
   name: 3D assets at your finger tips
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070079/d3ebda6d2ca694ffdeb23356463d4450e794d1c8/movie_600x337.jpg?t=1730419526
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070079/movie480_vp9.webm?t=1730419526
-    max: http://video.akamai.steamstatic.com/store_trailers/257070079/movie_max_vp9.webm?t=1730419526
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070079/movie480_vp9.webm?t=1730419526
+    max: https://video.akamai.steamstatic.com/store_trailers/257070079/movie_max_vp9.webm?t=1730419526
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070079/movie480.mp4?t=1730419526
-    max: http://video.akamai.steamstatic.com/store_trailers/257070079/movie_max.mp4?t=1730419526
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070079/movie480.mp4?t=1730419526
+    max: https://video.akamai.steamstatic.com/store_trailers/257070079/movie_max.mp4?t=1730419526
   highlight: true
 - id: 257010270
   name: Embrace your virtual self
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010270/movie.293x165.jpg?t=1711059020
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010270/movie480_vp9.webm?t=1711059020
-    max: http://video.akamai.steamstatic.com/store_trailers/257010270/movie_max_vp9.webm?t=1711059020
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010270/movie480_vp9.webm?t=1711059020
+    max: https://video.akamai.steamstatic.com/store_trailers/257010270/movie_max_vp9.webm?t=1711059020
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010270/movie480.mp4?t=1711059020
-    max: http://video.akamai.steamstatic.com/store_trailers/257010270/movie_max.mp4?t=1711059020
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010270/movie480.mp4?t=1711059020
+    max: https://video.akamai.steamstatic.com/store_trailers/257010270/movie_max.mp4?t=1711059020
   highlight: true
 genres:
 - Free To Play
@@ -185,4 +185,3 @@ support_info:
 tags:
 - unspecified
 ---
-

@@ -67,41 +67,41 @@ movies:
   name: MULLET MADJACK Trailer OUT NOW!!
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257023514/movie.293x165.jpg?t=1715797849
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023514/movie480_vp9.webm?t=1715797849
-    max: http://video.akamai.steamstatic.com/store_trailers/257023514/movie_max_vp9.webm?t=1715797849
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023514/movie480_vp9.webm?t=1715797849
+    max: https://video.akamai.steamstatic.com/store_trailers/257023514/movie_max_vp9.webm?t=1715797849
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023514/movie480.mp4?t=1715797849
-    max: http://video.akamai.steamstatic.com/store_trailers/257023514/movie_max.mp4?t=1715797849
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023514/movie480.mp4?t=1715797849
+    max: https://video.akamai.steamstatic.com/store_trailers/257023514/movie_max.mp4?t=1715797849
   highlight: true
 - id: 257053987
   name: MULLET MADJACK trailer accolades
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257053987/movie.293x165.jpg?t=1726013577
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257053987/movie480_vp9.webm?t=1726013577
-    max: http://video.akamai.steamstatic.com/store_trailers/257053987/movie_max_vp9.webm?t=1726013577
+    '480': https://video.akamai.steamstatic.com/store_trailers/257053987/movie480_vp9.webm?t=1726013577
+    max: https://video.akamai.steamstatic.com/store_trailers/257053987/movie_max_vp9.webm?t=1726013577
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257053987/movie480.mp4?t=1726013577
-    max: http://video.akamai.steamstatic.com/store_trailers/257053987/movie_max.mp4?t=1726013577
+    '480': https://video.akamai.steamstatic.com/store_trailers/257053987/movie480.mp4?t=1726013577
+    max: https://video.akamai.steamstatic.com/store_trailers/257053987/movie_max.mp4?t=1726013577
   highlight: true
 - id: 256951012
   name: MULLET MAD JACK trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951012/movie.293x165.jpg?t=1686607091
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256951012/movie480_vp9.webm?t=1686607091
-    max: http://video.akamai.steamstatic.com/store_trailers/256951012/movie_max_vp9.webm?t=1686607091
+    '480': https://video.akamai.steamstatic.com/store_trailers/256951012/movie480_vp9.webm?t=1686607091
+    max: https://video.akamai.steamstatic.com/store_trailers/256951012/movie_max_vp9.webm?t=1686607091
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256951012/movie480.mp4?t=1686607091
-    max: http://video.akamai.steamstatic.com/store_trailers/256951012/movie_max.mp4?t=1686607091
+    '480': https://video.akamai.steamstatic.com/store_trailers/256951012/movie480.mp4?t=1686607091
+    max: https://video.akamai.steamstatic.com/store_trailers/256951012/movie_max.mp4?t=1686607091
   highlight: false
 - id: 256950563
   name: MULLET MAD JACK gameplay trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950563/movie.293x165.jpg?t=1686252457
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256950563/movie480_vp9.webm?t=1686252457
-    max: http://video.akamai.steamstatic.com/store_trailers/256950563/movie_max_vp9.webm?t=1686252457
+    '480': https://video.akamai.steamstatic.com/store_trailers/256950563/movie480_vp9.webm?t=1686252457
+    max: https://video.akamai.steamstatic.com/store_trailers/256950563/movie_max_vp9.webm?t=1686252457
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256950563/movie480.mp4?t=1686252457
-    max: http://video.akamai.steamstatic.com/store_trailers/256950563/movie_max.mp4?t=1686252457
+    '480': https://video.akamai.steamstatic.com/store_trailers/256950563/movie480.mp4?t=1686252457
+    max: https://video.akamai.steamstatic.com/store_trailers/256950563/movie_max.mp4?t=1686252457
   highlight: false
 genres:
 - Action
@@ -196,4 +196,3 @@ support_info:
 tags:
 - action
 ---
-

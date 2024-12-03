@@ -34,11 +34,11 @@ movies:
   name: Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257024329/450c263a8bb88d5229a3c6f3648cbbed16fda830/movie_600x337.jpg?t=1729293363
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257024329/movie480_vp9.webm?t=1729293363
-    max: http://video.akamai.steamstatic.com/store_trailers/257024329/movie_max_vp9.webm?t=1729293363
+    '480': https://video.akamai.steamstatic.com/store_trailers/257024329/movie480_vp9.webm?t=1729293363
+    max: https://video.akamai.steamstatic.com/store_trailers/257024329/movie_max_vp9.webm?t=1729293363
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257024329/movie480.mp4?t=1729293363
-    max: http://video.akamai.steamstatic.com/store_trailers/257024329/movie_max.mp4?t=1729293363
+    '480': https://video.akamai.steamstatic.com/store_trailers/257024329/movie480.mp4?t=1729293363
+    max: https://video.akamai.steamstatic.com/store_trailers/257024329/movie_max.mp4?t=1729293363
   highlight: true
 genres:
 - Action
@@ -94,4 +94,3 @@ tags:
 - action
 - adventure
 ---
-

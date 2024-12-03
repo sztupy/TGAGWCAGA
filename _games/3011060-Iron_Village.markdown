@@ -34,11 +34,11 @@ movies:
   name: October 2024 Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063922/6c0fdd96b5743252b1783e8e5efa32f761707e2d/movie_600x337.jpg?t=1728598602
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063922/movie480_vp9.webm?t=1728598602
-    max: http://video.akamai.steamstatic.com/store_trailers/257063922/movie_max_vp9.webm?t=1728598602
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063922/movie480_vp9.webm?t=1728598602
+    max: https://video.akamai.steamstatic.com/store_trailers/257063922/movie_max_vp9.webm?t=1728598602
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063922/movie480.mp4?t=1728598602
-    max: http://video.akamai.steamstatic.com/store_trailers/257063922/movie_max.mp4?t=1728598602
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063922/movie480.mp4?t=1728598602
+    max: https://video.akamai.steamstatic.com/store_trailers/257063922/movie_max.mp4?t=1728598602
   highlight: true
 genres:
 - Indie
@@ -94,4 +94,3 @@ support_info:
 tags:
 - simulation
 ---
-

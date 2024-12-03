@@ -29,11 +29,11 @@ movies:
   name: Pastopia Official Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060192/727cc4a929920f079c615465b0265de32f728709/movie_600x337.jpg?t=1732077001
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060192/movie480_vp9.webm?t=1732077001
-    max: http://video.akamai.steamstatic.com/store_trailers/257060192/movie_max_vp9.webm?t=1732077001
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060192/movie480_vp9.webm?t=1732077001
+    max: https://video.akamai.steamstatic.com/store_trailers/257060192/movie_max_vp9.webm?t=1732077001
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060192/movie480.mp4?t=1732077001
-    max: http://video.akamai.steamstatic.com/store_trailers/257060192/movie_max.mp4?t=1732077001
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060192/movie480.mp4?t=1732077001
+    max: https://video.akamai.steamstatic.com/store_trailers/257060192/movie_max.mp4?t=1732077001
   highlight: true
 genres:
 - Adventure
@@ -142,4 +142,3 @@ support_info:
 tags:
 - adventure
 ---
-

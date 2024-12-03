@@ -34,21 +34,21 @@ movies:
   name: 'Telegraphist 1920: Beats of War - Teaser #2'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257037789/movie.293x165.jpg?t=1720978386
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037789/movie480_vp9.webm?t=1720978386
-    max: http://video.akamai.steamstatic.com/store_trailers/257037789/movie_max_vp9.webm?t=1720978386
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037789/movie480_vp9.webm?t=1720978386
+    max: https://video.akamai.steamstatic.com/store_trailers/257037789/movie_max_vp9.webm?t=1720978386
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037789/movie480.mp4?t=1720978386
-    max: http://video.akamai.steamstatic.com/store_trailers/257037789/movie_max.mp4?t=1720978386
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037789/movie480.mp4?t=1720978386
+    max: https://video.akamai.steamstatic.com/store_trailers/257037789/movie_max.mp4?t=1720978386
   highlight: true
 - id: 257047940
   name: 'Telegraphist 1920: Beats of War - Intro Cinematic'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047940/movie.293x165.jpg?t=1724180779
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257047940/movie480_vp9.webm?t=1724180779
-    max: http://video.akamai.steamstatic.com/store_trailers/257047940/movie_max_vp9.webm?t=1724180779
+    '480': https://video.akamai.steamstatic.com/store_trailers/257047940/movie480_vp9.webm?t=1724180779
+    max: https://video.akamai.steamstatic.com/store_trailers/257047940/movie_max_vp9.webm?t=1724180779
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257047940/movie480.mp4?t=1724180779
-    max: http://video.akamai.steamstatic.com/store_trailers/257047940/movie_max.mp4?t=1724180779
+    '480': https://video.akamai.steamstatic.com/store_trailers/257047940/movie480.mp4?t=1724180779
+    max: https://video.akamai.steamstatic.com/store_trailers/257047940/movie_max.mp4?t=1724180779
   highlight: true
 genres:
 - Action
@@ -150,4 +150,3 @@ tags:
 - action
 - adventure
 ---
-

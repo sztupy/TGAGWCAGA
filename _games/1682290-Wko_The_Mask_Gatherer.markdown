@@ -49,11 +49,11 @@ movies:
   name: "Wéko The Mask Gatherer \U0001F98E OUT NOW !"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048816/movie.293x165.jpg?t=1724412277
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048816/movie480_vp9.webm?t=1724412277
-    max: http://video.akamai.steamstatic.com/store_trailers/257048816/movie_max_vp9.webm?t=1724412277
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048816/movie480_vp9.webm?t=1724412277
+    max: https://video.akamai.steamstatic.com/store_trailers/257048816/movie_max_vp9.webm?t=1724412277
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048816/movie480.mp4?t=1724412277
-    max: http://video.akamai.steamstatic.com/store_trailers/257048816/movie_max.mp4?t=1724412277
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048816/movie480.mp4?t=1724412277
+    max: https://video.akamai.steamstatic.com/store_trailers/257048816/movie_max.mp4?t=1724412277
   highlight: true
 genres:
 - Action
@@ -161,4 +161,3 @@ tags:
 - adventure
 - rpg
 ---
-

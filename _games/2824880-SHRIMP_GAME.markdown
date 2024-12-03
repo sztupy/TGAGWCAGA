@@ -27,11 +27,11 @@ movies:
   name: Shrimp Demo Montage
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257002658/movie.293x165.jpg?t=1721167451
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257002658/movie480_vp9.webm?t=1721167451
-    max: http://video.akamai.steamstatic.com/store_trailers/257002658/movie_max_vp9.webm?t=1721167451
+    '480': https://video.akamai.steamstatic.com/store_trailers/257002658/movie480_vp9.webm?t=1721167451
+    max: https://video.akamai.steamstatic.com/store_trailers/257002658/movie_max_vp9.webm?t=1721167451
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257002658/movie480.mp4?t=1721167451
-    max: http://video.akamai.steamstatic.com/store_trailers/257002658/movie_max.mp4?t=1721167451
+    '480': https://video.akamai.steamstatic.com/store_trailers/257002658/movie480.mp4?t=1721167451
+    max: https://video.akamai.steamstatic.com/store_trailers/257002658/movie_max.mp4?t=1721167451
   highlight: true
 genres:
 - Action
@@ -86,4 +86,3 @@ support_info:
 tags:
 - action
 ---
-

@@ -77,21 +77,21 @@ movies:
   name: Through the Nightmares - Story Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062629/c81c7cb4aba8aabe39c82cc2dd040344337c2e25/movie_600x337.jpg?t=1728329604
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062629/movie480_vp9.webm?t=1728329604
-    max: http://video.akamai.steamstatic.com/store_trailers/257062629/movie_max_vp9.webm?t=1728329604
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062629/movie480_vp9.webm?t=1728329604
+    max: https://video.akamai.steamstatic.com/store_trailers/257062629/movie_max_vp9.webm?t=1728329604
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062629/movie480.mp4?t=1728329604
-    max: http://video.akamai.steamstatic.com/store_trailers/257062629/movie_max.mp4?t=1728329604
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062629/movie480.mp4?t=1728329604
+    max: https://video.akamai.steamstatic.com/store_trailers/257062629/movie_max.mp4?t=1728329604
   highlight: true
 - id: 256912392
   name: Through the Nightmares - New Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256912392/movie.293x165.jpg?t=1683379293
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256912392/movie480_vp9.webm?t=1683379293
-    max: http://video.akamai.steamstatic.com/store_trailers/256912392/movie_max_vp9.webm?t=1683379293
+    '480': https://video.akamai.steamstatic.com/store_trailers/256912392/movie480_vp9.webm?t=1683379293
+    max: https://video.akamai.steamstatic.com/store_trailers/256912392/movie_max_vp9.webm?t=1683379293
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256912392/movie480.mp4?t=1683379293
-    max: http://video.akamai.steamstatic.com/store_trailers/256912392/movie_max.mp4?t=1683379293
+    '480': https://video.akamai.steamstatic.com/store_trailers/256912392/movie480.mp4?t=1683379293
+    max: https://video.akamai.steamstatic.com/store_trailers/256912392/movie_max.mp4?t=1683379293
   highlight: true
 genres:
 - Action
@@ -274,4 +274,3 @@ support_info:
 tags:
 - action
 ---
-

@@ -28,11 +28,11 @@ movies:
   name: Demo Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018690/movie.293x165.jpg?t=1723589282
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018690/movie480_vp9.webm?t=1723589282
-    max: http://video.akamai.steamstatic.com/store_trailers/257018690/movie_max_vp9.webm?t=1723589282
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018690/movie480_vp9.webm?t=1723589282
+    max: https://video.akamai.steamstatic.com/store_trailers/257018690/movie_max_vp9.webm?t=1723589282
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018690/movie480.mp4?t=1723589282
-    max: http://video.akamai.steamstatic.com/store_trailers/257018690/movie_max.mp4?t=1723589282
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018690/movie480.mp4?t=1723589282
+    max: https://video.akamai.steamstatic.com/store_trailers/257018690/movie_max.mp4?t=1723589282
   highlight: true
 genres:
 - Indie
@@ -125,4 +125,3 @@ support_info:
 tags:
 - strategy
 ---
-

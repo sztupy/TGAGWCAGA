@@ -40,21 +40,21 @@ movies:
   name: Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075483/dbafc3a90882db00fcd978469fed8f8cc3632ce3/movie_600x337.jpg?t=1732205552
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075483/movie480_vp9.webm?t=1732205552
-    max: http://video.akamai.steamstatic.com/store_trailers/257075483/movie_max_vp9.webm?t=1732205552
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075483/movie480_vp9.webm?t=1732205552
+    max: https://video.akamai.steamstatic.com/store_trailers/257075483/movie_max_vp9.webm?t=1732205552
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075483/movie480.mp4?t=1732205552
-    max: http://video.akamai.steamstatic.com/store_trailers/257075483/movie_max.mp4?t=1732205552
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075483/movie480.mp4?t=1732205552
+    max: https://video.akamai.steamstatic.com/store_trailers/257075483/movie_max.mp4?t=1732205552
   highlight: true
 - id: 257048264
   name: Gameplay Overview
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048264/movie.293x165.jpg?t=1724263007
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048264/movie480_vp9.webm?t=1724263007
-    max: http://video.akamai.steamstatic.com/store_trailers/257048264/movie_max_vp9.webm?t=1724263007
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048264/movie480_vp9.webm?t=1724263007
+    max: https://video.akamai.steamstatic.com/store_trailers/257048264/movie_max_vp9.webm?t=1724263007
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048264/movie480.mp4?t=1724263007
-    max: http://video.akamai.steamstatic.com/store_trailers/257048264/movie_max.mp4?t=1724263007
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048264/movie480.mp4?t=1724263007
+    max: https://video.akamai.steamstatic.com/store_trailers/257048264/movie_max.mp4?t=1724263007
   highlight: false
 genres:
 - Indie
@@ -113,4 +113,3 @@ tags:
 - rpg
 - strategy
 ---
-

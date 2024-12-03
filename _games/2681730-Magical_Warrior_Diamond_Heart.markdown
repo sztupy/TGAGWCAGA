@@ -60,11 +60,11 @@ movies:
   name: Magical Warrior Diamond Heart Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056998/movie.293x165.jpg?t=1726856778
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257056998/movie480_vp9.webm?t=1726856778
-    max: http://video.akamai.steamstatic.com/store_trailers/257056998/movie_max_vp9.webm?t=1726856778
+    '480': https://video.akamai.steamstatic.com/store_trailers/257056998/movie480_vp9.webm?t=1726856778
+    max: https://video.akamai.steamstatic.com/store_trailers/257056998/movie_max_vp9.webm?t=1726856778
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257056998/movie480.mp4?t=1726856778
-    max: http://video.akamai.steamstatic.com/store_trailers/257056998/movie_max.mp4?t=1726856778
+    '480': https://video.akamai.steamstatic.com/store_trailers/257056998/movie480.mp4?t=1726856778
+    max: https://video.akamai.steamstatic.com/store_trailers/257056998/movie_max.mp4?t=1726856778
   highlight: true
 genres:
 - Adventure
@@ -235,4 +235,3 @@ tags:
 - adventure
 - casual
 ---
-

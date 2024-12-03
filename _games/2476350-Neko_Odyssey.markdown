@@ -35,21 +35,21 @@ movies:
   name: Demo Out Now
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030256/movie.293x165.jpg?t=1718087456
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030256/movie480_vp9.webm?t=1718087456
-    max: http://video.akamai.steamstatic.com/store_trailers/257030256/movie_max_vp9.webm?t=1718087456
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030256/movie480_vp9.webm?t=1718087456
+    max: https://video.akamai.steamstatic.com/store_trailers/257030256/movie_max_vp9.webm?t=1718087456
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030256/movie480.mp4?t=1718087456
-    max: http://video.akamai.steamstatic.com/store_trailers/257030256/movie_max.mp4?t=1718087456
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030256/movie480.mp4?t=1718087456
+    max: https://video.akamai.steamstatic.com/store_trailers/257030256/movie_max.mp4?t=1718087456
   highlight: true
 - id: 256962267
   name: Teaser debut Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256962267/movie.293x165.jpg?t=1691686859
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256962267/movie480_vp9.webm?t=1691686859
-    max: http://video.akamai.steamstatic.com/store_trailers/256962267/movie_max_vp9.webm?t=1691686859
+    '480': https://video.akamai.steamstatic.com/store_trailers/256962267/movie480_vp9.webm?t=1691686859
+    max: https://video.akamai.steamstatic.com/store_trailers/256962267/movie_max_vp9.webm?t=1691686859
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256962267/movie480.mp4?t=1691686859
-    max: http://video.akamai.steamstatic.com/store_trailers/256962267/movie_max.mp4?t=1691686859
+    '480': https://video.akamai.steamstatic.com/store_trailers/256962267/movie480.mp4?t=1691686859
+    max: https://video.akamai.steamstatic.com/store_trailers/256962267/movie_max.mp4?t=1691686859
   highlight: true
 genres:
 - Adventure
@@ -119,4 +119,3 @@ tags:
 - adventure
 - casual
 ---
-

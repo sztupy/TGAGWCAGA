@@ -74,21 +74,21 @@ movies:
   name: Spaceman Memories Gameplay Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070052/bd42514a4e6380c1239e6c0d5ccf3c15abe8a681/movie_600x337.jpg?t=1730401449
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070052/movie480_vp9.webm?t=1730401449
-    max: http://video.akamai.steamstatic.com/store_trailers/257070052/movie_max_vp9.webm?t=1730401449
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070052/movie480_vp9.webm?t=1730401449
+    max: https://video.akamai.steamstatic.com/store_trailers/257070052/movie_max_vp9.webm?t=1730401449
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070052/movie480.mp4?t=1730401449
-    max: http://video.akamai.steamstatic.com/store_trailers/257070052/movie_max.mp4?t=1730401449
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070052/movie480.mp4?t=1730401449
+    max: https://video.akamai.steamstatic.com/store_trailers/257070052/movie_max.mp4?t=1730401449
   highlight: true
 - id: 257068605
   name: Spaceman Memories Official Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068605/fa25875df251edff71e79dacc8b8df8ee9662fc5/movie_600x337.jpg?t=1729950953
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068605/movie480_vp9.webm?t=1729950953
-    max: http://video.akamai.steamstatic.com/store_trailers/257068605/movie_max_vp9.webm?t=1729950953
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068605/movie480_vp9.webm?t=1729950953
+    max: https://video.akamai.steamstatic.com/store_trailers/257068605/movie_max_vp9.webm?t=1729950953
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068605/movie480.mp4?t=1729950953
-    max: http://video.akamai.steamstatic.com/store_trailers/257068605/movie_max.mp4?t=1729950953
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068605/movie480.mp4?t=1729950953
+    max: https://video.akamai.steamstatic.com/store_trailers/257068605/movie_max.mp4?t=1729950953
   highlight: true
 genres:
 - Adventure
@@ -171,4 +171,3 @@ tags:
 - adventure
 - rpg
 ---
-

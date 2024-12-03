@@ -35,21 +35,21 @@ movies:
   name: Adrenaline Rampage - Hardcore gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257058864/09532bdfdbde93e2d7cbdae78d20b9482805858b/movie_600x337.jpg?t=1727375608
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257058864/movie480_vp9.webm?t=1727375608
-    max: http://video.akamai.steamstatic.com/store_trailers/257058864/movie_max_vp9.webm?t=1727375608
+    '480': https://video.akamai.steamstatic.com/store_trailers/257058864/movie480_vp9.webm?t=1727375608
+    max: https://video.akamai.steamstatic.com/store_trailers/257058864/movie_max_vp9.webm?t=1727375608
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257058864/movie480.mp4?t=1727375608
-    max: http://video.akamai.steamstatic.com/store_trailers/257058864/movie_max.mp4?t=1727375608
+    '480': https://video.akamai.steamstatic.com/store_trailers/257058864/movie480.mp4?t=1727375608
+    max: https://video.akamai.steamstatic.com/store_trailers/257058864/movie_max.mp4?t=1727375608
   highlight: true
 - id: 257059395
   name: Adrenaline Rampage - Boss Gorilloid fight
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059395/f33fc5916736aac23f41a79447db609c0cb241b7/movie_600x337.jpg?t=1727415043
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059395/movie480_vp9.webm?t=1727415043
-    max: http://video.akamai.steamstatic.com/store_trailers/257059395/movie_max_vp9.webm?t=1727415043
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059395/movie480_vp9.webm?t=1727415043
+    max: https://video.akamai.steamstatic.com/store_trailers/257059395/movie_max_vp9.webm?t=1727415043
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059395/movie480.mp4?t=1727415043
-    max: http://video.akamai.steamstatic.com/store_trailers/257059395/movie_max.mp4?t=1727415043
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059395/movie480.mp4?t=1727415043
+    max: https://video.akamai.steamstatic.com/store_trailers/257059395/movie_max.mp4?t=1727415043
   highlight: false
 genres:
 - Action
@@ -124,4 +124,3 @@ tags:
 - action
 - rpg
 ---
-

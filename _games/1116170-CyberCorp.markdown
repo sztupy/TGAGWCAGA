@@ -61,31 +61,31 @@ movies:
   name: Release Announcement
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034839/movie.293x165.jpg?t=1719734112
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257034839/movie480_vp9.webm?t=1719734112
-    max: http://video.akamai.steamstatic.com/store_trailers/257034839/movie_max_vp9.webm?t=1719734112
+    '480': https://video.akamai.steamstatic.com/store_trailers/257034839/movie480_vp9.webm?t=1719734112
+    max: https://video.akamai.steamstatic.com/store_trailers/257034839/movie_max_vp9.webm?t=1719734112
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257034839/movie480.mp4?t=1719734112
-    max: http://video.akamai.steamstatic.com/store_trailers/257034839/movie_max.mp4?t=1719734112
+    '480': https://video.akamai.steamstatic.com/store_trailers/257034839/movie480.mp4?t=1719734112
+    max: https://video.akamai.steamstatic.com/store_trailers/257034839/movie_max.mp4?t=1719734112
   highlight: true
 - id: 257010934
   name: CyberCorp
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010934/movie.293x165.jpg?t=1716299733
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010934/movie480_vp9.webm?t=1716299733
-    max: http://video.akamai.steamstatic.com/store_trailers/257010934/movie_max_vp9.webm?t=1716299733
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010934/movie480_vp9.webm?t=1716299733
+    max: https://video.akamai.steamstatic.com/store_trailers/257010934/movie_max_vp9.webm?t=1716299733
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010934/movie480.mp4?t=1716299733
-    max: http://video.akamai.steamstatic.com/store_trailers/257010934/movie_max.mp4?t=1716299733
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010934/movie480.mp4?t=1716299733
+    max: https://video.akamai.steamstatic.com/store_trailers/257010934/movie_max.mp4?t=1716299733
   highlight: true
 - id: 256970582
   name: CyberCorp
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256970582/movie.293x165.jpg?t=1716299738
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256970582/movie480_vp9.webm?t=1716299738
-    max: http://video.akamai.steamstatic.com/store_trailers/256970582/movie_max_vp9.webm?t=1716299738
+    '480': https://video.akamai.steamstatic.com/store_trailers/256970582/movie480_vp9.webm?t=1716299738
+    max: https://video.akamai.steamstatic.com/store_trailers/256970582/movie_max_vp9.webm?t=1716299738
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256970582/movie480.mp4?t=1716299738
-    max: http://video.akamai.steamstatic.com/store_trailers/256970582/movie_max.mp4?t=1716299738
+    '480': https://video.akamai.steamstatic.com/store_trailers/256970582/movie480.mp4?t=1716299738
+    max: https://video.akamai.steamstatic.com/store_trailers/256970582/movie_max.mp4?t=1716299738
   highlight: true
 genres:
 - Action
@@ -194,4 +194,3 @@ tags:
 - adventure
 - rpg
 ---
-

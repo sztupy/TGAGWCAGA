@@ -50,21 +50,21 @@ movies:
   name: Early Access Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257022904/movie.293x165.jpg?t=1715615749
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022904/movie480_vp9.webm?t=1715615749
-    max: http://video.akamai.steamstatic.com/store_trailers/257022904/movie_max_vp9.webm?t=1715615749
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022904/movie480_vp9.webm?t=1715615749
+    max: https://video.akamai.steamstatic.com/store_trailers/257022904/movie_max_vp9.webm?t=1715615749
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022904/movie480.mp4?t=1715615749
-    max: http://video.akamai.steamstatic.com/store_trailers/257022904/movie_max.mp4?t=1715615749
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022904/movie480.mp4?t=1715615749
+    max: https://video.akamai.steamstatic.com/store_trailers/257022904/movie_max.mp4?t=1715615749
   highlight: true
 - id: 257074891
   name: Unedited Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074891/09ad1665ac1feddae50de3592149fe58b23729e4/movie_600x337.jpg?t=1732030969
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257074891/movie480_vp9.webm?t=1732030969
-    max: http://video.akamai.steamstatic.com/store_trailers/257074891/movie_max_vp9.webm?t=1732030969
+    '480': https://video.akamai.steamstatic.com/store_trailers/257074891/movie480_vp9.webm?t=1732030969
+    max: https://video.akamai.steamstatic.com/store_trailers/257074891/movie_max_vp9.webm?t=1732030969
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257074891/movie480.mp4?t=1732030969
-    max: http://video.akamai.steamstatic.com/store_trailers/257074891/movie_max.mp4?t=1732030969
+    '480': https://video.akamai.steamstatic.com/store_trailers/257074891/movie480.mp4?t=1732030969
+    max: https://video.akamai.steamstatic.com/store_trailers/257074891/movie_max.mp4?t=1732030969
   highlight: true
 genres:
 - Action
@@ -158,4 +158,3 @@ tags:
 - casual
 - rpg
 ---
-

@@ -53,11 +53,11 @@ movies:
   name: Void Dungeon - Annoucment Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071804/da4e34092848f912f359e431ca52c1552cd6340f/movie_600x337.jpg?t=1732207765
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071804/movie480_vp9.webm?t=1732207765
-    max: http://video.akamai.steamstatic.com/store_trailers/257071804/movie_max_vp9.webm?t=1732207765
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071804/movie480_vp9.webm?t=1732207765
+    max: https://video.akamai.steamstatic.com/store_trailers/257071804/movie_max_vp9.webm?t=1732207765
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071804/movie480.mp4?t=1732207765
-    max: http://video.akamai.steamstatic.com/store_trailers/257071804/movie_max.mp4?t=1732207765
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071804/movie480.mp4?t=1732207765
+    max: https://video.akamai.steamstatic.com/store_trailers/257071804/movie_max.mp4?t=1732207765
   highlight: true
 genres:
 - Action
@@ -184,4 +184,3 @@ tags:
 - adventure
 - rpg
 ---
-

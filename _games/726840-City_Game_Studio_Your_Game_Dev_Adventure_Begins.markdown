@@ -74,31 +74,31 @@ movies:
   name: City Game Studio 2023 Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256940308/movie.293x165.jpg?t=1709053131
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256940308/movie480_vp9.webm?t=1709053131
-    max: http://video.akamai.steamstatic.com/store_trailers/256940308/movie_max_vp9.webm?t=1709053131
+    '480': https://video.akamai.steamstatic.com/store_trailers/256940308/movie480_vp9.webm?t=1709053131
+    max: https://video.akamai.steamstatic.com/store_trailers/256940308/movie_max_vp9.webm?t=1709053131
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256940308/movie480.mp4?t=1709053131
-    max: http://video.akamai.steamstatic.com/store_trailers/256940308/movie_max.mp4?t=1709053131
+    '480': https://video.akamai.steamstatic.com/store_trailers/256940308/movie480.mp4?t=1709053131
+    max: https://video.akamai.steamstatic.com/store_trailers/256940308/movie_max.mp4?t=1709053131
   highlight: true
 - id: 256843577
   name: City Game Studio Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256843577/movie.293x165.jpg?t=1709053135
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256843577/movie480_vp9.webm?t=1709053135
-    max: http://video.akamai.steamstatic.com/store_trailers/256843577/movie_max_vp9.webm?t=1709053135
+    '480': https://video.akamai.steamstatic.com/store_trailers/256843577/movie480_vp9.webm?t=1709053135
+    max: https://video.akamai.steamstatic.com/store_trailers/256843577/movie_max_vp9.webm?t=1709053135
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256843577/movie480.mp4?t=1709053135
-    max: http://video.akamai.steamstatic.com/store_trailers/256843577/movie_max.mp4?t=1709053135
+    '480': https://video.akamai.steamstatic.com/store_trailers/256843577/movie480.mp4?t=1709053135
+    max: https://video.akamai.steamstatic.com/store_trailers/256843577/movie_max.mp4?t=1709053135
   highlight: false
 - id: 256743048
   name: EarlyAccess
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256743048/movie.293x165.jpg?t=1709053139
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256743048/movie480.webm?t=1709053139
-    max: http://video.akamai.steamstatic.com/store_trailers/256743048/movie_max.webm?t=1709053139
+    '480': https://video.akamai.steamstatic.com/store_trailers/256743048/movie480.webm?t=1709053139
+    max: https://video.akamai.steamstatic.com/store_trailers/256743048/movie_max.webm?t=1709053139
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256743048/movie480.mp4?t=1709053139
-    max: http://video.akamai.steamstatic.com/store_trailers/256743048/movie_max.mp4?t=1709053139
+    '480': https://video.akamai.steamstatic.com/store_trailers/256743048/movie480.mp4?t=1709053139
+    max: https://video.akamai.steamstatic.com/store_trailers/256743048/movie_max.mp4?t=1709053139
   highlight: false
 genres:
 - Casual
@@ -238,4 +238,3 @@ tags:
 - simulation
 - strategy
 ---
-

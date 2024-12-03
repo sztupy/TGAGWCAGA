@@ -37,41 +37,41 @@ movies:
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062950/30428ecb2157a2af3b02328dcf1b1033b4e8a326/movie_600x337.jpg?t=1728405605
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062950/movie480_vp9.webm?t=1728405605
-    max: http://video.akamai.steamstatic.com/store_trailers/257062950/movie_max_vp9.webm?t=1728405605
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062950/movie480_vp9.webm?t=1728405605
+    max: https://video.akamai.steamstatic.com/store_trailers/257062950/movie_max_vp9.webm?t=1728405605
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062950/movie480.mp4?t=1728405605
-    max: http://video.akamai.steamstatic.com/store_trailers/257062950/movie_max.mp4?t=1728405605
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062950/movie480.mp4?t=1728405605
+    max: https://video.akamai.steamstatic.com/store_trailers/257062950/movie_max.mp4?t=1728405605
   highlight: true
 - id: 257041824
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257041824/movie.293x165.jpg?t=1722358105
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041824/movie480_vp9.webm?t=1722358105
-    max: http://video.akamai.steamstatic.com/store_trailers/257041824/movie_max_vp9.webm?t=1722358105
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041824/movie480_vp9.webm?t=1722358105
+    max: https://video.akamai.steamstatic.com/store_trailers/257041824/movie_max_vp9.webm?t=1722358105
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041824/movie480.mp4?t=1722358105
-    max: http://video.akamai.steamstatic.com/store_trailers/257041824/movie_max.mp4?t=1722358105
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041824/movie480.mp4?t=1722358105
+    max: https://video.akamai.steamstatic.com/store_trailers/257041824/movie_max.mp4?t=1722358105
   highlight: true
 - id: 257011165
   name: Steam Next Fest Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257011165/movie.293x165.jpg?t=1714493656
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257011165/movie480_vp9.webm?t=1714493656
-    max: http://video.akamai.steamstatic.com/store_trailers/257011165/movie_max_vp9.webm?t=1714493656
+    '480': https://video.akamai.steamstatic.com/store_trailers/257011165/movie480_vp9.webm?t=1714493656
+    max: https://video.akamai.steamstatic.com/store_trailers/257011165/movie_max_vp9.webm?t=1714493656
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257011165/movie480.mp4?t=1714493656
-    max: http://video.akamai.steamstatic.com/store_trailers/257011165/movie_max.mp4?t=1714493656
+    '480': https://video.akamai.steamstatic.com/store_trailers/257011165/movie480.mp4?t=1714493656
+    max: https://video.akamai.steamstatic.com/store_trailers/257011165/movie_max.mp4?t=1714493656
   highlight: false
 - id: 256951956
   name: Initial Announcement
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951956/movie.293x165.jpg?t=1686758655
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256951956/movie480_vp9.webm?t=1686758655
-    max: http://video.akamai.steamstatic.com/store_trailers/256951956/movie_max_vp9.webm?t=1686758655
+    '480': https://video.akamai.steamstatic.com/store_trailers/256951956/movie480_vp9.webm?t=1686758655
+    max: https://video.akamai.steamstatic.com/store_trailers/256951956/movie_max_vp9.webm?t=1686758655
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256951956/movie480.mp4?t=1686758655
-    max: http://video.akamai.steamstatic.com/store_trailers/256951956/movie_max.mp4?t=1686758655
+    '480': https://video.akamai.steamstatic.com/store_trailers/256951956/movie480.mp4?t=1686758655
+    max: https://video.akamai.steamstatic.com/store_trailers/256951956/movie_max.mp4?t=1686758655
   highlight: false
 genres:
 - Adventure
@@ -182,4 +182,3 @@ support_info:
 tags:
 - adventure
 ---
-

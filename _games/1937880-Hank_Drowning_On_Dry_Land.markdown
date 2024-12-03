@@ -29,11 +29,11 @@ movies:
   name: There is an old joke...
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256918081/movie.293x165.jpg?t=1669487160
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256918081/movie480_vp9.webm?t=1669487160
-    max: http://video.akamai.steamstatic.com/store_trailers/256918081/movie_max_vp9.webm?t=1669487160
+    '480': https://video.akamai.steamstatic.com/store_trailers/256918081/movie480_vp9.webm?t=1669487160
+    max: https://video.akamai.steamstatic.com/store_trailers/256918081/movie_max_vp9.webm?t=1669487160
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256918081/movie480.mp4?t=1669487160
-    max: http://video.akamai.steamstatic.com/store_trailers/256918081/movie_max.mp4?t=1669487160
+    '480': https://video.akamai.steamstatic.com/store_trailers/256918081/movie480.mp4?t=1669487160
+    max: https://video.akamai.steamstatic.com/store_trailers/256918081/movie_max.mp4?t=1669487160
   highlight: true
 genres:
 - Adventure
@@ -98,4 +98,3 @@ support_info:
 tags:
 - adventure
 ---
-

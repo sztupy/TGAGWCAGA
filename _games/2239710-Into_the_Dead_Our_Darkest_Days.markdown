@@ -77,41 +77,41 @@ movies:
   name: 'Into the Dead: Demo Date Announcement'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060541/ea6847cf5fc9daa72037bc213a489073a146a458/movie_600x337.jpg?t=1727732827
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060541/movie480_vp9.webm?t=1727732827
-    max: http://video.akamai.steamstatic.com/store_trailers/257060541/movie_max_vp9.webm?t=1727732827
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060541/movie480_vp9.webm?t=1727732827
+    max: https://video.akamai.steamstatic.com/store_trailers/257060541/movie_max_vp9.webm?t=1727732827
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060541/movie480.mp4?t=1727732827
-    max: http://video.akamai.steamstatic.com/store_trailers/257060541/movie_max.mp4?t=1727732827
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060541/movie480.mp4?t=1727732827
+    max: https://video.akamai.steamstatic.com/store_trailers/257060541/movie_max.mp4?t=1727732827
   highlight: true
 - id: 257029814
   name: 'Into the Dead: PC Gaming Show Teaser'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029814/movie.293x165.jpg?t=1717970014
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029814/movie480_vp9.webm?t=1717970014
-    max: http://video.akamai.steamstatic.com/store_trailers/257029814/movie_max_vp9.webm?t=1717970014
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029814/movie480_vp9.webm?t=1717970014
+    max: https://video.akamai.steamstatic.com/store_trailers/257029814/movie_max_vp9.webm?t=1717970014
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029814/movie480.mp4?t=1717970014
-    max: http://video.akamai.steamstatic.com/store_trailers/257029814/movie_max.mp4?t=1717970014
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029814/movie480.mp4?t=1717970014
+    max: https://video.akamai.steamstatic.com/store_trailers/257029814/movie_max.mp4?t=1717970014
   highlight: true
 - id: 257007740
   name: 'Into the Dead: Our Darkest Days Gameplay Teaser'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257007740/movie.293x165.jpg?t=1710586980
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257007740/movie480_vp9.webm?t=1710586980
-    max: http://video.akamai.steamstatic.com/store_trailers/257007740/movie_max_vp9.webm?t=1710586980
+    '480': https://video.akamai.steamstatic.com/store_trailers/257007740/movie480_vp9.webm?t=1710586980
+    max: https://video.akamai.steamstatic.com/store_trailers/257007740/movie_max_vp9.webm?t=1710586980
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257007740/movie480.mp4?t=1710586980
-    max: http://video.akamai.steamstatic.com/store_trailers/257007740/movie_max.mp4?t=1710586980
+    '480': https://video.akamai.steamstatic.com/store_trailers/257007740/movie480.mp4?t=1710586980
+    max: https://video.akamai.steamstatic.com/store_trailers/257007740/movie_max.mp4?t=1710586980
   highlight: true
 - id: 256920211
   name: 'Into the Dead: Our Darkest Days Announcement Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920211/movie.293x165.jpg?t=1710586985
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256920211/movie480_vp9.webm?t=1710586985
-    max: http://video.akamai.steamstatic.com/store_trailers/256920211/movie_max_vp9.webm?t=1710586985
+    '480': https://video.akamai.steamstatic.com/store_trailers/256920211/movie480_vp9.webm?t=1710586985
+    max: https://video.akamai.steamstatic.com/store_trailers/256920211/movie_max_vp9.webm?t=1710586985
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256920211/movie480.mp4?t=1710586985
-    max: http://video.akamai.steamstatic.com/store_trailers/256920211/movie_max.mp4?t=1710586985
+    '480': https://video.akamai.steamstatic.com/store_trailers/256920211/movie480.mp4?t=1710586985
+    max: https://video.akamai.steamstatic.com/store_trailers/256920211/movie_max.mp4?t=1710586985
   highlight: true
 genres:
 - Action
@@ -234,4 +234,3 @@ tags:
 - simulation
 - strategy
 ---
-

@@ -47,11 +47,11 @@ movies:
   name: Announce Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045830/movie.293x165.jpg?t=1723646325
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045830/movie480_vp9.webm?t=1723646325
-    max: http://video.akamai.steamstatic.com/store_trailers/257045830/movie_max_vp9.webm?t=1723646325
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045830/movie480_vp9.webm?t=1723646325
+    max: https://video.akamai.steamstatic.com/store_trailers/257045830/movie_max_vp9.webm?t=1723646325
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045830/movie480.mp4?t=1723646325
-    max: http://video.akamai.steamstatic.com/store_trailers/257045830/movie_max.mp4?t=1723646325
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045830/movie480.mp4?t=1723646325
+    max: https://video.akamai.steamstatic.com/store_trailers/257045830/movie_max.mp4?t=1723646325
   highlight: true
 genres:
 - Indie
@@ -196,4 +196,3 @@ tags:
 - rpg
 - simulation
 ---
-

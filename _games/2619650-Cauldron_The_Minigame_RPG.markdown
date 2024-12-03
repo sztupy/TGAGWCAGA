@@ -44,11 +44,11 @@ movies:
   name: Cauldron Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256988731/a2b5a8bc4864a10cf3041b7ebd3da4b4dccdb2c3/movie_600x337.jpg?t=1732573379
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256988731/movie480_vp9.webm?t=1732573379
-    max: http://video.akamai.steamstatic.com/store_trailers/256988731/movie_max_vp9.webm?t=1732573379
+    '480': https://video.akamai.steamstatic.com/store_trailers/256988731/movie480_vp9.webm?t=1732573379
+    max: https://video.akamai.steamstatic.com/store_trailers/256988731/movie_max_vp9.webm?t=1732573379
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256988731/movie480.mp4?t=1732573379
-    max: http://video.akamai.steamstatic.com/store_trailers/256988731/movie_max.mp4?t=1732573379
+    '480': https://video.akamai.steamstatic.com/store_trailers/256988731/movie480.mp4?t=1732573379
+    max: https://video.akamai.steamstatic.com/store_trailers/256988731/movie_max.mp4?t=1732573379
   highlight: true
 genres:
 - Adventure
@@ -137,4 +137,3 @@ tags:
 - simulation
 - strategy
 ---
-

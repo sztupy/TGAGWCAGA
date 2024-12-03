@@ -41,31 +41,31 @@ movies:
   name: Minitrailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064999/3360cac4313eb9fabd538fc515cd9bf2775f46ad/movie_600x337.jpg?t=1728925490
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064999/movie480_vp9.webm?t=1728925490
-    max: http://video.akamai.steamstatic.com/store_trailers/257064999/movie_max_vp9.webm?t=1728925490
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064999/movie480_vp9.webm?t=1728925490
+    max: https://video.akamai.steamstatic.com/store_trailers/257064999/movie_max_vp9.webm?t=1728925490
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064999/movie480.mp4?t=1728925490
-    max: http://video.akamai.steamstatic.com/store_trailers/257064999/movie_max.mp4?t=1728925490
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064999/movie480.mp4?t=1728925490
+    max: https://video.akamai.steamstatic.com/store_trailers/257064999/movie_max.mp4?t=1728925490
   highlight: true
 - id: 257055447
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257055447/movie.293x165.jpg?t=1726496686
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055447/movie480_vp9.webm?t=1726496686
-    max: http://video.akamai.steamstatic.com/store_trailers/257055447/movie_max_vp9.webm?t=1726496686
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055447/movie480_vp9.webm?t=1726496686
+    max: https://video.akamai.steamstatic.com/store_trailers/257055447/movie_max_vp9.webm?t=1726496686
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055447/movie480.mp4?t=1726496686
-    max: http://video.akamai.steamstatic.com/store_trailers/257055447/movie_max.mp4?t=1726496686
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055447/movie480.mp4?t=1726496686
+    max: https://video.akamai.steamstatic.com/store_trailers/257055447/movie_max.mp4?t=1726496686
   highlight: true
 - id: 256943705
   name: Teaser trailer - Anders
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256943705/movie.293x165.jpg?t=1683292692
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256943705/movie480_vp9.webm?t=1683292692
-    max: http://video.akamai.steamstatic.com/store_trailers/256943705/movie_max_vp9.webm?t=1683292692
+    '480': https://video.akamai.steamstatic.com/store_trailers/256943705/movie480_vp9.webm?t=1683292692
+    max: https://video.akamai.steamstatic.com/store_trailers/256943705/movie_max_vp9.webm?t=1683292692
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256943705/movie480.mp4?t=1683292692
-    max: http://video.akamai.steamstatic.com/store_trailers/256943705/movie_max.mp4?t=1683292692
+    '480': https://video.akamai.steamstatic.com/store_trailers/256943705/movie480.mp4?t=1683292692
+    max: https://video.akamai.steamstatic.com/store_trailers/256943705/movie_max.mp4?t=1683292692
   highlight: false
 genres:
 - Casual
@@ -136,4 +136,3 @@ tags:
 - rpg
 - simulation
 ---
-

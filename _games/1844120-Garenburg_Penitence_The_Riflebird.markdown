@@ -35,21 +35,21 @@ movies:
   name: Myself
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958347/movie.293x165.jpg?t=1689404382
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958347/movie480_vp9.webm?t=1689404382
-    max: http://video.akamai.steamstatic.com/store_trailers/256958347/movie_max_vp9.webm?t=1689404382
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958347/movie480_vp9.webm?t=1689404382
+    max: https://video.akamai.steamstatic.com/store_trailers/256958347/movie_max_vp9.webm?t=1689404382
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958347/movie480.mp4?t=1689404382
-    max: http://video.akamai.steamstatic.com/store_trailers/256958347/movie_max.mp4?t=1689404382
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958347/movie480.mp4?t=1689404382
+    max: https://video.akamai.steamstatic.com/store_trailers/256958347/movie_max.mp4?t=1689404382
   highlight: true
 - id: 256870688
   name: Fairytale
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256870688/movie.293x165.jpg?t=1689404386
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256870688/movie480_vp9.webm?t=1689404386
-    max: http://video.akamai.steamstatic.com/store_trailers/256870688/movie_max_vp9.webm?t=1689404386
+    '480': https://video.akamai.steamstatic.com/store_trailers/256870688/movie480_vp9.webm?t=1689404386
+    max: https://video.akamai.steamstatic.com/store_trailers/256870688/movie_max_vp9.webm?t=1689404386
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256870688/movie480.mp4?t=1689404386
-    max: http://video.akamai.steamstatic.com/store_trailers/256870688/movie_max.mp4?t=1689404386
+    '480': https://video.akamai.steamstatic.com/store_trailers/256870688/movie480.mp4?t=1689404386
+    max: https://video.akamai.steamstatic.com/store_trailers/256870688/movie_max.mp4?t=1689404386
   highlight: true
 genres:
 - Action
@@ -168,4 +168,3 @@ tags:
 - casual
 - strategy
 ---
-

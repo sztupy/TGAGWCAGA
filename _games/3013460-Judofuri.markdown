@@ -40,21 +40,21 @@ movies:
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071917/cc9d9b0c7888ec3afb011ca35ae67b4210e26572/movie_600x337.jpg?t=1731091623
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071917/movie480_vp9.webm?t=1731091623
-    max: http://video.akamai.steamstatic.com/store_trailers/257071917/movie_max_vp9.webm?t=1731091623
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071917/movie480_vp9.webm?t=1731091623
+    max: https://video.akamai.steamstatic.com/store_trailers/257071917/movie_max_vp9.webm?t=1731091623
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071917/movie480.mp4?t=1731091623
-    max: http://video.akamai.steamstatic.com/store_trailers/257071917/movie_max.mp4?t=1731091623
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071917/movie480.mp4?t=1731091623
+    max: https://video.akamai.steamstatic.com/store_trailers/257071917/movie_max.mp4?t=1731091623
   highlight: true
 - id: 257028186
   name: Judofuri - Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028186/movie.293x165.jpg?t=1717757433
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028186/movie480_vp9.webm?t=1717757433
-    max: http://video.akamai.steamstatic.com/store_trailers/257028186/movie_max_vp9.webm?t=1717757433
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028186/movie480_vp9.webm?t=1717757433
+    max: https://video.akamai.steamstatic.com/store_trailers/257028186/movie_max_vp9.webm?t=1717757433
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028186/movie480.mp4?t=1717757433
-    max: http://video.akamai.steamstatic.com/store_trailers/257028186/movie_max.mp4?t=1717757433
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028186/movie480.mp4?t=1717757433
+    max: https://video.akamai.steamstatic.com/store_trailers/257028186/movie_max.mp4?t=1717757433
   highlight: true
 genres:
 - Action
@@ -133,4 +133,3 @@ tags:
 - action
 - casual
 ---
-

@@ -50,11 +50,11 @@ movies:
   name: 'The Sacred Acorn: Release Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038418/movie.293x165.jpg?t=1721204683
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038418/movie480_vp9.webm?t=1721204683
-    max: http://video.akamai.steamstatic.com/store_trailers/257038418/movie_max_vp9.webm?t=1721204683
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038418/movie480_vp9.webm?t=1721204683
+    max: https://video.akamai.steamstatic.com/store_trailers/257038418/movie_max_vp9.webm?t=1721204683
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038418/movie480.mp4?t=1721204683
-    max: http://video.akamai.steamstatic.com/store_trailers/257038418/movie_max.mp4?t=1721204683
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038418/movie480.mp4?t=1721204683
+    max: https://video.akamai.steamstatic.com/store_trailers/257038418/movie_max.mp4?t=1721204683
   highlight: true
 genres:
 - Action
@@ -152,4 +152,3 @@ tags:
 - action
 - adventure
 ---
-

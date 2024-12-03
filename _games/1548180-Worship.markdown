@@ -32,31 +32,31 @@ movies:
   name: Worship - Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070870/50d1577e5a169b230c8adaf59a8e00d6d9b91975/movie_600x337.jpg?t=1730745596
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070870/movie480_vp9.webm?t=1730745596
-    max: http://video.akamai.steamstatic.com/store_trailers/257070870/movie_max_vp9.webm?t=1730745596
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070870/movie480_vp9.webm?t=1730745596
+    max: https://video.akamai.steamstatic.com/store_trailers/257070870/movie_max_vp9.webm?t=1730745596
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070870/movie480.mp4?t=1730745596
-    max: http://video.akamai.steamstatic.com/store_trailers/257070870/movie_max.mp4?t=1730745596
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070870/movie480.mp4?t=1730745596
+    max: https://video.akamai.steamstatic.com/store_trailers/257070870/movie_max.mp4?t=1730745596
   highlight: true
 - id: 257029303
   name: Worship Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029303/movie.293x165.jpg?t=1717970896
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029303/movie480_vp9.webm?t=1717970896
-    max: http://video.akamai.steamstatic.com/store_trailers/257029303/movie_max_vp9.webm?t=1717970896
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029303/movie480_vp9.webm?t=1717970896
+    max: https://video.akamai.steamstatic.com/store_trailers/257029303/movie_max_vp9.webm?t=1717970896
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029303/movie480.mp4?t=1717970896
-    max: http://video.akamai.steamstatic.com/store_trailers/257029303/movie_max.mp4?t=1717970896
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029303/movie480.mp4?t=1717970896
+    max: https://video.akamai.steamstatic.com/store_trailers/257029303/movie_max.mp4?t=1717970896
   highlight: true
 - id: 256879128
   name: Worship Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256879128/movie.293x165.jpg?t=1730745600
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256879128/movie480_vp9.webm?t=1730745600
-    max: http://video.akamai.steamstatic.com/store_trailers/256879128/movie_max_vp9.webm?t=1730745600
+    '480': https://video.akamai.steamstatic.com/store_trailers/256879128/movie480_vp9.webm?t=1730745600
+    max: https://video.akamai.steamstatic.com/store_trailers/256879128/movie_max_vp9.webm?t=1730745600
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256879128/movie480.mp4?t=1730745600
-    max: http://video.akamai.steamstatic.com/store_trailers/256879128/movie_max.mp4?t=1730745600
+    '480': https://video.akamai.steamstatic.com/store_trailers/256879128/movie480.mp4?t=1730745600
+    max: https://video.akamai.steamstatic.com/store_trailers/256879128/movie_max.mp4?t=1730745600
   highlight: false
 genres:
 - Action
@@ -149,4 +149,3 @@ tags:
 - adventure
 - strategy
 ---
-

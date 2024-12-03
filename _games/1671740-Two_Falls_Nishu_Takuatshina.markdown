@@ -50,31 +50,31 @@ movies:
   name: Two Falls - Launch trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063306/dcbe003cdeebe1b192dbbb03c8f1d528632fcddf/movie_600x337.jpg?t=1728484151
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063306/movie480_vp9.webm?t=1728484151
-    max: http://video.akamai.steamstatic.com/store_trailers/257063306/movie_max_vp9.webm?t=1728484151
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063306/movie480_vp9.webm?t=1728484151
+    max: https://video.akamai.steamstatic.com/store_trailers/257063306/movie_max_vp9.webm?t=1728484151
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063306/movie480.mp4?t=1728484151
-    max: http://video.akamai.steamstatic.com/store_trailers/257063306/movie_max.mp4?t=1728484151
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063306/movie480.mp4?t=1728484151
+    max: https://video.akamai.steamstatic.com/store_trailers/257063306/movie_max.mp4?t=1728484151
   highlight: true
 - id: 256939254
   name: Two Falls - Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256939254/movie.293x165.jpg?t=1680537985
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256939254/movie480_vp9.webm?t=1680537985
-    max: http://video.akamai.steamstatic.com/store_trailers/256939254/movie_max_vp9.webm?t=1680537985
+    '480': https://video.akamai.steamstatic.com/store_trailers/256939254/movie480_vp9.webm?t=1680537985
+    max: https://video.akamai.steamstatic.com/store_trailers/256939254/movie_max_vp9.webm?t=1680537985
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256939254/movie480.mp4?t=1680537985
-    max: http://video.akamai.steamstatic.com/store_trailers/256939254/movie_max.mp4?t=1680537985
+    '480': https://video.akamai.steamstatic.com/store_trailers/256939254/movie480.mp4?t=1680537985
+    max: https://video.akamai.steamstatic.com/store_trailers/256939254/movie_max.mp4?t=1680537985
   highlight: true
 - id: 256936403
   name: Two Falls - Short Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256936403/movie.293x165.jpg?t=1717090468
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256936403/movie480_vp9.webm?t=1717090468
-    max: http://video.akamai.steamstatic.com/store_trailers/256936403/movie_max_vp9.webm?t=1717090468
+    '480': https://video.akamai.steamstatic.com/store_trailers/256936403/movie480_vp9.webm?t=1717090468
+    max: https://video.akamai.steamstatic.com/store_trailers/256936403/movie_max_vp9.webm?t=1717090468
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256936403/movie480.mp4?t=1717090468
-    max: http://video.akamai.steamstatic.com/store_trailers/256936403/movie_max.mp4?t=1717090468
+    '480': https://video.akamai.steamstatic.com/store_trailers/256936403/movie480.mp4?t=1717090468
+    max: https://video.akamai.steamstatic.com/store_trailers/256936403/movie_max.mp4?t=1717090468
   highlight: true
 genres:
 - Action
@@ -222,4 +222,3 @@ tags:
 - adventure
 - casual
 ---
-

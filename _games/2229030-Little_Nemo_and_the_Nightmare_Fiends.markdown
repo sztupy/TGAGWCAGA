@@ -47,11 +47,11 @@ movies:
   name: First Steam Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256918531/movie.293x165.jpg?t=1669759136
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256918531/movie480_vp9.webm?t=1669759136
-    max: http://video.akamai.steamstatic.com/store_trailers/256918531/movie_max_vp9.webm?t=1669759136
+    '480': https://video.akamai.steamstatic.com/store_trailers/256918531/movie480_vp9.webm?t=1669759136
+    max: https://video.akamai.steamstatic.com/store_trailers/256918531/movie_max_vp9.webm?t=1669759136
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256918531/movie480.mp4?t=1669759136
-    max: http://video.akamai.steamstatic.com/store_trailers/256918531/movie_max.mp4?t=1669759136
+    '480': https://video.akamai.steamstatic.com/store_trailers/256918531/movie480.mp4?t=1669759136
+    max: https://video.akamai.steamstatic.com/store_trailers/256918531/movie_max.mp4?t=1669759136
   highlight: true
 genres:
 - Adventure
@@ -109,4 +109,3 @@ support_info:
 tags:
 - adventure
 ---
-

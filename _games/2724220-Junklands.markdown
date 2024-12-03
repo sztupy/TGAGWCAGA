@@ -40,21 +40,21 @@ movies:
   name: Early Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076317/0a427e4e3ad52bc825804c5d099148053ba96f9d/movie_600x337.jpg?t=1732505584
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076317/movie480_vp9.webm?t=1732505584
-    max: http://video.akamai.steamstatic.com/store_trailers/257076317/movie_max_vp9.webm?t=1732505584
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076317/movie480_vp9.webm?t=1732505584
+    max: https://video.akamai.steamstatic.com/store_trailers/257076317/movie_max_vp9.webm?t=1732505584
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076317/movie480.mp4?t=1732505584
-    max: http://video.akamai.steamstatic.com/store_trailers/257076317/movie_max.mp4?t=1732505584
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076317/movie480.mp4?t=1732505584
+    max: https://video.akamai.steamstatic.com/store_trailers/257076317/movie_max.mp4?t=1732505584
   highlight: true
 - id: 256990029
   name: Teaser 1
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990029/movie.293x165.jpg?t=1703021421
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256990029/movie480_vp9.webm?t=1703021421
-    max: http://video.akamai.steamstatic.com/store_trailers/256990029/movie_max_vp9.webm?t=1703021421
+    '480': https://video.akamai.steamstatic.com/store_trailers/256990029/movie480_vp9.webm?t=1703021421
+    max: https://video.akamai.steamstatic.com/store_trailers/256990029/movie_max_vp9.webm?t=1703021421
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256990029/movie480.mp4?t=1703021421
-    max: http://video.akamai.steamstatic.com/store_trailers/256990029/movie_max.mp4?t=1703021421
+    '480': https://video.akamai.steamstatic.com/store_trailers/256990029/movie480.mp4?t=1703021421
+    max: https://video.akamai.steamstatic.com/store_trailers/256990029/movie_max.mp4?t=1703021421
   highlight: false
 genres:
 - Action
@@ -151,4 +151,3 @@ tags:
 - action
 - adventure
 ---
-

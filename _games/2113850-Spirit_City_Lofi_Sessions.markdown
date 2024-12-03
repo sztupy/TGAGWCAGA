@@ -45,21 +45,21 @@ movies:
   name: Winter Wonderland Update
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075240/bcdbc7b73dd5844a405d5772b963fc7902316080/movie_600x337.jpg?t=1732112715
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075240/movie480_vp9.webm?t=1732112715
-    max: http://video.akamai.steamstatic.com/store_trailers/257075240/movie_max_vp9.webm?t=1732112715
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075240/movie480_vp9.webm?t=1732112715
+    max: https://video.akamai.steamstatic.com/store_trailers/257075240/movie_max_vp9.webm?t=1732112715
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075240/movie480.mp4?t=1732112715
-    max: http://video.akamai.steamstatic.com/store_trailers/257075240/movie_max.mp4?t=1732112715
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075240/movie480.mp4?t=1732112715
+    max: https://video.akamai.steamstatic.com/store_trailers/257075240/movie_max.mp4?t=1732112715
   highlight: true
 - id: 257014203
   name: 'Spirit City: Lofi Sessions - Launch Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257014203/movie.293x165.jpg?t=1712573591
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257014203/movie480_vp9.webm?t=1712573591
-    max: http://video.akamai.steamstatic.com/store_trailers/257014203/movie_max_vp9.webm?t=1712573591
+    '480': https://video.akamai.steamstatic.com/store_trailers/257014203/movie480_vp9.webm?t=1712573591
+    max: https://video.akamai.steamstatic.com/store_trailers/257014203/movie_max_vp9.webm?t=1712573591
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257014203/movie480.mp4?t=1712573591
-    max: http://video.akamai.steamstatic.com/store_trailers/257014203/movie_max.mp4?t=1712573591
+    '480': https://video.akamai.steamstatic.com/store_trailers/257014203/movie480.mp4?t=1712573591
+    max: https://video.akamai.steamstatic.com/store_trailers/257014203/movie_max.mp4?t=1712573591
   highlight: true
 genres:
 - Casual
@@ -190,4 +190,3 @@ tags:
 - casual
 - simulation
 ---
-

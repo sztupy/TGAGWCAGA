@@ -74,11 +74,11 @@ movies:
   name: Spotless Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028645/movie.293x165.jpg?t=1726175773
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028645/movie480_vp9.webm?t=1726175773
-    max: http://video.akamai.steamstatic.com/store_trailers/257028645/movie_max_vp9.webm?t=1726175773
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028645/movie480_vp9.webm?t=1726175773
+    max: https://video.akamai.steamstatic.com/store_trailers/257028645/movie_max_vp9.webm?t=1726175773
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028645/movie480.mp4?t=1726175773
-    max: http://video.akamai.steamstatic.com/store_trailers/257028645/movie_max.mp4?t=1726175773
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028645/movie480.mp4?t=1726175773
+    max: https://video.akamai.steamstatic.com/store_trailers/257028645/movie_max.mp4?t=1726175773
   highlight: true
 genres:
 - Action
@@ -174,4 +174,3 @@ tags:
 - action
 - simulation
 ---
-

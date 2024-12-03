@@ -61,11 +61,11 @@ movies:
   name: First trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026609/7284817e15d11a9d087f979b83af02f82e838cfe/movie_600x337.jpg?t=1728543431
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026609/movie480_vp9.webm?t=1728543431
-    max: http://video.akamai.steamstatic.com/store_trailers/257026609/movie_max_vp9.webm?t=1728543431
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026609/movie480_vp9.webm?t=1728543431
+    max: https://video.akamai.steamstatic.com/store_trailers/257026609/movie_max_vp9.webm?t=1728543431
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026609/movie480.mp4?t=1728543431
-    max: http://video.akamai.steamstatic.com/store_trailers/257026609/movie_max.mp4?t=1728543431
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026609/movie480.mp4?t=1728543431
+    max: https://video.akamai.steamstatic.com/store_trailers/257026609/movie_max.mp4?t=1728543431
   highlight: true
 genres:
 - Adventure
@@ -170,4 +170,3 @@ tags:
 - rpg
 - strategy
 ---
-

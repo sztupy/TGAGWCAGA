@@ -34,11 +34,11 @@ movies:
   name: Duil Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256807328/b69858eb306422d4c769f2fdb70b39f73fe54bf0/movie_600x337.jpg?t=1733110997
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256807328/movie480_vp9.webm?t=1733110997
-    max: http://video.akamai.steamstatic.com/store_trailers/256807328/movie_max_vp9.webm?t=1733110997
+    '480': https://video.akamai.steamstatic.com/store_trailers/256807328/movie480_vp9.webm?t=1733110997
+    max: https://video.akamai.steamstatic.com/store_trailers/256807328/movie_max_vp9.webm?t=1733110997
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256807328/movie480.mp4?t=1733110997
-    max: http://video.akamai.steamstatic.com/store_trailers/256807328/movie_max.mp4?t=1733110997
+    '480': https://video.akamai.steamstatic.com/store_trailers/256807328/movie480.mp4?t=1733110997
+    max: https://video.akamai.steamstatic.com/store_trailers/256807328/movie_max.mp4?t=1733110997
   highlight: true
 genres:
 - Action
@@ -99,4 +99,3 @@ tags:
 - adventure
 - rpg
 ---
-

@@ -38,21 +38,21 @@ movies:
   name: Tralier_en
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056370/movie.293x165.jpg?t=1729823828
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257056370/movie480_vp9.webm?t=1729823828
-    max: http://video.akamai.steamstatic.com/store_trailers/257056370/movie_max_vp9.webm?t=1729823828
+    '480': https://video.akamai.steamstatic.com/store_trailers/257056370/movie480_vp9.webm?t=1729823828
+    max: https://video.akamai.steamstatic.com/store_trailers/257056370/movie_max_vp9.webm?t=1729823828
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257056370/movie480.mp4?t=1729823828
-    max: http://video.akamai.steamstatic.com/store_trailers/257056370/movie_max.mp4?t=1729823828
+    '480': https://video.akamai.steamstatic.com/store_trailers/257056370/movie480.mp4?t=1729823828
+    max: https://video.akamai.steamstatic.com/store_trailers/257056370/movie_max.mp4?t=1729823828
   highlight: true
 - id: 257022240
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257022240/movie.293x165.jpg?t=1717141908
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022240/movie480_vp9.webm?t=1717141908
-    max: http://video.akamai.steamstatic.com/store_trailers/257022240/movie_max_vp9.webm?t=1717141908
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022240/movie480_vp9.webm?t=1717141908
+    max: https://video.akamai.steamstatic.com/store_trailers/257022240/movie_max_vp9.webm?t=1717141908
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022240/movie480.mp4?t=1717141908
-    max: http://video.akamai.steamstatic.com/store_trailers/257022240/movie_max.mp4?t=1717141908
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022240/movie480.mp4?t=1717141908
+    max: https://video.akamai.steamstatic.com/store_trailers/257022240/movie_max.mp4?t=1717141908
   highlight: true
 genres:
 - Adventure
@@ -146,4 +146,3 @@ tags:
 - rpg
 - simulation
 ---
-

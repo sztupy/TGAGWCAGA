@@ -35,11 +35,11 @@ movies:
   name: Next Fest Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066244/dd4c38a07fcb35069f37212b9daf0a03391e3547/movie_600x337.jpg?t=1729289932
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066244/movie480_vp9.webm?t=1729289932
-    max: http://video.akamai.steamstatic.com/store_trailers/257066244/movie_max_vp9.webm?t=1729289932
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066244/movie480_vp9.webm?t=1729289932
+    max: https://video.akamai.steamstatic.com/store_trailers/257066244/movie_max_vp9.webm?t=1729289932
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066244/movie480.mp4?t=1729289932
-    max: http://video.akamai.steamstatic.com/store_trailers/257066244/movie_max.mp4?t=1729289932
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066244/movie480.mp4?t=1729289932
+    max: https://video.akamai.steamstatic.com/store_trailers/257066244/movie_max.mp4?t=1729289932
   highlight: true
 genres:
 - Action
@@ -125,4 +125,3 @@ tags:
 - action
 - adventure
 ---
-

@@ -41,11 +41,11 @@ movies:
   name: Steam Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059133/e5f4f89b367b05b28a5f72da6893ccd661934b3c/movie_600x337.jpg?t=1727449197
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059133/movie480_vp9.webm?t=1727449197
-    max: http://video.akamai.steamstatic.com/store_trailers/257059133/movie_max_vp9.webm?t=1727449197
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059133/movie480_vp9.webm?t=1727449197
+    max: https://video.akamai.steamstatic.com/store_trailers/257059133/movie_max_vp9.webm?t=1727449197
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059133/movie480.mp4?t=1727449197
-    max: http://video.akamai.steamstatic.com/store_trailers/257059133/movie_max.mp4?t=1727449197
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059133/movie480.mp4?t=1727449197
+    max: https://video.akamai.steamstatic.com/store_trailers/257059133/movie_max.mp4?t=1727449197
   highlight: true
 genres:
 - Action
@@ -137,4 +137,3 @@ tags:
 - casual
 - rpg
 ---
-

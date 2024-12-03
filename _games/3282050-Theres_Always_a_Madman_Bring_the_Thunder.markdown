@@ -30,11 +30,11 @@ movies:
     You Believe"'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071217/7500ebefe624efbbc112f46a319b2b1dc77e85a3/movie_600x337.jpg?t=1731026953
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071217/movie480_vp9.webm?t=1731026953
-    max: http://video.akamai.steamstatic.com/store_trailers/257071217/movie_max_vp9.webm?t=1731026953
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071217/movie480_vp9.webm?t=1731026953
+    max: https://video.akamai.steamstatic.com/store_trailers/257071217/movie_max_vp9.webm?t=1731026953
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071217/movie480.mp4?t=1731026953
-    max: http://video.akamai.steamstatic.com/store_trailers/257071217/movie_max.mp4?t=1731026953
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071217/movie480.mp4?t=1731026953
+    max: https://video.akamai.steamstatic.com/store_trailers/257071217/movie_max.mp4?t=1731026953
   highlight: true
 genres:
 - Action
@@ -206,4 +206,3 @@ tags:
 - action
 - adventure
 ---
-

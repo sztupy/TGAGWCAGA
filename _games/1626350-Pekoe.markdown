@@ -35,21 +35,21 @@ movies:
   name: Pekoe Early Access Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952050/movie.293x165.jpg?t=1686413085
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952050/movie480_vp9.webm?t=1686413085
-    max: http://video.akamai.steamstatic.com/store_trailers/256952050/movie_max_vp9.webm?t=1686413085
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952050/movie480_vp9.webm?t=1686413085
+    max: https://video.akamai.steamstatic.com/store_trailers/256952050/movie_max_vp9.webm?t=1686413085
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952050/movie480.mp4?t=1686413085
-    max: http://video.akamai.steamstatic.com/store_trailers/256952050/movie_max.mp4?t=1686413085
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952050/movie480.mp4?t=1686413085
+    max: https://video.akamai.steamstatic.com/store_trailers/256952050/movie_max.mp4?t=1686413085
   highlight: true
 - id: 256893691
   name: Pekoe Wholesome Direct Trailer 2022
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256893691/movie.293x165.jpg?t=1656299632
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256893691/movie480_vp9.webm?t=1656299632
-    max: http://video.akamai.steamstatic.com/store_trailers/256893691/movie_max_vp9.webm?t=1656299632
+    '480': https://video.akamai.steamstatic.com/store_trailers/256893691/movie480_vp9.webm?t=1656299632
+    max: https://video.akamai.steamstatic.com/store_trailers/256893691/movie_max_vp9.webm?t=1656299632
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256893691/movie480.mp4?t=1656299632
-    max: http://video.akamai.steamstatic.com/store_trailers/256893691/movie_max.mp4?t=1656299632
+    '480': https://video.akamai.steamstatic.com/store_trailers/256893691/movie480.mp4?t=1656299632
+    max: https://video.akamai.steamstatic.com/store_trailers/256893691/movie_max.mp4?t=1656299632
   highlight: true
 genres:
 - Casual
@@ -128,4 +128,3 @@ tags:
 - casual
 - simulation
 ---
-

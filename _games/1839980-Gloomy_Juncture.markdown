@@ -62,31 +62,31 @@ movies:
   name: Gloomy Juncture - Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990866/b86a48b3e57281936d7ded092c2ab4dbdba04966/movie_600x337.jpg?t=1732762831
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256990866/movie480_vp9.webm?t=1732762831
-    max: http://video.akamai.steamstatic.com/store_trailers/256990866/movie_max_vp9.webm?t=1732762831
+    '480': https://video.akamai.steamstatic.com/store_trailers/256990866/movie480_vp9.webm?t=1732762831
+    max: https://video.akamai.steamstatic.com/store_trailers/256990866/movie_max_vp9.webm?t=1732762831
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256990866/movie480.mp4?t=1732762831
-    max: http://video.akamai.steamstatic.com/store_trailers/256990866/movie_max.mp4?t=1732762831
+    '480': https://video.akamai.steamstatic.com/store_trailers/256990866/movie480.mp4?t=1732762831
+    max: https://video.akamai.steamstatic.com/store_trailers/256990866/movie_max.mp4?t=1732762831
   highlight: true
 - id: 256954739
   name: Gloomy Juncture - Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256954739/movie.293x165.jpg?t=1710334833
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256954739/movie480_vp9.webm?t=1710334833
-    max: http://video.akamai.steamstatic.com/store_trailers/256954739/movie_max_vp9.webm?t=1710334833
+    '480': https://video.akamai.steamstatic.com/store_trailers/256954739/movie480_vp9.webm?t=1710334833
+    max: https://video.akamai.steamstatic.com/store_trailers/256954739/movie_max_vp9.webm?t=1710334833
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256954739/movie480.mp4?t=1710334833
-    max: http://video.akamai.steamstatic.com/store_trailers/256954739/movie_max.mp4?t=1710334833
+    '480': https://video.akamai.steamstatic.com/store_trailers/256954739/movie480.mp4?t=1710334833
+    max: https://video.akamai.steamstatic.com/store_trailers/256954739/movie_max.mp4?t=1710334833
   highlight: true
 - id: 256987766
   name: Exploring the Artistic Journey of Gloomy Juncture
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987766/movie.293x165.jpg?t=1702101062
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256987766/movie480_vp9.webm?t=1702101062
-    max: http://video.akamai.steamstatic.com/store_trailers/256987766/movie_max_vp9.webm?t=1702101062
+    '480': https://video.akamai.steamstatic.com/store_trailers/256987766/movie480_vp9.webm?t=1702101062
+    max: https://video.akamai.steamstatic.com/store_trailers/256987766/movie_max_vp9.webm?t=1702101062
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256987766/movie480.mp4?t=1702101062
-    max: http://video.akamai.steamstatic.com/store_trailers/256987766/movie_max.mp4?t=1702101062
+    '480': https://video.akamai.steamstatic.com/store_trailers/256987766/movie480.mp4?t=1702101062
+    max: https://video.akamai.steamstatic.com/store_trailers/256987766/movie_max.mp4?t=1702101062
   highlight: true
 genres:
 - Adventure
@@ -361,4 +361,3 @@ support_info:
 tags:
 - adventure
 ---
-

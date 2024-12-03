@@ -29,11 +29,11 @@ movies:
   name: Super Platform Tag Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257051000/movie.293x165.jpg?t=1728483920
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257051000/movie480_vp9.webm?t=1728483920
-    max: http://video.akamai.steamstatic.com/store_trailers/257051000/movie_max_vp9.webm?t=1728483920
+    '480': https://video.akamai.steamstatic.com/store_trailers/257051000/movie480_vp9.webm?t=1728483920
+    max: https://video.akamai.steamstatic.com/store_trailers/257051000/movie_max_vp9.webm?t=1728483920
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257051000/movie480.mp4?t=1728483920
-    max: http://video.akamai.steamstatic.com/store_trailers/257051000/movie_max.mp4?t=1728483920
+    '480': https://video.akamai.steamstatic.com/store_trailers/257051000/movie480.mp4?t=1728483920
+    max: https://video.akamai.steamstatic.com/store_trailers/257051000/movie_max.mp4?t=1728483920
   highlight: true
 genres:
 - Action
@@ -100,4 +100,3 @@ tags:
 - action
 - casual
 ---
-

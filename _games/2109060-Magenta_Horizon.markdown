@@ -59,41 +59,41 @@ movies:
   name: 'Magenta Horizon: Neverending Harvest (Full Version) Release Date Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256972703/a2568f8ed702a0e7b03d1fae4cd5cff1b4bf7c12/movie_600x337.jpg?t=1728675824
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256972703/movie480_vp9.webm?t=1728675824
-    max: http://video.akamai.steamstatic.com/store_trailers/256972703/movie_max_vp9.webm?t=1728675824
+    '480': https://video.akamai.steamstatic.com/store_trailers/256972703/movie480_vp9.webm?t=1728675824
+    max: https://video.akamai.steamstatic.com/store_trailers/256972703/movie_max_vp9.webm?t=1728675824
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256972703/movie480.mp4?t=1728675824
-    max: http://video.akamai.steamstatic.com/store_trailers/256972703/movie_max.mp4?t=1728675824
+    '480': https://video.akamai.steamstatic.com/store_trailers/256972703/movie480.mp4?t=1728675824
+    max: https://video.akamai.steamstatic.com/store_trailers/256972703/movie_max.mp4?t=1728675824
   highlight: true
 - id: 256941934
   name: Magenta Horizon Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941934/movie.293x165.jpg?t=1683141057
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256941934/movie480_vp9.webm?t=1683141057
-    max: http://video.akamai.steamstatic.com/store_trailers/256941934/movie_max_vp9.webm?t=1683141057
+    '480': https://video.akamai.steamstatic.com/store_trailers/256941934/movie480_vp9.webm?t=1683141057
+    max: https://video.akamai.steamstatic.com/store_trailers/256941934/movie_max_vp9.webm?t=1683141057
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256941934/movie480.mp4?t=1683141057
-    max: http://video.akamai.steamstatic.com/store_trailers/256941934/movie_max.mp4?t=1683141057
+    '480': https://video.akamai.steamstatic.com/store_trailers/256941934/movie480.mp4?t=1683141057
+    max: https://video.akamai.steamstatic.com/store_trailers/256941934/movie_max.mp4?t=1683141057
   highlight: true
 - id: 256993934
   name: High Level Gameplay Showcase (Combat Arena)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993934/movie.293x165.jpg?t=1705250968
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256993934/movie480_vp9.webm?t=1705250968
-    max: http://video.akamai.steamstatic.com/store_trailers/256993934/movie_max_vp9.webm?t=1705250968
+    '480': https://video.akamai.steamstatic.com/store_trailers/256993934/movie480_vp9.webm?t=1705250968
+    max: https://video.akamai.steamstatic.com/store_trailers/256993934/movie_max_vp9.webm?t=1705250968
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256993934/movie480.mp4?t=1705250968
-    max: http://video.akamai.steamstatic.com/store_trailers/256993934/movie_max.mp4?t=1705250968
+    '480': https://video.akamai.steamstatic.com/store_trailers/256993934/movie480.mp4?t=1705250968
+    max: https://video.akamai.steamstatic.com/store_trailers/256993934/movie_max.mp4?t=1705250968
   highlight: false
 - id: 256993918
   name: High Level Gameplay Showcase (Boss)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993918/movie.293x165.jpg?t=1705250974
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256993918/movie480_vp9.webm?t=1705250974
-    max: http://video.akamai.steamstatic.com/store_trailers/256993918/movie_max_vp9.webm?t=1705250974
+    '480': https://video.akamai.steamstatic.com/store_trailers/256993918/movie480_vp9.webm?t=1705250974
+    max: https://video.akamai.steamstatic.com/store_trailers/256993918/movie_max_vp9.webm?t=1705250974
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256993918/movie480.mp4?t=1705250974
-    max: http://video.akamai.steamstatic.com/store_trailers/256993918/movie_max.mp4?t=1705250974
+    '480': https://video.akamai.steamstatic.com/store_trailers/256993918/movie480.mp4?t=1705250974
+    max: https://video.akamai.steamstatic.com/store_trailers/256993918/movie_max.mp4?t=1705250974
   highlight: false
 genres:
 - Action
@@ -219,4 +219,3 @@ tags:
 - action
 - adventure
 ---
-

@@ -43,11 +43,11 @@ movies:
   name: Official Frameland Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256981783/movie.293x165.jpg?t=1699796102
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256981783/movie480_vp9.webm?t=1699796102
-    max: http://video.akamai.steamstatic.com/store_trailers/256981783/movie_max_vp9.webm?t=1699796102
+    '480': https://video.akamai.steamstatic.com/store_trailers/256981783/movie480_vp9.webm?t=1699796102
+    max: https://video.akamai.steamstatic.com/store_trailers/256981783/movie_max_vp9.webm?t=1699796102
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256981783/movie480.mp4?t=1699796102
-    max: http://video.akamai.steamstatic.com/store_trailers/256981783/movie_max.mp4?t=1699796102
+    '480': https://video.akamai.steamstatic.com/store_trailers/256981783/movie480.mp4?t=1699796102
+    max: https://video.akamai.steamstatic.com/store_trailers/256981783/movie_max.mp4?t=1699796102
   highlight: true
 genres:
 - Indie
@@ -167,4 +167,3 @@ support_info:
 tags:
 - rpg
 ---
-

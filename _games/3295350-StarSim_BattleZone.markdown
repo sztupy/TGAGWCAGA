@@ -29,11 +29,11 @@ movies:
   name: trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067146/7869857a992b7e6da04dab5c617f91e81296b078/movie_600x337.jpg?t=1730997944
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067146/movie480_vp9.webm?t=1730997944
-    max: http://video.akamai.steamstatic.com/store_trailers/257067146/movie_max_vp9.webm?t=1730997944
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067146/movie480_vp9.webm?t=1730997944
+    max: https://video.akamai.steamstatic.com/store_trailers/257067146/movie_max_vp9.webm?t=1730997944
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067146/movie480.mp4?t=1730997944
-    max: http://video.akamai.steamstatic.com/store_trailers/257067146/movie_max.mp4?t=1730997944
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067146/movie480.mp4?t=1730997944
+    max: https://video.akamai.steamstatic.com/store_trailers/257067146/movie_max.mp4?t=1730997944
   highlight: true
 genres:
 - Strategy
@@ -95,4 +95,3 @@ support_info:
 tags:
 - strategy
 ---
-

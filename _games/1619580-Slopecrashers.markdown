@@ -38,31 +38,31 @@ movies:
   name: Slopecrashers_OTK_Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952576/movie.293x165.jpg?t=1686742360
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952576/movie480_vp9.webm?t=1686742360
-    max: http://video.akamai.steamstatic.com/store_trailers/256952576/movie_max_vp9.webm?t=1686742360
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952576/movie480_vp9.webm?t=1686742360
+    max: https://video.akamai.steamstatic.com/store_trailers/256952576/movie_max_vp9.webm?t=1686742360
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952576/movie480.mp4?t=1686742360
-    max: http://video.akamai.steamstatic.com/store_trailers/256952576/movie_max.mp4?t=1686742360
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952576/movie480.mp4?t=1686742360
+    max: https://video.akamai.steamstatic.com/store_trailers/256952576/movie_max.mp4?t=1686742360
   highlight: true
 - id: 256952582
   name: Slopecrashers_OTK_Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952582/movie.293x165.jpg?t=1686742365
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952582/movie480_vp9.webm?t=1686742365
-    max: http://video.akamai.steamstatic.com/store_trailers/256952582/movie_max_vp9.webm?t=1686742365
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952582/movie480_vp9.webm?t=1686742365
+    max: https://video.akamai.steamstatic.com/store_trailers/256952582/movie_max_vp9.webm?t=1686742365
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952582/movie480.mp4?t=1686742365
-    max: http://video.akamai.steamstatic.com/store_trailers/256952582/movie_max.mp4?t=1686742365
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952582/movie480.mp4?t=1686742365
+    max: https://video.akamai.steamstatic.com/store_trailers/256952582/movie_max.mp4?t=1686742365
   highlight: true
 - id: 256927385
   name: Slopecrashers_Next_Fest_Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256927385/movie.293x165.jpg?t=1675152642
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256927385/movie480_vp9.webm?t=1675152642
-    max: http://video.akamai.steamstatic.com/store_trailers/256927385/movie_max_vp9.webm?t=1675152642
+    '480': https://video.akamai.steamstatic.com/store_trailers/256927385/movie480_vp9.webm?t=1675152642
+    max: https://video.akamai.steamstatic.com/store_trailers/256927385/movie_max_vp9.webm?t=1675152642
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256927385/movie480.mp4?t=1675152642
-    max: http://video.akamai.steamstatic.com/store_trailers/256927385/movie_max.mp4?t=1675152642
+    '480': https://video.akamai.steamstatic.com/store_trailers/256927385/movie480.mp4?t=1675152642
+    max: https://video.akamai.steamstatic.com/store_trailers/256927385/movie_max.mp4?t=1675152642
   highlight: true
 genres:
 - Action
@@ -154,4 +154,3 @@ tags:
 - action
 - casual
 ---
-

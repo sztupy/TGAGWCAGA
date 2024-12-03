@@ -62,21 +62,21 @@ movies:
   name: Crafty Survivors - EA Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935844/movie.293x165.jpg?t=1695917439
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256935844/movie480_vp9.webm?t=1695917439
-    max: http://video.akamai.steamstatic.com/store_trailers/256935844/movie_max_vp9.webm?t=1695917439
+    '480': https://video.akamai.steamstatic.com/store_trailers/256935844/movie480_vp9.webm?t=1695917439
+    max: https://video.akamai.steamstatic.com/store_trailers/256935844/movie_max_vp9.webm?t=1695917439
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256935844/movie480.mp4?t=1695917439
-    max: http://video.akamai.steamstatic.com/store_trailers/256935844/movie_max.mp4?t=1695917439
+    '480': https://video.akamai.steamstatic.com/store_trailers/256935844/movie480.mp4?t=1695917439
+    max: https://video.akamai.steamstatic.com/store_trailers/256935844/movie_max.mp4?t=1695917439
   highlight: true
 - id: 256955882
   name: Crafty Survivors - Overcome
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256955882/movie.293x165.jpg?t=1693957043
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256955882/movie480_vp9.webm?t=1693957043
-    max: http://video.akamai.steamstatic.com/store_trailers/256955882/movie_max_vp9.webm?t=1693957043
+    '480': https://video.akamai.steamstatic.com/store_trailers/256955882/movie480_vp9.webm?t=1693957043
+    max: https://video.akamai.steamstatic.com/store_trailers/256955882/movie_max_vp9.webm?t=1693957043
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256955882/movie480.mp4?t=1693957043
-    max: http://video.akamai.steamstatic.com/store_trailers/256955882/movie_max.mp4?t=1693957043
+    '480': https://video.akamai.steamstatic.com/store_trailers/256955882/movie480.mp4?t=1693957043
+    max: https://video.akamai.steamstatic.com/store_trailers/256955882/movie_max.mp4?t=1693957043
   highlight: true
 genres:
 - Action
@@ -171,4 +171,3 @@ support_info:
 tags:
 - action
 ---
-

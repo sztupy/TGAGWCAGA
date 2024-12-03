@@ -29,41 +29,41 @@ movies:
   name: ExGamePlay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257022634/movie.293x165.jpg?t=1715510232
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022634/movie480_vp9.webm?t=1715510232
-    max: http://video.akamai.steamstatic.com/store_trailers/257022634/movie_max_vp9.webm?t=1715510232
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022634/movie480_vp9.webm?t=1715510232
+    max: https://video.akamai.steamstatic.com/store_trailers/257022634/movie_max_vp9.webm?t=1715510232
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022634/movie480.mp4?t=1715510232
-    max: http://video.akamai.steamstatic.com/store_trailers/257022634/movie_max.mp4?t=1715510232
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022634/movie480.mp4?t=1715510232
+    max: https://video.akamai.steamstatic.com/store_trailers/257022634/movie_max.mp4?t=1715510232
   highlight: true
 - id: 256999546
   name: Trailer2Eng
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999546/movie.293x165.jpg?t=1711100237
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999546/movie480_vp9.webm?t=1711100237
-    max: http://video.akamai.steamstatic.com/store_trailers/256999546/movie_max_vp9.webm?t=1711100237
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999546/movie480_vp9.webm?t=1711100237
+    max: https://video.akamai.steamstatic.com/store_trailers/256999546/movie_max_vp9.webm?t=1711100237
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999546/movie480.mp4?t=1711100237
-    max: http://video.akamai.steamstatic.com/store_trailers/256999546/movie_max.mp4?t=1711100237
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999546/movie480.mp4?t=1711100237
+    max: https://video.akamai.steamstatic.com/store_trailers/256999546/movie_max.mp4?t=1711100237
   highlight: true
 - id: 256999540
   name: Trailer2Thai
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999540/movie.293x165.jpg?t=1707969018
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999540/movie480_vp9.webm?t=1707969018
-    max: http://video.akamai.steamstatic.com/store_trailers/256999540/movie_max_vp9.webm?t=1707969018
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999540/movie480_vp9.webm?t=1707969018
+    max: https://video.akamai.steamstatic.com/store_trailers/256999540/movie_max_vp9.webm?t=1707969018
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999540/movie480.mp4?t=1707969018
-    max: http://video.akamai.steamstatic.com/store_trailers/256999540/movie_max.mp4?t=1707969018
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999540/movie480.mp4?t=1707969018
+    max: https://video.akamai.steamstatic.com/store_trailers/256999540/movie_max.mp4?t=1707969018
   highlight: true
 - id: 256999451
   name: Trailer1Thai
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999451/movie.293x165.jpg?t=1707969026
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999451/movie480_vp9.webm?t=1707969026
-    max: http://video.akamai.steamstatic.com/store_trailers/256999451/movie_max_vp9.webm?t=1707969026
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999451/movie480_vp9.webm?t=1707969026
+    max: https://video.akamai.steamstatic.com/store_trailers/256999451/movie_max_vp9.webm?t=1707969026
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999451/movie480.mp4?t=1707969026
-    max: http://video.akamai.steamstatic.com/store_trailers/256999451/movie_max.mp4?t=1707969026
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999451/movie480.mp4?t=1707969026
+    max: https://video.akamai.steamstatic.com/store_trailers/256999451/movie_max.mp4?t=1707969026
   highlight: true
 genres:
 - Adventure
@@ -122,4 +122,3 @@ support_info:
 tags:
 - adventure
 ---
-

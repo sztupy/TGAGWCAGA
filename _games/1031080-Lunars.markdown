@@ -44,21 +44,21 @@ movies:
   name: Lunars Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256872200/movie.293x165.jpg?t=1644043080
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256872200/movie480_vp9.webm?t=1644043080
-    max: http://video.akamai.steamstatic.com/store_trailers/256872200/movie_max_vp9.webm?t=1644043080
+    '480': https://video.akamai.steamstatic.com/store_trailers/256872200/movie480_vp9.webm?t=1644043080
+    max: https://video.akamai.steamstatic.com/store_trailers/256872200/movie_max_vp9.webm?t=1644043080
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256872200/movie480.mp4?t=1644043080
-    max: http://video.akamai.steamstatic.com/store_trailers/256872200/movie_max.mp4?t=1644043080
+    '480': https://video.akamai.steamstatic.com/store_trailers/256872200/movie480.mp4?t=1644043080
+    max: https://video.akamai.steamstatic.com/store_trailers/256872200/movie_max.mp4?t=1644043080
   highlight: true
 - id: 256984496
   name: Lunars Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256984496/movie.293x165.jpg?t=1700834428
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256984496/movie480_vp9.webm?t=1700834428
-    max: http://video.akamai.steamstatic.com/store_trailers/256984496/movie_max_vp9.webm?t=1700834428
+    '480': https://video.akamai.steamstatic.com/store_trailers/256984496/movie480_vp9.webm?t=1700834428
+    max: https://video.akamai.steamstatic.com/store_trailers/256984496/movie_max_vp9.webm?t=1700834428
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256984496/movie480.mp4?t=1700834428
-    max: http://video.akamai.steamstatic.com/store_trailers/256984496/movie_max.mp4?t=1700834428
+    '480': https://video.akamai.steamstatic.com/store_trailers/256984496/movie480.mp4?t=1700834428
+    max: https://video.akamai.steamstatic.com/store_trailers/256984496/movie_max.mp4?t=1700834428
   highlight: true
 genres:
 - Action
@@ -174,4 +174,3 @@ tags:
 - action
 - casual
 ---
-

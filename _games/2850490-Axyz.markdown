@@ -26,11 +26,11 @@ movies:
   name: Steam Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067390/94646318ed1befe0c5b96c6862bcd9cffe0f9a14/movie_600x337.jpg?t=1729604575
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067390/movie480_vp9.webm?t=1729604575
-    max: http://video.akamai.steamstatic.com/store_trailers/257067390/movie_max_vp9.webm?t=1729604575
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067390/movie480_vp9.webm?t=1729604575
+    max: https://video.akamai.steamstatic.com/store_trailers/257067390/movie_max_vp9.webm?t=1729604575
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067390/movie480.mp4?t=1729604575
-    max: http://video.akamai.steamstatic.com/store_trailers/257067390/movie_max.mp4?t=1729604575
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067390/movie480.mp4?t=1729604575
+    max: https://video.akamai.steamstatic.com/store_trailers/257067390/movie_max.mp4?t=1729604575
   highlight: true
 genres:
 - Casual
@@ -94,4 +94,3 @@ support_info:
 tags:
 - casual
 ---
-

@@ -30,21 +30,21 @@ movies:
   name: Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018524/movie.293x165.jpg?t=1714135556
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018524/movie480_vp9.webm?t=1714135556
-    max: http://video.akamai.steamstatic.com/store_trailers/257018524/movie_max_vp9.webm?t=1714135556
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018524/movie480_vp9.webm?t=1714135556
+    max: https://video.akamai.steamstatic.com/store_trailers/257018524/movie_max_vp9.webm?t=1714135556
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018524/movie480.mp4?t=1714135556
-    max: http://video.akamai.steamstatic.com/store_trailers/257018524/movie_max.mp4?t=1714135556
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018524/movie480.mp4?t=1714135556
+    max: https://video.akamai.steamstatic.com/store_trailers/257018524/movie_max.mp4?t=1714135556
   highlight: true
 - id: 256991923
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256991923/movie.293x165.jpg?t=1714136465
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256991923/movie480_vp9.webm?t=1714136465
-    max: http://video.akamai.steamstatic.com/store_trailers/256991923/movie_max_vp9.webm?t=1714136465
+    '480': https://video.akamai.steamstatic.com/store_trailers/256991923/movie480_vp9.webm?t=1714136465
+    max: https://video.akamai.steamstatic.com/store_trailers/256991923/movie_max_vp9.webm?t=1714136465
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256991923/movie480.mp4?t=1714136465
-    max: http://video.akamai.steamstatic.com/store_trailers/256991923/movie_max.mp4?t=1714136465
+    '480': https://video.akamai.steamstatic.com/store_trailers/256991923/movie480.mp4?t=1714136465
+    max: https://video.akamai.steamstatic.com/store_trailers/256991923/movie_max.mp4?t=1714136465
   highlight: false
 genres:
 - Casual
@@ -132,4 +132,3 @@ tags:
 - simulation
 - strategy
 ---
-

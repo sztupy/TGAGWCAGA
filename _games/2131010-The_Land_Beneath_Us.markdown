@@ -34,41 +34,41 @@ movies:
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257022838/movie.293x165.jpg?t=1715601651
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022838/movie480_vp9.webm?t=1715601651
-    max: http://video.akamai.steamstatic.com/store_trailers/257022838/movie_max_vp9.webm?t=1715601651
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022838/movie480_vp9.webm?t=1715601651
+    max: https://video.akamai.steamstatic.com/store_trailers/257022838/movie_max_vp9.webm?t=1715601651
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022838/movie480.mp4?t=1715601651
-    max: http://video.akamai.steamstatic.com/store_trailers/257022838/movie_max.mp4?t=1715601651
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022838/movie480.mp4?t=1715601651
+    max: https://video.akamai.steamstatic.com/store_trailers/257022838/movie_max.mp4?t=1715601651
   highlight: true
 - id: 257019825
   name: Gameplay 101
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257019825/movie.293x165.jpg?t=1715601655
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257019825/movie480_vp9.webm?t=1715601655
-    max: http://video.akamai.steamstatic.com/store_trailers/257019825/movie_max_vp9.webm?t=1715601655
+    '480': https://video.akamai.steamstatic.com/store_trailers/257019825/movie480_vp9.webm?t=1715601655
+    max: https://video.akamai.steamstatic.com/store_trailers/257019825/movie_max_vp9.webm?t=1715601655
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257019825/movie480.mp4?t=1715601655
-    max: http://video.akamai.steamstatic.com/store_trailers/257019825/movie_max.mp4?t=1715601655
+    '480': https://video.akamai.steamstatic.com/store_trailers/257019825/movie480.mp4?t=1715601655
+    max: https://video.akamai.steamstatic.com/store_trailers/257019825/movie_max.mp4?t=1715601655
   highlight: true
 - id: 256997100
   name: Demo Gameplay Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997100/movie.293x165.jpg?t=1706526093
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997100/movie480_vp9.webm?t=1706526093
-    max: http://video.akamai.steamstatic.com/store_trailers/256997100/movie_max_vp9.webm?t=1706526093
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997100/movie480_vp9.webm?t=1706526093
+    max: https://video.akamai.steamstatic.com/store_trailers/256997100/movie_max_vp9.webm?t=1706526093
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997100/movie480.mp4?t=1706526093
-    max: http://video.akamai.steamstatic.com/store_trailers/256997100/movie_max.mp4?t=1706526093
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997100/movie480.mp4?t=1706526093
+    max: https://video.akamai.steamstatic.com/store_trailers/256997100/movie_max.mp4?t=1706526093
   highlight: true
 - id: 256906095
   name: Story Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906095/movie.293x165.jpg?t=1706526222
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256906095/movie480_vp9.webm?t=1706526222
-    max: http://video.akamai.steamstatic.com/store_trailers/256906095/movie_max_vp9.webm?t=1706526222
+    '480': https://video.akamai.steamstatic.com/store_trailers/256906095/movie480_vp9.webm?t=1706526222
+    max: https://video.akamai.steamstatic.com/store_trailers/256906095/movie_max_vp9.webm?t=1706526222
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256906095/movie480.mp4?t=1706526222
-    max: http://video.akamai.steamstatic.com/store_trailers/256906095/movie_max.mp4?t=1706526222
+    '480': https://video.akamai.steamstatic.com/store_trailers/256906095/movie480.mp4?t=1706526222
+    max: https://video.akamai.steamstatic.com/store_trailers/256906095/movie_max.mp4?t=1706526222
   highlight: false
 genres:
 - Indie
@@ -146,4 +146,3 @@ support_info:
 tags:
 - strategy
 ---
-

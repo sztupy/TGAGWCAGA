@@ -50,31 +50,31 @@ movies:
   name: OUT NOW! - Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044537/movie.293x165.jpg?t=1728468712
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044537/movie480_vp9.webm?t=1728468712
-    max: http://video.akamai.steamstatic.com/store_trailers/257044537/movie_max_vp9.webm?t=1728468712
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044537/movie480_vp9.webm?t=1728468712
+    max: https://video.akamai.steamstatic.com/store_trailers/257044537/movie_max_vp9.webm?t=1728468712
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044537/movie480.mp4?t=1728468712
-    max: http://video.akamai.steamstatic.com/store_trailers/257044537/movie_max.mp4?t=1728468712
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044537/movie480.mp4?t=1728468712
+    max: https://video.akamai.steamstatic.com/store_trailers/257044537/movie_max.mp4?t=1728468712
   highlight: true
 - id: 257037197
   name: Launch Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257037197/movie.293x165.jpg?t=1720731465
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037197/movie480_vp9.webm?t=1720731465
-    max: http://video.akamai.steamstatic.com/store_trailers/257037197/movie_max_vp9.webm?t=1720731465
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037197/movie480_vp9.webm?t=1720731465
+    max: https://video.akamai.steamstatic.com/store_trailers/257037197/movie_max_vp9.webm?t=1720731465
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037197/movie480.mp4?t=1720731465
-    max: http://video.akamai.steamstatic.com/store_trailers/257037197/movie_max.mp4?t=1720731465
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037197/movie480.mp4?t=1720731465
+    max: https://video.akamai.steamstatic.com/store_trailers/257037197/movie_max.mp4?t=1720731465
   highlight: true
 - id: 257025304
   name: Dungeons & Degenerate Gamblers - Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025304/movie.293x165.jpg?t=1716560296
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025304/movie480_vp9.webm?t=1716560296
-    max: http://video.akamai.steamstatic.com/store_trailers/257025304/movie_max_vp9.webm?t=1716560296
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025304/movie480_vp9.webm?t=1716560296
+    max: https://video.akamai.steamstatic.com/store_trailers/257025304/movie_max_vp9.webm?t=1716560296
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025304/movie480.mp4?t=1716560296
-    max: http://video.akamai.steamstatic.com/store_trailers/257025304/movie_max.mp4?t=1716560296
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025304/movie480.mp4?t=1716560296
+    max: https://video.akamai.steamstatic.com/store_trailers/257025304/movie_max.mp4?t=1716560296
   highlight: true
 genres:
 - Casual
@@ -164,4 +164,3 @@ tags:
 - rpg
 - strategy
 ---
-

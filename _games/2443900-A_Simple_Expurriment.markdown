@@ -29,11 +29,11 @@ movies:
   name: Gameplay 1
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950367/f32aaaa0c7762432320ebb36b73f6272b518a9a3/movie_600x337.jpg?t=1731786353
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256950367/movie480_vp9.webm?t=1731786353
-    max: http://video.akamai.steamstatic.com/store_trailers/256950367/movie_max_vp9.webm?t=1731786353
+    '480': https://video.akamai.steamstatic.com/store_trailers/256950367/movie480_vp9.webm?t=1731786353
+    max: https://video.akamai.steamstatic.com/store_trailers/256950367/movie_max_vp9.webm?t=1731786353
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256950367/movie480.mp4?t=1731786353
-    max: http://video.akamai.steamstatic.com/store_trailers/256950367/movie_max.mp4?t=1731786353
+    '480': https://video.akamai.steamstatic.com/store_trailers/256950367/movie480.mp4?t=1731786353
+    max: https://video.akamai.steamstatic.com/store_trailers/256950367/movie_max.mp4?t=1731786353
   highlight: true
 genres:
 - Action
@@ -149,4 +149,3 @@ tags:
 - action
 - adventure
 ---
-

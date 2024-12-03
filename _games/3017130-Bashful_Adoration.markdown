@@ -44,21 +44,21 @@ movies:
   name: Bashful Adoration Trailer (WIP ver)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065166/1fb1a4f9b63bfb7b0053fb2d7d0270590f744fec/movie_600x337.jpg?t=1728953858
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065166/movie480_vp9.webm?t=1728953858
-    max: http://video.akamai.steamstatic.com/store_trailers/257065166/movie_max_vp9.webm?t=1728953858
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065166/movie480_vp9.webm?t=1728953858
+    max: https://video.akamai.steamstatic.com/store_trailers/257065166/movie_max_vp9.webm?t=1728953858
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065166/movie480.mp4?t=1728953858
-    max: http://video.akamai.steamstatic.com/store_trailers/257065166/movie_max.mp4?t=1728953858
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065166/movie480.mp4?t=1728953858
+    max: https://video.akamai.steamstatic.com/store_trailers/257065166/movie_max.mp4?t=1728953858
   highlight: true
 - id: 257033194
   name: 'Bashful Adoration: Gameplay Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257033194/movie.293x165.jpg?t=1719459353
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257033194/movie480_vp9.webm?t=1719459353
-    max: http://video.akamai.steamstatic.com/store_trailers/257033194/movie_max_vp9.webm?t=1719459353
+    '480': https://video.akamai.steamstatic.com/store_trailers/257033194/movie480_vp9.webm?t=1719459353
+    max: https://video.akamai.steamstatic.com/store_trailers/257033194/movie_max_vp9.webm?t=1719459353
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257033194/movie480.mp4?t=1719459353
-    max: http://video.akamai.steamstatic.com/store_trailers/257033194/movie_max.mp4?t=1719459353
+    '480': https://video.akamai.steamstatic.com/store_trailers/257033194/movie480.mp4?t=1719459353
+    max: https://video.akamai.steamstatic.com/store_trailers/257033194/movie_max.mp4?t=1719459353
   highlight: true
 genres:
 - Action
@@ -151,4 +151,3 @@ tags:
 - action
 - casual
 ---
-

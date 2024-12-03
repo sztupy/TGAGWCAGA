@@ -48,31 +48,31 @@ movies:
   name: Kickstarter Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257061560/7d0f17595f58f13f73055c0d190d4f3f1a346d24/movie_600x337.jpg?t=1727983948
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257061560/movie480_vp9.webm?t=1727983948
-    max: http://video.akamai.steamstatic.com/store_trailers/257061560/movie_max_vp9.webm?t=1727983948
+    '480': https://video.akamai.steamstatic.com/store_trailers/257061560/movie480_vp9.webm?t=1727983948
+    max: https://video.akamai.steamstatic.com/store_trailers/257061560/movie_max_vp9.webm?t=1727983948
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257061560/movie480.mp4?t=1727983948
-    max: http://video.akamai.steamstatic.com/store_trailers/257061560/movie_max.mp4?t=1727983948
+    '480': https://video.akamai.steamstatic.com/store_trailers/257061560/movie480.mp4?t=1727983948
+    max: https://video.akamai.steamstatic.com/store_trailers/257061560/movie_max.mp4?t=1727983948
   highlight: true
 - id: 257059742
   name: Intro
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059742/0afa8a61b8d9eccfc412553642169824e483148c/movie_600x337.jpg?t=1727490184
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059742/movie480_vp9.webm?t=1727490184
-    max: http://video.akamai.steamstatic.com/store_trailers/257059742/movie_max_vp9.webm?t=1727490184
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059742/movie480_vp9.webm?t=1727490184
+    max: https://video.akamai.steamstatic.com/store_trailers/257059742/movie_max_vp9.webm?t=1727490184
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059742/movie480.mp4?t=1727490184
-    max: http://video.akamai.steamstatic.com/store_trailers/257059742/movie_max.mp4?t=1727490184
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059742/movie480.mp4?t=1727490184
+    max: https://video.akamai.steamstatic.com/store_trailers/257059742/movie_max.mp4?t=1727490184
   highlight: true
 - id: 256995749
   name: Goblin Cleanup Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256995749/movie.293x165.jpg?t=1705968430
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256995749/movie480_vp9.webm?t=1705968430
-    max: http://video.akamai.steamstatic.com/store_trailers/256995749/movie_max_vp9.webm?t=1705968430
+    '480': https://video.akamai.steamstatic.com/store_trailers/256995749/movie480_vp9.webm?t=1705968430
+    max: https://video.akamai.steamstatic.com/store_trailers/256995749/movie_max_vp9.webm?t=1705968430
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256995749/movie480.mp4?t=1705968430
-    max: http://video.akamai.steamstatic.com/store_trailers/256995749/movie_max.mp4?t=1705968430
+    '480': https://video.akamai.steamstatic.com/store_trailers/256995749/movie480.mp4?t=1705968430
+    max: https://video.akamai.steamstatic.com/store_trailers/256995749/movie_max.mp4?t=1705968430
   highlight: true
 genres:
 - Casual
@@ -175,4 +175,3 @@ tags:
 - casual
 - simulation
 ---
-

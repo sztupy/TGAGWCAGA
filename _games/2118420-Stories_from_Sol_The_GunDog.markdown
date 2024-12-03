@@ -33,41 +33,41 @@ movies:
   name: Full-Colour Trailer - EN
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049461/movie.293x165.jpg?t=1725555596
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049461/movie480_vp9.webm?t=1725555596
-    max: http://video.akamai.steamstatic.com/store_trailers/257049461/movie_max_vp9.webm?t=1725555596
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049461/movie480_vp9.webm?t=1725555596
+    max: https://video.akamai.steamstatic.com/store_trailers/257049461/movie_max_vp9.webm?t=1725555596
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049461/movie480.mp4?t=1725555596
-    max: http://video.akamai.steamstatic.com/store_trailers/257049461/movie_max.mp4?t=1725555596
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049461/movie480.mp4?t=1725555596
+    max: https://video.akamai.steamstatic.com/store_trailers/257049461/movie_max.mp4?t=1725555596
   highlight: true
 - id: 257018217
   name: MKT_EN
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018217/movie.293x165.jpg?t=1714065166
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018217/movie480_vp9.webm?t=1714065166
-    max: http://video.akamai.steamstatic.com/store_trailers/257018217/movie_max_vp9.webm?t=1714065166
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018217/movie480_vp9.webm?t=1714065166
+    max: https://video.akamai.steamstatic.com/store_trailers/257018217/movie_max_vp9.webm?t=1714065166
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018217/movie480.mp4?t=1714065166
-    max: http://video.akamai.steamstatic.com/store_trailers/257018217/movie_max.mp4?t=1714065166
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018217/movie480.mp4?t=1714065166
+    max: https://video.akamai.steamstatic.com/store_trailers/257018217/movie_max.mp4?t=1714065166
   highlight: false
 - id: 256947891
   name: 'The Gun-Dog: Demo Available Now!'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947891/movie.293x165.jpg?t=1684577939
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256947891/movie480_vp9.webm?t=1684577939
-    max: http://video.akamai.steamstatic.com/store_trailers/256947891/movie_max_vp9.webm?t=1684577939
+    '480': https://video.akamai.steamstatic.com/store_trailers/256947891/movie480_vp9.webm?t=1684577939
+    max: https://video.akamai.steamstatic.com/store_trailers/256947891/movie_max_vp9.webm?t=1684577939
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256947891/movie480.mp4?t=1684577939
-    max: http://video.akamai.steamstatic.com/store_trailers/256947891/movie_max.mp4?t=1684577939
+    '480': https://video.akamai.steamstatic.com/store_trailers/256947891/movie480.mp4?t=1684577939
+    max: https://video.akamai.steamstatic.com/store_trailers/256947891/movie_max.mp4?t=1684577939
   highlight: false
 - id: 256924533
   name: 'Gun-Dog: Announcement Trailer-EN'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256924533/movie.293x165.jpg?t=1684512433
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256924533/movie480_vp9.webm?t=1684512433
-    max: http://video.akamai.steamstatic.com/store_trailers/256924533/movie_max_vp9.webm?t=1684512433
+    '480': https://video.akamai.steamstatic.com/store_trailers/256924533/movie480_vp9.webm?t=1684512433
+    max: https://video.akamai.steamstatic.com/store_trailers/256924533/movie_max_vp9.webm?t=1684512433
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256924533/movie480.mp4?t=1684512433
-    max: http://video.akamai.steamstatic.com/store_trailers/256924533/movie_max.mp4?t=1684512433
+    '480': https://video.akamai.steamstatic.com/store_trailers/256924533/movie480.mp4?t=1684512433
+    max: https://video.akamai.steamstatic.com/store_trailers/256924533/movie_max.mp4?t=1684512433
   highlight: false
 genres:
 - Adventure
@@ -221,4 +221,3 @@ tags:
 - adventure
 - rpg
 ---
-

@@ -53,31 +53,31 @@ movies:
   name: Sky of Tides — GAMESCOM 2024 Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048937/33db7eab79e0958c5bc45f3ef8b9319a78048652/movie_600x337.jpg?t=1730924166
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048937/movie480_vp9.webm?t=1730924166
-    max: http://video.akamai.steamstatic.com/store_trailers/257048937/movie_max_vp9.webm?t=1730924166
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048937/movie480_vp9.webm?t=1730924166
+    max: https://video.akamai.steamstatic.com/store_trailers/257048937/movie_max_vp9.webm?t=1730924166
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048937/movie480.mp4?t=1730924166
-    max: http://video.akamai.steamstatic.com/store_trailers/257048937/movie_max.mp4?t=1730924166
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048937/movie480.mp4?t=1730924166
+    max: https://video.akamai.steamstatic.com/store_trailers/257048937/movie_max.mp4?t=1730924166
   highlight: true
 - id: 257009151
   name: Sky of Tides - Release Window Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257009151/movie.293x165.jpg?t=1711122217
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009151/movie480_vp9.webm?t=1711122217
-    max: http://video.akamai.steamstatic.com/store_trailers/257009151/movie_max_vp9.webm?t=1711122217
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009151/movie480_vp9.webm?t=1711122217
+    max: https://video.akamai.steamstatic.com/store_trailers/257009151/movie_max_vp9.webm?t=1711122217
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009151/movie480.mp4?t=1711122217
-    max: http://video.akamai.steamstatic.com/store_trailers/257009151/movie_max.mp4?t=1711122217
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009151/movie480.mp4?t=1711122217
+    max: https://video.akamai.steamstatic.com/store_trailers/257009151/movie_max.mp4?t=1711122217
   highlight: true
 - id: 257071154
   name: Sky of Tides ATLA - Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071154/da1ec39852532d592222702a8e737ba579870ada/movie_600x337.jpg?t=1730931479
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071154/movie480_vp9.webm?t=1730931479
-    max: http://video.akamai.steamstatic.com/store_trailers/257071154/movie_max_vp9.webm?t=1730931479
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071154/movie480_vp9.webm?t=1730931479
+    max: https://video.akamai.steamstatic.com/store_trailers/257071154/movie_max_vp9.webm?t=1730931479
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071154/movie480.mp4?t=1730931479
-    max: http://video.akamai.steamstatic.com/store_trailers/257071154/movie_max.mp4?t=1730931479
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071154/movie480.mp4?t=1730931479
+    max: https://video.akamai.steamstatic.com/store_trailers/257071154/movie_max.mp4?t=1730931479
   highlight: true
 genres:
 - Adventure
@@ -195,4 +195,3 @@ tags:
 - casual
 - rpg
 ---
-

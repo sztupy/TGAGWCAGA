@@ -44,21 +44,21 @@ movies:
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025626/movie.293x165.jpg?t=1716581922
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025626/movie480_vp9.webm?t=1716581922
-    max: http://video.akamai.steamstatic.com/store_trailers/257025626/movie_max_vp9.webm?t=1716581922
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025626/movie480_vp9.webm?t=1716581922
+    max: https://video.akamai.steamstatic.com/store_trailers/257025626/movie_max_vp9.webm?t=1716581922
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025626/movie480.mp4?t=1716581922
-    max: http://video.akamai.steamstatic.com/store_trailers/257025626/movie_max.mp4?t=1716581922
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025626/movie480.mp4?t=1716581922
+    max: https://video.akamai.steamstatic.com/store_trailers/257025626/movie_max.mp4?t=1716581922
   highlight: true
 - id: 256992320
   name: Demo Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256992320/movie.293x165.jpg?t=1711631495
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256992320/movie480_vp9.webm?t=1711631495
-    max: http://video.akamai.steamstatic.com/store_trailers/256992320/movie_max_vp9.webm?t=1711631495
+    '480': https://video.akamai.steamstatic.com/store_trailers/256992320/movie480_vp9.webm?t=1711631495
+    max: https://video.akamai.steamstatic.com/store_trailers/256992320/movie_max_vp9.webm?t=1711631495
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256992320/movie480.mp4?t=1711631495
-    max: http://video.akamai.steamstatic.com/store_trailers/256992320/movie_max.mp4?t=1711631495
+    '480': https://video.akamai.steamstatic.com/store_trailers/256992320/movie480.mp4?t=1711631495
+    max: https://video.akamai.steamstatic.com/store_trailers/256992320/movie_max.mp4?t=1711631495
   highlight: false
 genres:
 - Indie
@@ -164,4 +164,3 @@ tags:
 - rpg
 - strategy
 ---
-

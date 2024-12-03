@@ -34,11 +34,11 @@ movies:
   name: The Vast White Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069365/7dd8218e0deffc5fffab50914fed91f1465fc56b/movie_600x337.jpg?t=1730566887
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069365/movie480_vp9.webm?t=1730566887
-    max: http://video.akamai.steamstatic.com/store_trailers/257069365/movie_max_vp9.webm?t=1730566887
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069365/movie480_vp9.webm?t=1730566887
+    max: https://video.akamai.steamstatic.com/store_trailers/257069365/movie_max_vp9.webm?t=1730566887
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069365/movie480.mp4?t=1730566887
-    max: http://video.akamai.steamstatic.com/store_trailers/257069365/movie_max.mp4?t=1730566887
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069365/movie480.mp4?t=1730566887
+    max: https://video.akamai.steamstatic.com/store_trailers/257069365/movie_max.mp4?t=1730566887
   highlight: true
 genres:
 - Adventure
@@ -108,4 +108,3 @@ tags:
 - adventure
 - casual
 ---
-

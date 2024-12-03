@@ -38,11 +38,11 @@ movies:
   name: New Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076100/1ea7220d29ae40fe8c7dd446e74029fa5353c0c3/movie_600x337.jpg?t=1732392153
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076100/movie480_vp9.webm?t=1732392153
-    max: http://video.akamai.steamstatic.com/store_trailers/257076100/movie_max_vp9.webm?t=1732392153
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076100/movie480_vp9.webm?t=1732392153
+    max: https://video.akamai.steamstatic.com/store_trailers/257076100/movie_max_vp9.webm?t=1732392153
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076100/movie480.mp4?t=1732392153
-    max: http://video.akamai.steamstatic.com/store_trailers/257076100/movie_max.mp4?t=1732392153
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076100/movie480.mp4?t=1732392153
+    max: https://video.akamai.steamstatic.com/store_trailers/257076100/movie_max.mp4?t=1732392153
   highlight: true
 genres:
 - Action
@@ -149,4 +149,3 @@ tags:
 - rpg
 - simulation
 ---
-

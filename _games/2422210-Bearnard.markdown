@@ -43,21 +43,21 @@ movies:
   name: Gameplay trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257000144/movie.293x165.jpg?t=1707499614
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257000144/movie480_vp9.webm?t=1707499614
-    max: http://video.akamai.steamstatic.com/store_trailers/257000144/movie_max_vp9.webm?t=1707499614
+    '480': https://video.akamai.steamstatic.com/store_trailers/257000144/movie480_vp9.webm?t=1707499614
+    max: https://video.akamai.steamstatic.com/store_trailers/257000144/movie_max_vp9.webm?t=1707499614
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257000144/movie480.mp4?t=1707499614
-    max: http://video.akamai.steamstatic.com/store_trailers/257000144/movie_max.mp4?t=1707499614
+    '480': https://video.akamai.steamstatic.com/store_trailers/257000144/movie480.mp4?t=1707499614
+    max: https://video.akamai.steamstatic.com/store_trailers/257000144/movie_max.mp4?t=1707499614
   highlight: true
 - id: 256963727
   name: Announcement trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256963727/movie.293x165.jpg?t=1706212717
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256963727/movie480_vp9.webm?t=1706212717
-    max: http://video.akamai.steamstatic.com/store_trailers/256963727/movie_max_vp9.webm?t=1706212717
+    '480': https://video.akamai.steamstatic.com/store_trailers/256963727/movie480_vp9.webm?t=1706212717
+    max: https://video.akamai.steamstatic.com/store_trailers/256963727/movie_max_vp9.webm?t=1706212717
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256963727/movie480.mp4?t=1706212717
-    max: http://video.akamai.steamstatic.com/store_trailers/256963727/movie_max.mp4?t=1706212717
+    '480': https://video.akamai.steamstatic.com/store_trailers/256963727/movie480.mp4?t=1706212717
+    max: https://video.akamai.steamstatic.com/store_trailers/256963727/movie_max.mp4?t=1706212717
   highlight: true
 genres:
 - Adventure
@@ -182,4 +182,3 @@ support_info:
 tags:
 - adventure
 ---
-

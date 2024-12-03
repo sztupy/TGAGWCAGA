@@ -56,31 +56,31 @@ movies:
   name: Baladins Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257023446/movie.293x165.jpg?t=1715781615
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023446/movie480_vp9.webm?t=1715781615
-    max: http://video.akamai.steamstatic.com/store_trailers/257023446/movie_max_vp9.webm?t=1715781615
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023446/movie480_vp9.webm?t=1715781615
+    max: https://video.akamai.steamstatic.com/store_trailers/257023446/movie_max_vp9.webm?t=1715781615
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023446/movie480.mp4?t=1715781615
-    max: http://video.akamai.steamstatic.com/store_trailers/257023446/movie_max.mp4?t=1715781615
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023446/movie480.mp4?t=1715781615
+    max: https://video.akamai.steamstatic.com/store_trailers/257023446/movie_max.mp4?t=1715781615
   highlight: true
 - id: 256952866
   name: Baladins Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952866/movie.293x165.jpg?t=1707130287
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952866/movie480_vp9.webm?t=1707130287
-    max: http://video.akamai.steamstatic.com/store_trailers/256952866/movie_max_vp9.webm?t=1707130287
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952866/movie480_vp9.webm?t=1707130287
+    max: https://video.akamai.steamstatic.com/store_trailers/256952866/movie_max_vp9.webm?t=1707130287
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256952866/movie480.mp4?t=1707130287
-    max: http://video.akamai.steamstatic.com/store_trailers/256952866/movie_max.mp4?t=1707130287
+    '480': https://video.akamai.steamstatic.com/store_trailers/256952866/movie480.mp4?t=1707130287
+    max: https://video.akamai.steamstatic.com/store_trailers/256952866/movie_max.mp4?t=1707130287
   highlight: true
 - id: 256877923
   name: Baladins Cinematic Announcement Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256877923/movie.293x165.jpg?t=1686758860
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256877923/movie480_vp9.webm?t=1686758860
-    max: http://video.akamai.steamstatic.com/store_trailers/256877923/movie_max_vp9.webm?t=1686758860
+    '480': https://video.akamai.steamstatic.com/store_trailers/256877923/movie480_vp9.webm?t=1686758860
+    max: https://video.akamai.steamstatic.com/store_trailers/256877923/movie_max_vp9.webm?t=1686758860
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256877923/movie480.mp4?t=1686758860
-    max: http://video.akamai.steamstatic.com/store_trailers/256877923/movie_max.mp4?t=1686758860
+    '480': https://video.akamai.steamstatic.com/store_trailers/256877923/movie480.mp4?t=1686758860
+    max: https://video.akamai.steamstatic.com/store_trailers/256877923/movie_max.mp4?t=1686758860
   highlight: false
 genres:
 - Adventure
@@ -184,4 +184,3 @@ tags:
 - adventure
 - rpg
 ---
-

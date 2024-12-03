@@ -39,11 +39,11 @@ movies:
   name: Trailer 2024
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257041555/ad9cdbfba3453d14238bc140d05d1c97cbf4179e/movie_600x337.jpg?t=1728040768
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041555/movie480_vp9.webm?t=1728040768
-    max: http://video.akamai.steamstatic.com/store_trailers/257041555/movie_max_vp9.webm?t=1728040768
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041555/movie480_vp9.webm?t=1728040768
+    max: https://video.akamai.steamstatic.com/store_trailers/257041555/movie_max_vp9.webm?t=1728040768
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041555/movie480.mp4?t=1728040768
-    max: http://video.akamai.steamstatic.com/store_trailers/257041555/movie_max.mp4?t=1728040768
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041555/movie480.mp4?t=1728040768
+    max: https://video.akamai.steamstatic.com/store_trailers/257041555/movie_max.mp4?t=1728040768
   highlight: true
 genres:
 - Adventure
@@ -166,4 +166,3 @@ support_info:
 tags:
 - adventure
 ---
-

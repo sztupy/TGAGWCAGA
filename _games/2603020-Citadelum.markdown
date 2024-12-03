@@ -44,21 +44,21 @@ movies:
   name: Release date
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056860/movie.293x165.jpg?t=1729772217
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257056860/movie480_vp9.webm?t=1729772217
-    max: http://video.akamai.steamstatic.com/store_trailers/257056860/movie_max_vp9.webm?t=1729772217
+    '480': https://video.akamai.steamstatic.com/store_trailers/257056860/movie480_vp9.webm?t=1729772217
+    max: https://video.akamai.steamstatic.com/store_trailers/257056860/movie_max_vp9.webm?t=1729772217
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257056860/movie480.mp4?t=1729772217
-    max: http://video.akamai.steamstatic.com/store_trailers/257056860/movie_max.mp4?t=1729772217
+    '480': https://video.akamai.steamstatic.com/store_trailers/257056860/movie480.mp4?t=1729772217
+    max: https://video.akamai.steamstatic.com/store_trailers/257056860/movie_max.mp4?t=1729772217
   highlight: true
 - id: 257068026
   name: Workshop editors
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068026/c88f4cc71a15d5d9caf59d848dd60407a4b0325c/movie_600x337.jpg?t=1729772222
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068026/movie480_vp9.webm?t=1729772222
-    max: http://video.akamai.steamstatic.com/store_trailers/257068026/movie_max_vp9.webm?t=1729772222
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068026/movie480_vp9.webm?t=1729772222
+    max: https://video.akamai.steamstatic.com/store_trailers/257068026/movie_max_vp9.webm?t=1729772222
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068026/movie480.mp4?t=1729772222
-    max: http://video.akamai.steamstatic.com/store_trailers/257068026/movie_max.mp4?t=1729772222
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068026/movie480.mp4?t=1729772222
+    max: https://video.akamai.steamstatic.com/store_trailers/257068026/movie_max.mp4?t=1729772222
   highlight: true
 genres:
 - Indie
@@ -157,4 +157,3 @@ tags:
 - simulation
 - strategy
 ---
-

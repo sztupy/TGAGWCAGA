@@ -41,31 +41,31 @@ movies:
   name: Memory Lost - Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256967683/movie.293x165.jpg?t=1693843215
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256967683/movie480_vp9.webm?t=1693843215
-    max: http://video.akamai.steamstatic.com/store_trailers/256967683/movie_max_vp9.webm?t=1693843215
+    '480': https://video.akamai.steamstatic.com/store_trailers/256967683/movie480_vp9.webm?t=1693843215
+    max: https://video.akamai.steamstatic.com/store_trailers/256967683/movie_max_vp9.webm?t=1693843215
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256967683/movie480.mp4?t=1693843215
-    max: http://video.akamai.steamstatic.com/store_trailers/256967683/movie_max.mp4?t=1693843215
+    '480': https://video.akamai.steamstatic.com/store_trailers/256967683/movie480.mp4?t=1693843215
+    max: https://video.akamai.steamstatic.com/store_trailers/256967683/movie_max.mp4?t=1693843215
   highlight: true
 - id: 256918422
   name: Memory Lost - Teaser2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256918422/movie.293x165.jpg?t=1693843219
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256918422/movie480_vp9.webm?t=1693843219
-    max: http://video.akamai.steamstatic.com/store_trailers/256918422/movie_max_vp9.webm?t=1693843219
+    '480': https://video.akamai.steamstatic.com/store_trailers/256918422/movie480_vp9.webm?t=1693843219
+    max: https://video.akamai.steamstatic.com/store_trailers/256918422/movie_max_vp9.webm?t=1693843219
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256918422/movie480.mp4?t=1693843219
-    max: http://video.akamai.steamstatic.com/store_trailers/256918422/movie_max.mp4?t=1693843219
+    '480': https://video.akamai.steamstatic.com/store_trailers/256918422/movie480.mp4?t=1693843219
+    max: https://video.akamai.steamstatic.com/store_trailers/256918422/movie_max.mp4?t=1693843219
   highlight: true
 - id: 256894249
   name: Memory Lost - Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256894249/movie.293x165.jpg?t=1693843224
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256894249/movie480_vp9.webm?t=1693843224
-    max: http://video.akamai.steamstatic.com/store_trailers/256894249/movie_max_vp9.webm?t=1693843224
+    '480': https://video.akamai.steamstatic.com/store_trailers/256894249/movie480_vp9.webm?t=1693843224
+    max: https://video.akamai.steamstatic.com/store_trailers/256894249/movie_max_vp9.webm?t=1693843224
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256894249/movie480.mp4?t=1693843224
-    max: http://video.akamai.steamstatic.com/store_trailers/256894249/movie_max.mp4?t=1693843224
+    '480': https://video.akamai.steamstatic.com/store_trailers/256894249/movie480.mp4?t=1693843224
+    max: https://video.akamai.steamstatic.com/store_trailers/256894249/movie_max.mp4?t=1693843224
   highlight: false
 genres:
 - Action
@@ -145,4 +145,3 @@ tags:
 - action
 - adventure
 ---
-

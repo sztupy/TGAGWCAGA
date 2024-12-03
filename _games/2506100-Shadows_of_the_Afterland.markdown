@@ -32,11 +32,11 @@ movies:
   name: Shadows of the Afterland teaser trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256972012/movie.293x165.jpg?t=1709287546
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256972012/movie480_vp9.webm?t=1709287546
-    max: http://video.akamai.steamstatic.com/store_trailers/256972012/movie_max_vp9.webm?t=1709287546
+    '480': https://video.akamai.steamstatic.com/store_trailers/256972012/movie480_vp9.webm?t=1709287546
+    max: https://video.akamai.steamstatic.com/store_trailers/256972012/movie_max_vp9.webm?t=1709287546
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256972012/movie480.mp4?t=1709287546
-    max: http://video.akamai.steamstatic.com/store_trailers/256972012/movie_max.mp4?t=1709287546
+    '480': https://video.akamai.steamstatic.com/store_trailers/256972012/movie480.mp4?t=1709287546
+    max: https://video.akamai.steamstatic.com/store_trailers/256972012/movie_max.mp4?t=1709287546
   highlight: true
 genres:
 - Adventure
@@ -126,4 +126,3 @@ support_info:
 tags:
 - adventure
 ---
-

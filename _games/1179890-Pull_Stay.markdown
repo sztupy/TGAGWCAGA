@@ -61,31 +61,31 @@ movies:
   name: PullStay_ShortTrailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257035893/movie.293x165.jpg?t=1720168680
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257035893/movie480_vp9.webm?t=1720168680
-    max: http://video.akamai.steamstatic.com/store_trailers/257035893/movie_max_vp9.webm?t=1720168680
+    '480': https://video.akamai.steamstatic.com/store_trailers/257035893/movie480_vp9.webm?t=1720168680
+    max: https://video.akamai.steamstatic.com/store_trailers/257035893/movie_max_vp9.webm?t=1720168680
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257035893/movie480.mp4?t=1720168680
-    max: http://video.akamai.steamstatic.com/store_trailers/257035893/movie_max.mp4?t=1720168680
+    '480': https://video.akamai.steamstatic.com/store_trailers/257035893/movie480.mp4?t=1720168680
+    max: https://video.akamai.steamstatic.com/store_trailers/257035893/movie_max.mp4?t=1720168680
   highlight: true
 - id: 257000521
   name: PullStay_EarlyAccessTrailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257000521/movie.293x165.jpg?t=1707737988
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257000521/movie480_vp9.webm?t=1707737988
-    max: http://video.akamai.steamstatic.com/store_trailers/257000521/movie_max_vp9.webm?t=1707737988
+    '480': https://video.akamai.steamstatic.com/store_trailers/257000521/movie480_vp9.webm?t=1707737988
+    max: https://video.akamai.steamstatic.com/store_trailers/257000521/movie_max_vp9.webm?t=1707737988
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257000521/movie480.mp4?t=1707737988
-    max: http://video.akamai.steamstatic.com/store_trailers/257000521/movie_max.mp4?t=1707737988
+    '480': https://video.akamai.steamstatic.com/store_trailers/257000521/movie480.mp4?t=1707737988
+    max: https://video.akamai.steamstatic.com/store_trailers/257000521/movie_max.mp4?t=1707737988
   highlight: true
 - id: 256789266
   name: PullStay_GuerrillaCollectiveTrailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789266/movie.293x165.jpg?t=1592298049
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256789266/movie480_vp9.webm?t=1592298049
-    max: http://video.akamai.steamstatic.com/store_trailers/256789266/movie_max_vp9.webm?t=1592298049
+    '480': https://video.akamai.steamstatic.com/store_trailers/256789266/movie480_vp9.webm?t=1592298049
+    max: https://video.akamai.steamstatic.com/store_trailers/256789266/movie_max_vp9.webm?t=1592298049
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256789266/movie480.mp4?t=1592298049
-    max: http://video.akamai.steamstatic.com/store_trailers/256789266/movie_max.mp4?t=1592298049
+    '480': https://video.akamai.steamstatic.com/store_trailers/256789266/movie480.mp4?t=1592298049
+    max: https://video.akamai.steamstatic.com/store_trailers/256789266/movie_max.mp4?t=1592298049
   highlight: false
 genres:
 - Action
@@ -172,4 +172,3 @@ support_info:
 tags:
 - action
 ---
-

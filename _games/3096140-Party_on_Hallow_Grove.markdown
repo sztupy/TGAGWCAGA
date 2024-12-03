@@ -36,21 +36,21 @@ movies:
   name: Party on Hallow Grove Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039130/e2a07a77fd25f8649600e94c526739395f9b4954/movie_600x337.jpg?t=1730265839
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039130/movie480_vp9.webm?t=1730265839
-    max: http://video.akamai.steamstatic.com/store_trailers/257039130/movie_max_vp9.webm?t=1730265839
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039130/movie480_vp9.webm?t=1730265839
+    max: https://video.akamai.steamstatic.com/store_trailers/257039130/movie_max_vp9.webm?t=1730265839
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039130/movie480.mp4?t=1730265839
-    max: http://video.akamai.steamstatic.com/store_trailers/257039130/movie_max.mp4?t=1730265839
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039130/movie480.mp4?t=1730265839
+    max: https://video.akamai.steamstatic.com/store_trailers/257039130/movie_max.mp4?t=1730265839
   highlight: true
 - id: 257061957
   name: PoHG Steam Next Fest Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257061957/4a648cbbc1ff6bbdc181d4f1714085401452f5a7/movie_600x337.jpg?t=1728078756
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257061957/movie480_vp9.webm?t=1728078756
-    max: http://video.akamai.steamstatic.com/store_trailers/257061957/movie_max_vp9.webm?t=1728078756
+    '480': https://video.akamai.steamstatic.com/store_trailers/257061957/movie480_vp9.webm?t=1728078756
+    max: https://video.akamai.steamstatic.com/store_trailers/257061957/movie_max_vp9.webm?t=1728078756
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257061957/movie480.mp4?t=1728078756
-    max: http://video.akamai.steamstatic.com/store_trailers/257061957/movie_max.mp4?t=1728078756
+    '480': https://video.akamai.steamstatic.com/store_trailers/257061957/movie480.mp4?t=1728078756
+    max: https://video.akamai.steamstatic.com/store_trailers/257061957/movie_max.mp4?t=1728078756
   highlight: true
 genres:
 - Adventure
@@ -123,4 +123,3 @@ tags:
 - casual
 - rpg
 ---
-

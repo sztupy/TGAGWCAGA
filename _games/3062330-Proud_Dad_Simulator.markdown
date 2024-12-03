@@ -29,11 +29,11 @@ movies:
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078054/48cb206e9ece1989b0685c509293bebd3074bc30/movie_600x337.jpg?t=1733060897
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257078054/movie480_vp9.webm?t=1733060897
-    max: http://video.akamai.steamstatic.com/store_trailers/257078054/movie_max_vp9.webm?t=1733060897
+    '480': https://video.akamai.steamstatic.com/store_trailers/257078054/movie480_vp9.webm?t=1733060897
+    max: https://video.akamai.steamstatic.com/store_trailers/257078054/movie_max_vp9.webm?t=1733060897
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257078054/movie480.mp4?t=1733060897
-    max: http://video.akamai.steamstatic.com/store_trailers/257078054/movie_max.mp4?t=1733060897
+    '480': https://video.akamai.steamstatic.com/store_trailers/257078054/movie480.mp4?t=1733060897
+    max: https://video.akamai.steamstatic.com/store_trailers/257078054/movie_max.mp4?t=1733060897
   highlight: true
 genres:
 - Casual
@@ -120,4 +120,3 @@ support_info:
 tags:
 - casual
 ---
-

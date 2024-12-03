@@ -28,21 +28,21 @@ movies:
   name: Short Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066512/61b8d2ca3c11c82c66fef6b92c6b94eb6a5a376b/movie_600x337.jpg?t=1729261846
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066512/movie480_vp9.webm?t=1729261846
-    max: http://video.akamai.steamstatic.com/store_trailers/257066512/movie_max_vp9.webm?t=1729261846
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066512/movie480_vp9.webm?t=1729261846
+    max: https://video.akamai.steamstatic.com/store_trailers/257066512/movie_max_vp9.webm?t=1729261846
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066512/movie480.mp4?t=1729261846
-    max: http://video.akamai.steamstatic.com/store_trailers/257066512/movie_max.mp4?t=1729261846
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066512/movie480.mp4?t=1729261846
+    max: https://video.akamai.steamstatic.com/store_trailers/257066512/movie_max.mp4?t=1729261846
   highlight: true
 - id: 257039418
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039418/movie.293x165.jpg?t=1729261849
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039418/movie480_vp9.webm?t=1729261849
-    max: http://video.akamai.steamstatic.com/store_trailers/257039418/movie_max_vp9.webm?t=1729261849
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039418/movie480_vp9.webm?t=1729261849
+    max: https://video.akamai.steamstatic.com/store_trailers/257039418/movie_max_vp9.webm?t=1729261849
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039418/movie480.mp4?t=1729261849
-    max: http://video.akamai.steamstatic.com/store_trailers/257039418/movie_max.mp4?t=1729261849
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039418/movie480.mp4?t=1729261849
+    max: https://video.akamai.steamstatic.com/store_trailers/257039418/movie_max.mp4?t=1729261849
   highlight: false
 genres:
 - Action
@@ -111,4 +111,3 @@ tags:
 - action
 - rpg
 ---
-

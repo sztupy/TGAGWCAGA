@@ -61,11 +61,11 @@ movies:
   name: Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257022529/7fad090082824eb0b2c7bdcdd2d5ac40ece5eb17/movie_600x337.jpg?t=1729968407
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022529/movie480_vp9.webm?t=1729968407
-    max: http://video.akamai.steamstatic.com/store_trailers/257022529/movie_max_vp9.webm?t=1729968407
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022529/movie480_vp9.webm?t=1729968407
+    max: https://video.akamai.steamstatic.com/store_trailers/257022529/movie_max_vp9.webm?t=1729968407
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257022529/movie480.mp4?t=1729968407
-    max: http://video.akamai.steamstatic.com/store_trailers/257022529/movie_max.mp4?t=1729968407
+    '480': https://video.akamai.steamstatic.com/store_trailers/257022529/movie480.mp4?t=1729968407
+    max: https://video.akamai.steamstatic.com/store_trailers/257022529/movie_max.mp4?t=1729968407
   highlight: true
 genres:
 - Action
@@ -118,4 +118,3 @@ support_info:
 tags:
 - action
 ---
-

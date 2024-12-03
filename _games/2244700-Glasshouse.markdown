@@ -61,31 +61,31 @@ movies:
   name: 'GLASSHOUSE - Demo Gameplay #1'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029123/95d786a02b6f537c3b216eb1e73170070b5d16c8/movie_600x337.jpg?t=1731679923
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029123/movie480_vp9.webm?t=1731679923
-    max: http://video.akamai.steamstatic.com/store_trailers/257029123/movie_max_vp9.webm?t=1731679923
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029123/movie480_vp9.webm?t=1731679923
+    max: https://video.akamai.steamstatic.com/store_trailers/257029123/movie_max_vp9.webm?t=1731679923
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029123/movie480.mp4?t=1731679923
-    max: http://video.akamai.steamstatic.com/store_trailers/257029123/movie_max.mp4?t=1731679923
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029123/movie480.mp4?t=1731679923
+    max: https://video.akamai.steamstatic.com/store_trailers/257029123/movie_max.mp4?t=1731679923
   highlight: true
 - id: 256992784
   name: 'GLASSHOUSE - Demo Gameplay #2'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256992784/movie.293x165.jpg?t=1717756393
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256992784/movie480_vp9.webm?t=1717756393
-    max: http://video.akamai.steamstatic.com/store_trailers/256992784/movie_max_vp9.webm?t=1717756393
+    '480': https://video.akamai.steamstatic.com/store_trailers/256992784/movie480_vp9.webm?t=1717756393
+    max: https://video.akamai.steamstatic.com/store_trailers/256992784/movie_max_vp9.webm?t=1717756393
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256992784/movie480.mp4?t=1717756393
-    max: http://video.akamai.steamstatic.com/store_trailers/256992784/movie_max.mp4?t=1717756393
+    '480': https://video.akamai.steamstatic.com/store_trailers/256992784/movie480.mp4?t=1717756393
+    max: https://video.akamai.steamstatic.com/store_trailers/256992784/movie_max.mp4?t=1717756393
   highlight: true
 - id: 256984323
   name: GLASSHOUSE - Concept Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256984323/movie.293x165.jpg?t=1717756397
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256984323/movie480_vp9.webm?t=1717756397
-    max: http://video.akamai.steamstatic.com/store_trailers/256984323/movie_max_vp9.webm?t=1717756397
+    '480': https://video.akamai.steamstatic.com/store_trailers/256984323/movie480_vp9.webm?t=1717756397
+    max: https://video.akamai.steamstatic.com/store_trailers/256984323/movie_max_vp9.webm?t=1717756397
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256984323/movie480.mp4?t=1717756397
-    max: http://video.akamai.steamstatic.com/store_trailers/256984323/movie_max.mp4?t=1717756397
+    '480': https://video.akamai.steamstatic.com/store_trailers/256984323/movie480.mp4?t=1717756397
+    max: https://video.akamai.steamstatic.com/store_trailers/256984323/movie_max.mp4?t=1717756397
   highlight: true
 genres:
 - RPG
@@ -301,4 +301,3 @@ support_info:
 tags:
 - rpg
 ---
-

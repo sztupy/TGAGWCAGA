@@ -71,21 +71,21 @@ movies:
   name: Toni Island Adventure - Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044274/movie.293x165.jpg?t=1723048423
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044274/movie480_vp9.webm?t=1723048423
-    max: http://video.akamai.steamstatic.com/store_trailers/257044274/movie_max_vp9.webm?t=1723048423
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044274/movie480_vp9.webm?t=1723048423
+    max: https://video.akamai.steamstatic.com/store_trailers/257044274/movie_max_vp9.webm?t=1723048423
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044274/movie480.mp4?t=1723048423
-    max: http://video.akamai.steamstatic.com/store_trailers/257044274/movie_max.mp4?t=1723048423
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044274/movie480.mp4?t=1723048423
+    max: https://video.akamai.steamstatic.com/store_trailers/257044274/movie_max.mp4?t=1723048423
   highlight: true
 - id: 257010834
   name: Toni Island Adventure - Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010834/movie.293x165.jpg?t=1721920511
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010834/movie480_vp9.webm?t=1721920511
-    max: http://video.akamai.steamstatic.com/store_trailers/257010834/movie_max_vp9.webm?t=1721920511
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010834/movie480_vp9.webm?t=1721920511
+    max: https://video.akamai.steamstatic.com/store_trailers/257010834/movie_max_vp9.webm?t=1721920511
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010834/movie480.mp4?t=1721920511
-    max: http://video.akamai.steamstatic.com/store_trailers/257010834/movie_max.mp4?t=1721920511
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010834/movie480.mp4?t=1721920511
+    max: https://video.akamai.steamstatic.com/store_trailers/257010834/movie_max.mp4?t=1721920511
   highlight: false
 genres:
 - Adventure
@@ -151,4 +151,3 @@ tags:
 - adventure
 - rpg
 ---
-

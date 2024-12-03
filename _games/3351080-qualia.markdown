@@ -37,11 +37,11 @@ movies:
   name: Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075655/1e45c0b9ae7ff259b0e4783a7ce419d4d64385b4/movie_600x337.jpg?t=1732299032
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075655/movie480_vp9.webm?t=1732299032
-    max: http://video.akamai.steamstatic.com/store_trailers/257075655/movie_max_vp9.webm?t=1732299032
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075655/movie480_vp9.webm?t=1732299032
+    max: https://video.akamai.steamstatic.com/store_trailers/257075655/movie_max_vp9.webm?t=1732299032
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075655/movie480.mp4?t=1732299032
-    max: http://video.akamai.steamstatic.com/store_trailers/257075655/movie_max.mp4?t=1732299032
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075655/movie480.mp4?t=1732299032
+    max: https://video.akamai.steamstatic.com/store_trailers/257075655/movie_max.mp4?t=1732299032
   highlight: true
 genres:
 - Indie
@@ -116,4 +116,3 @@ support_info:
 tags:
 - unspecified
 ---
-

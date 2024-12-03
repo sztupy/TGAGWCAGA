@@ -438,6 +438,16 @@ games.each do |game|
 
     slug = gd['name'].gsub(' ','_').delete('^a-zA-Z0-9_')
 
+    movies = gd['movies']
+    movies.each do |m|
+      m['webm'].each_pair do |k,v|
+        v.gsub!('http://','https://')
+      end
+      m['mp4'].each_pair do |k,v|
+        v.gsub!('http://','https://')
+      end
+    end
+
     File.open("_games/#{game}-#{slug}.markdown","w+") do |out|
       out.puts <<~"DATA"
       ---
@@ -448,7 +458,7 @@ games.each do |game|
       categories: game
       steamid: #{game}
       screenshots: #{gd['screenshots'].to_json}
-      movies: #{gd['movies'].to_json}
+      movies: #{movies.to_json}
       genres: #{(gd['genres'] || []).map{|g| g['description']}.to_json}
       steam_categories: #{(gd['categories']||[]).map{|g| g['description']}.to_json}
       platforms: #{gd['platforms'].to_json}

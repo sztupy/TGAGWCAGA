@@ -49,51 +49,51 @@ movies:
   name: AWAKEN - Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067091/25d0f709a4ca264a766960d865563f880d225503/movie_600x337.jpg?t=1729603562
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067091/movie480_vp9.webm?t=1729603562
-    max: http://video.akamai.steamstatic.com/store_trailers/257067091/movie_max_vp9.webm?t=1729603562
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067091/movie480_vp9.webm?t=1729603562
+    max: https://video.akamai.steamstatic.com/store_trailers/257067091/movie_max_vp9.webm?t=1729603562
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067091/movie480.mp4?t=1729603562
-    max: http://video.akamai.steamstatic.com/store_trailers/257067091/movie_max.mp4?t=1729603562
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067091/movie480.mp4?t=1729603562
+    max: https://video.akamai.steamstatic.com/store_trailers/257067091/movie_max.mp4?t=1729603562
   highlight: true
 - id: 257055737
   name: AWAKEN - Astral Blade - Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257055737/1fca9382b5e20b545e25be46c4e305d745caec5f/movie_600x337.jpg?t=1729510000
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055737/movie480_vp9.webm?t=1729510000
-    max: http://video.akamai.steamstatic.com/store_trailers/257055737/movie_max_vp9.webm?t=1729510000
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055737/movie480_vp9.webm?t=1729510000
+    max: https://video.akamai.steamstatic.com/store_trailers/257055737/movie_max_vp9.webm?t=1729510000
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055737/movie480.mp4?t=1729510000
-    max: http://video.akamai.steamstatic.com/store_trailers/257055737/movie_max.mp4?t=1729510000
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055737/movie480.mp4?t=1729510000
+    max: https://video.akamai.steamstatic.com/store_trailers/257055737/movie_max.mp4?t=1729510000
   highlight: true
 - id: 257009643
   name: AWAKEN - Astral Blade — Release Window Reveal
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257009643/d949d0911f443866d3657e29d36f983ec8118106/movie_600x337.jpg?t=1727683359
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009643/movie480_vp9.webm?t=1727683359
-    max: http://video.akamai.steamstatic.com/store_trailers/257009643/movie_max_vp9.webm?t=1727683359
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009643/movie480_vp9.webm?t=1727683359
+    max: https://video.akamai.steamstatic.com/store_trailers/257009643/movie_max_vp9.webm?t=1727683359
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009643/movie480.mp4?t=1727683359
-    max: http://video.akamai.steamstatic.com/store_trailers/257009643/movie_max.mp4?t=1727683359
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009643/movie480.mp4?t=1727683359
+    max: https://video.akamai.steamstatic.com/store_trailers/257009643/movie_max.mp4?t=1727683359
   highlight: true
 - id: 256958959
   name: NewPV0719
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958959/movie.293x165.jpg?t=1692707953
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958959/movie480_vp9.webm?t=1692707953
-    max: http://video.akamai.steamstatic.com/store_trailers/256958959/movie_max_vp9.webm?t=1692707953
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958959/movie480_vp9.webm?t=1692707953
+    max: https://video.akamai.steamstatic.com/store_trailers/256958959/movie_max_vp9.webm?t=1692707953
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958959/movie480.mp4?t=1692707953
-    max: http://video.akamai.steamstatic.com/store_trailers/256958959/movie_max.mp4?t=1692707953
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958959/movie480.mp4?t=1692707953
+    max: https://video.akamai.steamstatic.com/store_trailers/256958959/movie_max.mp4?t=1692707953
   highlight: true
 - id: 256896097
   name: PV_EN
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256896097/movie.293x165.jpg?t=1657701594
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256896097/movie480_vp9.webm?t=1657701594
-    max: http://video.akamai.steamstatic.com/store_trailers/256896097/movie_max_vp9.webm?t=1657701594
+    '480': https://video.akamai.steamstatic.com/store_trailers/256896097/movie480_vp9.webm?t=1657701594
+    max: https://video.akamai.steamstatic.com/store_trailers/256896097/movie_max_vp9.webm?t=1657701594
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256896097/movie480.mp4?t=1657701594
-    max: http://video.akamai.steamstatic.com/store_trailers/256896097/movie_max.mp4?t=1657701594
+    '480': https://video.akamai.steamstatic.com/store_trailers/256896097/movie480.mp4?t=1657701594
+    max: https://video.akamai.steamstatic.com/store_trailers/256896097/movie_max.mp4?t=1657701594
   highlight: true
 genres:
 - Action
@@ -184,4 +184,3 @@ tags:
 - adventure
 - rpg
 ---
-

@@ -41,11 +41,11 @@ movies:
   name: Snake in the Dark - announcement trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074747/3b57cdacc53f24b11e42f4b5f3d58b371d9bf591/movie_600x337.jpg?t=1732203680
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257074747/movie480_vp9.webm?t=1732203680
-    max: http://video.akamai.steamstatic.com/store_trailers/257074747/movie_max_vp9.webm?t=1732203680
+    '480': https://video.akamai.steamstatic.com/store_trailers/257074747/movie480_vp9.webm?t=1732203680
+    max: https://video.akamai.steamstatic.com/store_trailers/257074747/movie_max_vp9.webm?t=1732203680
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257074747/movie480.mp4?t=1732203680
-    max: http://video.akamai.steamstatic.com/store_trailers/257074747/movie_max.mp4?t=1732203680
+    '480': https://video.akamai.steamstatic.com/store_trailers/257074747/movie480.mp4?t=1732203680
+    max: https://video.akamai.steamstatic.com/store_trailers/257074747/movie_max.mp4?t=1732203680
   highlight: true
 genres:
 - Action
@@ -145,4 +145,3 @@ tags:
 - action
 - casual
 ---
-

@@ -35,11 +35,11 @@ movies:
   name: Quantum Witch - Coming Soon!
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257036751/movie.293x165.jpg?t=1722821245
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257036751/movie480_vp9.webm?t=1722821245
-    max: http://video.akamai.steamstatic.com/store_trailers/257036751/movie_max_vp9.webm?t=1722821245
+    '480': https://video.akamai.steamstatic.com/store_trailers/257036751/movie480_vp9.webm?t=1722821245
+    max: https://video.akamai.steamstatic.com/store_trailers/257036751/movie_max_vp9.webm?t=1722821245
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257036751/movie480.mp4?t=1722821245
-    max: http://video.akamai.steamstatic.com/store_trailers/257036751/movie_max.mp4?t=1722821245
+    '480': https://video.akamai.steamstatic.com/store_trailers/257036751/movie480.mp4?t=1722821245
+    max: https://video.akamai.steamstatic.com/store_trailers/257036751/movie_max.mp4?t=1722821245
   highlight: true
 genres:
 - Adventure
@@ -128,4 +128,3 @@ tags:
 - adventure
 - rpg
 ---
-

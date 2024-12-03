@@ -29,31 +29,31 @@ movies:
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256949394/movie.293x165.jpg?t=1685198874
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256949394/movie480_vp9.webm?t=1685198874
-    max: http://video.akamai.steamstatic.com/store_trailers/256949394/movie_max_vp9.webm?t=1685198874
+    '480': https://video.akamai.steamstatic.com/store_trailers/256949394/movie480_vp9.webm?t=1685198874
+    max: https://video.akamai.steamstatic.com/store_trailers/256949394/movie_max_vp9.webm?t=1685198874
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256949394/movie480.mp4?t=1685198874
-    max: http://video.akamai.steamstatic.com/store_trailers/256949394/movie_max.mp4?t=1685198874
+    '480': https://video.akamai.steamstatic.com/store_trailers/256949394/movie480.mp4?t=1685198874
+    max: https://video.akamai.steamstatic.com/store_trailers/256949394/movie_max.mp4?t=1685198874
   highlight: true
 - id: 256918063
   name: Level 2 Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256918063/movie.293x165.jpg?t=1685198968
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256918063/movie480_vp9.webm?t=1685198968
-    max: http://video.akamai.steamstatic.com/store_trailers/256918063/movie_max_vp9.webm?t=1685198968
+    '480': https://video.akamai.steamstatic.com/store_trailers/256918063/movie480_vp9.webm?t=1685198968
+    max: https://video.akamai.steamstatic.com/store_trailers/256918063/movie_max_vp9.webm?t=1685198968
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256918063/movie480.mp4?t=1685198968
-    max: http://video.akamai.steamstatic.com/store_trailers/256918063/movie_max.mp4?t=1685198968
+    '480': https://video.akamai.steamstatic.com/store_trailers/256918063/movie480.mp4?t=1685198968
+    max: https://video.akamai.steamstatic.com/store_trailers/256918063/movie_max.mp4?t=1685198968
   highlight: true
 - id: 256903704
   name: Reveal Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903704/movie.293x165.jpg?t=1685198972
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256903704/movie480_vp9.webm?t=1685198972
-    max: http://video.akamai.steamstatic.com/store_trailers/256903704/movie_max_vp9.webm?t=1685198972
+    '480': https://video.akamai.steamstatic.com/store_trailers/256903704/movie480_vp9.webm?t=1685198972
+    max: https://video.akamai.steamstatic.com/store_trailers/256903704/movie_max_vp9.webm?t=1685198972
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256903704/movie480.mp4?t=1685198972
-    max: http://video.akamai.steamstatic.com/store_trailers/256903704/movie_max.mp4?t=1685198972
+    '480': https://video.akamai.steamstatic.com/store_trailers/256903704/movie480.mp4?t=1685198972
+    max: https://video.akamai.steamstatic.com/store_trailers/256903704/movie_max.mp4?t=1685198972
   highlight: true
 genres:
 - Action
@@ -149,4 +149,3 @@ tags:
 - casual
 - simulation
 ---
-

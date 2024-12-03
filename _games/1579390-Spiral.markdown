@@ -47,51 +47,51 @@ movies:
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056947/movie.293x165.jpg?t=1726843582
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257056947/movie480_vp9.webm?t=1726843582
-    max: http://video.akamai.steamstatic.com/store_trailers/257056947/movie_max_vp9.webm?t=1726843582
+    '480': https://video.akamai.steamstatic.com/store_trailers/257056947/movie480_vp9.webm?t=1726843582
+    max: https://video.akamai.steamstatic.com/store_trailers/257056947/movie_max_vp9.webm?t=1726843582
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257056947/movie480.mp4?t=1726843582
-    max: http://video.akamai.steamstatic.com/store_trailers/257056947/movie_max.mp4?t=1726843582
+    '480': https://video.akamai.steamstatic.com/store_trailers/257056947/movie480.mp4?t=1726843582
+    max: https://video.akamai.steamstatic.com/store_trailers/257056947/movie_max.mp4?t=1726843582
   highlight: true
 - id: 257041032
   name: Trailer - Launch Date
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257041032/movie.293x165.jpg?t=1722029332
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041032/movie480_vp9.webm?t=1722029332
-    max: http://video.akamai.steamstatic.com/store_trailers/257041032/movie_max_vp9.webm?t=1722029332
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041032/movie480_vp9.webm?t=1722029332
+    max: https://video.akamai.steamstatic.com/store_trailers/257041032/movie_max_vp9.webm?t=1722029332
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041032/movie480.mp4?t=1722029332
-    max: http://video.akamai.steamstatic.com/store_trailers/257041032/movie_max.mp4?t=1722029332
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041032/movie480.mp4?t=1722029332
+    max: https://video.akamai.steamstatic.com/store_trailers/257041032/movie_max.mp4?t=1722029332
   highlight: true
 - id: 257032922
   name: Trailer - Friends
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032922/movie.293x165.jpg?t=1718976713
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257032922/movie480_vp9.webm?t=1718976713
-    max: http://video.akamai.steamstatic.com/store_trailers/257032922/movie_max_vp9.webm?t=1718976713
+    '480': https://video.akamai.steamstatic.com/store_trailers/257032922/movie480_vp9.webm?t=1718976713
+    max: https://video.akamai.steamstatic.com/store_trailers/257032922/movie_max_vp9.webm?t=1718976713
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257032922/movie480.mp4?t=1718976713
-    max: http://video.akamai.steamstatic.com/store_trailers/257032922/movie_max.mp4?t=1718976713
+    '480': https://video.akamai.steamstatic.com/store_trailers/257032922/movie480.mp4?t=1718976713
+    max: https://video.akamai.steamstatic.com/store_trailers/257032922/movie_max.mp4?t=1718976713
   highlight: true
 - id: 256828713
   name: Spiral Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256828713/movie.293x165.jpg?t=1693507254
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256828713/movie480_vp9.webm?t=1693507254
-    max: http://video.akamai.steamstatic.com/store_trailers/256828713/movie_max_vp9.webm?t=1693507254
+    '480': https://video.akamai.steamstatic.com/store_trailers/256828713/movie480_vp9.webm?t=1693507254
+    max: https://video.akamai.steamstatic.com/store_trailers/256828713/movie_max_vp9.webm?t=1693507254
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256828713/movie480.mp4?t=1693507254
-    max: http://video.akamai.steamstatic.com/store_trailers/256828713/movie_max.mp4?t=1693507254
+    '480': https://video.akamai.steamstatic.com/store_trailers/256828713/movie480.mp4?t=1693507254
+    max: https://video.akamai.steamstatic.com/store_trailers/256828713/movie_max.mp4?t=1693507254
   highlight: true
 - id: 256876852
   name: Teaser - Demo
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256876852/movie.293x165.jpg?t=1646674181
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256876852/movie480_vp9.webm?t=1646674181
-    max: http://video.akamai.steamstatic.com/store_trailers/256876852/movie_max_vp9.webm?t=1646674181
+    '480': https://video.akamai.steamstatic.com/store_trailers/256876852/movie480_vp9.webm?t=1646674181
+    max: https://video.akamai.steamstatic.com/store_trailers/256876852/movie_max_vp9.webm?t=1646674181
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256876852/movie480.mp4?t=1646674181
-    max: http://video.akamai.steamstatic.com/store_trailers/256876852/movie_max.mp4?t=1646674181
+    '480': https://video.akamai.steamstatic.com/store_trailers/256876852/movie480.mp4?t=1646674181
+    max: https://video.akamai.steamstatic.com/store_trailers/256876852/movie_max.mp4?t=1646674181
   highlight: true
 genres:
 - Adventure
@@ -209,4 +209,3 @@ support_info:
 tags:
 - adventure
 ---
-

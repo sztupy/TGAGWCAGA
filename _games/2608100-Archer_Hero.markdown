@@ -41,11 +41,11 @@ movies:
   name: Archer Hero - Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065866/f2cf5ebe64583627cafaab82d1b7873c09b95a72/movie_600x337.jpg?t=1729094736
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065866/movie480_vp9.webm?t=1729094736
-    max: http://video.akamai.steamstatic.com/store_trailers/257065866/movie_max_vp9.webm?t=1729094736
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065866/movie480_vp9.webm?t=1729094736
+    max: https://video.akamai.steamstatic.com/store_trailers/257065866/movie_max_vp9.webm?t=1729094736
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065866/movie480.mp4?t=1729094736
-    max: http://video.akamai.steamstatic.com/store_trailers/257065866/movie_max.mp4?t=1729094736
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065866/movie480.mp4?t=1729094736
+    max: https://video.akamai.steamstatic.com/store_trailers/257065866/movie_max.mp4?t=1729094736
   highlight: true
 genres:
 - Action
@@ -105,4 +105,3 @@ tags:
 - action
 - adventure
 ---
-

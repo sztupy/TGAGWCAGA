@@ -27,11 +27,11 @@ movies:
   name: Witchhammer - Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979194/e7b812d443869854969d234644e520badcca32bd/movie_600x337.jpg?t=1732742370
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979194/movie480_vp9.webm?t=1732742370
-    max: http://video.akamai.steamstatic.com/store_trailers/256979194/movie_max_vp9.webm?t=1732742370
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979194/movie480_vp9.webm?t=1732742370
+    max: https://video.akamai.steamstatic.com/store_trailers/256979194/movie_max_vp9.webm?t=1732742370
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979194/movie480.mp4?t=1732742370
-    max: http://video.akamai.steamstatic.com/store_trailers/256979194/movie_max.mp4?t=1732742370
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979194/movie480.mp4?t=1732742370
+    max: https://video.akamai.steamstatic.com/store_trailers/256979194/movie_max.mp4?t=1732742370
   highlight: true
 genres:
 - Action
@@ -123,4 +123,3 @@ tags:
 - rpg
 - strategy
 ---
-

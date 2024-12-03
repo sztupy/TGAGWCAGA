@@ -41,31 +41,31 @@ movies:
   name: Tokyo Game Show Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057617/movie.293x165.jpg?t=1727332327
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257057617/movie480_vp9.webm?t=1727332327
-    max: http://video.akamai.steamstatic.com/store_trailers/257057617/movie_max_vp9.webm?t=1727332327
+    '480': https://video.akamai.steamstatic.com/store_trailers/257057617/movie480_vp9.webm?t=1727332327
+    max: https://video.akamai.steamstatic.com/store_trailers/257057617/movie_max_vp9.webm?t=1727332327
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257057617/movie480.mp4?t=1727332327
-    max: http://video.akamai.steamstatic.com/store_trailers/257057617/movie_max.mp4?t=1727332327
+    '480': https://video.akamai.steamstatic.com/store_trailers/257057617/movie480.mp4?t=1727332327
+    max: https://video.akamai.steamstatic.com/store_trailers/257057617/movie_max.mp4?t=1727332327
   highlight: true
 - id: 257039601
   name: Short Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039601/movie.293x165.jpg?t=1721745141
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039601/movie480_vp9.webm?t=1721745141
-    max: http://video.akamai.steamstatic.com/store_trailers/257039601/movie_max_vp9.webm?t=1721745141
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039601/movie480_vp9.webm?t=1721745141
+    max: https://video.akamai.steamstatic.com/store_trailers/257039601/movie_max_vp9.webm?t=1721745141
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039601/movie480.mp4?t=1721745141
-    max: http://video.akamai.steamstatic.com/store_trailers/257039601/movie_max.mp4?t=1721745141
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039601/movie480.mp4?t=1721745141
+    max: https://video.akamai.steamstatic.com/store_trailers/257039601/movie_max.mp4?t=1721745141
   highlight: true
 - id: 257015286
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015286/movie.293x165.jpg?t=1714411984
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257015286/movie480_vp9.webm?t=1714411984
-    max: http://video.akamai.steamstatic.com/store_trailers/257015286/movie_max_vp9.webm?t=1714411984
+    '480': https://video.akamai.steamstatic.com/store_trailers/257015286/movie480_vp9.webm?t=1714411984
+    max: https://video.akamai.steamstatic.com/store_trailers/257015286/movie_max_vp9.webm?t=1714411984
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257015286/movie480.mp4?t=1714411984
-    max: http://video.akamai.steamstatic.com/store_trailers/257015286/movie_max.mp4?t=1714411984
+    '480': https://video.akamai.steamstatic.com/store_trailers/257015286/movie480.mp4?t=1714411984
+    max: https://video.akamai.steamstatic.com/store_trailers/257015286/movie_max.mp4?t=1714411984
   highlight: true
 genres:
 - Adventure
@@ -205,4 +205,3 @@ tags:
 - rpg
 - simulation
 ---
-

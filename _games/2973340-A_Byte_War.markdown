@@ -32,11 +32,11 @@ movies:
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257042871/movie.293x165.jpg?t=1723554632
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257042871/movie480_vp9.webm?t=1723554632
-    max: http://video.akamai.steamstatic.com/store_trailers/257042871/movie_max_vp9.webm?t=1723554632
+    '480': https://video.akamai.steamstatic.com/store_trailers/257042871/movie480_vp9.webm?t=1723554632
+    max: https://video.akamai.steamstatic.com/store_trailers/257042871/movie_max_vp9.webm?t=1723554632
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257042871/movie480.mp4?t=1723554632
-    max: http://video.akamai.steamstatic.com/store_trailers/257042871/movie_max.mp4?t=1723554632
+    '480': https://video.akamai.steamstatic.com/store_trailers/257042871/movie480.mp4?t=1723554632
+    max: https://video.akamai.steamstatic.com/store_trailers/257042871/movie_max.mp4?t=1723554632
   highlight: true
 genres:
 - Strategy
@@ -144,4 +144,3 @@ support_info:
 tags:
 - strategy
 ---
-

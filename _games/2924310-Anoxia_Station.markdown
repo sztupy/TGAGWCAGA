@@ -32,21 +32,21 @@ movies:
   name: Halloween
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069876/fd755a650c0357bea7762052d64bb660d1d69a44/movie_600x337.jpg?t=1730367675
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069876/movie480_vp9.webm?t=1730367675
-    max: http://video.akamai.steamstatic.com/store_trailers/257069876/movie_max_vp9.webm?t=1730367675
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069876/movie480_vp9.webm?t=1730367675
+    max: https://video.akamai.steamstatic.com/store_trailers/257069876/movie_max_vp9.webm?t=1730367675
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069876/movie480.mp4?t=1730367675
-    max: http://video.akamai.steamstatic.com/store_trailers/257069876/movie_max.mp4?t=1730367675
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069876/movie480.mp4?t=1730367675
+    max: https://video.akamai.steamstatic.com/store_trailers/257069876/movie_max.mp4?t=1730367675
   highlight: true
 - id: 257035014
   name: Release Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257035014/movie.293x165.jpg?t=1720094096
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257035014/movie480_vp9.webm?t=1720094096
-    max: http://video.akamai.steamstatic.com/store_trailers/257035014/movie_max_vp9.webm?t=1720094096
+    '480': https://video.akamai.steamstatic.com/store_trailers/257035014/movie480_vp9.webm?t=1720094096
+    max: https://video.akamai.steamstatic.com/store_trailers/257035014/movie_max_vp9.webm?t=1720094096
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257035014/movie480.mp4?t=1720094096
-    max: http://video.akamai.steamstatic.com/store_trailers/257035014/movie_max.mp4?t=1720094096
+    '480': https://video.akamai.steamstatic.com/store_trailers/257035014/movie480.mp4?t=1720094096
+    max: https://video.akamai.steamstatic.com/store_trailers/257035014/movie_max.mp4?t=1720094096
   highlight: true
 genres:
 - Action
@@ -168,4 +168,3 @@ tags:
 - action
 - strategy
 ---
-

@@ -37,21 +37,21 @@ movies:
   name: Artillery Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257072369/e98dbb44c31c0f8525bdde6c2a4fdf68278f504a/movie_600x337.jpg?t=1731356253
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257072369/movie480_vp9.webm?t=1731356253
-    max: http://video.akamai.steamstatic.com/store_trailers/257072369/movie_max_vp9.webm?t=1731356253
+    '480': https://video.akamai.steamstatic.com/store_trailers/257072369/movie480_vp9.webm?t=1731356253
+    max: https://video.akamai.steamstatic.com/store_trailers/257072369/movie_max_vp9.webm?t=1731356253
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257072369/movie480.mp4?t=1731356253
-    max: http://video.akamai.steamstatic.com/store_trailers/257072369/movie_max.mp4?t=1731356253
+    '480': https://video.akamai.steamstatic.com/store_trailers/257072369/movie480.mp4?t=1731356253
+    max: https://video.akamai.steamstatic.com/store_trailers/257072369/movie_max.mp4?t=1731356253
   highlight: true
 - id: 257052966
   name: Gameplay trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257052966/movie.293x165.jpg?t=1726829124
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257052966/movie480_vp9.webm?t=1726829124
-    max: http://video.akamai.steamstatic.com/store_trailers/257052966/movie_max_vp9.webm?t=1726829124
+    '480': https://video.akamai.steamstatic.com/store_trailers/257052966/movie480_vp9.webm?t=1726829124
+    max: https://video.akamai.steamstatic.com/store_trailers/257052966/movie_max_vp9.webm?t=1726829124
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257052966/movie480.mp4?t=1726829124
-    max: http://video.akamai.steamstatic.com/store_trailers/257052966/movie_max.mp4?t=1726829124
+    '480': https://video.akamai.steamstatic.com/store_trailers/257052966/movie480.mp4?t=1726829124
+    max: https://video.akamai.steamstatic.com/store_trailers/257052966/movie_max.mp4?t=1726829124
   highlight: true
 genres:
 - Strategy
@@ -131,4 +131,3 @@ support_info:
 tags:
 - strategy
 ---
-

@@ -44,21 +44,21 @@ movies:
   name: Battle Rockets™ – Coming Soon to Steam®!
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956242/movie.293x165.jpg?t=1689087057
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256956242/movie480_vp9.webm?t=1689087057
-    max: http://video.akamai.steamstatic.com/store_trailers/256956242/movie_max_vp9.webm?t=1689087057
+    '480': https://video.akamai.steamstatic.com/store_trailers/256956242/movie480_vp9.webm?t=1689087057
+    max: https://video.akamai.steamstatic.com/store_trailers/256956242/movie_max_vp9.webm?t=1689087057
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256956242/movie480.mp4?t=1689087057
-    max: http://video.akamai.steamstatic.com/store_trailers/256956242/movie_max.mp4?t=1689087057
+    '480': https://video.akamai.steamstatic.com/store_trailers/256956242/movie480.mp4?t=1689087057
+    max: https://video.akamai.steamstatic.com/store_trailers/256956242/movie_max.mp4?t=1689087057
   highlight: true
 - id: 256980656
   name: Battle Rockets™ - Gameplay Footage
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980656/movie.293x165.jpg?t=1699402982
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256980656/movie480_vp9.webm?t=1699402982
-    max: http://video.akamai.steamstatic.com/store_trailers/256980656/movie_max_vp9.webm?t=1699402982
+    '480': https://video.akamai.steamstatic.com/store_trailers/256980656/movie480_vp9.webm?t=1699402982
+    max: https://video.akamai.steamstatic.com/store_trailers/256980656/movie_max_vp9.webm?t=1699402982
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256980656/movie480.mp4?t=1699402982
-    max: http://video.akamai.steamstatic.com/store_trailers/256980656/movie_max.mp4?t=1699402982
+    '480': https://video.akamai.steamstatic.com/store_trailers/256980656/movie480.mp4?t=1699402982
+    max: https://video.akamai.steamstatic.com/store_trailers/256980656/movie_max.mp4?t=1699402982
   highlight: true
 genres:
 - Action
@@ -126,4 +126,3 @@ support_info:
 tags:
 - action
 ---
-

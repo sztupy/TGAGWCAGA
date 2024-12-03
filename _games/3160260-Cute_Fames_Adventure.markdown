@@ -28,21 +28,21 @@ movies:
   name: Cute Fames Adventure (Final Trailer)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045400/movie.293x165.jpg?t=1724450168
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045400/movie480_vp9.webm?t=1724450168
-    max: http://video.akamai.steamstatic.com/store_trailers/257045400/movie_max_vp9.webm?t=1724450168
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045400/movie480_vp9.webm?t=1724450168
+    max: https://video.akamai.steamstatic.com/store_trailers/257045400/movie_max_vp9.webm?t=1724450168
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045400/movie480.mp4?t=1724450168
-    max: http://video.akamai.steamstatic.com/store_trailers/257045400/movie_max.mp4?t=1724450168
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045400/movie480.mp4?t=1724450168
+    max: https://video.akamai.steamstatic.com/store_trailers/257045400/movie_max.mp4?t=1724450168
   highlight: true
 - id: 257045042
   name: Cute Fames Adventure (Launch Trailer)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045042/movie.293x165.jpg?t=1723832378
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045042/movie480_vp9.webm?t=1723832378
-    max: http://video.akamai.steamstatic.com/store_trailers/257045042/movie_max_vp9.webm?t=1723832378
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045042/movie480_vp9.webm?t=1723832378
+    max: https://video.akamai.steamstatic.com/store_trailers/257045042/movie_max_vp9.webm?t=1723832378
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045042/movie480.mp4?t=1723832378
-    max: http://video.akamai.steamstatic.com/store_trailers/257045042/movie_max.mp4?t=1723832378
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045042/movie480.mp4?t=1723832378
+    max: https://video.akamai.steamstatic.com/store_trailers/257045042/movie_max.mp4?t=1723832378
   highlight: true
 genres:
 - Action
@@ -131,4 +131,3 @@ tags:
 - rpg
 - strategy
 ---
-

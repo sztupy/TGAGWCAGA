@@ -35,21 +35,21 @@ movies:
   name: Jumping Jazz Cats - Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077424/c97e72142c98006bc606f9a19a29cabaf65f6cf8/movie_600x337.jpg?t=1732806444
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257077424/movie480_vp9.webm?t=1732806444
-    max: http://video.akamai.steamstatic.com/store_trailers/257077424/movie_max_vp9.webm?t=1732806444
+    '480': https://video.akamai.steamstatic.com/store_trailers/257077424/movie480_vp9.webm?t=1732806444
+    max: https://video.akamai.steamstatic.com/store_trailers/257077424/movie_max_vp9.webm?t=1732806444
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257077424/movie480.mp4?t=1732806444
-    max: http://video.akamai.steamstatic.com/store_trailers/257077424/movie_max.mp4?t=1732806444
+    '480': https://video.akamai.steamstatic.com/store_trailers/257077424/movie480.mp4?t=1732806444
+    max: https://video.akamai.steamstatic.com/store_trailers/257077424/movie_max.mp4?t=1732806444
   highlight: true
 - id: 257068069
   name: Jumping Jazz Cats - Coming Soon Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068069/94c3f678e2cf462a64afa7579df5609d4be8f2ac/movie_600x337.jpg?t=1730127626
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068069/movie480_vp9.webm?t=1730127626
-    max: http://video.akamai.steamstatic.com/store_trailers/257068069/movie_max_vp9.webm?t=1730127626
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068069/movie480_vp9.webm?t=1730127626
+    max: https://video.akamai.steamstatic.com/store_trailers/257068069/movie_max_vp9.webm?t=1730127626
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068069/movie480.mp4?t=1730127626
-    max: http://video.akamai.steamstatic.com/store_trailers/257068069/movie_max.mp4?t=1730127626
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068069/movie480.mp4?t=1730127626
+    max: https://video.akamai.steamstatic.com/store_trailers/257068069/movie_max.mp4?t=1730127626
   highlight: true
 genres:
 - Casual
@@ -155,4 +155,3 @@ support_info:
 tags:
 - casual
 ---
-

@@ -31,21 +31,21 @@ movies:
   name: Ñ3 Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257040784/movie.293x165.jpg?t=1722261224
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257040784/movie480_vp9.webm?t=1722261224
-    max: http://video.akamai.steamstatic.com/store_trailers/257040784/movie_max_vp9.webm?t=1722261224
+    '480': https://video.akamai.steamstatic.com/store_trailers/257040784/movie480_vp9.webm?t=1722261224
+    max: https://video.akamai.steamstatic.com/store_trailers/257040784/movie_max_vp9.webm?t=1722261224
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257040784/movie480.mp4?t=1722261224
-    max: http://video.akamai.steamstatic.com/store_trailers/257040784/movie_max.mp4?t=1722261224
+    '480': https://video.akamai.steamstatic.com/store_trailers/257040784/movie480.mp4?t=1722261224
+    max: https://video.akamai.steamstatic.com/store_trailers/257040784/movie_max.mp4?t=1722261224
   highlight: true
 - id: 256996733
   name: Early Access Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256996733/movie.293x165.jpg?t=1722261228
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256996733/movie480_vp9.webm?t=1722261228
-    max: http://video.akamai.steamstatic.com/store_trailers/256996733/movie_max_vp9.webm?t=1722261228
+    '480': https://video.akamai.steamstatic.com/store_trailers/256996733/movie480_vp9.webm?t=1722261228
+    max: https://video.akamai.steamstatic.com/store_trailers/256996733/movie_max_vp9.webm?t=1722261228
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256996733/movie480.mp4?t=1722261228
-    max: http://video.akamai.steamstatic.com/store_trailers/256996733/movie_max.mp4?t=1722261228
+    '480': https://video.akamai.steamstatic.com/store_trailers/256996733/movie480.mp4?t=1722261228
+    max: https://video.akamai.steamstatic.com/store_trailers/256996733/movie_max.mp4?t=1722261228
   highlight: true
 genres:
 - Action
@@ -107,4 +107,3 @@ tags:
 - action
 - casual
 ---
-

@@ -41,11 +41,11 @@ movies:
   name: Release Date Trailer (EN)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039163/movie.293x165.jpg?t=1721436331
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039163/movie480_vp9.webm?t=1721436331
-    max: http://video.akamai.steamstatic.com/store_trailers/257039163/movie_max_vp9.webm?t=1721436331
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039163/movie480_vp9.webm?t=1721436331
+    max: https://video.akamai.steamstatic.com/store_trailers/257039163/movie_max_vp9.webm?t=1721436331
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039163/movie480.mp4?t=1721436331
-    max: http://video.akamai.steamstatic.com/store_trailers/257039163/movie_max.mp4?t=1721436331
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039163/movie480.mp4?t=1721436331
+    max: https://video.akamai.steamstatic.com/store_trailers/257039163/movie_max.mp4?t=1721436331
   highlight: true
 genres:
 - Action
@@ -158,4 +158,3 @@ tags:
 - casual
 - rpg
 ---
-

@@ -91,71 +91,71 @@ movies:
   name: Steam Next Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065424/1420c57270462957a56eea654e1b0bf607af12a1/movie_600x337.jpg?t=1729001733
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065424/movie480_vp9.webm?t=1729001733
-    max: http://video.akamai.steamstatic.com/store_trailers/257065424/movie_max_vp9.webm?t=1729001733
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065424/movie480_vp9.webm?t=1729001733
+    max: https://video.akamai.steamstatic.com/store_trailers/257065424/movie_max_vp9.webm?t=1729001733
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065424/movie480.mp4?t=1729001733
-    max: http://video.akamai.steamstatic.com/store_trailers/257065424/movie_max.mp4?t=1729001733
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065424/movie480.mp4?t=1729001733
+    max: https://video.akamai.steamstatic.com/store_trailers/257065424/movie_max.mp4?t=1729001733
   highlight: true
 - id: 257049945
   name: Release date announcement trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049945/movie.293x165.jpg?t=1724834770
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049945/movie480_vp9.webm?t=1724834770
-    max: http://video.akamai.steamstatic.com/store_trailers/257049945/movie_max_vp9.webm?t=1724834770
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049945/movie480_vp9.webm?t=1724834770
+    max: https://video.akamai.steamstatic.com/store_trailers/257049945/movie_max_vp9.webm?t=1724834770
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049945/movie480.mp4?t=1724834770
-    max: http://video.akamai.steamstatic.com/store_trailers/257049945/movie_max.mp4?t=1724834770
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049945/movie480.mp4?t=1724834770
+    max: https://video.akamai.steamstatic.com/store_trailers/257049945/movie_max.mp4?t=1724834770
   highlight: true
 - id: 257067001
   name: Early Access Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067001/371cfe902225b0778cb38f1e2472c6a171ef1e03/movie_600x337.jpg?t=1729515643
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067001/movie480_vp9.webm?t=1729515643
-    max: http://video.akamai.steamstatic.com/store_trailers/257067001/movie_max_vp9.webm?t=1729515643
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067001/movie480_vp9.webm?t=1729515643
+    max: https://video.akamai.steamstatic.com/store_trailers/257067001/movie_max_vp9.webm?t=1729515643
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067001/movie480.mp4?t=1729515643
-    max: http://video.akamai.steamstatic.com/store_trailers/257067001/movie_max.mp4?t=1729515643
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067001/movie480.mp4?t=1729515643
+    max: https://video.akamai.steamstatic.com/store_trailers/257067001/movie_max.mp4?t=1729515643
   highlight: true
 - id: 257035928
   name: 'Sacred Knowledge: Embrace your Power'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257035928/movie.293x165.jpg?t=1720685421
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257035928/movie480_vp9.webm?t=1720685421
-    max: http://video.akamai.steamstatic.com/store_trailers/257035928/movie_max_vp9.webm?t=1720685421
+    '480': https://video.akamai.steamstatic.com/store_trailers/257035928/movie480_vp9.webm?t=1720685421
+    max: https://video.akamai.steamstatic.com/store_trailers/257035928/movie_max_vp9.webm?t=1720685421
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257035928/movie480.mp4?t=1720685421
-    max: http://video.akamai.steamstatic.com/store_trailers/257035928/movie_max.mp4?t=1720685421
+    '480': https://video.akamai.steamstatic.com/store_trailers/257035928/movie480.mp4?t=1720685421
+    max: https://video.akamai.steamstatic.com/store_trailers/257035928/movie_max.mp4?t=1720685421
   highlight: true
 - id: 257018311
   name: 'Sacred Knowledge: Wrath on non-believers'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018311/movie.293x165.jpg?t=1713972354
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018311/movie480_vp9.webm?t=1713972354
-    max: http://video.akamai.steamstatic.com/store_trailers/257018311/movie_max_vp9.webm?t=1713972354
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018311/movie480_vp9.webm?t=1713972354
+    max: https://video.akamai.steamstatic.com/store_trailers/257018311/movie_max_vp9.webm?t=1713972354
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018311/movie480.mp4?t=1713972354
-    max: http://video.akamai.steamstatic.com/store_trailers/257018311/movie_max.mp4?t=1713972354
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018311/movie480.mp4?t=1713972354
+    max: https://video.akamai.steamstatic.com/store_trailers/257018311/movie_max.mp4?t=1713972354
   highlight: true
 - id: 257028860
   name: 'Sacred Knowledge: Unveil the Sinister Ritual Arts'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028860/movie.293x165.jpg?t=1717754005
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028860/movie480_vp9.webm?t=1717754005
-    max: http://video.akamai.steamstatic.com/store_trailers/257028860/movie_max_vp9.webm?t=1717754005
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028860/movie480_vp9.webm?t=1717754005
+    max: https://video.akamai.steamstatic.com/store_trailers/257028860/movie_max_vp9.webm?t=1717754005
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028860/movie480.mp4?t=1717754005
-    max: http://video.akamai.steamstatic.com/store_trailers/257028860/movie_max.mp4?t=1717754005
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028860/movie480.mp4?t=1717754005
+    max: https://video.akamai.steamstatic.com/store_trailers/257028860/movie_max.mp4?t=1717754005
   highlight: true
 - id: 257028856
   name: 'Sacred Knowledge: Choose your destiny'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028856/movie.293x165.jpg?t=1717684938
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028856/movie480_vp9.webm?t=1717684938
-    max: http://video.akamai.steamstatic.com/store_trailers/257028856/movie_max_vp9.webm?t=1717684938
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028856/movie480_vp9.webm?t=1717684938
+    max: https://video.akamai.steamstatic.com/store_trailers/257028856/movie_max_vp9.webm?t=1717684938
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028856/movie480.mp4?t=1717684938
-    max: http://video.akamai.steamstatic.com/store_trailers/257028856/movie_max.mp4?t=1717684938
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028856/movie480.mp4?t=1717684938
+    max: https://video.akamai.steamstatic.com/store_trailers/257028856/movie_max.mp4?t=1717684938
   highlight: true
 genres:
 - Simulation
@@ -281,4 +281,3 @@ tags:
 - simulation
 - strategy
 ---
-

@@ -42,31 +42,31 @@ movies:
   name: A.W.O.L. at Realms Deep 2022
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906274/movie.293x165.jpg?t=1663359359
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256906274/movie480_vp9.webm?t=1663359359
-    max: http://video.akamai.steamstatic.com/store_trailers/256906274/movie_max_vp9.webm?t=1663359359
+    '480': https://video.akamai.steamstatic.com/store_trailers/256906274/movie480_vp9.webm?t=1663359359
+    max: https://video.akamai.steamstatic.com/store_trailers/256906274/movie_max_vp9.webm?t=1663359359
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256906274/movie480.mp4?t=1663359359
-    max: http://video.akamai.steamstatic.com/store_trailers/256906274/movie_max.mp4?t=1663359359
+    '480': https://video.akamai.steamstatic.com/store_trailers/256906274/movie480.mp4?t=1663359359
+    max: https://video.akamai.steamstatic.com/store_trailers/256906274/movie_max.mp4?t=1663359359
   highlight: true
 - id: 256906251
   name: A.W.O.L. Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906251/movie.293x165.jpg?t=1663320591
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256906251/movie480_vp9.webm?t=1663320591
-    max: http://video.akamai.steamstatic.com/store_trailers/256906251/movie_max_vp9.webm?t=1663320591
+    '480': https://video.akamai.steamstatic.com/store_trailers/256906251/movie480_vp9.webm?t=1663320591
+    max: https://video.akamai.steamstatic.com/store_trailers/256906251/movie_max_vp9.webm?t=1663320591
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256906251/movie480.mp4?t=1663320591
-    max: http://video.akamai.steamstatic.com/store_trailers/256906251/movie_max.mp4?t=1663320591
+    '480': https://video.akamai.steamstatic.com/store_trailers/256906251/movie480.mp4?t=1663320591
+    max: https://video.akamai.steamstatic.com/store_trailers/256906251/movie_max.mp4?t=1663320591
   highlight: true
 - id: 256848987
   name: A.W.O.L. at Realms Deep 2021
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256848987/movie.293x165.jpg?t=1630611286
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256848987/movie480_vp9.webm?t=1630611286
-    max: http://video.akamai.steamstatic.com/store_trailers/256848987/movie_max_vp9.webm?t=1630611286
+    '480': https://video.akamai.steamstatic.com/store_trailers/256848987/movie480_vp9.webm?t=1630611286
+    max: https://video.akamai.steamstatic.com/store_trailers/256848987/movie_max_vp9.webm?t=1630611286
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256848987/movie480.mp4?t=1630611286
-    max: http://video.akamai.steamstatic.com/store_trailers/256848987/movie_max.mp4?t=1630611286
+    '480': https://video.akamai.steamstatic.com/store_trailers/256848987/movie480.mp4?t=1630611286
+    max: https://video.akamai.steamstatic.com/store_trailers/256848987/movie_max.mp4?t=1630611286
   highlight: true
 genres:
 - Action
@@ -129,4 +129,3 @@ support_info:
 tags:
 - action
 ---
-

@@ -40,31 +40,31 @@ movies:
   name: Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069039/437a5f9220c361f490f521f7092a70c4eee271f1/movie_600x337.jpg?t=1730130308
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069039/movie480_vp9.webm?t=1730130308
-    max: http://video.akamai.steamstatic.com/store_trailers/257069039/movie_max_vp9.webm?t=1730130308
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069039/movie480_vp9.webm?t=1730130308
+    max: https://video.akamai.steamstatic.com/store_trailers/257069039/movie_max_vp9.webm?t=1730130308
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069039/movie480.mp4?t=1730130308
-    max: http://video.akamai.steamstatic.com/store_trailers/257069039/movie_max.mp4?t=1730130308
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069039/movie480.mp4?t=1730130308
+    max: https://video.akamai.steamstatic.com/store_trailers/257069039/movie_max.mp4?t=1730130308
   highlight: true
 - id: 257035274
   name: Story Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257035274/movie.293x165.jpg?t=1724850646
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257035274/movie480_vp9.webm?t=1724850646
-    max: http://video.akamai.steamstatic.com/store_trailers/257035274/movie_max_vp9.webm?t=1724850646
+    '480': https://video.akamai.steamstatic.com/store_trailers/257035274/movie480_vp9.webm?t=1724850646
+    max: https://video.akamai.steamstatic.com/store_trailers/257035274/movie_max_vp9.webm?t=1724850646
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257035274/movie480.mp4?t=1724850646
-    max: http://video.akamai.steamstatic.com/store_trailers/257035274/movie_max.mp4?t=1724850646
+    '480': https://video.akamai.steamstatic.com/store_trailers/257035274/movie480.mp4?t=1724850646
+    max: https://video.akamai.steamstatic.com/store_trailers/257035274/movie_max.mp4?t=1724850646
   highlight: true
 - id: 257050252
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050252/movie.293x165.jpg?t=1725871093
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257050252/movie480_vp9.webm?t=1725871093
-    max: http://video.akamai.steamstatic.com/store_trailers/257050252/movie_max_vp9.webm?t=1725871093
+    '480': https://video.akamai.steamstatic.com/store_trailers/257050252/movie480_vp9.webm?t=1725871093
+    max: https://video.akamai.steamstatic.com/store_trailers/257050252/movie_max_vp9.webm?t=1725871093
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257050252/movie480.mp4?t=1725871093
-    max: http://video.akamai.steamstatic.com/store_trailers/257050252/movie_max.mp4?t=1725871093
+    '480': https://video.akamai.steamstatic.com/store_trailers/257050252/movie480.mp4?t=1725871093
+    max: https://video.akamai.steamstatic.com/store_trailers/257050252/movie_max.mp4?t=1725871093
   highlight: true
 genres:
 - Adventure
@@ -158,4 +158,3 @@ tags:
 - casual
 - simulation
 ---
-

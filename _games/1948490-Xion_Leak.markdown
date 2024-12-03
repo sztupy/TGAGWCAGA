@@ -55,11 +55,11 @@ movies:
   name: Xion Leak - NEW trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257023673/movie.293x165.jpg?t=1715950741
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023673/movie480_vp9.webm?t=1715950741
-    max: http://video.akamai.steamstatic.com/store_trailers/257023673/movie_max_vp9.webm?t=1715950741
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023673/movie480_vp9.webm?t=1715950741
+    max: https://video.akamai.steamstatic.com/store_trailers/257023673/movie_max_vp9.webm?t=1715950741
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023673/movie480.mp4?t=1715950741
-    max: http://video.akamai.steamstatic.com/store_trailers/257023673/movie_max.mp4?t=1715950741
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023673/movie480.mp4?t=1715950741
+    max: https://video.akamai.steamstatic.com/store_trailers/257023673/movie_max.mp4?t=1715950741
   highlight: true
 genres:
 - Action
@@ -132,4 +132,3 @@ tags:
 - action
 - adventure
 ---
-

@@ -55,11 +55,11 @@ movies:
   name: Demo gameplay trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073077/fde8d7c58558f79ad7075f2499c3d8fb35d19755/movie_600x337.jpg?t=1731512466
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073077/movie480_vp9.webm?t=1731512466
-    max: http://video.akamai.steamstatic.com/store_trailers/257073077/movie_max_vp9.webm?t=1731512466
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073077/movie480_vp9.webm?t=1731512466
+    max: https://video.akamai.steamstatic.com/store_trailers/257073077/movie_max_vp9.webm?t=1731512466
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073077/movie480.mp4?t=1731512466
-    max: http://video.akamai.steamstatic.com/store_trailers/257073077/movie_max.mp4?t=1731512466
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073077/movie480.mp4?t=1731512466
+    max: https://video.akamai.steamstatic.com/store_trailers/257073077/movie_max.mp4?t=1731512466
   highlight: true
 genres:
 - Simulation
@@ -160,4 +160,3 @@ tags:
 - simulation
 - strategy
 ---
-

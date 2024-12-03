@@ -32,11 +32,11 @@ movies:
   name: Weldiver - First Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068705/2fc9e78b7c9f4cb2cf13982785ec8a53bf6e694a/movie_600x337.jpg?t=1730814894
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068705/movie480_vp9.webm?t=1730814894
-    max: http://video.akamai.steamstatic.com/store_trailers/257068705/movie_max_vp9.webm?t=1730814894
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068705/movie480_vp9.webm?t=1730814894
+    max: https://video.akamai.steamstatic.com/store_trailers/257068705/movie_max_vp9.webm?t=1730814894
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068705/movie480.mp4?t=1730814894
-    max: http://video.akamai.steamstatic.com/store_trailers/257068705/movie_max.mp4?t=1730814894
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068705/movie480.mp4?t=1730814894
+    max: https://video.akamai.steamstatic.com/store_trailers/257068705/movie_max.mp4?t=1730814894
   highlight: true
 genres:
 - Action
@@ -154,4 +154,3 @@ tags:
 - adventure
 - simulation
 ---
-

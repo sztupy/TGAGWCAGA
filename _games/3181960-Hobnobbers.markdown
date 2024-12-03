@@ -30,11 +30,11 @@ movies:
   name: Hobnobbers Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075560/369095ff555b93e856d0c99486730550df73b176/movie_600x337.jpg?t=1732208245
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075560/movie480_vp9.webm?t=1732208245
-    max: http://video.akamai.steamstatic.com/store_trailers/257075560/movie_max_vp9.webm?t=1732208245
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075560/movie480_vp9.webm?t=1732208245
+    max: https://video.akamai.steamstatic.com/store_trailers/257075560/movie_max_vp9.webm?t=1732208245
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075560/movie480.mp4?t=1732208245
-    max: http://video.akamai.steamstatic.com/store_trailers/257075560/movie_max.mp4?t=1732208245
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075560/movie480.mp4?t=1732208245
+    max: https://video.akamai.steamstatic.com/store_trailers/257075560/movie_max.mp4?t=1732208245
   highlight: true
 genres:
 - Action
@@ -136,4 +136,3 @@ tags:
 - action
 - casual
 ---
-

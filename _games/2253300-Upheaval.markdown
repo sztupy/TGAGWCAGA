@@ -56,21 +56,21 @@ movies:
   name: Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256962115/movie.293x165.jpg?t=1697644106
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256962115/movie480_vp9.webm?t=1697644106
-    max: http://video.akamai.steamstatic.com/store_trailers/256962115/movie_max_vp9.webm?t=1697644106
+    '480': https://video.akamai.steamstatic.com/store_trailers/256962115/movie480_vp9.webm?t=1697644106
+    max: https://video.akamai.steamstatic.com/store_trailers/256962115/movie_max_vp9.webm?t=1697644106
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256962115/movie480.mp4?t=1697644106
-    max: http://video.akamai.steamstatic.com/store_trailers/256962115/movie_max.mp4?t=1697644106
+    '480': https://video.akamai.steamstatic.com/store_trailers/256962115/movie480.mp4?t=1697644106
+    max: https://video.akamai.steamstatic.com/store_trailers/256962115/movie_max.mp4?t=1697644106
   highlight: true
 - id: 256931126
   name: Extended Gameplay Example
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256931126/movie.293x165.jpg?t=1701894357
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256931126/movie480_vp9.webm?t=1701894357
-    max: http://video.akamai.steamstatic.com/store_trailers/256931126/movie_max_vp9.webm?t=1701894357
+    '480': https://video.akamai.steamstatic.com/store_trailers/256931126/movie480_vp9.webm?t=1701894357
+    max: https://video.akamai.steamstatic.com/store_trailers/256931126/movie_max_vp9.webm?t=1701894357
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256931126/movie480.mp4?t=1701894357
-    max: http://video.akamai.steamstatic.com/store_trailers/256931126/movie_max.mp4?t=1701894357
+    '480': https://video.akamai.steamstatic.com/store_trailers/256931126/movie480.mp4?t=1701894357
+    max: https://video.akamai.steamstatic.com/store_trailers/256931126/movie_max.mp4?t=1701894357
   highlight: true
 genres:
 - Adventure
@@ -220,4 +220,3 @@ tags:
 - adventure
 - rpg
 ---
-

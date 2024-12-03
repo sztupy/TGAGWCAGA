@@ -31,11 +31,11 @@ movies:
   name: Gameplay trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257058143/0ca96071b40b337bab0dc67cb144bc0e71c5ea9b/movie_600x337.jpg?t=1729459844
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257058143/movie480_vp9.webm?t=1729459844
-    max: http://video.akamai.steamstatic.com/store_trailers/257058143/movie_max_vp9.webm?t=1729459844
+    '480': https://video.akamai.steamstatic.com/store_trailers/257058143/movie480_vp9.webm?t=1729459844
+    max: https://video.akamai.steamstatic.com/store_trailers/257058143/movie_max_vp9.webm?t=1729459844
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257058143/movie480.mp4?t=1729459844
-    max: http://video.akamai.steamstatic.com/store_trailers/257058143/movie_max.mp4?t=1729459844
+    '480': https://video.akamai.steamstatic.com/store_trailers/257058143/movie480.mp4?t=1729459844
+    max: https://video.akamai.steamstatic.com/store_trailers/257058143/movie_max.mp4?t=1729459844
   highlight: true
 genres:
 - Adventure
@@ -148,4 +148,3 @@ tags:
 - adventure
 - casual
 ---
-

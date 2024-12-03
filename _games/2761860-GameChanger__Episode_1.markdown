@@ -74,21 +74,21 @@ movies:
   name: GameChanger - Episode 1 (August 2024 Trailer)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044126/movie.293x165.jpg?t=1723021477
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044126/movie480_vp9.webm?t=1723021477
-    max: http://video.akamai.steamstatic.com/store_trailers/257044126/movie_max_vp9.webm?t=1723021477
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044126/movie480_vp9.webm?t=1723021477
+    max: https://video.akamai.steamstatic.com/store_trailers/257044126/movie_max_vp9.webm?t=1723021477
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044126/movie480.mp4?t=1723021477
-    max: http://video.akamai.steamstatic.com/store_trailers/257044126/movie_max.mp4?t=1723021477
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044126/movie480.mp4?t=1723021477
+    max: https://video.akamai.steamstatic.com/store_trailers/257044126/movie_max.mp4?t=1723021477
   highlight: true
 - id: 256991899
   name: GameChanger - Episode 1 (First Teaser)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256991899/movie.293x165.jpg?t=1709208196
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256991899/movie480_vp9.webm?t=1709208196
-    max: http://video.akamai.steamstatic.com/store_trailers/256991899/movie_max_vp9.webm?t=1709208196
+    '480': https://video.akamai.steamstatic.com/store_trailers/256991899/movie480_vp9.webm?t=1709208196
+    max: https://video.akamai.steamstatic.com/store_trailers/256991899/movie_max_vp9.webm?t=1709208196
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256991899/movie480.mp4?t=1709208196
-    max: http://video.akamai.steamstatic.com/store_trailers/256991899/movie_max.mp4?t=1709208196
+    '480': https://video.akamai.steamstatic.com/store_trailers/256991899/movie480.mp4?t=1709208196
+    max: https://video.akamai.steamstatic.com/store_trailers/256991899/movie_max.mp4?t=1709208196
   highlight: false
 genres:
 - Action
@@ -213,4 +213,3 @@ tags:
 - action
 - adventure
 ---
-

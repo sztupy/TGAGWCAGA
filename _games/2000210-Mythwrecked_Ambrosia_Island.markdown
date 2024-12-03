@@ -39,11 +39,11 @@ movies:
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910466/fcbf5e68a343f3319d78028eb4bebdb524d6e5ec/movie_600x337.jpg?t=1731666846
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256910466/movie480_vp9.webm?t=1731666846
-    max: http://video.akamai.steamstatic.com/store_trailers/256910466/movie_max_vp9.webm?t=1731666846
+    '480': https://video.akamai.steamstatic.com/store_trailers/256910466/movie480_vp9.webm?t=1731666846
+    max: https://video.akamai.steamstatic.com/store_trailers/256910466/movie_max_vp9.webm?t=1731666846
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256910466/movie480.mp4?t=1731666846
-    max: http://video.akamai.steamstatic.com/store_trailers/256910466/movie_max.mp4?t=1731666846
+    '480': https://video.akamai.steamstatic.com/store_trailers/256910466/movie480.mp4?t=1731666846
+    max: https://video.akamai.steamstatic.com/store_trailers/256910466/movie_max.mp4?t=1731666846
   highlight: true
 genres:
 - Adventure
@@ -187,4 +187,3 @@ tags:
 - adventure
 - casual
 ---
-

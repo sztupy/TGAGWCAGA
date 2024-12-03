@@ -29,11 +29,11 @@ movies:
   name: RoboGAL - Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059313/1da78301acfd33892341c4caa91eb48e1f3ff68a/movie_600x337.jpg?t=1729965076
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059313/movie480_vp9.webm?t=1729965076
-    max: http://video.akamai.steamstatic.com/store_trailers/257059313/movie_max_vp9.webm?t=1729965076
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059313/movie480_vp9.webm?t=1729965076
+    max: https://video.akamai.steamstatic.com/store_trailers/257059313/movie_max_vp9.webm?t=1729965076
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059313/movie480.mp4?t=1729965076
-    max: http://video.akamai.steamstatic.com/store_trailers/257059313/movie_max.mp4?t=1729965076
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059313/movie480.mp4?t=1729965076
+    max: https://video.akamai.steamstatic.com/store_trailers/257059313/movie_max.mp4?t=1729965076
   highlight: true
 genres:
 - Action
@@ -100,4 +100,3 @@ support_info:
 tags:
 - action
 ---
-

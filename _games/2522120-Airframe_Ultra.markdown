@@ -43,11 +43,11 @@ movies:
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958918/406478ccb44b6408b530fd1a3936797b3b703620/movie_600x337.jpg?t=1731694334
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958918/movie480_vp9.webm?t=1731694334
-    max: http://video.akamai.steamstatic.com/store_trailers/256958918/movie_max_vp9.webm?t=1731694334
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958918/movie480_vp9.webm?t=1731694334
+    max: https://video.akamai.steamstatic.com/store_trailers/256958918/movie_max_vp9.webm?t=1731694334
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958918/movie480.mp4?t=1731694334
-    max: http://video.akamai.steamstatic.com/store_trailers/256958918/movie_max.mp4?t=1731694334
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958918/movie480.mp4?t=1731694334
+    max: https://video.akamai.steamstatic.com/store_trailers/256958918/movie_max.mp4?t=1731694334
   highlight: true
 genres:
 - Action
@@ -133,4 +133,3 @@ support_info:
 tags:
 - action
 ---
-

@@ -42,41 +42,41 @@ movies:
   name: Release Trailer U.S
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256971611/movie.293x165.jpg?t=1695661306
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256971611/movie480_vp9.webm?t=1695661306
-    max: http://video.akamai.steamstatic.com/store_trailers/256971611/movie_max_vp9.webm?t=1695661306
+    '480': https://video.akamai.steamstatic.com/store_trailers/256971611/movie480_vp9.webm?t=1695661306
+    max: https://video.akamai.steamstatic.com/store_trailers/256971611/movie_max_vp9.webm?t=1695661306
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256971611/movie480.mp4?t=1695661306
-    max: http://video.akamai.steamstatic.com/store_trailers/256971611/movie_max.mp4?t=1695661306
+    '480': https://video.akamai.steamstatic.com/store_trailers/256971611/movie480.mp4?t=1695661306
+    max: https://video.akamai.steamstatic.com/store_trailers/256971611/movie_max.mp4?t=1695661306
   highlight: true
 - id: 256966663
   name: Story trailer 8-29-23
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256966663/movie.293x165.jpg?t=1693407463
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256966663/movie480_vp9.webm?t=1693407463
-    max: http://video.akamai.steamstatic.com/store_trailers/256966663/movie_max_vp9.webm?t=1693407463
+    '480': https://video.akamai.steamstatic.com/store_trailers/256966663/movie480_vp9.webm?t=1693407463
+    max: https://video.akamai.steamstatic.com/store_trailers/256966663/movie_max_vp9.webm?t=1693407463
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256966663/movie480.mp4?t=1693407463
-    max: http://video.akamai.steamstatic.com/store_trailers/256966663/movie_max.mp4?t=1693407463
+    '480': https://video.akamai.steamstatic.com/store_trailers/256966663/movie480.mp4?t=1693407463
+    max: https://video.akamai.steamstatic.com/store_trailers/256966663/movie_max.mp4?t=1693407463
   highlight: false
 - id: 256963214
   name: North America (Rating Pending) Trailer 8/11/23
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256963214/movie.293x165.jpg?t=1692054498
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256963214/movie480_vp9.webm?t=1692054498
-    max: http://video.akamai.steamstatic.com/store_trailers/256963214/movie_max_vp9.webm?t=1692054498
+    '480': https://video.akamai.steamstatic.com/store_trailers/256963214/movie480_vp9.webm?t=1692054498
+    max: https://video.akamai.steamstatic.com/store_trailers/256963214/movie_max_vp9.webm?t=1692054498
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256963214/movie480.mp4?t=1692054498
-    max: http://video.akamai.steamstatic.com/store_trailers/256963214/movie_max.mp4?t=1692054498
+    '480': https://video.akamai.steamstatic.com/store_trailers/256963214/movie480.mp4?t=1692054498
+    max: https://video.akamai.steamstatic.com/store_trailers/256963214/movie_max.mp4?t=1692054498
   highlight: false
 - id: 256963210
   name: Europe (PEGI) Trailer 8/11/23
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256963210/movie.293x165.jpg?t=1692054534
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256963210/movie480_vp9.webm?t=1692054534
-    max: http://video.akamai.steamstatic.com/store_trailers/256963210/movie_max_vp9.webm?t=1692054534
+    '480': https://video.akamai.steamstatic.com/store_trailers/256963210/movie480_vp9.webm?t=1692054534
+    max: https://video.akamai.steamstatic.com/store_trailers/256963210/movie_max_vp9.webm?t=1692054534
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256963210/movie480.mp4?t=1692054534
-    max: http://video.akamai.steamstatic.com/store_trailers/256963210/movie_max.mp4?t=1692054534
+    '480': https://video.akamai.steamstatic.com/store_trailers/256963210/movie480.mp4?t=1692054534
+    max: https://video.akamai.steamstatic.com/store_trailers/256963210/movie_max.mp4?t=1692054534
   highlight: false
 genres:
 - Action
@@ -214,4 +214,3 @@ tags:
 - adventure
 - rpg
 ---
-

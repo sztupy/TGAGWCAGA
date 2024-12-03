@@ -46,21 +46,21 @@ movies:
   name: Spiritfall Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257004329/movie.293x165.jpg?t=1709143267
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257004329/movie480_vp9.webm?t=1709143267
-    max: http://video.akamai.steamstatic.com/store_trailers/257004329/movie_max_vp9.webm?t=1709143267
+    '480': https://video.akamai.steamstatic.com/store_trailers/257004329/movie480_vp9.webm?t=1709143267
+    max: https://video.akamai.steamstatic.com/store_trailers/257004329/movie_max_vp9.webm?t=1709143267
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257004329/movie480.mp4?t=1709143267
-    max: http://video.akamai.steamstatic.com/store_trailers/257004329/movie_max.mp4?t=1709143267
+    '480': https://video.akamai.steamstatic.com/store_trailers/257004329/movie480.mp4?t=1709143267
+    max: https://video.akamai.steamstatic.com/store_trailers/257004329/movie_max.mp4?t=1709143267
   highlight: true
 - id: 256954107
   name: Early Access Release Trailer - Available Now
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256954107/movie.293x165.jpg?t=1687268141
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256954107/movie480_vp9.webm?t=1687268141
-    max: http://video.akamai.steamstatic.com/store_trailers/256954107/movie_max_vp9.webm?t=1687268141
+    '480': https://video.akamai.steamstatic.com/store_trailers/256954107/movie480_vp9.webm?t=1687268141
+    max: https://video.akamai.steamstatic.com/store_trailers/256954107/movie_max_vp9.webm?t=1687268141
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256954107/movie480.mp4?t=1687268141
-    max: http://video.akamai.steamstatic.com/store_trailers/256954107/movie_max.mp4?t=1687268141
+    '480': https://video.akamai.steamstatic.com/store_trailers/256954107/movie480.mp4?t=1687268141
+    max: https://video.akamai.steamstatic.com/store_trailers/256954107/movie_max.mp4?t=1687268141
   highlight: true
 genres:
 - Action
@@ -141,4 +141,3 @@ support_info:
 tags:
 - action
 ---
-

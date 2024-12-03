@@ -33,11 +33,11 @@ movies:
   name: Antipaint
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256930032/movie.293x165.jpg?t=1683091939
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256930032/movie480_vp9.webm?t=1683091939
-    max: http://video.akamai.steamstatic.com/store_trailers/256930032/movie_max_vp9.webm?t=1683091939
+    '480': https://video.akamai.steamstatic.com/store_trailers/256930032/movie480_vp9.webm?t=1683091939
+    max: https://video.akamai.steamstatic.com/store_trailers/256930032/movie_max_vp9.webm?t=1683091939
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256930032/movie480.mp4?t=1683091939
-    max: http://video.akamai.steamstatic.com/store_trailers/256930032/movie_max.mp4?t=1683091939
+    '480': https://video.akamai.steamstatic.com/store_trailers/256930032/movie480.mp4?t=1683091939
+    max: https://video.akamai.steamstatic.com/store_trailers/256930032/movie_max.mp4?t=1683091939
   highlight: true
 genres:
 - Action
@@ -105,4 +105,3 @@ tags:
 - action
 - casual
 ---
-

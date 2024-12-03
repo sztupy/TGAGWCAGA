@@ -44,61 +44,61 @@ movies:
   name: Great Houses of Calderia - Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257020445/movie.293x165.jpg?t=1714689027
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257020445/movie480_vp9.webm?t=1714689027
-    max: http://video.akamai.steamstatic.com/store_trailers/257020445/movie_max_vp9.webm?t=1714689027
+    '480': https://video.akamai.steamstatic.com/store_trailers/257020445/movie480_vp9.webm?t=1714689027
+    max: https://video.akamai.steamstatic.com/store_trailers/257020445/movie_max_vp9.webm?t=1714689027
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257020445/movie480.mp4?t=1714689027
-    max: http://video.akamai.steamstatic.com/store_trailers/257020445/movie_max.mp4?t=1714689027
+    '480': https://video.akamai.steamstatic.com/store_trailers/257020445/movie480.mp4?t=1714689027
+    max: https://video.akamai.steamstatic.com/store_trailers/257020445/movie_max.mp4?t=1714689027
   highlight: true
 - id: 256966819
   name: Great Houses of Calderia - EA Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256966819/movie.293x165.jpg?t=1693404644
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256966819/movie480_vp9.webm?t=1693404644
-    max: http://video.akamai.steamstatic.com/store_trailers/256966819/movie_max_vp9.webm?t=1693404644
+    '480': https://video.akamai.steamstatic.com/store_trailers/256966819/movie480_vp9.webm?t=1693404644
+    max: https://video.akamai.steamstatic.com/store_trailers/256966819/movie_max_vp9.webm?t=1693404644
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256966819/movie480.mp4?t=1693404644
-    max: http://video.akamai.steamstatic.com/store_trailers/256966819/movie_max.mp4?t=1693404644
+    '480': https://video.akamai.steamstatic.com/store_trailers/256966819/movie480.mp4?t=1693404644
+    max: https://video.akamai.steamstatic.com/store_trailers/256966819/movie_max.mp4?t=1693404644
   highlight: false
 - id: 256956837
   name: Great Houses of Calderia - Founders Release date
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956837/movie.293x165.jpg?t=1714689031
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256956837/movie480_vp9.webm?t=1714689031
-    max: http://video.akamai.steamstatic.com/store_trailers/256956837/movie_max_vp9.webm?t=1714689031
+    '480': https://video.akamai.steamstatic.com/store_trailers/256956837/movie480_vp9.webm?t=1714689031
+    max: https://video.akamai.steamstatic.com/store_trailers/256956837/movie_max_vp9.webm?t=1714689031
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256956837/movie480.mp4?t=1714689031
-    max: http://video.akamai.steamstatic.com/store_trailers/256956837/movie_max.mp4?t=1714689031
+    '480': https://video.akamai.steamstatic.com/store_trailers/256956837/movie480.mp4?t=1714689031
+    max: https://video.akamai.steamstatic.com/store_trailers/256956837/movie_max.mp4?t=1714689031
   highlight: false
 - id: 256891522
   name: Great Houses of Calderia - 1st Gameplay trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891522/movie.293x165.jpg?t=1683098593
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256891522/movie480_vp9.webm?t=1683098593
-    max: http://video.akamai.steamstatic.com/store_trailers/256891522/movie_max_vp9.webm?t=1683098593
+    '480': https://video.akamai.steamstatic.com/store_trailers/256891522/movie480_vp9.webm?t=1683098593
+    max: https://video.akamai.steamstatic.com/store_trailers/256891522/movie_max_vp9.webm?t=1683098593
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256891522/movie480.mp4?t=1683098593
-    max: http://video.akamai.steamstatic.com/store_trailers/256891522/movie_max.mp4?t=1683098593
+    '480': https://video.akamai.steamstatic.com/store_trailers/256891522/movie480.mp4?t=1683098593
+    max: https://video.akamai.steamstatic.com/store_trailers/256891522/movie_max.mp4?t=1683098593
   highlight: false
 - id: 256862881
   name: Great Houses of Calderia Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256862881/movie.293x165.jpg?t=1683098600
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256862881/movie480_vp9.webm?t=1683098600
-    max: http://video.akamai.steamstatic.com/store_trailers/256862881/movie_max_vp9.webm?t=1683098600
+    '480': https://video.akamai.steamstatic.com/store_trailers/256862881/movie480_vp9.webm?t=1683098600
+    max: https://video.akamai.steamstatic.com/store_trailers/256862881/movie_max_vp9.webm?t=1683098600
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256862881/movie480.mp4?t=1683098600
-    max: http://video.akamai.steamstatic.com/store_trailers/256862881/movie_max.mp4?t=1683098600
+    '480': https://video.akamai.steamstatic.com/store_trailers/256862881/movie480.mp4?t=1683098600
+    max: https://video.akamai.steamstatic.com/store_trailers/256862881/movie_max.mp4?t=1683098600
   highlight: false
 - id: 256885549
   name: Great Houses of Calderia Story Trailer 2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256885549/movie.293x165.jpg?t=1683098608
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256885549/movie480_vp9.webm?t=1683098608
-    max: http://video.akamai.steamstatic.com/store_trailers/256885549/movie_max_vp9.webm?t=1683098608
+    '480': https://video.akamai.steamstatic.com/store_trailers/256885549/movie480_vp9.webm?t=1683098608
+    max: https://video.akamai.steamstatic.com/store_trailers/256885549/movie_max_vp9.webm?t=1683098608
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256885549/movie480.mp4?t=1683098608
-    max: http://video.akamai.steamstatic.com/store_trailers/256885549/movie_max.mp4?t=1683098608
+    '480': https://video.akamai.steamstatic.com/store_trailers/256885549/movie480.mp4?t=1683098608
+    max: https://video.akamai.steamstatic.com/store_trailers/256885549/movie_max.mp4?t=1683098608
   highlight: false
 genres:
 - Indie
@@ -216,4 +216,3 @@ tags:
 - rpg
 - strategy
 ---
-

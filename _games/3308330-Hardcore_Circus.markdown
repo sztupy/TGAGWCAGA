@@ -38,11 +38,11 @@ movies:
   name: Hardcore Circus - Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076553/1cf53e5b0ab2569e5b17fcf8b23c27ac38dc2613/movie_600x337.jpg?t=1732573045
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076553/movie480_vp9.webm?t=1732573045
-    max: http://video.akamai.steamstatic.com/store_trailers/257076553/movie_max_vp9.webm?t=1732573045
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076553/movie480_vp9.webm?t=1732573045
+    max: https://video.akamai.steamstatic.com/store_trailers/257076553/movie_max_vp9.webm?t=1732573045
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076553/movie480.mp4?t=1732573045
-    max: http://video.akamai.steamstatic.com/store_trailers/257076553/movie_max.mp4?t=1732573045
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076553/movie480.mp4?t=1732573045
+    max: https://video.akamai.steamstatic.com/store_trailers/257076553/movie_max.mp4?t=1732573045
   highlight: true
 genres:
 - Action
@@ -143,4 +143,3 @@ tags:
 - action
 - adventure
 ---
-

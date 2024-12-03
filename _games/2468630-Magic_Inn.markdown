@@ -53,11 +53,11 @@ movies:
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997259/movie.293x165.jpg?t=1717082616
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997259/movie480_vp9.webm?t=1717082616
-    max: http://video.akamai.steamstatic.com/store_trailers/256997259/movie_max_vp9.webm?t=1717082616
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997259/movie480_vp9.webm?t=1717082616
+    max: https://video.akamai.steamstatic.com/store_trailers/256997259/movie_max_vp9.webm?t=1717082616
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997259/movie480.mp4?t=1717082616
-    max: http://video.akamai.steamstatic.com/store_trailers/256997259/movie_max.mp4?t=1717082616
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997259/movie480.mp4?t=1717082616
+    max: https://video.akamai.steamstatic.com/store_trailers/256997259/movie_max.mp4?t=1717082616
   highlight: true
 genres:
 - Casual
@@ -170,4 +170,3 @@ tags:
 - rpg
 - simulation
 ---
-

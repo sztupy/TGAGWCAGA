@@ -31,21 +31,21 @@ movies:
   name: Trailer 2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068689/c4e61efd4edb4406b97fa725be6a9af219b6fb22/movie_600x337.jpg?t=1730127945
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068689/movie480_vp9.webm?t=1730127945
-    max: http://video.akamai.steamstatic.com/store_trailers/257068689/movie_max_vp9.webm?t=1730127945
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068689/movie480_vp9.webm?t=1730127945
+    max: https://video.akamai.steamstatic.com/store_trailers/257068689/movie_max_vp9.webm?t=1730127945
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068689/movie480.mp4?t=1730127945
-    max: http://video.akamai.steamstatic.com/store_trailers/257068689/movie_max.mp4?t=1730127945
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068689/movie480.mp4?t=1730127945
+    max: https://video.akamai.steamstatic.com/store_trailers/257068689/movie_max.mp4?t=1730127945
   highlight: true
 - id: 257039471
   name: Trailer 1
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039471/movie.293x165.jpg?t=1730127949
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039471/movie480_vp9.webm?t=1730127949
-    max: http://video.akamai.steamstatic.com/store_trailers/257039471/movie_max_vp9.webm?t=1730127949
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039471/movie480_vp9.webm?t=1730127949
+    max: https://video.akamai.steamstatic.com/store_trailers/257039471/movie_max_vp9.webm?t=1730127949
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039471/movie480.mp4?t=1730127949
-    max: http://video.akamai.steamstatic.com/store_trailers/257039471/movie_max.mp4?t=1730127949
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039471/movie480.mp4?t=1730127949
+    max: https://video.akamai.steamstatic.com/store_trailers/257039471/movie_max.mp4?t=1730127949
   highlight: true
 genres:
 - Action
@@ -105,4 +105,3 @@ support_info:
 tags:
 - action
 ---
-

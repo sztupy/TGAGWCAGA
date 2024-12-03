@@ -56,11 +56,11 @@ movies:
   name: Tower Of Kalemonvo - Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934683/movie.293x165.jpg?t=1724703429
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256934683/movie480_vp9.webm?t=1724703429
-    max: http://video.akamai.steamstatic.com/store_trailers/256934683/movie_max_vp9.webm?t=1724703429
+    '480': https://video.akamai.steamstatic.com/store_trailers/256934683/movie480_vp9.webm?t=1724703429
+    max: https://video.akamai.steamstatic.com/store_trailers/256934683/movie_max_vp9.webm?t=1724703429
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256934683/movie480.mp4?t=1724703429
-    max: http://video.akamai.steamstatic.com/store_trailers/256934683/movie_max.mp4?t=1724703429
+    '480': https://video.akamai.steamstatic.com/store_trailers/256934683/movie480.mp4?t=1724703429
+    max: https://video.akamai.steamstatic.com/store_trailers/256934683/movie_max.mp4?t=1724703429
   highlight: true
 genres:
 - Action
@@ -153,4 +153,3 @@ tags:
 - adventure
 - rpg
 ---
-

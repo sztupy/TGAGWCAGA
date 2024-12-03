@@ -41,11 +41,11 @@ movies:
   name: MUD BORN, IT IS TIME TO WAKE UP
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045503/movie.293x165.jpg?t=1723640610
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045503/movie480_vp9.webm?t=1723640610
-    max: http://video.akamai.steamstatic.com/store_trailers/257045503/movie_max_vp9.webm?t=1723640610
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045503/movie480_vp9.webm?t=1723640610
+    max: https://video.akamai.steamstatic.com/store_trailers/257045503/movie_max_vp9.webm?t=1723640610
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045503/movie480.mp4?t=1723640610
-    max: http://video.akamai.steamstatic.com/store_trailers/257045503/movie_max.mp4?t=1723640610
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045503/movie480.mp4?t=1723640610
+    max: https://video.akamai.steamstatic.com/store_trailers/257045503/movie_max.mp4?t=1723640610
   highlight: true
 genres:
 - Casual
@@ -140,4 +140,3 @@ support_info:
 tags:
 - casual
 ---
-

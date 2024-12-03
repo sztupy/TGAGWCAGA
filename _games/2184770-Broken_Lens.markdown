@@ -38,11 +38,11 @@ movies:
   name: Broken Lens
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025141/movie.293x165.jpg?t=1716408033
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025141/movie480_vp9.webm?t=1716408033
-    max: http://video.akamai.steamstatic.com/store_trailers/257025141/movie_max_vp9.webm?t=1716408033
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025141/movie480_vp9.webm?t=1716408033
+    max: https://video.akamai.steamstatic.com/store_trailers/257025141/movie_max_vp9.webm?t=1716408033
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025141/movie480.mp4?t=1716408033
-    max: http://video.akamai.steamstatic.com/store_trailers/257025141/movie_max.mp4?t=1716408033
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025141/movie480.mp4?t=1716408033
+    max: https://video.akamai.steamstatic.com/store_trailers/257025141/movie_max.mp4?t=1716408033
   highlight: true
 genres:
 - Adventure
@@ -145,4 +145,3 @@ tags:
 - adventure
 - casual
 ---
-

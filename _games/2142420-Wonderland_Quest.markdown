@@ -43,11 +43,11 @@ movies:
   name: Wonderland Quest
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903976/movie.293x165.jpg?t=1662658714
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256903976/movie480_vp9.webm?t=1662658714
-    max: http://video.akamai.steamstatic.com/store_trailers/256903976/movie_max_vp9.webm?t=1662658714
+    '480': https://video.akamai.steamstatic.com/store_trailers/256903976/movie480_vp9.webm?t=1662658714
+    max: https://video.akamai.steamstatic.com/store_trailers/256903976/movie_max_vp9.webm?t=1662658714
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256903976/movie480.mp4?t=1662658714
-    max: http://video.akamai.steamstatic.com/store_trailers/256903976/movie_max.mp4?t=1662658714
+    '480': https://video.akamai.steamstatic.com/store_trailers/256903976/movie480.mp4?t=1662658714
+    max: https://video.akamai.steamstatic.com/store_trailers/256903976/movie_max.mp4?t=1662658714
   highlight: true
 genres:
 - Adventure
@@ -109,4 +109,3 @@ tags:
 - adventure
 - casual
 ---
-

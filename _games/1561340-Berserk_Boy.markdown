@@ -50,21 +50,21 @@ movies:
   name: Berserk Boy Announce
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999194/movie.293x165.jpg?t=1707169595
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999194/movie480_vp9.webm?t=1707169595
-    max: http://video.akamai.steamstatic.com/store_trailers/256999194/movie_max_vp9.webm?t=1707169595
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999194/movie480_vp9.webm?t=1707169595
+    max: https://video.akamai.steamstatic.com/store_trailers/256999194/movie_max_vp9.webm?t=1707169595
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999194/movie480.mp4?t=1707169595
-    max: http://video.akamai.steamstatic.com/store_trailers/256999194/movie_max.mp4?t=1707169595
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999194/movie480.mp4?t=1707169595
+    max: https://video.akamai.steamstatic.com/store_trailers/256999194/movie_max.mp4?t=1707169595
   highlight: true
 - id: 256951021
   name: BERSERK BOY
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951021/movie.293x165.jpg?t=1707169600
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256951021/movie480_vp9.webm?t=1707169600
-    max: http://video.akamai.steamstatic.com/store_trailers/256951021/movie_max_vp9.webm?t=1707169600
+    '480': https://video.akamai.steamstatic.com/store_trailers/256951021/movie480_vp9.webm?t=1707169600
+    max: https://video.akamai.steamstatic.com/store_trailers/256951021/movie_max_vp9.webm?t=1707169600
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256951021/movie480.mp4?t=1707169600
-    max: http://video.akamai.steamstatic.com/store_trailers/256951021/movie_max.mp4?t=1707169600
+    '480': https://video.akamai.steamstatic.com/store_trailers/256951021/movie480.mp4?t=1707169600
+    max: https://video.akamai.steamstatic.com/store_trailers/256951021/movie_max.mp4?t=1707169600
   highlight: true
 genres:
 - Action
@@ -158,4 +158,3 @@ tags:
 - action
 - adventure
 ---
-

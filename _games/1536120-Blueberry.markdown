@@ -74,11 +74,11 @@ movies:
   name: Blueberry Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034399/d04ff650904e5b7307b1644939555954448c0279/movie_600x337.jpg?t=1731721826
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257034399/movie480_vp9.webm?t=1731721826
-    max: http://video.akamai.steamstatic.com/store_trailers/257034399/movie_max_vp9.webm?t=1731721826
+    '480': https://video.akamai.steamstatic.com/store_trailers/257034399/movie480_vp9.webm?t=1731721826
+    max: https://video.akamai.steamstatic.com/store_trailers/257034399/movie_max_vp9.webm?t=1731721826
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257034399/movie480.mp4?t=1731721826
-    max: http://video.akamai.steamstatic.com/store_trailers/257034399/movie_max.mp4?t=1731721826
+    '480': https://video.akamai.steamstatic.com/store_trailers/257034399/movie480.mp4?t=1731721826
+    max: https://video.akamai.steamstatic.com/store_trailers/257034399/movie_max.mp4?t=1731721826
   highlight: true
 genres:
 - Adventure
@@ -172,4 +172,3 @@ support_info:
 tags:
 - adventure
 ---
-

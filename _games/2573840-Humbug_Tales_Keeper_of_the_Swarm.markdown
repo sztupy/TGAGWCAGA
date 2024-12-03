@@ -29,11 +29,11 @@ movies:
   name: Sneak Peek
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062513/49f6bd68e3febb958ebb93b75a1157e083a7a34c/movie_600x337.jpg?t=1728310441
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062513/movie480_vp9.webm?t=1728310441
-    max: http://video.akamai.steamstatic.com/store_trailers/257062513/movie_max_vp9.webm?t=1728310441
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062513/movie480_vp9.webm?t=1728310441
+    max: https://video.akamai.steamstatic.com/store_trailers/257062513/movie_max_vp9.webm?t=1728310441
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062513/movie480.mp4?t=1728310441
-    max: http://video.akamai.steamstatic.com/store_trailers/257062513/movie_max.mp4?t=1728310441
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062513/movie480.mp4?t=1728310441
+    max: https://video.akamai.steamstatic.com/store_trailers/257062513/movie_max.mp4?t=1728310441
   highlight: true
 genres:
 - Action
@@ -117,4 +117,3 @@ tags:
 - adventure
 - strategy
 ---
-

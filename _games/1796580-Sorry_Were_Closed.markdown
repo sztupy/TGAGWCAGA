@@ -44,31 +44,31 @@ movies:
   name: Glorified GIF
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068420/0ab077a33d519e297a3e7ebbab3ec25b4d4ed89f/movie_600x337.jpg?t=1729887400
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068420/movie480_vp9.webm?t=1729887400
-    max: http://video.akamai.steamstatic.com/store_trailers/257068420/movie_max_vp9.webm?t=1729887400
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068420/movie480_vp9.webm?t=1729887400
+    max: https://video.akamai.steamstatic.com/store_trailers/257068420/movie_max_vp9.webm?t=1729887400
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068420/movie480.mp4?t=1729887400
-    max: http://video.akamai.steamstatic.com/store_trailers/257068420/movie_max.mp4?t=1729887400
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068420/movie480.mp4?t=1729887400
+    max: https://video.akamai.steamstatic.com/store_trailers/257068420/movie_max.mp4?t=1729887400
   highlight: true
 - id: 257073895
   name: Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073895/821037c83ef40790f1bc965d30b746ecf52676d0/movie_600x337.jpg?t=1731606976
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073895/movie480_vp9.webm?t=1731606976
-    max: http://video.akamai.steamstatic.com/store_trailers/257073895/movie_max_vp9.webm?t=1731606976
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073895/movie480_vp9.webm?t=1731606976
+    max: https://video.akamai.steamstatic.com/store_trailers/257073895/movie_max_vp9.webm?t=1731606976
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073895/movie480.mp4?t=1731606976
-    max: http://video.akamai.steamstatic.com/store_trailers/257073895/movie_max.mp4?t=1731606976
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073895/movie480.mp4?t=1731606976
+    max: https://video.akamai.steamstatic.com/store_trailers/257073895/movie_max.mp4?t=1731606976
   highlight: true
 - id: 257065075
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065075/15860acd144672c8f7c2355bea6045736e9b4362/movie_600x337.jpg?t=1731606981
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065075/movie480_vp9.webm?t=1731606981
-    max: http://video.akamai.steamstatic.com/store_trailers/257065075/movie_max_vp9.webm?t=1731606981
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065075/movie480_vp9.webm?t=1731606981
+    max: https://video.akamai.steamstatic.com/store_trailers/257065075/movie_max_vp9.webm?t=1731606981
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065075/movie480.mp4?t=1731606981
-    max: http://video.akamai.steamstatic.com/store_trailers/257065075/movie_max.mp4?t=1731606981
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065075/movie480.mp4?t=1731606981
+    max: https://video.akamai.steamstatic.com/store_trailers/257065075/movie_max.mp4?t=1731606981
   highlight: true
 genres:
 - Action
@@ -176,4 +176,3 @@ tags:
 - action
 - adventure
 ---
-

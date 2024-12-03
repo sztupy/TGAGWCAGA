@@ -41,31 +41,31 @@ movies:
   name: Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048101/movie.293x165.jpg?t=1724480066
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048101/movie480_vp9.webm?t=1724480066
-    max: http://video.akamai.steamstatic.com/store_trailers/257048101/movie_max_vp9.webm?t=1724480066
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048101/movie480_vp9.webm?t=1724480066
+    max: https://video.akamai.steamstatic.com/store_trailers/257048101/movie_max_vp9.webm?t=1724480066
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048101/movie480.mp4?t=1724480066
-    max: http://video.akamai.steamstatic.com/store_trailers/257048101/movie_max.mp4?t=1724480066
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048101/movie480.mp4?t=1724480066
+    max: https://video.akamai.steamstatic.com/store_trailers/257048101/movie_max.mp4?t=1724480066
   highlight: true
 - id: 257002802
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257002802/movie.293x165.jpg?t=1723744493
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257002802/movie480_vp9.webm?t=1723744493
-    max: http://video.akamai.steamstatic.com/store_trailers/257002802/movie_max_vp9.webm?t=1723744493
+    '480': https://video.akamai.steamstatic.com/store_trailers/257002802/movie480_vp9.webm?t=1723744493
+    max: https://video.akamai.steamstatic.com/store_trailers/257002802/movie_max_vp9.webm?t=1723744493
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257002802/movie480.mp4?t=1723744493
-    max: http://video.akamai.steamstatic.com/store_trailers/257002802/movie_max.mp4?t=1723744493
+    '480': https://video.akamai.steamstatic.com/store_trailers/257002802/movie480.mp4?t=1723744493
+    max: https://video.akamai.steamstatic.com/store_trailers/257002802/movie_max.mp4?t=1723744493
   highlight: true
 - id: 257014278
   name: Intro Animation
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257014278/movie.293x165.jpg?t=1723744498
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257014278/movie480_vp9.webm?t=1723744498
-    max: http://video.akamai.steamstatic.com/store_trailers/257014278/movie_max_vp9.webm?t=1723744498
+    '480': https://video.akamai.steamstatic.com/store_trailers/257014278/movie480_vp9.webm?t=1723744498
+    max: https://video.akamai.steamstatic.com/store_trailers/257014278/movie_max_vp9.webm?t=1723744498
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257014278/movie480.mp4?t=1723744498
-    max: http://video.akamai.steamstatic.com/store_trailers/257014278/movie_max.mp4?t=1723744498
+    '480': https://video.akamai.steamstatic.com/store_trailers/257014278/movie480.mp4?t=1723744498
+    max: https://video.akamai.steamstatic.com/store_trailers/257014278/movie_max.mp4?t=1723744498
   highlight: true
 genres:
 - Casual
@@ -159,4 +159,3 @@ tags:
 - casual
 - strategy
 ---
-

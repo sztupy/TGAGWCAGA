@@ -49,11 +49,11 @@ movies:
   name: Bullets & Brains - Wishlist Now!
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064102/71e9d5939f4ffb6f06b8e9713ee374057b5fe819/movie_600x337.jpg?t=1728645884
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064102/movie480_vp9.webm?t=1728645884
-    max: http://video.akamai.steamstatic.com/store_trailers/257064102/movie_max_vp9.webm?t=1728645884
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064102/movie480_vp9.webm?t=1728645884
+    max: https://video.akamai.steamstatic.com/store_trailers/257064102/movie_max_vp9.webm?t=1728645884
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064102/movie480.mp4?t=1728645884
-    max: http://video.akamai.steamstatic.com/store_trailers/257064102/movie_max.mp4?t=1728645884
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064102/movie480.mp4?t=1728645884
+    max: https://video.akamai.steamstatic.com/store_trailers/257064102/movie_max.mp4?t=1728645884
   highlight: true
 genres:
 - Action
@@ -182,4 +182,3 @@ support_info:
 tags:
 - action
 ---
-

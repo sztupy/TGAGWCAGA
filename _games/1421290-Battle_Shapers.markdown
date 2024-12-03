@@ -34,31 +34,31 @@ movies:
   name: Early Access Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256973274/movie.293x165.jpg?t=1696377167
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256973274/movie480_vp9.webm?t=1696377167
-    max: http://video.akamai.steamstatic.com/store_trailers/256973274/movie_max_vp9.webm?t=1696377167
+    '480': https://video.akamai.steamstatic.com/store_trailers/256973274/movie480_vp9.webm?t=1696377167
+    max: https://video.akamai.steamstatic.com/store_trailers/256973274/movie_max_vp9.webm?t=1696377167
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256973274/movie480.mp4?t=1696377167
-    max: http://video.akamai.steamstatic.com/store_trailers/256973274/movie_max.mp4?t=1696377167
+    '480': https://video.akamai.steamstatic.com/store_trailers/256973274/movie480.mp4?t=1696377167
+    max: https://video.akamai.steamstatic.com/store_trailers/256973274/movie_max.mp4?t=1696377167
   highlight: true
 - id: 256984561
   name: Transcendence Update Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256984561/movie.293x165.jpg?t=1716918954
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256984561/movie480_vp9.webm?t=1716918954
-    max: http://video.akamai.steamstatic.com/store_trailers/256984561/movie_max_vp9.webm?t=1716918954
+    '480': https://video.akamai.steamstatic.com/store_trailers/256984561/movie480_vp9.webm?t=1716918954
+    max: https://video.akamai.steamstatic.com/store_trailers/256984561/movie_max_vp9.webm?t=1716918954
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256984561/movie480.mp4?t=1716918954
-    max: http://video.akamai.steamstatic.com/store_trailers/256984561/movie_max.mp4?t=1716918954
+    '480': https://video.akamai.steamstatic.com/store_trailers/256984561/movie480.mp4?t=1716918954
+    max: https://video.akamai.steamstatic.com/store_trailers/256984561/movie_max.mp4?t=1716918954
   highlight: true
 - id: 256935684
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935684/movie.293x165.jpg?t=1684870074
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256935684/movie480_vp9.webm?t=1684870074
-    max: http://video.akamai.steamstatic.com/store_trailers/256935684/movie_max_vp9.webm?t=1684870074
+    '480': https://video.akamai.steamstatic.com/store_trailers/256935684/movie480_vp9.webm?t=1684870074
+    max: https://video.akamai.steamstatic.com/store_trailers/256935684/movie_max_vp9.webm?t=1684870074
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256935684/movie480.mp4?t=1684870074
-    max: http://video.akamai.steamstatic.com/store_trailers/256935684/movie_max.mp4?t=1684870074
+    '480': https://video.akamai.steamstatic.com/store_trailers/256935684/movie480.mp4?t=1684870074
+    max: https://video.akamai.steamstatic.com/store_trailers/256935684/movie_max.mp4?t=1684870074
   highlight: true
 genres:
 - Action
@@ -159,4 +159,3 @@ support_info:
 tags:
 - action
 ---
-

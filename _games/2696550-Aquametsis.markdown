@@ -53,21 +53,21 @@ movies:
   name: Steam Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028400/movie.293x165.jpg?t=1717598655
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028400/movie480_vp9.webm?t=1717598655
-    max: http://video.akamai.steamstatic.com/store_trailers/257028400/movie_max_vp9.webm?t=1717598655
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028400/movie480_vp9.webm?t=1717598655
+    max: https://video.akamai.steamstatic.com/store_trailers/257028400/movie_max_vp9.webm?t=1717598655
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257028400/movie480.mp4?t=1717598655
-    max: http://video.akamai.steamstatic.com/store_trailers/257028400/movie_max.mp4?t=1717598655
+    '480': https://video.akamai.steamstatic.com/store_trailers/257028400/movie480.mp4?t=1717598655
+    max: https://video.akamai.steamstatic.com/store_trailers/257028400/movie_max.mp4?t=1717598655
   highlight: true
 - id: 256982653
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256982653/movie.293x165.jpg?t=1707402046
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256982653/movie480_vp9.webm?t=1707402046
-    max: http://video.akamai.steamstatic.com/store_trailers/256982653/movie_max_vp9.webm?t=1707402046
+    '480': https://video.akamai.steamstatic.com/store_trailers/256982653/movie480_vp9.webm?t=1707402046
+    max: https://video.akamai.steamstatic.com/store_trailers/256982653/movie_max_vp9.webm?t=1707402046
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256982653/movie480.mp4?t=1707402046
-    max: http://video.akamai.steamstatic.com/store_trailers/256982653/movie_max.mp4?t=1707402046
+    '480': https://video.akamai.steamstatic.com/store_trailers/256982653/movie480.mp4?t=1707402046
+    max: https://video.akamai.steamstatic.com/store_trailers/256982653/movie_max.mp4?t=1707402046
   highlight: false
 genres:
 - Action
@@ -145,4 +145,3 @@ tags:
 - action
 - strategy
 ---
-

@@ -43,21 +43,21 @@ movies:
   name: Steel Seed - Official Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257009124/movie.293x165.jpg?t=1710917572
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009124/movie480_vp9.webm?t=1710917572
-    max: http://video.akamai.steamstatic.com/store_trailers/257009124/movie_max_vp9.webm?t=1710917572
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009124/movie480_vp9.webm?t=1710917572
+    max: https://video.akamai.steamstatic.com/store_trailers/257009124/movie_max_vp9.webm?t=1710917572
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009124/movie480.mp4?t=1710917572
-    max: http://video.akamai.steamstatic.com/store_trailers/257009124/movie_max.mp4?t=1710917572
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009124/movie480.mp4?t=1710917572
+    max: https://video.akamai.steamstatic.com/store_trailers/257009124/movie_max.mp4?t=1710917572
   highlight: true
 - id: 256951889
   name: Steel Seed Gameplay Reveal Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951889/movie.293x165.jpg?t=1686483088
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256951889/movie480_vp9.webm?t=1686483088
-    max: http://video.akamai.steamstatic.com/store_trailers/256951889/movie_max_vp9.webm?t=1686483088
+    '480': https://video.akamai.steamstatic.com/store_trailers/256951889/movie480_vp9.webm?t=1686483088
+    max: https://video.akamai.steamstatic.com/store_trailers/256951889/movie_max_vp9.webm?t=1686483088
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256951889/movie480.mp4?t=1686483088
-    max: http://video.akamai.steamstatic.com/store_trailers/256951889/movie_max.mp4?t=1686483088
+    '480': https://video.akamai.steamstatic.com/store_trailers/256951889/movie480.mp4?t=1686483088
+    max: https://video.akamai.steamstatic.com/store_trailers/256951889/movie_max.mp4?t=1686483088
   highlight: true
 genres:
 - Action
@@ -133,4 +133,3 @@ tags:
 - action
 - adventure
 ---
-

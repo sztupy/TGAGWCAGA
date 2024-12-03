@@ -38,21 +38,21 @@ movies:
   name: Actual Gameplay Footage
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257003530/movie.293x165.jpg?t=1708926607
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257003530/movie480_vp9.webm?t=1708926607
-    max: http://video.akamai.steamstatic.com/store_trailers/257003530/movie_max_vp9.webm?t=1708926607
+    '480': https://video.akamai.steamstatic.com/store_trailers/257003530/movie480_vp9.webm?t=1708926607
+    max: https://video.akamai.steamstatic.com/store_trailers/257003530/movie_max_vp9.webm?t=1708926607
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257003530/movie480.mp4?t=1708926607
-    max: http://video.akamai.steamstatic.com/store_trailers/257003530/movie_max.mp4?t=1708926607
+    '480': https://video.akamai.steamstatic.com/store_trailers/257003530/movie480.mp4?t=1708926607
+    max: https://video.akamai.steamstatic.com/store_trailers/257003530/movie_max.mp4?t=1708926607
   highlight: true
 - id: 256976060
   name: Taken Soul - Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256976060/movie.293x165.jpg?t=1697858074
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256976060/movie480_vp9.webm?t=1697858074
-    max: http://video.akamai.steamstatic.com/store_trailers/256976060/movie_max_vp9.webm?t=1697858074
+    '480': https://video.akamai.steamstatic.com/store_trailers/256976060/movie480_vp9.webm?t=1697858074
+    max: https://video.akamai.steamstatic.com/store_trailers/256976060/movie_max_vp9.webm?t=1697858074
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256976060/movie480.mp4?t=1697858074
-    max: http://video.akamai.steamstatic.com/store_trailers/256976060/movie_max.mp4?t=1697858074
+    '480': https://video.akamai.steamstatic.com/store_trailers/256976060/movie480.mp4?t=1697858074
+    max: https://video.akamai.steamstatic.com/store_trailers/256976060/movie_max.mp4?t=1697858074
   highlight: true
 genres:
 - Action
@@ -157,4 +157,3 @@ tags:
 - action
 - adventure
 ---
-

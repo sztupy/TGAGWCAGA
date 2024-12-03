@@ -44,21 +44,21 @@ movies:
   name: 'GFAD trailer #2'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257000955/movie.293x165.jpg?t=1707864324
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257000955/movie480_vp9.webm?t=1707864324
-    max: http://video.akamai.steamstatic.com/store_trailers/257000955/movie_max_vp9.webm?t=1707864324
+    '480': https://video.akamai.steamstatic.com/store_trailers/257000955/movie480_vp9.webm?t=1707864324
+    max: https://video.akamai.steamstatic.com/store_trailers/257000955/movie_max_vp9.webm?t=1707864324
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257000955/movie480.mp4?t=1707864324
-    max: http://video.akamai.steamstatic.com/store_trailers/257000955/movie_max.mp4?t=1707864324
+    '480': https://video.akamai.steamstatic.com/store_trailers/257000955/movie480.mp4?t=1707864324
+    max: https://video.akamai.steamstatic.com/store_trailers/257000955/movie_max.mp4?t=1707864324
   highlight: true
 - id: 256982403
   name: 'GFAD trailer #1'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256982403/movie.293x165.jpg?t=1703046402
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256982403/movie480_vp9.webm?t=1703046402
-    max: http://video.akamai.steamstatic.com/store_trailers/256982403/movie_max_vp9.webm?t=1703046402
+    '480': https://video.akamai.steamstatic.com/store_trailers/256982403/movie480_vp9.webm?t=1703046402
+    max: https://video.akamai.steamstatic.com/store_trailers/256982403/movie_max_vp9.webm?t=1703046402
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256982403/movie480.mp4?t=1703046402
-    max: http://video.akamai.steamstatic.com/store_trailers/256982403/movie_max.mp4?t=1703046402
+    '480': https://video.akamai.steamstatic.com/store_trailers/256982403/movie480.mp4?t=1703046402
+    max: https://video.akamai.steamstatic.com/store_trailers/256982403/movie_max.mp4?t=1703046402
   highlight: true
 genres:
 - Adventure
@@ -149,4 +149,3 @@ tags:
 - adventure
 - simulation
 ---
-

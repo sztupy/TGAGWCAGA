@@ -86,11 +86,11 @@ movies:
   name: Announcement
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045881/movie.293x165.jpg?t=1723559125
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045881/movie480_vp9.webm?t=1723559125
-    max: http://video.akamai.steamstatic.com/store_trailers/257045881/movie_max_vp9.webm?t=1723559125
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045881/movie480_vp9.webm?t=1723559125
+    max: https://video.akamai.steamstatic.com/store_trailers/257045881/movie_max_vp9.webm?t=1723559125
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257045881/movie480.mp4?t=1723559125
-    max: http://video.akamai.steamstatic.com/store_trailers/257045881/movie_max.mp4?t=1723559125
+    '480': https://video.akamai.steamstatic.com/store_trailers/257045881/movie480.mp4?t=1723559125
+    max: https://video.akamai.steamstatic.com/store_trailers/257045881/movie_max.mp4?t=1723559125
   highlight: true
 genres:
 - Action
@@ -193,4 +193,3 @@ support_info:
 tags:
 - action
 ---
-

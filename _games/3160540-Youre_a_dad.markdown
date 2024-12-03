@@ -34,11 +34,11 @@ movies:
   name: You're a dad - gameplay teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063295/eff51a37278ff8b7a2e9a290ab9f8a01befe48a6/movie_600x337.jpg?t=1728483505
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063295/movie480_vp9.webm?t=1728483505
-    max: http://video.akamai.steamstatic.com/store_trailers/257063295/movie_max_vp9.webm?t=1728483505
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063295/movie480_vp9.webm?t=1728483505
+    max: https://video.akamai.steamstatic.com/store_trailers/257063295/movie_max_vp9.webm?t=1728483505
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063295/movie480.mp4?t=1728483505
-    max: http://video.akamai.steamstatic.com/store_trailers/257063295/movie_max.mp4?t=1728483505
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063295/movie480.mp4?t=1728483505
+    max: https://video.akamai.steamstatic.com/store_trailers/257063295/movie_max.mp4?t=1728483505
   highlight: true
 genres:
 - Adventure
@@ -137,4 +137,3 @@ support_info:
 tags:
 - adventure
 ---
-

@@ -31,21 +31,21 @@ movies:
   name: Detective Instinct Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257042984/9d09506c75e2cc7db3a098e5494744e75785c576/movie_600x337.jpg?t=1731463712
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257042984/movie480_vp9.webm?t=1731463712
-    max: http://video.akamai.steamstatic.com/store_trailers/257042984/movie_max_vp9.webm?t=1731463712
+    '480': https://video.akamai.steamstatic.com/store_trailers/257042984/movie480_vp9.webm?t=1731463712
+    max: https://video.akamai.steamstatic.com/store_trailers/257042984/movie_max_vp9.webm?t=1731463712
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257042984/movie480.mp4?t=1731463712
-    max: http://video.akamai.steamstatic.com/store_trailers/257042984/movie_max.mp4?t=1731463712
+    '480': https://video.akamai.steamstatic.com/store_trailers/257042984/movie480.mp4?t=1731463712
+    max: https://video.akamai.steamstatic.com/store_trailers/257042984/movie_max.mp4?t=1731463712
   highlight: true
 - id: 256984695
   name: Detective Instinct Trailer 1
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256984695/1eb581c9fcdc609c247db1e056acdee6c1d8532e/movie_600x337.jpg?t=1731464239
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256984695/movie480_vp9.webm?t=1731464239
-    max: http://video.akamai.steamstatic.com/store_trailers/256984695/movie_max_vp9.webm?t=1731464239
+    '480': https://video.akamai.steamstatic.com/store_trailers/256984695/movie480_vp9.webm?t=1731464239
+    max: https://video.akamai.steamstatic.com/store_trailers/256984695/movie_max_vp9.webm?t=1731464239
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256984695/movie480.mp4?t=1731464239
-    max: http://video.akamai.steamstatic.com/store_trailers/256984695/movie_max.mp4?t=1731464239
+    '480': https://video.akamai.steamstatic.com/store_trailers/256984695/movie480.mp4?t=1731464239
+    max: https://video.akamai.steamstatic.com/store_trailers/256984695/movie_max.mp4?t=1731464239
   highlight: true
 genres:
 - Adventure
@@ -116,4 +116,3 @@ support_info:
 tags:
 - adventure
 ---
-

@@ -34,11 +34,11 @@ movies:
   name: Overhours Alpha Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256948913/movie.293x165.jpg?t=1726038827
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256948913/movie480_vp9.webm?t=1726038827
-    max: http://video.akamai.steamstatic.com/store_trailers/256948913/movie_max_vp9.webm?t=1726038827
+    '480': https://video.akamai.steamstatic.com/store_trailers/256948913/movie480_vp9.webm?t=1726038827
+    max: https://video.akamai.steamstatic.com/store_trailers/256948913/movie_max_vp9.webm?t=1726038827
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256948913/movie480.mp4?t=1726038827
-    max: http://video.akamai.steamstatic.com/store_trailers/256948913/movie_max.mp4?t=1726038827
+    '480': https://video.akamai.steamstatic.com/store_trailers/256948913/movie480.mp4?t=1726038827
+    max: https://video.akamai.steamstatic.com/store_trailers/256948913/movie_max.mp4?t=1726038827
   highlight: true
 genres:
 - Action
@@ -116,4 +116,3 @@ tags:
 - action
 - strategy
 ---
-

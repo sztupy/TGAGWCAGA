@@ -55,21 +55,21 @@ movies:
   name: THRESHOLD | Announce Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256968055/movie.293x165.jpg?t=1707479962
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256968055/movie480_vp9.webm?t=1707479962
-    max: http://video.akamai.steamstatic.com/store_trailers/256968055/movie_max_vp9.webm?t=1707479962
+    '480': https://video.akamai.steamstatic.com/store_trailers/256968055/movie480_vp9.webm?t=1707479962
+    max: https://video.akamai.steamstatic.com/store_trailers/256968055/movie_max_vp9.webm?t=1707479962
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256968055/movie480.mp4?t=1707479962
-    max: http://video.akamai.steamstatic.com/store_trailers/256968055/movie_max.mp4?t=1707479962
+    '480': https://video.akamai.steamstatic.com/store_trailers/256968055/movie480.mp4?t=1707479962
+    max: https://video.akamai.steamstatic.com/store_trailers/256968055/movie_max.mp4?t=1707479962
   highlight: true
 - id: 257072619
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257072619/627cdaaba8ee351cae8e942a5323a6ec2d86e9df/movie_600x337.jpg?t=1732034795
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257072619/movie480_vp9.webm?t=1732034795
-    max: http://video.akamai.steamstatic.com/store_trailers/257072619/movie_max_vp9.webm?t=1732034795
+    '480': https://video.akamai.steamstatic.com/store_trailers/257072619/movie480_vp9.webm?t=1732034795
+    max: https://video.akamai.steamstatic.com/store_trailers/257072619/movie_max_vp9.webm?t=1732034795
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257072619/movie480.mp4?t=1732034795
-    max: http://video.akamai.steamstatic.com/store_trailers/257072619/movie_max.mp4?t=1732034795
+    '480': https://video.akamai.steamstatic.com/store_trailers/257072619/movie480.mp4?t=1732034795
+    max: https://video.akamai.steamstatic.com/store_trailers/257072619/movie_max.mp4?t=1732034795
   highlight: false
 genres:
 - Adventure
@@ -166,4 +166,3 @@ support_info:
 tags:
 - adventure
 ---
-

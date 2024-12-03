@@ -56,21 +56,21 @@ movies:
   name: Release Tralier
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257036405/movie.293x165.jpg?t=1720749368
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257036405/movie480_vp9.webm?t=1720749368
-    max: http://video.akamai.steamstatic.com/store_trailers/257036405/movie_max_vp9.webm?t=1720749368
+    '480': https://video.akamai.steamstatic.com/store_trailers/257036405/movie480_vp9.webm?t=1720749368
+    max: https://video.akamai.steamstatic.com/store_trailers/257036405/movie_max_vp9.webm?t=1720749368
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257036405/movie480.mp4?t=1720749368
-    max: http://video.akamai.steamstatic.com/store_trailers/257036405/movie_max.mp4?t=1720749368
+    '480': https://video.akamai.steamstatic.com/store_trailers/257036405/movie480.mp4?t=1720749368
+    max: https://video.akamai.steamstatic.com/store_trailers/257036405/movie_max.mp4?t=1720749368
   highlight: true
 - id: 257032204
   name: Release Date Tralier
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032204/movie.293x165.jpg?t=1718787037
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257032204/movie480_vp9.webm?t=1718787037
-    max: http://video.akamai.steamstatic.com/store_trailers/257032204/movie_max_vp9.webm?t=1718787037
+    '480': https://video.akamai.steamstatic.com/store_trailers/257032204/movie480_vp9.webm?t=1718787037
+    max: https://video.akamai.steamstatic.com/store_trailers/257032204/movie_max_vp9.webm?t=1718787037
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257032204/movie480.mp4?t=1718787037
-    max: http://video.akamai.steamstatic.com/store_trailers/257032204/movie_max.mp4?t=1718787037
+    '480': https://video.akamai.steamstatic.com/store_trailers/257032204/movie480.mp4?t=1718787037
+    max: https://video.akamai.steamstatic.com/store_trailers/257032204/movie_max.mp4?t=1718787037
   highlight: true
 genres:
 - Action
@@ -189,4 +189,3 @@ tags:
 - adventure
 - rpg
 ---
-

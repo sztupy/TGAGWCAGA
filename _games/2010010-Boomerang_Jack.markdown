@@ -58,11 +58,11 @@ movies:
   name: Combat Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015468/movie.293x165.jpg?t=1727748287
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257015468/movie480_vp9.webm?t=1727748287
-    max: http://video.akamai.steamstatic.com/store_trailers/257015468/movie_max_vp9.webm?t=1727748287
+    '480': https://video.akamai.steamstatic.com/store_trailers/257015468/movie480_vp9.webm?t=1727748287
+    max: https://video.akamai.steamstatic.com/store_trailers/257015468/movie_max_vp9.webm?t=1727748287
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257015468/movie480.mp4?t=1727748287
-    max: http://video.akamai.steamstatic.com/store_trailers/257015468/movie_max.mp4?t=1727748287
+    '480': https://video.akamai.steamstatic.com/store_trailers/257015468/movie480.mp4?t=1727748287
+    max: https://video.akamai.steamstatic.com/store_trailers/257015468/movie_max.mp4?t=1727748287
   highlight: true
 genres:
 - Action
@@ -142,4 +142,3 @@ tags:
 - adventure
 - rpg
 ---
-

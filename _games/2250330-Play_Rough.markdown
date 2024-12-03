@@ -49,21 +49,21 @@ movies:
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256926143/movie.293x165.jpg?t=1683141202
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256926143/movie480_vp9.webm?t=1683141202
-    max: http://video.akamai.steamstatic.com/store_trailers/256926143/movie_max_vp9.webm?t=1683141202
+    '480': https://video.akamai.steamstatic.com/store_trailers/256926143/movie480_vp9.webm?t=1683141202
+    max: https://video.akamai.steamstatic.com/store_trailers/256926143/movie_max_vp9.webm?t=1683141202
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256926143/movie480.mp4?t=1683141202
-    max: http://video.akamai.steamstatic.com/store_trailers/256926143/movie_max.mp4?t=1683141202
+    '480': https://video.akamai.steamstatic.com/store_trailers/256926143/movie480.mp4?t=1683141202
+    max: https://video.akamai.steamstatic.com/store_trailers/256926143/movie_max.mp4?t=1683141202
   highlight: true
 - id: 257008734
   name: Chapter 2 Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257008734/movie.293x165.jpg?t=1710867348
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257008734/movie480_vp9.webm?t=1710867348
-    max: http://video.akamai.steamstatic.com/store_trailers/257008734/movie_max_vp9.webm?t=1710867348
+    '480': https://video.akamai.steamstatic.com/store_trailers/257008734/movie480_vp9.webm?t=1710867348
+    max: https://video.akamai.steamstatic.com/store_trailers/257008734/movie_max_vp9.webm?t=1710867348
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257008734/movie480.mp4?t=1710867348
-    max: http://video.akamai.steamstatic.com/store_trailers/257008734/movie_max.mp4?t=1710867348
+    '480': https://video.akamai.steamstatic.com/store_trailers/257008734/movie480.mp4?t=1710867348
+    max: https://video.akamai.steamstatic.com/store_trailers/257008734/movie_max.mp4?t=1710867348
   highlight: true
 genres:
 - RPG
@@ -161,4 +161,3 @@ support_info:
 tags:
 - rpg
 ---
-

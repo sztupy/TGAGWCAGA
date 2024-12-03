@@ -31,11 +31,11 @@ movies:
   name: Very first
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957127/movie.293x165.jpg?t=1688800407
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256957127/movie480_vp9.webm?t=1688800407
-    max: http://video.akamai.steamstatic.com/store_trailers/256957127/movie_max_vp9.webm?t=1688800407
+    '480': https://video.akamai.steamstatic.com/store_trailers/256957127/movie480_vp9.webm?t=1688800407
+    max: https://video.akamai.steamstatic.com/store_trailers/256957127/movie_max_vp9.webm?t=1688800407
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256957127/movie480.mp4?t=1688800407
-    max: http://video.akamai.steamstatic.com/store_trailers/256957127/movie_max.mp4?t=1688800407
+    '480': https://video.akamai.steamstatic.com/store_trailers/256957127/movie480.mp4?t=1688800407
+    max: https://video.akamai.steamstatic.com/store_trailers/256957127/movie_max.mp4?t=1688800407
   highlight: true
 genres:
 - Adventure
@@ -92,4 +92,3 @@ tags:
 - adventure
 - simulation
 ---
-

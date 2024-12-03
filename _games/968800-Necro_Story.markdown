@@ -38,21 +38,21 @@ movies:
   name: Necro Story - Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062447/b43e22d00ee853744b419210d98bafffad753454/movie_600x337.jpg?t=1728292526
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062447/movie480_vp9.webm?t=1728292526
-    max: http://video.akamai.steamstatic.com/store_trailers/257062447/movie_max_vp9.webm?t=1728292526
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062447/movie480_vp9.webm?t=1728292526
+    max: https://video.akamai.steamstatic.com/store_trailers/257062447/movie_max_vp9.webm?t=1728292526
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062447/movie480.mp4?t=1728292526
-    max: http://video.akamai.steamstatic.com/store_trailers/257062447/movie_max.mp4?t=1728292526
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062447/movie480.mp4?t=1728292526
+    max: https://video.akamai.steamstatic.com/store_trailers/257062447/movie_max.mp4?t=1728292526
   highlight: true
 - id: 257026313
   name: Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026313/movie.293x165.jpg?t=1728703731
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026313/movie480_vp9.webm?t=1728703731
-    max: http://video.akamai.steamstatic.com/store_trailers/257026313/movie_max_vp9.webm?t=1728703731
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026313/movie480_vp9.webm?t=1728703731
+    max: https://video.akamai.steamstatic.com/store_trailers/257026313/movie_max_vp9.webm?t=1728703731
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026313/movie480.mp4?t=1728703731
-    max: http://video.akamai.steamstatic.com/store_trailers/257026313/movie_max.mp4?t=1728703731
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026313/movie480.mp4?t=1728703731
+    max: https://video.akamai.steamstatic.com/store_trailers/257026313/movie_max.mp4?t=1728703731
   highlight: true
 genres:
 - Casual
@@ -142,4 +142,3 @@ tags:
 - rpg
 - strategy
 ---
-

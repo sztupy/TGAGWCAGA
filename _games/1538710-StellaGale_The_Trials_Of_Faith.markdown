@@ -35,21 +35,21 @@ movies:
   name: Cinematic Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999141/movie.293x165.jpg?t=1707157956
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999141/movie480_vp9.webm?t=1707157956
-    max: http://video.akamai.steamstatic.com/store_trailers/256999141/movie_max_vp9.webm?t=1707157956
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999141/movie480_vp9.webm?t=1707157956
+    max: https://video.akamai.steamstatic.com/store_trailers/256999141/movie_max_vp9.webm?t=1707157956
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999141/movie480.mp4?t=1707157956
-    max: http://video.akamai.steamstatic.com/store_trailers/256999141/movie_max.mp4?t=1707157956
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999141/movie480.mp4?t=1707157956
+    max: https://video.akamai.steamstatic.com/store_trailers/256999141/movie_max.mp4?t=1707157956
   highlight: true
 - id: 256988306
   name: Reveal Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256988306/movie.293x165.jpg?t=1702349556
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256988306/movie480_vp9.webm?t=1702349556
-    max: http://video.akamai.steamstatic.com/store_trailers/256988306/movie_max_vp9.webm?t=1702349556
+    '480': https://video.akamai.steamstatic.com/store_trailers/256988306/movie480_vp9.webm?t=1702349556
+    max: https://video.akamai.steamstatic.com/store_trailers/256988306/movie_max_vp9.webm?t=1702349556
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256988306/movie480.mp4?t=1702349556
-    max: http://video.akamai.steamstatic.com/store_trailers/256988306/movie_max.mp4?t=1702349556
+    '480': https://video.akamai.steamstatic.com/store_trailers/256988306/movie480.mp4?t=1702349556
+    max: https://video.akamai.steamstatic.com/store_trailers/256988306/movie_max.mp4?t=1702349556
   highlight: true
 genres:
 - Action
@@ -138,4 +138,3 @@ tags:
 - action
 - adventure
 ---
-

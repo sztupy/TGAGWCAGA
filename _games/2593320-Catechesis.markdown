@@ -34,11 +34,11 @@ movies:
   name: Announcement
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256967978/movie.293x165.jpg?t=1699983721
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256967978/movie480_vp9.webm?t=1699983721
-    max: http://video.akamai.steamstatic.com/store_trailers/256967978/movie_max_vp9.webm?t=1699983721
+    '480': https://video.akamai.steamstatic.com/store_trailers/256967978/movie480_vp9.webm?t=1699983721
+    max: https://video.akamai.steamstatic.com/store_trailers/256967978/movie_max_vp9.webm?t=1699983721
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256967978/movie480.mp4?t=1699983721
-    max: http://video.akamai.steamstatic.com/store_trailers/256967978/movie_max.mp4?t=1699983721
+    '480': https://video.akamai.steamstatic.com/store_trailers/256967978/movie480.mp4?t=1699983721
+    max: https://video.akamai.steamstatic.com/store_trailers/256967978/movie_max.mp4?t=1699983721
   highlight: true
 genres:
 - Adventure
@@ -113,4 +113,3 @@ tags:
 - adventure
 - rpg
 ---
-

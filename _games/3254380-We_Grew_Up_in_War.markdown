@@ -31,11 +31,11 @@ movies:
   name: We Grew Up in War - Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062329/e459605c1d35c08ce3e5477f5b3996530119383f/movie_600x337.jpg?t=1728644815
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062329/movie480_vp9.webm?t=1728644815
-    max: http://video.akamai.steamstatic.com/store_trailers/257062329/movie_max_vp9.webm?t=1728644815
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062329/movie480_vp9.webm?t=1728644815
+    max: https://video.akamai.steamstatic.com/store_trailers/257062329/movie_max_vp9.webm?t=1728644815
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062329/movie480.mp4?t=1728644815
-    max: http://video.akamai.steamstatic.com/store_trailers/257062329/movie_max.mp4?t=1728644815
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062329/movie480.mp4?t=1728644815
+    max: https://video.akamai.steamstatic.com/store_trailers/257062329/movie_max.mp4?t=1728644815
   highlight: true
 genres:
 - Indie
@@ -130,4 +130,3 @@ support_info:
 tags:
 - unspecified
 ---
-

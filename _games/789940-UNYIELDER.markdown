@@ -34,41 +34,41 @@ movies:
   name: BitSummit Drift Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038392/movie.293x165.jpg?t=1721216298
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038392/movie480_vp9.webm?t=1721216298
-    max: http://video.akamai.steamstatic.com/store_trailers/257038392/movie_max_vp9.webm?t=1721216298
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038392/movie480_vp9.webm?t=1721216298
+    max: https://video.akamai.steamstatic.com/store_trailers/257038392/movie_max_vp9.webm?t=1721216298
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038392/movie480.mp4?t=1721216298
-    max: http://video.akamai.steamstatic.com/store_trailers/257038392/movie_max.mp4?t=1721216298
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038392/movie480.mp4?t=1721216298
+    max: https://video.akamai.steamstatic.com/store_trailers/257038392/movie_max.mp4?t=1721216298
   highlight: true
 - id: 256986153
   name: TEASER 02 CUT
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256986153/movie.293x165.jpg?t=1701491743
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256986153/movie480_vp9.webm?t=1701491743
-    max: http://video.akamai.steamstatic.com/store_trailers/256986153/movie_max_vp9.webm?t=1701491743
+    '480': https://video.akamai.steamstatic.com/store_trailers/256986153/movie480_vp9.webm?t=1701491743
+    max: https://video.akamai.steamstatic.com/store_trailers/256986153/movie_max_vp9.webm?t=1701491743
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256986153/movie480.mp4?t=1701491743
-    max: http://video.akamai.steamstatic.com/store_trailers/256986153/movie_max.mp4?t=1701491743
+    '480': https://video.akamai.steamstatic.com/store_trailers/256986153/movie480.mp4?t=1701491743
+    max: https://video.akamai.steamstatic.com/store_trailers/256986153/movie_max.mp4?t=1701491743
   highlight: true
 - id: 256977310
   name: GAMEPLAY PV 2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256977310/movie.293x165.jpg?t=1697979065
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256977310/movie480_vp9.webm?t=1697979065
-    max: http://video.akamai.steamstatic.com/store_trailers/256977310/movie_max_vp9.webm?t=1697979065
+    '480': https://video.akamai.steamstatic.com/store_trailers/256977310/movie480_vp9.webm?t=1697979065
+    max: https://video.akamai.steamstatic.com/store_trailers/256977310/movie_max_vp9.webm?t=1697979065
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256977310/movie480.mp4?t=1697979065
-    max: http://video.akamai.steamstatic.com/store_trailers/256977310/movie_max.mp4?t=1697979065
+    '480': https://video.akamai.steamstatic.com/store_trailers/256977310/movie480.mp4?t=1697979065
+    max: https://video.akamai.steamstatic.com/store_trailers/256977310/movie_max.mp4?t=1697979065
   highlight: true
 - id: 256937642
   name: Teaser Trailer [FEB 2023]
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256937642/movie.293x165.jpg?t=1695811778
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256937642/movie480_vp9.webm?t=1695811778
-    max: http://video.akamai.steamstatic.com/store_trailers/256937642/movie_max_vp9.webm?t=1695811778
+    '480': https://video.akamai.steamstatic.com/store_trailers/256937642/movie480_vp9.webm?t=1695811778
+    max: https://video.akamai.steamstatic.com/store_trailers/256937642/movie_max_vp9.webm?t=1695811778
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256937642/movie480.mp4?t=1695811778
-    max: http://video.akamai.steamstatic.com/store_trailers/256937642/movie_max.mp4?t=1695811778
+    '480': https://video.akamai.steamstatic.com/store_trailers/256937642/movie480.mp4?t=1695811778
+    max: https://video.akamai.steamstatic.com/store_trailers/256937642/movie_max.mp4?t=1695811778
   highlight: false
 genres:
 - Action
@@ -169,4 +169,3 @@ tags:
 - action
 - rpg
 ---
-

@@ -74,22 +74,22 @@ movies:
   name: 'Maseylia : Echoes of the Past - Announcement trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050555/0bde007fd4a63ad36bd4c697c406d02b2870e0aa/movie_600x337.jpg?t=1732315047
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257050555/movie480_vp9.webm?t=1732315047
-    max: http://video.akamai.steamstatic.com/store_trailers/257050555/movie_max_vp9.webm?t=1732315047
+    '480': https://video.akamai.steamstatic.com/store_trailers/257050555/movie480_vp9.webm?t=1732315047
+    max: https://video.akamai.steamstatic.com/store_trailers/257050555/movie_max_vp9.webm?t=1732315047
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257050555/movie480.mp4?t=1732315047
-    max: http://video.akamai.steamstatic.com/store_trailers/257050555/movie_max.mp4?t=1732315047
+    '480': https://video.akamai.steamstatic.com/store_trailers/257050555/movie480.mp4?t=1732315047
+    max: https://video.akamai.steamstatic.com/store_trailers/257050555/movie_max.mp4?t=1732315047
   highlight: true
 - id: 257075971
   name: Thanks to your feedback during Steam Fest, here's what we've made after a
     month's work!
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075971/44c6977f12ce09e706cbee53216ee42f71f705c3/movie_600x337.jpg?t=1732313896
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075971/movie480_vp9.webm?t=1732313896
-    max: http://video.akamai.steamstatic.com/store_trailers/257075971/movie_max_vp9.webm?t=1732313896
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075971/movie480_vp9.webm?t=1732313896
+    max: https://video.akamai.steamstatic.com/store_trailers/257075971/movie_max_vp9.webm?t=1732313896
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075971/movie480.mp4?t=1732313896
-    max: http://video.akamai.steamstatic.com/store_trailers/257075971/movie_max.mp4?t=1732313896
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075971/movie480.mp4?t=1732313896
+    max: https://video.akamai.steamstatic.com/store_trailers/257075971/movie_max.mp4?t=1732313896
   highlight: true
 genres:
 - Adventure
@@ -155,4 +155,3 @@ support_info:
 tags:
 - adventure
 ---
-

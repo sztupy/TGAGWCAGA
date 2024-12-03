@@ -35,11 +35,11 @@ movies:
   name: Becoming Saint - Announcement teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038315/movie.293x165.jpg?t=1721325492
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038315/movie480_vp9.webm?t=1721325492
-    max: http://video.akamai.steamstatic.com/store_trailers/257038315/movie_max_vp9.webm?t=1721325492
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038315/movie480_vp9.webm?t=1721325492
+    max: https://video.akamai.steamstatic.com/store_trailers/257038315/movie_max_vp9.webm?t=1721325492
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038315/movie480.mp4?t=1721325492
-    max: http://video.akamai.steamstatic.com/store_trailers/257038315/movie_max.mp4?t=1721325492
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038315/movie480.mp4?t=1721325492
+    max: https://video.akamai.steamstatic.com/store_trailers/257038315/movie_max.mp4?t=1721325492
   highlight: true
 genres:
 - Indie
@@ -121,4 +121,3 @@ support_info:
 tags:
 - strategy
 ---
-

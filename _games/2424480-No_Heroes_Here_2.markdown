@@ -35,11 +35,11 @@ movies:
   name: No Heroes Here Early Acess Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069460/8eedbd987d0cf9f7da98708583af0211a8401517/movie_600x337.jpg?t=1730224516
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069460/movie480_vp9.webm?t=1730224516
-    max: http://video.akamai.steamstatic.com/store_trailers/257069460/movie_max_vp9.webm?t=1730224516
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069460/movie480_vp9.webm?t=1730224516
+    max: https://video.akamai.steamstatic.com/store_trailers/257069460/movie_max_vp9.webm?t=1730224516
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069460/movie480.mp4?t=1730224516
-    max: http://video.akamai.steamstatic.com/store_trailers/257069460/movie_max.mp4?t=1730224516
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069460/movie480.mp4?t=1730224516
+    max: https://video.akamai.steamstatic.com/store_trailers/257069460/movie_max.mp4?t=1730224516
   highlight: true
 genres:
 - Action
@@ -132,4 +132,3 @@ tags:
 - simulation
 - strategy
 ---
-

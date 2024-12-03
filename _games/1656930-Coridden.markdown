@@ -50,21 +50,21 @@ movies:
   name: Coridden - Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997394/movie.293x165.jpg?t=1708698804
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997394/movie480_vp9.webm?t=1708698804
-    max: http://video.akamai.steamstatic.com/store_trailers/256997394/movie_max_vp9.webm?t=1708698804
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997394/movie480_vp9.webm?t=1708698804
+    max: https://video.akamai.steamstatic.com/store_trailers/256997394/movie_max_vp9.webm?t=1708698804
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997394/movie480.mp4?t=1708698804
-    max: http://video.akamai.steamstatic.com/store_trailers/256997394/movie_max.mp4?t=1708698804
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997394/movie480.mp4?t=1708698804
+    max: https://video.akamai.steamstatic.com/store_trailers/256997394/movie_max.mp4?t=1708698804
   highlight: true
 - id: 256936059
   name: Coridden Updated Trailer 2023
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256936059/movie.293x165.jpg?t=1709025879
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256936059/movie480_vp9.webm?t=1709025879
-    max: http://video.akamai.steamstatic.com/store_trailers/256936059/movie_max_vp9.webm?t=1709025879
+    '480': https://video.akamai.steamstatic.com/store_trailers/256936059/movie480_vp9.webm?t=1709025879
+    max: https://video.akamai.steamstatic.com/store_trailers/256936059/movie_max_vp9.webm?t=1709025879
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256936059/movie480.mp4?t=1709025879
-    max: http://video.akamai.steamstatic.com/store_trailers/256936059/movie_max.mp4?t=1709025879
+    '480': https://video.akamai.steamstatic.com/store_trailers/256936059/movie480.mp4?t=1709025879
+    max: https://video.akamai.steamstatic.com/store_trailers/256936059/movie_max.mp4?t=1709025879
   highlight: true
 genres:
 - Action
@@ -194,4 +194,3 @@ tags:
 - adventure
 - rpg
 ---
-

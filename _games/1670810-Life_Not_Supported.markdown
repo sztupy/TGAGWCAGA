@@ -47,21 +47,21 @@ movies:
   name: Gameplay Trailer for V0.5
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257027363/movie.293x165.jpg?t=1718357623
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257027363/movie480_vp9.webm?t=1718357623
-    max: http://video.akamai.steamstatic.com/store_trailers/257027363/movie_max_vp9.webm?t=1718357623
+    '480': https://video.akamai.steamstatic.com/store_trailers/257027363/movie480_vp9.webm?t=1718357623
+    max: https://video.akamai.steamstatic.com/store_trailers/257027363/movie_max_vp9.webm?t=1718357623
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257027363/movie480.mp4?t=1718357623
-    max: http://video.akamai.steamstatic.com/store_trailers/257027363/movie_max.mp4?t=1718357623
+    '480': https://video.akamai.steamstatic.com/store_trailers/257027363/movie480.mp4?t=1718357623
+    max: https://video.akamai.steamstatic.com/store_trailers/257027363/movie_max.mp4?t=1718357623
   highlight: true
 - id: 256946717
   name: "(OLD & OUTDATED) Gameplay Trailer for V0.03.1"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256946717/movie.293x165.jpg?t=1717168616
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256946717/movie480_vp9.webm?t=1717168616
-    max: http://video.akamai.steamstatic.com/store_trailers/256946717/movie_max_vp9.webm?t=1717168616
+    '480': https://video.akamai.steamstatic.com/store_trailers/256946717/movie480_vp9.webm?t=1717168616
+    max: https://video.akamai.steamstatic.com/store_trailers/256946717/movie_max_vp9.webm?t=1717168616
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256946717/movie480.mp4?t=1717168616
-    max: http://video.akamai.steamstatic.com/store_trailers/256946717/movie_max.mp4?t=1717168616
+    '480': https://video.akamai.steamstatic.com/store_trailers/256946717/movie480.mp4?t=1717168616
+    max: https://video.akamai.steamstatic.com/store_trailers/256946717/movie_max.mp4?t=1717168616
   highlight: false
 genres:
 - Adventure
@@ -164,4 +164,3 @@ tags:
 - adventure
 - simulation
 ---
-

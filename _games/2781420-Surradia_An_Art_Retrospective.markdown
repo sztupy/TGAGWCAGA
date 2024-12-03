@@ -29,11 +29,11 @@ movies:
   name: Surradia Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257003535/movie.293x165.jpg?t=1708928628
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257003535/movie480_vp9.webm?t=1708928628
-    max: http://video.akamai.steamstatic.com/store_trailers/257003535/movie_max_vp9.webm?t=1708928628
+    '480': https://video.akamai.steamstatic.com/store_trailers/257003535/movie480_vp9.webm?t=1708928628
+    max: https://video.akamai.steamstatic.com/store_trailers/257003535/movie_max_vp9.webm?t=1708928628
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257003535/movie480.mp4?t=1708928628
-    max: http://video.akamai.steamstatic.com/store_trailers/257003535/movie_max.mp4?t=1708928628
+    '480': https://video.akamai.steamstatic.com/store_trailers/257003535/movie480.mp4?t=1708928628
+    max: https://video.akamai.steamstatic.com/store_trailers/257003535/movie_max.mp4?t=1708928628
   highlight: true
 genres:
 - Adventure
@@ -88,4 +88,3 @@ support_info:
 tags:
 - adventure
 ---
-

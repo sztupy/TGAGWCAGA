@@ -53,11 +53,11 @@ movies:
   name: Reviver_trailer_EN
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256995822/cee9ffaf3af8ab6525af4a5697864228e551bbf0/movie_600x337.jpg?t=1729672156
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256995822/movie480_vp9.webm?t=1729672156
-    max: http://video.akamai.steamstatic.com/store_trailers/256995822/movie_max_vp9.webm?t=1729672156
+    '480': https://video.akamai.steamstatic.com/store_trailers/256995822/movie480_vp9.webm?t=1729672156
+    max: https://video.akamai.steamstatic.com/store_trailers/256995822/movie_max_vp9.webm?t=1729672156
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256995822/movie480.mp4?t=1729672156
-    max: http://video.akamai.steamstatic.com/store_trailers/256995822/movie_max.mp4?t=1729672156
+    '480': https://video.akamai.steamstatic.com/store_trailers/256995822/movie480.mp4?t=1729672156
+    max: https://video.akamai.steamstatic.com/store_trailers/256995822/movie_max.mp4?t=1729672156
   highlight: true
 genres:
 - Adventure
@@ -158,4 +158,3 @@ tags:
 - casual
 - strategy
 ---
-

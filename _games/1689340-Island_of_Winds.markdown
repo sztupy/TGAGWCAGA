@@ -107,21 +107,21 @@ movies:
   name: Island of Winds — Release Window Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048807/ec5301f9d974dde75029705209823cf4f5dfab0c/movie_600x337.jpg?t=1730375087
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048807/movie480_vp9.webm?t=1730375087
-    max: http://video.akamai.steamstatic.com/store_trailers/257048807/movie_max_vp9.webm?t=1730375087
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048807/movie480_vp9.webm?t=1730375087
+    max: https://video.akamai.steamstatic.com/store_trailers/257048807/movie_max_vp9.webm?t=1730375087
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048807/movie480.mp4?t=1730375087
-    max: http://video.akamai.steamstatic.com/store_trailers/257048807/movie_max.mp4?t=1730375087
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048807/movie480.mp4?t=1730375087
+    max: https://video.akamai.steamstatic.com/store_trailers/257048807/movie_max.mp4?t=1730375087
   highlight: true
 - id: 257057672
   name: Island of Winds — Gamescom 2024 Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057672/75d1ac8162619a42f2e1130eb92c5e30a43b0165/movie_600x337.jpg?t=1730375082
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257057672/movie480_vp9.webm?t=1730375082
-    max: http://video.akamai.steamstatic.com/store_trailers/257057672/movie_max_vp9.webm?t=1730375082
+    '480': https://video.akamai.steamstatic.com/store_trailers/257057672/movie480_vp9.webm?t=1730375082
+    max: https://video.akamai.steamstatic.com/store_trailers/257057672/movie_max_vp9.webm?t=1730375082
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257057672/movie480.mp4?t=1730375082
-    max: http://video.akamai.steamstatic.com/store_trailers/257057672/movie_max.mp4?t=1730375082
+    '480': https://video.akamai.steamstatic.com/store_trailers/257057672/movie480.mp4?t=1730375082
+    max: https://video.akamai.steamstatic.com/store_trailers/257057672/movie_max.mp4?t=1730375082
   highlight: true
 genres:
 - Adventure
@@ -237,4 +237,3 @@ support_info:
 tags:
 - adventure
 ---
-

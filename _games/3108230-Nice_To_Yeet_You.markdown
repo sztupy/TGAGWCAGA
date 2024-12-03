@@ -30,21 +30,21 @@ movies:
   name: Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062510/aca6aa646f38b2954735dbd19fc5e34e30851258/movie_600x337.jpg?t=1728311280
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062510/movie480_vp9.webm?t=1728311280
-    max: http://video.akamai.steamstatic.com/store_trailers/257062510/movie_max_vp9.webm?t=1728311280
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062510/movie480_vp9.webm?t=1728311280
+    max: https://video.akamai.steamstatic.com/store_trailers/257062510/movie_max_vp9.webm?t=1728311280
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062510/movie480.mp4?t=1728311280
-    max: http://video.akamai.steamstatic.com/store_trailers/257062510/movie_max.mp4?t=1728311280
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062510/movie480.mp4?t=1728311280
+    max: https://video.akamai.steamstatic.com/store_trailers/257062510/movie_max.mp4?t=1728311280
   highlight: true
 - id: 257060121
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060121/aca6aa646f38b2954735dbd19fc5e34e30851258/movie_600x337.jpg?t=1727817034
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060121/movie480_vp9.webm?t=1727817034
-    max: http://video.akamai.steamstatic.com/store_trailers/257060121/movie_max_vp9.webm?t=1727817034
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060121/movie480_vp9.webm?t=1727817034
+    max: https://video.akamai.steamstatic.com/store_trailers/257060121/movie_max_vp9.webm?t=1727817034
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060121/movie480.mp4?t=1727817034
-    max: http://video.akamai.steamstatic.com/store_trailers/257060121/movie_max.mp4?t=1727817034
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060121/movie480.mp4?t=1727817034
+    max: https://video.akamai.steamstatic.com/store_trailers/257060121/movie_max.mp4?t=1727817034
   highlight: true
 genres:
 - Action
@@ -107,4 +107,3 @@ tags:
 - action
 - casual
 ---
-

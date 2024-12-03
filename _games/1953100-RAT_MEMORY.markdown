@@ -41,41 +41,41 @@ movies:
   name: Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950849/movie.293x165.jpg?t=1685912864
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256950849/movie480_vp9.webm?t=1685912864
-    max: http://video.akamai.steamstatic.com/store_trailers/256950849/movie_max_vp9.webm?t=1685912864
+    '480': https://video.akamai.steamstatic.com/store_trailers/256950849/movie480_vp9.webm?t=1685912864
+    max: https://video.akamai.steamstatic.com/store_trailers/256950849/movie_max_vp9.webm?t=1685912864
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256950849/movie480.mp4?t=1685912864
-    max: http://video.akamai.steamstatic.com/store_trailers/256950849/movie_max.mp4?t=1685912864
+    '480': https://video.akamai.steamstatic.com/store_trailers/256950849/movie480.mp4?t=1685912864
+    max: https://video.akamai.steamstatic.com/store_trailers/256950849/movie_max.mp4?t=1685912864
   highlight: true
 - id: 256936600
   name: DEMO 3.0 UPDATE
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256936600/movie.293x165.jpg?t=1683121074
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256936600/movie480_vp9.webm?t=1683121074
-    max: http://video.akamai.steamstatic.com/store_trailers/256936600/movie_max_vp9.webm?t=1683121074
+    '480': https://video.akamai.steamstatic.com/store_trailers/256936600/movie480_vp9.webm?t=1683121074
+    max: https://video.akamai.steamstatic.com/store_trailers/256936600/movie_max_vp9.webm?t=1683121074
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256936600/movie480.mp4?t=1683121074
-    max: http://video.akamai.steamstatic.com/store_trailers/256936600/movie_max.mp4?t=1683121074
+    '480': https://video.akamai.steamstatic.com/store_trailers/256936600/movie480.mp4?t=1683121074
+    max: https://video.akamai.steamstatic.com/store_trailers/256936600/movie_max.mp4?t=1683121074
   highlight: true
 - id: 256915933
   name: Gameplay teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256915933/movie.293x165.jpg?t=1683121065
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256915933/movie480_vp9.webm?t=1683121065
-    max: http://video.akamai.steamstatic.com/store_trailers/256915933/movie_max_vp9.webm?t=1683121065
+    '480': https://video.akamai.steamstatic.com/store_trailers/256915933/movie480_vp9.webm?t=1683121065
+    max: https://video.akamai.steamstatic.com/store_trailers/256915933/movie_max_vp9.webm?t=1683121065
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256915933/movie480.mp4?t=1683121065
-    max: http://video.akamai.steamstatic.com/store_trailers/256915933/movie_max.mp4?t=1683121065
+    '480': https://video.akamai.steamstatic.com/store_trailers/256915933/movie480.mp4?t=1683121065
+    max: https://video.akamai.steamstatic.com/store_trailers/256915933/movie_max.mp4?t=1683121065
   highlight: true
 - id: 256904833
   name: DEMO 2.0 UPDATE
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256904833/movie.293x165.jpg?t=1683121081
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256904833/movie480_vp9.webm?t=1683121081
-    max: http://video.akamai.steamstatic.com/store_trailers/256904833/movie_max_vp9.webm?t=1683121081
+    '480': https://video.akamai.steamstatic.com/store_trailers/256904833/movie480_vp9.webm?t=1683121081
+    max: https://video.akamai.steamstatic.com/store_trailers/256904833/movie_max_vp9.webm?t=1683121081
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256904833/movie480.mp4?t=1683121081
-    max: http://video.akamai.steamstatic.com/store_trailers/256904833/movie_max.mp4?t=1683121081
+    '480': https://video.akamai.steamstatic.com/store_trailers/256904833/movie480.mp4?t=1683121081
+    max: https://video.akamai.steamstatic.com/store_trailers/256904833/movie_max.mp4?t=1683121081
   highlight: true
 genres:
 - Adventure
@@ -153,4 +153,3 @@ tags:
 - adventure
 - simulation
 ---
-

@@ -104,21 +104,21 @@ movies:
   name: Gameplay Trailer 1.01
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256967699/movie.293x165.jpg?t=1693846702
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256967699/movie480_vp9.webm?t=1693846702
-    max: http://video.akamai.steamstatic.com/store_trailers/256967699/movie_max_vp9.webm?t=1693846702
+    '480': https://video.akamai.steamstatic.com/store_trailers/256967699/movie480_vp9.webm?t=1693846702
+    max: https://video.akamai.steamstatic.com/store_trailers/256967699/movie_max_vp9.webm?t=1693846702
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256967699/movie480.mp4?t=1693846702
-    max: http://video.akamai.steamstatic.com/store_trailers/256967699/movie_max.mp4?t=1693846702
+    '480': https://video.akamai.steamstatic.com/store_trailers/256967699/movie480.mp4?t=1693846702
+    max: https://video.akamai.steamstatic.com/store_trailers/256967699/movie_max.mp4?t=1693846702
   highlight: true
 - id: 257026337
   name: Final Profit Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026337/movie.293x165.jpg?t=1716898513
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026337/movie480_vp9.webm?t=1716898513
-    max: http://video.akamai.steamstatic.com/store_trailers/257026337/movie_max_vp9.webm?t=1716898513
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026337/movie480_vp9.webm?t=1716898513
+    max: https://video.akamai.steamstatic.com/store_trailers/257026337/movie_max_vp9.webm?t=1716898513
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026337/movie480.mp4?t=1716898513
-    max: http://video.akamai.steamstatic.com/store_trailers/257026337/movie_max.mp4?t=1716898513
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026337/movie480.mp4?t=1716898513
+    max: https://video.akamai.steamstatic.com/store_trailers/257026337/movie_max.mp4?t=1716898513
   highlight: true
 genres:
 - Casual
@@ -269,4 +269,3 @@ tags:
 - rpg
 - simulation
 ---
-

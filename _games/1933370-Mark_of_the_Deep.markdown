@@ -34,11 +34,11 @@ movies:
   name: Mark of the Deep Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257009526/movie.293x165.jpg?t=1710910118
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009526/movie480_vp9.webm?t=1710910118
-    max: http://video.akamai.steamstatic.com/store_trailers/257009526/movie_max_vp9.webm?t=1710910118
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009526/movie480_vp9.webm?t=1710910118
+    max: https://video.akamai.steamstatic.com/store_trailers/257009526/movie_max_vp9.webm?t=1710910118
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009526/movie480.mp4?t=1710910118
-    max: http://video.akamai.steamstatic.com/store_trailers/257009526/movie_max.mp4?t=1710910118
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009526/movie480.mp4?t=1710910118
+    max: https://video.akamai.steamstatic.com/store_trailers/257009526/movie_max.mp4?t=1710910118
   highlight: true
 genres:
 - Action
@@ -138,4 +138,3 @@ tags:
 - action
 - adventure
 ---
-

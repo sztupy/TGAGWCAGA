@@ -37,11 +37,11 @@ movies:
   name: Bloody Horror Plant Trailer 1
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256927898/movie.293x165.jpg?t=1676481209
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256927898/movie480_vp9.webm?t=1676481209
-    max: http://video.akamai.steamstatic.com/store_trailers/256927898/movie_max_vp9.webm?t=1676481209
+    '480': https://video.akamai.steamstatic.com/store_trailers/256927898/movie480_vp9.webm?t=1676481209
+    max: https://video.akamai.steamstatic.com/store_trailers/256927898/movie_max_vp9.webm?t=1676481209
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256927898/movie480.mp4?t=1676481209
-    max: http://video.akamai.steamstatic.com/store_trailers/256927898/movie_max.mp4?t=1676481209
+    '480': https://video.akamai.steamstatic.com/store_trailers/256927898/movie480.mp4?t=1676481209
+    max: https://video.akamai.steamstatic.com/store_trailers/256927898/movie_max.mp4?t=1676481209
   highlight: true
 genres:
 - Adventure
@@ -137,4 +137,3 @@ tags:
 - adventure
 - casual
 ---
-

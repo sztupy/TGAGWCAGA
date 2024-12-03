@@ -62,11 +62,11 @@ movies:
   name: Annoucement trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062821/1dad61eb3d8e9c48dd7239ed0323c5d9102c6cc0/movie_600x337.jpg?t=1732207755
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062821/movie480_vp9.webm?t=1732207755
-    max: http://video.akamai.steamstatic.com/store_trailers/257062821/movie_max_vp9.webm?t=1732207755
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062821/movie480_vp9.webm?t=1732207755
+    max: https://video.akamai.steamstatic.com/store_trailers/257062821/movie_max_vp9.webm?t=1732207755
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062821/movie480.mp4?t=1732207755
-    max: http://video.akamai.steamstatic.com/store_trailers/257062821/movie_max.mp4?t=1732207755
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062821/movie480.mp4?t=1732207755
+    max: https://video.akamai.steamstatic.com/store_trailers/257062821/movie_max.mp4?t=1732207755
   highlight: true
 genres:
 - Action
@@ -162,4 +162,3 @@ support_info:
 tags:
 - action
 ---
-

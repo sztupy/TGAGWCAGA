@@ -37,21 +37,21 @@ movies:
   name: Reveal Teaser Video
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016321/movie.293x165.jpg?t=1713876984
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016321/movie480_vp9.webm?t=1713876984
-    max: http://video.akamai.steamstatic.com/store_trailers/257016321/movie_max_vp9.webm?t=1713876984
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016321/movie480_vp9.webm?t=1713876984
+    max: https://video.akamai.steamstatic.com/store_trailers/257016321/movie_max_vp9.webm?t=1713876984
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016321/movie480.mp4?t=1713876984
-    max: http://video.akamai.steamstatic.com/store_trailers/257016321/movie_max.mp4?t=1713876984
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016321/movie480.mp4?t=1713876984
+    max: https://video.akamai.steamstatic.com/store_trailers/257016321/movie_max.mp4?t=1713876984
   highlight: true
 - id: 257002221
   name: Gameplay Video
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257002221/movie.293x165.jpg?t=1713876995
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257002221/movie480_vp9.webm?t=1713876995
-    max: http://video.akamai.steamstatic.com/store_trailers/257002221/movie_max_vp9.webm?t=1713876995
+    '480': https://video.akamai.steamstatic.com/store_trailers/257002221/movie480_vp9.webm?t=1713876995
+    max: https://video.akamai.steamstatic.com/store_trailers/257002221/movie_max_vp9.webm?t=1713876995
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257002221/movie480.mp4?t=1713876995
-    max: http://video.akamai.steamstatic.com/store_trailers/257002221/movie_max.mp4?t=1713876995
+    '480': https://video.akamai.steamstatic.com/store_trailers/257002221/movie480.mp4?t=1713876995
+    max: https://video.akamai.steamstatic.com/store_trailers/257002221/movie_max.mp4?t=1713876995
   highlight: true
 genres:
 - Indie
@@ -123,4 +123,3 @@ support_info:
 tags:
 - unspecified
 ---
-

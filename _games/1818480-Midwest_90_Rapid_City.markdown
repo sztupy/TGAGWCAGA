@@ -32,11 +32,11 @@ movies:
   name: M90AlphaTrailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256859966/movie.293x165.jpg?t=1691158710
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256859966/movie480_vp9.webm?t=1691158710
-    max: http://video.akamai.steamstatic.com/store_trailers/256859966/movie_max_vp9.webm?t=1691158710
+    '480': https://video.akamai.steamstatic.com/store_trailers/256859966/movie480_vp9.webm?t=1691158710
+    max: https://video.akamai.steamstatic.com/store_trailers/256859966/movie_max_vp9.webm?t=1691158710
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256859966/movie480.mp4?t=1691158710
-    max: http://video.akamai.steamstatic.com/store_trailers/256859966/movie_max.mp4?t=1691158710
+    '480': https://video.akamai.steamstatic.com/store_trailers/256859966/movie480.mp4?t=1691158710
+    max: https://video.akamai.steamstatic.com/store_trailers/256859966/movie_max.mp4?t=1691158710
   highlight: true
 genres:
 - Indie
@@ -138,4 +138,3 @@ tags:
 - simulation
 - strategy
 ---
-

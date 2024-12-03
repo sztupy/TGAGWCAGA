@@ -45,21 +45,21 @@ movies:
   name: Alruna Second Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025697/movie.293x165.jpg?t=1716626440
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025697/movie480_vp9.webm?t=1716626440
-    max: http://video.akamai.steamstatic.com/store_trailers/257025697/movie_max_vp9.webm?t=1716626440
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025697/movie480_vp9.webm?t=1716626440
+    max: https://video.akamai.steamstatic.com/store_trailers/257025697/movie_max_vp9.webm?t=1716626440
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025697/movie480.mp4?t=1716626440
-    max: http://video.akamai.steamstatic.com/store_trailers/257025697/movie_max.mp4?t=1716626440
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025697/movie480.mp4?t=1716626440
+    max: https://video.akamai.steamstatic.com/store_trailers/257025697/movie_max.mp4?t=1716626440
   highlight: true
 - id: 256997891
   name: Alruna First Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997891/movie.293x165.jpg?t=1706776987
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997891/movie480_vp9.webm?t=1706776987
-    max: http://video.akamai.steamstatic.com/store_trailers/256997891/movie_max_vp9.webm?t=1706776987
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997891/movie480_vp9.webm?t=1706776987
+    max: https://video.akamai.steamstatic.com/store_trailers/256997891/movie_max_vp9.webm?t=1706776987
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997891/movie480.mp4?t=1706776987
-    max: http://video.akamai.steamstatic.com/store_trailers/256997891/movie_max.mp4?t=1706776987
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997891/movie480.mp4?t=1706776987
+    max: https://video.akamai.steamstatic.com/store_trailers/256997891/movie_max.mp4?t=1706776987
   highlight: true
 genres:
 - Adventure
@@ -142,4 +142,3 @@ support_info:
 tags:
 - adventure
 ---
-

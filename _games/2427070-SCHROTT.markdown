@@ -36,11 +36,11 @@ movies:
   name: "⚙️ This is SCHROTT \U0001F529"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999629/movie.293x165.jpg?t=1718813156
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999629/movie480_vp9.webm?t=1718813156
-    max: http://video.akamai.steamstatic.com/store_trailers/256999629/movie_max_vp9.webm?t=1718813156
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999629/movie480_vp9.webm?t=1718813156
+    max: https://video.akamai.steamstatic.com/store_trailers/256999629/movie_max_vp9.webm?t=1718813156
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999629/movie480.mp4?t=1718813156
-    max: http://video.akamai.steamstatic.com/store_trailers/256999629/movie_max.mp4?t=1718813156
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999629/movie480.mp4?t=1718813156
+    max: https://video.akamai.steamstatic.com/store_trailers/256999629/movie_max.mp4?t=1718813156
   highlight: true
 genres:
 - Action
@@ -119,4 +119,3 @@ support_info:
 tags:
 - action
 ---
-

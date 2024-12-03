@@ -30,11 +30,11 @@ movies:
   name: Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066183/adcf5278a29d4bde435f807c6b75a497cb435440/movie_600x337.jpg?t=1729180130
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066183/movie480_vp9.webm?t=1729180130
-    max: http://video.akamai.steamstatic.com/store_trailers/257066183/movie_max_vp9.webm?t=1729180130
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066183/movie480_vp9.webm?t=1729180130
+    max: https://video.akamai.steamstatic.com/store_trailers/257066183/movie_max_vp9.webm?t=1729180130
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066183/movie480.mp4?t=1729180130
-    max: http://video.akamai.steamstatic.com/store_trailers/257066183/movie_max.mp4?t=1729180130
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066183/movie480.mp4?t=1729180130
+    max: https://video.akamai.steamstatic.com/store_trailers/257066183/movie_max.mp4?t=1729180130
   highlight: true
 genres:
 - Action
@@ -113,4 +113,3 @@ tags:
 - action
 - rpg
 ---
-

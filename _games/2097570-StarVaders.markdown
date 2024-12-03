@@ -38,21 +38,21 @@ movies:
   name: Star★Vaders Full Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064805/55737d429b58dd58a45991a909e3423d23331982/movie_600x337.jpg?t=1728886494
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064805/movie480_vp9.webm?t=1728886494
-    max: http://video.akamai.steamstatic.com/store_trailers/257064805/movie_max_vp9.webm?t=1728886494
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064805/movie480_vp9.webm?t=1728886494
+    max: https://video.akamai.steamstatic.com/store_trailers/257064805/movie_max_vp9.webm?t=1728886494
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064805/movie480.mp4?t=1728886494
-    max: http://video.akamai.steamstatic.com/store_trailers/257064805/movie_max.mp4?t=1728886494
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064805/movie480.mp4?t=1728886494
+    max: https://video.akamai.steamstatic.com/store_trailers/257064805/movie_max.mp4?t=1728886494
   highlight: true
 - id: 257029566
   name: Star★Vaders Mini-Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029566/movie.293x165.jpg?t=1728886489
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029566/movie480_vp9.webm?t=1728886489
-    max: http://video.akamai.steamstatic.com/store_trailers/257029566/movie_max_vp9.webm?t=1728886489
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029566/movie480_vp9.webm?t=1728886489
+    max: https://video.akamai.steamstatic.com/store_trailers/257029566/movie_max_vp9.webm?t=1728886489
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029566/movie480.mp4?t=1728886489
-    max: http://video.akamai.steamstatic.com/store_trailers/257029566/movie_max.mp4?t=1728886489
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029566/movie480.mp4?t=1728886489
+    max: https://video.akamai.steamstatic.com/store_trailers/257029566/movie_max.mp4?t=1728886489
   highlight: true
 genres:
 - Indie
@@ -163,4 +163,3 @@ support_info:
 tags:
 - strategy
 ---
-

@@ -41,11 +41,11 @@ movies:
   name: Gameplay Trailer - A Tactical Turn-Based RPG, Hidden Pass
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076744/ef03b5a42de91a9dd401b672651c209b36b9292c/movie_600x337.jpg?t=1732701466
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076744/movie480_vp9.webm?t=1732701466
-    max: http://video.akamai.steamstatic.com/store_trailers/257076744/movie_max_vp9.webm?t=1732701466
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076744/movie480_vp9.webm?t=1732701466
+    max: https://video.akamai.steamstatic.com/store_trailers/257076744/movie_max_vp9.webm?t=1732701466
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076744/movie480.mp4?t=1732701466
-    max: http://video.akamai.steamstatic.com/store_trailers/257076744/movie_max.mp4?t=1732701466
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076744/movie480.mp4?t=1732701466
+    max: https://video.akamai.steamstatic.com/store_trailers/257076744/movie_max.mp4?t=1732701466
   highlight: true
 genres:
 - Indie
@@ -152,4 +152,3 @@ tags:
 - rpg
 - strategy
 ---
-

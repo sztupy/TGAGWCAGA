@@ -35,21 +35,21 @@ movies:
   name: Vultures - Indie Horror Showcase 2024
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068851/42fe47b516bfa18d47cd665d479394dcc3f8efbc/movie_600x337.jpg?t=1730298686
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068851/movie480_vp9.webm?t=1730298686
-    max: http://video.akamai.steamstatic.com/store_trailers/257068851/movie_max_vp9.webm?t=1730298686
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068851/movie480_vp9.webm?t=1730298686
+    max: https://video.akamai.steamstatic.com/store_trailers/257068851/movie_max_vp9.webm?t=1730298686
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068851/movie480.mp4?t=1730298686
-    max: http://video.akamai.steamstatic.com/store_trailers/257068851/movie_max.mp4?t=1730298686
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068851/movie480.mp4?t=1730298686
+    max: https://video.akamai.steamstatic.com/store_trailers/257068851/movie_max.mp4?t=1730298686
   highlight: true
 - id: 257038748
   name: Vultures - TactiCon Gameplay trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038748/movie.293x165.jpg?t=1721325229
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038748/movie480_vp9.webm?t=1721325229
-    max: http://video.akamai.steamstatic.com/store_trailers/257038748/movie_max_vp9.webm?t=1721325229
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038748/movie480_vp9.webm?t=1721325229
+    max: https://video.akamai.steamstatic.com/store_trailers/257038748/movie_max_vp9.webm?t=1721325229
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038748/movie480.mp4?t=1721325229
-    max: http://video.akamai.steamstatic.com/store_trailers/257038748/movie_max.mp4?t=1721325229
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038748/movie480.mp4?t=1721325229
+    max: https://video.akamai.steamstatic.com/store_trailers/257038748/movie_max.mp4?t=1721325229
   highlight: true
 genres:
 - Action
@@ -146,4 +146,3 @@ tags:
 - rpg
 - strategy
 ---
-

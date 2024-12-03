@@ -37,41 +37,41 @@ movies:
   name: Lords of Ravage - Official Demo Announcement Trailer 2024
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029878/movie.293x165.jpg?t=1718040095
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029878/movie480_vp9.webm?t=1718040095
-    max: http://video.akamai.steamstatic.com/store_trailers/257029878/movie_max_vp9.webm?t=1718040095
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029878/movie480_vp9.webm?t=1718040095
+    max: https://video.akamai.steamstatic.com/store_trailers/257029878/movie_max_vp9.webm?t=1718040095
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029878/movie480.mp4?t=1718040095
-    max: http://video.akamai.steamstatic.com/store_trailers/257029878/movie_max.mp4?t=1718040095
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029878/movie480.mp4?t=1718040095
+    max: https://video.akamai.steamstatic.com/store_trailers/257029878/movie_max.mp4?t=1718040095
   highlight: true
 - id: 257019400
   name: Lords of Ravage - Dread Knights 2023
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257019400/movie.293x165.jpg?t=1718040099
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257019400/movie480_vp9.webm?t=1718040099
-    max: http://video.akamai.steamstatic.com/store_trailers/257019400/movie_max_vp9.webm?t=1718040099
+    '480': https://video.akamai.steamstatic.com/store_trailers/257019400/movie480_vp9.webm?t=1718040099
+    max: https://video.akamai.steamstatic.com/store_trailers/257019400/movie_max_vp9.webm?t=1718040099
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257019400/movie480.mp4?t=1718040099
-    max: http://video.akamai.steamstatic.com/store_trailers/257019400/movie_max.mp4?t=1718040099
+    '480': https://video.akamai.steamstatic.com/store_trailers/257019400/movie480.mp4?t=1718040099
+    max: https://video.akamai.steamstatic.com/store_trailers/257019400/movie_max.mp4?t=1718040099
   highlight: true
 - id: 256983118
   name: Announcement 2023
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256983118/movie.293x165.jpg?t=1700179903
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256983118/movie480_vp9.webm?t=1700179903
-    max: http://video.akamai.steamstatic.com/store_trailers/256983118/movie_max_vp9.webm?t=1700179903
+    '480': https://video.akamai.steamstatic.com/store_trailers/256983118/movie480_vp9.webm?t=1700179903
+    max: https://video.akamai.steamstatic.com/store_trailers/256983118/movie_max_vp9.webm?t=1700179903
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256983118/movie480.mp4?t=1700179903
-    max: http://video.akamai.steamstatic.com/store_trailers/256983118/movie_max.mp4?t=1700179903
+    '480': https://video.akamai.steamstatic.com/store_trailers/256983118/movie480.mp4?t=1700179903
+    max: https://video.akamai.steamstatic.com/store_trailers/256983118/movie_max.mp4?t=1700179903
   highlight: false
 - id: 256901793
   name: Lords_of_Ravage_Gameplay_Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256901793/movie.293x165.jpg?t=1713901383
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256901793/movie480_vp9.webm?t=1713901383
-    max: http://video.akamai.steamstatic.com/store_trailers/256901793/movie_max_vp9.webm?t=1713901383
+    '480': https://video.akamai.steamstatic.com/store_trailers/256901793/movie480_vp9.webm?t=1713901383
+    max: https://video.akamai.steamstatic.com/store_trailers/256901793/movie_max_vp9.webm?t=1713901383
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256901793/movie480.mp4?t=1713901383
-    max: http://video.akamai.steamstatic.com/store_trailers/256901793/movie_max.mp4?t=1713901383
+    '480': https://video.akamai.steamstatic.com/store_trailers/256901793/movie480.mp4?t=1713901383
+    max: https://video.akamai.steamstatic.com/store_trailers/256901793/movie_max.mp4?t=1713901383
   highlight: false
 genres:
 - Adventure
@@ -161,4 +161,3 @@ tags:
 - rpg
 - strategy
 ---
-

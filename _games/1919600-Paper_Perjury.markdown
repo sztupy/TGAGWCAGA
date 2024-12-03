@@ -40,21 +40,21 @@ movies:
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257041819/e5a169296331ecd1522cb703808d14411ca8cf35/movie_600x337.jpg?t=1729452317
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041819/movie480_vp9.webm?t=1729452317
-    max: http://video.akamai.steamstatic.com/store_trailers/257041819/movie_max_vp9.webm?t=1729452317
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041819/movie480_vp9.webm?t=1729452317
+    max: https://video.akamai.steamstatic.com/store_trailers/257041819/movie_max_vp9.webm?t=1729452317
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041819/movie480.mp4?t=1729452317
-    max: http://video.akamai.steamstatic.com/store_trailers/257041819/movie_max.mp4?t=1729452317
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041819/movie480.mp4?t=1729452317
+    max: https://video.akamai.steamstatic.com/store_trailers/257041819/movie_max.mp4?t=1729452317
   highlight: true
 - id: 256891426
   name: First Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891426/movie.293x165.jpg?t=1722359507
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256891426/movie480_vp9.webm?t=1722359507
-    max: http://video.akamai.steamstatic.com/store_trailers/256891426/movie_max_vp9.webm?t=1722359507
+    '480': https://video.akamai.steamstatic.com/store_trailers/256891426/movie480_vp9.webm?t=1722359507
+    max: https://video.akamai.steamstatic.com/store_trailers/256891426/movie_max_vp9.webm?t=1722359507
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256891426/movie480.mp4?t=1722359507
-    max: http://video.akamai.steamstatic.com/store_trailers/256891426/movie_max.mp4?t=1722359507
+    '480': https://video.akamai.steamstatic.com/store_trailers/256891426/movie480.mp4?t=1722359507
+    max: https://video.akamai.steamstatic.com/store_trailers/256891426/movie_max.mp4?t=1722359507
   highlight: true
 genres:
 - Indie
@@ -142,4 +142,3 @@ support_info:
 tags:
 - unspecified
 ---
-

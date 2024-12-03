@@ -41,11 +41,11 @@ movies:
   name: 'TLO: Casmita - Gameplay Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256949962/movie.293x165.jpg?t=1685673906
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256949962/movie480_vp9.webm?t=1685673906
-    max: http://video.akamai.steamstatic.com/store_trailers/256949962/movie_max_vp9.webm?t=1685673906
+    '480': https://video.akamai.steamstatic.com/store_trailers/256949962/movie480_vp9.webm?t=1685673906
+    max: https://video.akamai.steamstatic.com/store_trailers/256949962/movie_max_vp9.webm?t=1685673906
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256949962/movie480.mp4?t=1685673906
-    max: http://video.akamai.steamstatic.com/store_trailers/256949962/movie_max.mp4?t=1685673906
+    '480': https://video.akamai.steamstatic.com/store_trailers/256949962/movie480.mp4?t=1685673906
+    max: https://video.akamai.steamstatic.com/store_trailers/256949962/movie_max.mp4?t=1685673906
   highlight: true
 genres:
 - Adventure
@@ -109,4 +109,3 @@ support_info:
 tags:
 - adventure
 ---
-

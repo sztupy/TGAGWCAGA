@@ -37,11 +37,11 @@ movies:
   name: SunstoneWar - Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256961130/movie.293x165.jpg?t=1723705523
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256961130/movie480_vp9.webm?t=1723705523
-    max: http://video.akamai.steamstatic.com/store_trailers/256961130/movie_max_vp9.webm?t=1723705523
+    '480': https://video.akamai.steamstatic.com/store_trailers/256961130/movie480_vp9.webm?t=1723705523
+    max: https://video.akamai.steamstatic.com/store_trailers/256961130/movie_max_vp9.webm?t=1723705523
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256961130/movie480.mp4?t=1723705523
-    max: http://video.akamai.steamstatic.com/store_trailers/256961130/movie_max.mp4?t=1723705523
+    '480': https://video.akamai.steamstatic.com/store_trailers/256961130/movie480.mp4?t=1723705523
+    max: https://video.akamai.steamstatic.com/store_trailers/256961130/movie_max.mp4?t=1723705523
   highlight: true
 genres:
 - Action
@@ -152,4 +152,3 @@ tags:
 - adventure
 - strategy
 ---
-

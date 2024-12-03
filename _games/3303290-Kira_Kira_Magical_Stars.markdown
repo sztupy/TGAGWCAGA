@@ -31,21 +31,21 @@ movies:
   name: Kira Kira Magical Stars - Steam Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067379/92cc0385ac8249d0bc8125f7cb92f5d9ebb638da/movie_600x337.jpg?t=1730188991
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067379/movie480_vp9.webm?t=1730188991
-    max: http://video.akamai.steamstatic.com/store_trailers/257067379/movie_max_vp9.webm?t=1730188991
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067379/movie480_vp9.webm?t=1730188991
+    max: https://video.akamai.steamstatic.com/store_trailers/257067379/movie_max_vp9.webm?t=1730188991
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067379/movie480.mp4?t=1730188991
-    max: http://video.akamai.steamstatic.com/store_trailers/257067379/movie_max.mp4?t=1730188991
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067379/movie480.mp4?t=1730188991
+    max: https://video.akamai.steamstatic.com/store_trailers/257067379/movie_max.mp4?t=1730188991
   highlight: true
 - id: 257066481
   name: Kira Kira Magical Stars - Short Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066481/a8b6e478a7dd5d0f621cedf79709d70df1a3e068/movie_600x337.jpg?t=1730188996
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066481/movie480_vp9.webm?t=1730188996
-    max: http://video.akamai.steamstatic.com/store_trailers/257066481/movie_max_vp9.webm?t=1730188996
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066481/movie480_vp9.webm?t=1730188996
+    max: https://video.akamai.steamstatic.com/store_trailers/257066481/movie_max_vp9.webm?t=1730188996
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066481/movie480.mp4?t=1730188996
-    max: http://video.akamai.steamstatic.com/store_trailers/257066481/movie_max.mp4?t=1730188996
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066481/movie480.mp4?t=1730188996
+    max: https://video.akamai.steamstatic.com/store_trailers/257066481/movie_max.mp4?t=1730188996
   highlight: true
 genres:
 - Action
@@ -129,4 +129,3 @@ tags:
 - action
 - adventure
 ---
-

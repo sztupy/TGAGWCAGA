@@ -46,21 +46,21 @@ movies:
   name: en_h_mult
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257007195/movie.293x165.jpg?t=1711624339
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257007195/movie480_vp9.webm?t=1711624339
-    max: http://video.akamai.steamstatic.com/store_trailers/257007195/movie_max_vp9.webm?t=1711624339
+    '480': https://video.akamai.steamstatic.com/store_trailers/257007195/movie480_vp9.webm?t=1711624339
+    max: https://video.akamai.steamstatic.com/store_trailers/257007195/movie_max_vp9.webm?t=1711624339
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257007195/movie480.mp4?t=1711624339
-    max: http://video.akamai.steamstatic.com/store_trailers/257007195/movie_max.mp4?t=1711624339
+    '480': https://video.akamai.steamstatic.com/store_trailers/257007195/movie480.mp4?t=1711624339
+    max: https://video.akamai.steamstatic.com/store_trailers/257007195/movie_max.mp4?t=1711624339
   highlight: true
 - id: 256976856
   name: Intro eng
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256976856/movie.293x165.jpg?t=1697717862
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256976856/movie480_vp9.webm?t=1697717862
-    max: http://video.akamai.steamstatic.com/store_trailers/256976856/movie_max_vp9.webm?t=1697717862
+    '480': https://video.akamai.steamstatic.com/store_trailers/256976856/movie480_vp9.webm?t=1697717862
+    max: https://video.akamai.steamstatic.com/store_trailers/256976856/movie_max_vp9.webm?t=1697717862
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256976856/movie480.mp4?t=1697717862
-    max: http://video.akamai.steamstatic.com/store_trailers/256976856/movie_max.mp4?t=1697717862
+    '480': https://video.akamai.steamstatic.com/store_trailers/256976856/movie480.mp4?t=1697717862
+    max: https://video.akamai.steamstatic.com/store_trailers/256976856/movie_max.mp4?t=1697717862
   highlight: true
 genres:
 - Action
@@ -170,4 +170,3 @@ tags:
 - adventure
 - rpg
 ---
-

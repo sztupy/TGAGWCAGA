@@ -42,11 +42,11 @@ movies:
   name: NetherWorld Publisher Trailer 2024 (EN)
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016693/movie.293x165.jpg?t=1713975729
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016693/movie480_vp9.webm?t=1713975729
-    max: http://video.akamai.steamstatic.com/store_trailers/257016693/movie_max_vp9.webm?t=1713975729
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016693/movie480_vp9.webm?t=1713975729
+    max: https://video.akamai.steamstatic.com/store_trailers/257016693/movie_max_vp9.webm?t=1713975729
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016693/movie480.mp4?t=1713975729
-    max: http://video.akamai.steamstatic.com/store_trailers/257016693/movie_max.mp4?t=1713975729
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016693/movie480.mp4?t=1713975729
+    max: https://video.akamai.steamstatic.com/store_trailers/257016693/movie_max.mp4?t=1713975729
   highlight: true
 genres:
 - Action
@@ -114,4 +114,3 @@ tags:
 - action
 - adventure
 ---
-

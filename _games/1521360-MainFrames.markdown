@@ -40,11 +40,11 @@ movies:
   name: Reveal Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046151/movie.293x165.jpg?t=1723737164
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046151/movie480_vp9.webm?t=1723737164
-    max: http://video.akamai.steamstatic.com/store_trailers/257046151/movie_max_vp9.webm?t=1723737164
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046151/movie480_vp9.webm?t=1723737164
+    max: https://video.akamai.steamstatic.com/store_trailers/257046151/movie_max_vp9.webm?t=1723737164
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046151/movie480.mp4?t=1723737164
-    max: http://video.akamai.steamstatic.com/store_trailers/257046151/movie_max.mp4?t=1723737164
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046151/movie480.mp4?t=1723737164
+    max: https://video.akamai.steamstatic.com/store_trailers/257046151/movie_max.mp4?t=1723737164
   highlight: true
 genres:
 - Adventure
@@ -120,4 +120,3 @@ support_info:
 tags:
 - adventure
 ---
-

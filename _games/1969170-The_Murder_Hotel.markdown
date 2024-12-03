@@ -34,11 +34,11 @@ movies:
   name: The Murder Hotel - Trailer 2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064494/2c395c3a821b75c902c9a8678ea5b12dbcb6c9e3/movie_600x337.jpg?t=1728776780
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064494/movie480_vp9.webm?t=1728776780
-    max: http://video.akamai.steamstatic.com/store_trailers/257064494/movie_max_vp9.webm?t=1728776780
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064494/movie480_vp9.webm?t=1728776780
+    max: https://video.akamai.steamstatic.com/store_trailers/257064494/movie_max_vp9.webm?t=1728776780
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064494/movie480.mp4?t=1728776780
-    max: http://video.akamai.steamstatic.com/store_trailers/257064494/movie_max.mp4?t=1728776780
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064494/movie480.mp4?t=1728776780
+    max: https://video.akamai.steamstatic.com/store_trailers/257064494/movie_max.mp4?t=1728776780
   highlight: true
 genres:
 - Adventure
@@ -117,4 +117,3 @@ support_info:
 tags:
 - adventure
 ---
-

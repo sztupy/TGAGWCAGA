@@ -46,11 +46,11 @@ movies:
   name: Halloween
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068018/b5c50e5b17ba4765eb56c37a624cd5b8df2b8362/movie_600x337.jpg?t=1729800938
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068018/movie480_vp9.webm?t=1729800938
-    max: http://video.akamai.steamstatic.com/store_trailers/257068018/movie_max_vp9.webm?t=1729800938
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068018/movie480_vp9.webm?t=1729800938
+    max: https://video.akamai.steamstatic.com/store_trailers/257068018/movie_max_vp9.webm?t=1729800938
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257068018/movie480.mp4?t=1729800938
-    max: http://video.akamai.steamstatic.com/store_trailers/257068018/movie_max.mp4?t=1729800938
+    '480': https://video.akamai.steamstatic.com/store_trailers/257068018/movie480.mp4?t=1729800938
+    max: https://video.akamai.steamstatic.com/store_trailers/257068018/movie_max.mp4?t=1729800938
   highlight: true
 genres:
 - Indie
@@ -151,4 +151,3 @@ support_info:
 tags:
 - strategy
 ---
-

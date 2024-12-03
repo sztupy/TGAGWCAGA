@@ -44,21 +44,21 @@ movies:
   name: USC Counterforce V1 Release
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038087/movie.293x165.jpg?t=1721325745
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038087/movie480_vp9.webm?t=1721325745
-    max: http://video.akamai.steamstatic.com/store_trailers/257038087/movie_max_vp9.webm?t=1721325745
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038087/movie480_vp9.webm?t=1721325745
+    max: https://video.akamai.steamstatic.com/store_trailers/257038087/movie_max_vp9.webm?t=1721325745
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038087/movie480.mp4?t=1721325745
-    max: http://video.akamai.steamstatic.com/store_trailers/257038087/movie_max.mp4?t=1721325745
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038087/movie480.mp4?t=1721325745
+    max: https://video.akamai.steamstatic.com/store_trailers/257038087/movie_max.mp4?t=1721325745
   highlight: true
 - id: 256960055
   name: USC_Counterforce_Release_Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256960055/movie.293x165.jpg?t=1690295811
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256960055/movie480_vp9.webm?t=1690295811
-    max: http://video.akamai.steamstatic.com/store_trailers/256960055/movie_max_vp9.webm?t=1690295811
+    '480': https://video.akamai.steamstatic.com/store_trailers/256960055/movie480_vp9.webm?t=1690295811
+    max: https://video.akamai.steamstatic.com/store_trailers/256960055/movie_max_vp9.webm?t=1690295811
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256960055/movie480.mp4?t=1690295811
-    max: http://video.akamai.steamstatic.com/store_trailers/256960055/movie_max.mp4?t=1690295811
+    '480': https://video.akamai.steamstatic.com/store_trailers/256960055/movie480.mp4?t=1690295811
+    max: https://video.akamai.steamstatic.com/store_trailers/256960055/movie_max.mp4?t=1690295811
   highlight: true
 genres:
 - Indie
@@ -174,4 +174,3 @@ tags:
 - rpg
 - strategy
 ---
-

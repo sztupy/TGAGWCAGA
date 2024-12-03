@@ -60,31 +60,31 @@ movies:
   name: Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075972/a59c88021a5157d17ae130d17503566da8616ded/movie_600x337.jpg?t=1732314904
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075972/movie480_vp9.webm?t=1732314904
-    max: http://video.akamai.steamstatic.com/store_trailers/257075972/movie_max_vp9.webm?t=1732314904
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075972/movie480_vp9.webm?t=1732314904
+    max: https://video.akamai.steamstatic.com/store_trailers/257075972/movie_max_vp9.webm?t=1732314904
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075972/movie480.mp4?t=1732314904
-    max: http://video.akamai.steamstatic.com/store_trailers/257075972/movie_max.mp4?t=1732314904
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075972/movie480.mp4?t=1732314904
+    max: https://video.akamai.steamstatic.com/store_trailers/257075972/movie_max.mp4?t=1732314904
   highlight: true
 - id: 257071248
   name: The Door
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071248/f5238b5b24715370d6c1c062c41cc5866ac974d7/movie_600x337.jpg?t=1730869585
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071248/movie480_vp9.webm?t=1730869585
-    max: http://video.akamai.steamstatic.com/store_trailers/257071248/movie_max_vp9.webm?t=1730869585
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071248/movie480_vp9.webm?t=1730869585
+    max: https://video.akamai.steamstatic.com/store_trailers/257071248/movie_max_vp9.webm?t=1730869585
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071248/movie480.mp4?t=1730869585
-    max: http://video.akamai.steamstatic.com/store_trailers/257071248/movie_max.mp4?t=1730869585
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071248/movie480.mp4?t=1730869585
+    max: https://video.akamai.steamstatic.com/store_trailers/257071248/movie_max.mp4?t=1730869585
   highlight: true
 - id: 257018121
   name: Early Prototype Footage
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018121/movie.293x165.jpg?t=1730868745
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018121/movie480_vp9.webm?t=1730868745
-    max: http://video.akamai.steamstatic.com/store_trailers/257018121/movie_max_vp9.webm?t=1730868745
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018121/movie480_vp9.webm?t=1730868745
+    max: https://video.akamai.steamstatic.com/store_trailers/257018121/movie_max_vp9.webm?t=1730868745
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257018121/movie480.mp4?t=1730868745
-    max: http://video.akamai.steamstatic.com/store_trailers/257018121/movie_max.mp4?t=1730868745
+    '480': https://video.akamai.steamstatic.com/store_trailers/257018121/movie480.mp4?t=1730868745
+    max: https://video.akamai.steamstatic.com/store_trailers/257018121/movie_max.mp4?t=1730868745
   highlight: true
 genres:
 - Adventure
@@ -146,4 +146,3 @@ support_info:
 tags:
 - adventure
 ---
-

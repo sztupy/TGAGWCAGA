@@ -56,11 +56,11 @@ movies:
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039186/movie.293x165.jpg?t=1722271900
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039186/movie480_vp9.webm?t=1722271900
-    max: http://video.akamai.steamstatic.com/store_trailers/257039186/movie_max_vp9.webm?t=1722271900
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039186/movie480_vp9.webm?t=1722271900
+    max: https://video.akamai.steamstatic.com/store_trailers/257039186/movie_max_vp9.webm?t=1722271900
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039186/movie480.mp4?t=1722271900
-    max: http://video.akamai.steamstatic.com/store_trailers/257039186/movie_max.mp4?t=1722271900
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039186/movie480.mp4?t=1722271900
+    max: https://video.akamai.steamstatic.com/store_trailers/257039186/movie_max.mp4?t=1722271900
   highlight: true
 genres:
 - Action
@@ -145,4 +145,3 @@ tags:
 - rpg
 - strategy
 ---
-

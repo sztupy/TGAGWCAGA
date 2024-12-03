@@ -58,51 +58,51 @@ movies:
   name: Cats on Duty — PC Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257041540/movie.293x165.jpg?t=1722273098
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041540/movie480_vp9.webm?t=1722273098
-    max: http://video.akamai.steamstatic.com/store_trailers/257041540/movie_max_vp9.webm?t=1722273098
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041540/movie480_vp9.webm?t=1722273098
+    max: https://video.akamai.steamstatic.com/store_trailers/257041540/movie_max_vp9.webm?t=1722273098
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041540/movie480.mp4?t=1722273098
-    max: http://video.akamai.steamstatic.com/store_trailers/257041540/movie_max.mp4?t=1722273098
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041540/movie480.mp4?t=1722273098
+    max: https://video.akamai.steamstatic.com/store_trailers/257041540/movie_max.mp4?t=1722273098
   highlight: true
 - id: 256967826
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256967826/movie.293x165.jpg?t=1698682516
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256967826/movie480_vp9.webm?t=1698682516
-    max: http://video.akamai.steamstatic.com/store_trailers/256967826/movie_max_vp9.webm?t=1698682516
+    '480': https://video.akamai.steamstatic.com/store_trailers/256967826/movie480_vp9.webm?t=1698682516
+    max: https://video.akamai.steamstatic.com/store_trailers/256967826/movie_max_vp9.webm?t=1698682516
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256967826/movie480.mp4?t=1698682516
-    max: http://video.akamai.steamstatic.com/store_trailers/256967826/movie_max.mp4?t=1698682516
+    '480': https://video.akamai.steamstatic.com/store_trailers/256967826/movie480.mp4?t=1698682516
+    max: https://video.akamai.steamstatic.com/store_trailers/256967826/movie_max.mp4?t=1698682516
   highlight: true
 - id: 256958025
   name: First Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958025/movie.293x165.jpg?t=1689860726
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958025/movie480_vp9.webm?t=1689860726
-    max: http://video.akamai.steamstatic.com/store_trailers/256958025/movie_max_vp9.webm?t=1689860726
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958025/movie480_vp9.webm?t=1689860726
+    max: https://video.akamai.steamstatic.com/store_trailers/256958025/movie_max_vp9.webm?t=1689860726
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958025/movie480.mp4?t=1689860726
-    max: http://video.akamai.steamstatic.com/store_trailers/256958025/movie_max.mp4?t=1689860726
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958025/movie480.mp4?t=1689860726
+    max: https://video.akamai.steamstatic.com/store_trailers/256958025/movie_max.mp4?t=1689860726
   highlight: true
 - id: 256990598
   name: "\U0001F63A Cats on Duty: Prologue - Christmas Update trailer \U0001F63A"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990598/movie.293x165.jpg?t=1703240908
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256990598/movie480_vp9.webm?t=1703240908
-    max: http://video.akamai.steamstatic.com/store_trailers/256990598/movie_max_vp9.webm?t=1703240908
+    '480': https://video.akamai.steamstatic.com/store_trailers/256990598/movie480_vp9.webm?t=1703240908
+    max: https://video.akamai.steamstatic.com/store_trailers/256990598/movie_max_vp9.webm?t=1703240908
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256990598/movie480.mp4?t=1703240908
-    max: http://video.akamai.steamstatic.com/store_trailers/256990598/movie_max.mp4?t=1703240908
+    '480': https://video.akamai.steamstatic.com/store_trailers/256990598/movie480.mp4?t=1703240908
+    max: https://video.akamai.steamstatic.com/store_trailers/256990598/movie_max.mp4?t=1703240908
   highlight: false
 - id: 256979108
   name: "\U0001F63A Cats on Duty - Prologue trailer \U0001F63A"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979108/movie.293x165.jpg?t=1698760551
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979108/movie480_vp9.webm?t=1698760551
-    max: http://video.akamai.steamstatic.com/store_trailers/256979108/movie_max_vp9.webm?t=1698760551
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979108/movie480_vp9.webm?t=1698760551
+    max: https://video.akamai.steamstatic.com/store_trailers/256979108/movie_max_vp9.webm?t=1698760551
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979108/movie480.mp4?t=1698760551
-    max: http://video.akamai.steamstatic.com/store_trailers/256979108/movie_max.mp4?t=1698760551
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979108/movie480.mp4?t=1698760551
+    max: https://video.akamai.steamstatic.com/store_trailers/256979108/movie_max.mp4?t=1698760551
   highlight: false
 genres:
 - Action
@@ -235,4 +235,3 @@ tags:
 - casual
 - strategy
 ---
-

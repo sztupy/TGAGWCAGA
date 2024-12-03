@@ -83,21 +83,21 @@ movies:
   name: Psychroma Update Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066268/150e19daa694ccd2b14262bdf514a584337758e5/movie_600x337.jpg?t=1730138461
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066268/movie480_vp9.webm?t=1730138461
-    max: http://video.akamai.steamstatic.com/store_trailers/257066268/movie_max_vp9.webm?t=1730138461
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066268/movie480_vp9.webm?t=1730138461
+    max: https://video.akamai.steamstatic.com/store_trailers/257066268/movie_max_vp9.webm?t=1730138461
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066268/movie480.mp4?t=1730138461
-    max: http://video.akamai.steamstatic.com/store_trailers/257066268/movie_max.mp4?t=1730138461
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066268/movie480.mp4?t=1730138461
+    max: https://video.akamai.steamstatic.com/store_trailers/257066268/movie_max.mp4?t=1730138461
   highlight: true
 - id: 257029812
   name: Psychroma Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029812/movie.293x165.jpg?t=1718121478
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029812/movie480_vp9.webm?t=1718121478
-    max: http://video.akamai.steamstatic.com/store_trailers/257029812/movie_max_vp9.webm?t=1718121478
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029812/movie480_vp9.webm?t=1718121478
+    max: https://video.akamai.steamstatic.com/store_trailers/257029812/movie_max_vp9.webm?t=1718121478
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029812/movie480.mp4?t=1718121478
-    max: http://video.akamai.steamstatic.com/store_trailers/257029812/movie_max.mp4?t=1718121478
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029812/movie480.mp4?t=1718121478
+    max: https://video.akamai.steamstatic.com/store_trailers/257029812/movie_max.mp4?t=1718121478
   highlight: true
 genres:
 - Adventure
@@ -230,4 +230,3 @@ support_info:
 tags:
 - adventure
 ---
-

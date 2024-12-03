@@ -46,51 +46,51 @@ movies:
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069515/c6545ec8acacab7a2f077aa1bf75f967ba8330dc/movie_600x337.jpg?t=1730294610
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069515/movie480_vp9.webm?t=1730294610
-    max: http://video.akamai.steamstatic.com/store_trailers/257069515/movie_max_vp9.webm?t=1730294610
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069515/movie480_vp9.webm?t=1730294610
+    max: https://video.akamai.steamstatic.com/store_trailers/257069515/movie_max_vp9.webm?t=1730294610
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069515/movie480.mp4?t=1730294610
-    max: http://video.akamai.steamstatic.com/store_trailers/257069515/movie_max.mp4?t=1730294610
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069515/movie480.mp4?t=1730294610
+    max: https://video.akamai.steamstatic.com/store_trailers/257069515/movie_max.mp4?t=1730294610
   highlight: true
 - id: 257052949
   name: Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257052949/movie.293x165.jpg?t=1725624847
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257052949/movie480_vp9.webm?t=1725624847
-    max: http://video.akamai.steamstatic.com/store_trailers/257052949/movie_max_vp9.webm?t=1725624847
+    '480': https://video.akamai.steamstatic.com/store_trailers/257052949/movie480_vp9.webm?t=1725624847
+    max: https://video.akamai.steamstatic.com/store_trailers/257052949/movie_max_vp9.webm?t=1725624847
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257052949/movie480.mp4?t=1725624847
-    max: http://video.akamai.steamstatic.com/store_trailers/257052949/movie_max.mp4?t=1725624847
+    '480': https://video.akamai.steamstatic.com/store_trailers/257052949/movie480.mp4?t=1725624847
+    max: https://video.akamai.steamstatic.com/store_trailers/257052949/movie_max.mp4?t=1725624847
   highlight: false
 - id: 257030027
   name: Demo Release Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030027/movie.293x165.jpg?t=1718031701
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030027/movie480_vp9.webm?t=1718031701
-    max: http://video.akamai.steamstatic.com/store_trailers/257030027/movie_max_vp9.webm?t=1718031701
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030027/movie480_vp9.webm?t=1718031701
+    max: https://video.akamai.steamstatic.com/store_trailers/257030027/movie_max_vp9.webm?t=1718031701
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030027/movie480.mp4?t=1718031701
-    max: http://video.akamai.steamstatic.com/store_trailers/257030027/movie_max.mp4?t=1718031701
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030027/movie480.mp4?t=1718031701
+    max: https://video.akamai.steamstatic.com/store_trailers/257030027/movie_max.mp4?t=1718031701
   highlight: false
 - id: 256985262
   name: Steam Announcement
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256985262/movie.293x165.jpg?t=1702735825
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256985262/movie480_vp9.webm?t=1702735825
-    max: http://video.akamai.steamstatic.com/store_trailers/256985262/movie_max_vp9.webm?t=1702735825
+    '480': https://video.akamai.steamstatic.com/store_trailers/256985262/movie480_vp9.webm?t=1702735825
+    max: https://video.akamai.steamstatic.com/store_trailers/256985262/movie_max_vp9.webm?t=1702735825
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256985262/movie480.mp4?t=1702735825
-    max: http://video.akamai.steamstatic.com/store_trailers/256985262/movie_max.mp4?t=1702735825
+    '480': https://video.akamai.steamstatic.com/store_trailers/256985262/movie480.mp4?t=1702735825
+    max: https://video.akamai.steamstatic.com/store_trailers/256985262/movie_max.mp4?t=1702735825
   highlight: false
 - id: 256989438
   name: Early Game
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989438/movie.293x165.jpg?t=1702758026
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256989438/movie480_vp9.webm?t=1702758026
-    max: http://video.akamai.steamstatic.com/store_trailers/256989438/movie_max_vp9.webm?t=1702758026
+    '480': https://video.akamai.steamstatic.com/store_trailers/256989438/movie480_vp9.webm?t=1702758026
+    max: https://video.akamai.steamstatic.com/store_trailers/256989438/movie_max_vp9.webm?t=1702758026
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256989438/movie480.mp4?t=1702758026
-    max: http://video.akamai.steamstatic.com/store_trailers/256989438/movie_max.mp4?t=1702758026
+    '480': https://video.akamai.steamstatic.com/store_trailers/256989438/movie480.mp4?t=1702758026
+    max: https://video.akamai.steamstatic.com/store_trailers/256989438/movie_max.mp4?t=1702758026
   highlight: false
 genres:
 - Action
@@ -179,4 +179,3 @@ support_info:
 tags:
 - action
 ---
-

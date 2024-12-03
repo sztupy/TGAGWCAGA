@@ -36,21 +36,21 @@ movies:
   name: Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257041447/movie.293x165.jpg?t=1722206259
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041447/movie480_vp9.webm?t=1722206259
-    max: http://video.akamai.steamstatic.com/store_trailers/257041447/movie_max_vp9.webm?t=1722206259
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041447/movie480_vp9.webm?t=1722206259
+    max: https://video.akamai.steamstatic.com/store_trailers/257041447/movie_max_vp9.webm?t=1722206259
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257041447/movie480.mp4?t=1722206259
-    max: http://video.akamai.steamstatic.com/store_trailers/257041447/movie_max.mp4?t=1722206259
+    '480': https://video.akamai.steamstatic.com/store_trailers/257041447/movie480.mp4?t=1722206259
+    max: https://video.akamai.steamstatic.com/store_trailers/257041447/movie_max.mp4?t=1722206259
   highlight: true
 - id: 257040137
   name: Demo
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257040137/movie.293x165.jpg?t=1722206264
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257040137/movie480_vp9.webm?t=1722206264
-    max: http://video.akamai.steamstatic.com/store_trailers/257040137/movie_max_vp9.webm?t=1722206264
+    '480': https://video.akamai.steamstatic.com/store_trailers/257040137/movie480_vp9.webm?t=1722206264
+    max: https://video.akamai.steamstatic.com/store_trailers/257040137/movie_max_vp9.webm?t=1722206264
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257040137/movie480.mp4?t=1722206264
-    max: http://video.akamai.steamstatic.com/store_trailers/257040137/movie_max.mp4?t=1722206264
+    '480': https://video.akamai.steamstatic.com/store_trailers/257040137/movie480.mp4?t=1722206264
+    max: https://video.akamai.steamstatic.com/store_trailers/257040137/movie_max.mp4?t=1722206264
   highlight: true
 genres:
 - Adventure
@@ -127,4 +127,3 @@ tags:
 - adventure
 - rpg
 ---
-

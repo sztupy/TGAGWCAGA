@@ -27,11 +27,11 @@ movies:
   name: Nekomancer of Nowhere Halloween Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070014/77d73de2eafe12dfa23e0f6971f2d6a616c70eab/movie_600x337.jpg?t=1730393577
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070014/movie480_vp9.webm?t=1730393577
-    max: http://video.akamai.steamstatic.com/store_trailers/257070014/movie_max_vp9.webm?t=1730393577
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070014/movie480_vp9.webm?t=1730393577
+    max: https://video.akamai.steamstatic.com/store_trailers/257070014/movie_max_vp9.webm?t=1730393577
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070014/movie480.mp4?t=1730393577
-    max: http://video.akamai.steamstatic.com/store_trailers/257070014/movie_max.mp4?t=1730393577
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070014/movie480.mp4?t=1730393577
+    max: https://video.akamai.steamstatic.com/store_trailers/257070014/movie_max.mp4?t=1730393577
   highlight: true
 genres:
 - Action
@@ -116,4 +116,3 @@ tags:
 - action
 - adventure
 ---
-

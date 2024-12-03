@@ -29,11 +29,11 @@ movies:
   name: I Come In Peace Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257042297/2ea4797c3d9bad0a12806bbe49f8fcbe9576cb9f/movie_600x337.jpg?t=1728559919
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257042297/movie480_vp9.webm?t=1728559919
-    max: http://video.akamai.steamstatic.com/store_trailers/257042297/movie_max_vp9.webm?t=1728559919
+    '480': https://video.akamai.steamstatic.com/store_trailers/257042297/movie480_vp9.webm?t=1728559919
+    max: https://video.akamai.steamstatic.com/store_trailers/257042297/movie_max_vp9.webm?t=1728559919
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257042297/movie480.mp4?t=1728559919
-    max: http://video.akamai.steamstatic.com/store_trailers/257042297/movie_max.mp4?t=1728559919
+    '480': https://video.akamai.steamstatic.com/store_trailers/257042297/movie480.mp4?t=1728559919
+    max: https://video.akamai.steamstatic.com/store_trailers/257042297/movie_max.mp4?t=1728559919
   highlight: true
 genres:
 - Action
@@ -128,4 +128,3 @@ support_info:
 tags:
 - action
 ---
-

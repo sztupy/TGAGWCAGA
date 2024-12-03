@@ -38,11 +38,11 @@ movies:
   name: Blocks for Babies Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034715/ef503488dba972911560c100432171706d4563c3/movie_600x337.jpg?t=1729234824
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257034715/movie480_vp9.webm?t=1729234824
-    max: http://video.akamai.steamstatic.com/store_trailers/257034715/movie_max_vp9.webm?t=1729234824
+    '480': https://video.akamai.steamstatic.com/store_trailers/257034715/movie480_vp9.webm?t=1729234824
+    max: https://video.akamai.steamstatic.com/store_trailers/257034715/movie_max_vp9.webm?t=1729234824
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257034715/movie480.mp4?t=1729234824
-    max: http://video.akamai.steamstatic.com/store_trailers/257034715/movie_max.mp4?t=1729234824
+    '480': https://video.akamai.steamstatic.com/store_trailers/257034715/movie480.mp4?t=1729234824
+    max: https://video.akamai.steamstatic.com/store_trailers/257034715/movie_max.mp4?t=1729234824
   highlight: true
 genres:
 - Action
@@ -136,4 +136,3 @@ tags:
 - action
 - casual
 ---
-

@@ -27,11 +27,11 @@ movies:
   name: Alula Gameplay 2024
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257006646/movie.293x165.jpg?t=1710175592
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257006646/movie480_vp9.webm?t=1710175592
-    max: http://video.akamai.steamstatic.com/store_trailers/257006646/movie_max_vp9.webm?t=1710175592
+    '480': https://video.akamai.steamstatic.com/store_trailers/257006646/movie480_vp9.webm?t=1710175592
+    max: https://video.akamai.steamstatic.com/store_trailers/257006646/movie_max_vp9.webm?t=1710175592
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257006646/movie480.mp4?t=1710175592
-    max: http://video.akamai.steamstatic.com/store_trailers/257006646/movie_max.mp4?t=1710175592
+    '480': https://video.akamai.steamstatic.com/store_trailers/257006646/movie480.mp4?t=1710175592
+    max: https://video.akamai.steamstatic.com/store_trailers/257006646/movie_max.mp4?t=1710175592
   highlight: true
 genres:
 - Casual
@@ -79,4 +79,3 @@ tags:
 - casual
 - strategy
 ---
-

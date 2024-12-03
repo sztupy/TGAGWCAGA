@@ -38,11 +38,11 @@ movies:
   name: Official Trailer | Feline Forensics and the Meowseum Mystery
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026188/08ce122b6210513f0f0d80e1de820f6da7e4c318/movie_600x337.jpg?t=1730679795
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026188/movie480_vp9.webm?t=1730679795
-    max: http://video.akamai.steamstatic.com/store_trailers/257026188/movie_max_vp9.webm?t=1730679795
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026188/movie480_vp9.webm?t=1730679795
+    max: https://video.akamai.steamstatic.com/store_trailers/257026188/movie_max_vp9.webm?t=1730679795
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026188/movie480.mp4?t=1730679795
-    max: http://video.akamai.steamstatic.com/store_trailers/257026188/movie_max.mp4?t=1730679795
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026188/movie480.mp4?t=1730679795
+    max: https://video.akamai.steamstatic.com/store_trailers/257026188/movie_max.mp4?t=1730679795
   highlight: true
 genres:
 - Indie
@@ -146,4 +146,3 @@ tags:
 - rpg
 - strategy
 ---
-

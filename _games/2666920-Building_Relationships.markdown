@@ -35,21 +35,21 @@ movies:
   name: Demo Release Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065060/a68ba2a8a2da0f3408462639ef222adb589b19f9/movie_600x337.jpg?t=1728928059
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065060/movie480_vp9.webm?t=1728928059
-    max: http://video.akamai.steamstatic.com/store_trailers/257065060/movie_max_vp9.webm?t=1728928059
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065060/movie480_vp9.webm?t=1728928059
+    max: https://video.akamai.steamstatic.com/store_trailers/257065060/movie_max_vp9.webm?t=1728928059
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257065060/movie480.mp4?t=1728928059
-    max: http://video.akamai.steamstatic.com/store_trailers/257065060/movie_max.mp4?t=1728928059
+    '480': https://video.akamai.steamstatic.com/store_trailers/257065060/movie480.mp4?t=1728928059
+    max: https://video.akamai.steamstatic.com/store_trailers/257065060/movie_max.mp4?t=1728928059
   highlight: true
 - id: 257029006
   name: Reveal Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029006/movie.293x165.jpg?t=1728928063
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029006/movie480_vp9.webm?t=1728928063
-    max: http://video.akamai.steamstatic.com/store_trailers/257029006/movie_max_vp9.webm?t=1728928063
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029006/movie480_vp9.webm?t=1728928063
+    max: https://video.akamai.steamstatic.com/store_trailers/257029006/movie_max_vp9.webm?t=1728928063
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257029006/movie480.mp4?t=1728928063
-    max: http://video.akamai.steamstatic.com/store_trailers/257029006/movie_max.mp4?t=1728928063
+    '480': https://video.akamai.steamstatic.com/store_trailers/257029006/movie480.mp4?t=1728928063
+    max: https://video.akamai.steamstatic.com/store_trailers/257029006/movie_max.mp4?t=1728928063
   highlight: true
 genres:
 - Adventure
@@ -129,4 +129,3 @@ tags:
 - adventure
 - casual
 ---
-

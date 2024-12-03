@@ -59,31 +59,31 @@ movies:
   name: Leila - Official Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046587/movie.293x165.jpg?t=1723749999
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046587/movie480_vp9.webm?t=1723749999
-    max: http://video.akamai.steamstatic.com/store_trailers/257046587/movie_max_vp9.webm?t=1723749999
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046587/movie480_vp9.webm?t=1723749999
+    max: https://video.akamai.steamstatic.com/store_trailers/257046587/movie_max_vp9.webm?t=1723749999
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046587/movie480.mp4?t=1723749999
-    max: http://video.akamai.steamstatic.com/store_trailers/257046587/movie_max.mp4?t=1723749999
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046587/movie480.mp4?t=1723749999
+    max: https://video.akamai.steamstatic.com/store_trailers/257046587/movie_max.mp4?t=1723749999
   highlight: true
 - id: 256973696
   name: Leila - Early Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256973696/movie.293x165.jpg?t=1723750007
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256973696/movie480_vp9.webm?t=1723750007
-    max: http://video.akamai.steamstatic.com/store_trailers/256973696/movie_max_vp9.webm?t=1723750007
+    '480': https://video.akamai.steamstatic.com/store_trailers/256973696/movie480_vp9.webm?t=1723750007
+    max: https://video.akamai.steamstatic.com/store_trailers/256973696/movie_max_vp9.webm?t=1723750007
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256973696/movie480.mp4?t=1723750007
-    max: http://video.akamai.steamstatic.com/store_trailers/256973696/movie_max.mp4?t=1723750007
+    '480': https://video.akamai.steamstatic.com/store_trailers/256973696/movie480.mp4?t=1723750007
+    max: https://video.akamai.steamstatic.com/store_trailers/256973696/movie_max.mp4?t=1723750007
   highlight: false
 - id: 256955119
   name: Leila - Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256955119/movie.293x165.jpg?t=1723750011
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256955119/movie480_vp9.webm?t=1723750011
-    max: http://video.akamai.steamstatic.com/store_trailers/256955119/movie_max_vp9.webm?t=1723750011
+    '480': https://video.akamai.steamstatic.com/store_trailers/256955119/movie480_vp9.webm?t=1723750011
+    max: https://video.akamai.steamstatic.com/store_trailers/256955119/movie_max_vp9.webm?t=1723750011
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256955119/movie480.mp4?t=1723750011
-    max: http://video.akamai.steamstatic.com/store_trailers/256955119/movie_max.mp4?t=1723750011
+    '480': https://video.akamai.steamstatic.com/store_trailers/256955119/movie480.mp4?t=1723750011
+    max: https://video.akamai.steamstatic.com/store_trailers/256955119/movie_max.mp4?t=1723750011
   highlight: false
 genres:
 - Indie
@@ -158,4 +158,3 @@ support_info:
 tags:
 - unspecified
 ---
-

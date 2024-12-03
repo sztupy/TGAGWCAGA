@@ -37,21 +37,21 @@ movies:
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032128/movie.293x165.jpg?t=1719449735
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257032128/movie480_vp9.webm?t=1719449735
-    max: http://video.akamai.steamstatic.com/store_trailers/257032128/movie_max_vp9.webm?t=1719449735
+    '480': https://video.akamai.steamstatic.com/store_trailers/257032128/movie480_vp9.webm?t=1719449735
+    max: https://video.akamai.steamstatic.com/store_trailers/257032128/movie_max_vp9.webm?t=1719449735
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257032128/movie480.mp4?t=1719449735
-    max: http://video.akamai.steamstatic.com/store_trailers/257032128/movie_max.mp4?t=1719449735
+    '480': https://video.akamai.steamstatic.com/store_trailers/257032128/movie480.mp4?t=1719449735
+    max: https://video.akamai.steamstatic.com/store_trailers/257032128/movie_max.mp4?t=1719449735
   highlight: true
 - id: 257076138
   name: Yeehaw Gameplay - Zone 7A-3
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076138/21d33e2a382bca24603fc320828f085e33095638/movie_600x337.jpg?t=1732412383
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076138/movie480_vp9.webm?t=1732412383
-    max: http://video.akamai.steamstatic.com/store_trailers/257076138/movie_max_vp9.webm?t=1732412383
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076138/movie480_vp9.webm?t=1732412383
+    max: https://video.akamai.steamstatic.com/store_trailers/257076138/movie_max_vp9.webm?t=1732412383
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076138/movie480.mp4?t=1732412383
-    max: http://video.akamai.steamstatic.com/store_trailers/257076138/movie_max.mp4?t=1732412383
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076138/movie480.mp4?t=1732412383
+    max: https://video.akamai.steamstatic.com/store_trailers/257076138/movie_max.mp4?t=1732412383
   highlight: true
 genres:
 - Action
@@ -155,4 +155,3 @@ tags:
 - action
 - adventure
 ---
-

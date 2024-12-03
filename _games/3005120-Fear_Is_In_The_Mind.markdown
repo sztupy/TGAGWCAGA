@@ -28,11 +28,11 @@ movies:
   name: Fear Is In The Mind Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025025/movie.293x165.jpg?t=1725263594
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025025/movie480_vp9.webm?t=1725263594
-    max: http://video.akamai.steamstatic.com/store_trailers/257025025/movie_max_vp9.webm?t=1725263594
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025025/movie480_vp9.webm?t=1725263594
+    max: https://video.akamai.steamstatic.com/store_trailers/257025025/movie_max_vp9.webm?t=1725263594
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025025/movie480.mp4?t=1725263594
-    max: http://video.akamai.steamstatic.com/store_trailers/257025025/movie_max.mp4?t=1725263594
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025025/movie480.mp4?t=1725263594
+    max: https://video.akamai.steamstatic.com/store_trailers/257025025/movie_max.mp4?t=1725263594
   highlight: true
 genres:
 - Adventure
@@ -102,4 +102,3 @@ support_info:
 tags:
 - adventure
 ---
-

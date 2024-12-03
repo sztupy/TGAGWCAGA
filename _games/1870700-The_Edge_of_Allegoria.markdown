@@ -39,31 +39,31 @@ movies:
   name: SixOneIndie Showcase Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059513/a1ef2fbe9df3fd1022b75c77732df2919fe390fa/movie_600x337.jpg?t=1727439528
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059513/movie480_vp9.webm?t=1727439528
-    max: http://video.akamai.steamstatic.com/store_trailers/257059513/movie_max_vp9.webm?t=1727439528
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059513/movie480_vp9.webm?t=1727439528
+    max: https://video.akamai.steamstatic.com/store_trailers/257059513/movie_max_vp9.webm?t=1727439528
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257059513/movie480.mp4?t=1727439528
-    max: http://video.akamai.steamstatic.com/store_trailers/257059513/movie_max.mp4?t=1727439528
+    '480': https://video.akamai.steamstatic.com/store_trailers/257059513/movie480.mp4?t=1727439528
+    max: https://video.akamai.steamstatic.com/store_trailers/257059513/movie_max.mp4?t=1727439528
   highlight: true
 - id: 256961476
   name: The Edge of Allegoria - Official Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256961476/movie.293x165.jpg?t=1725360444
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256961476/movie480_vp9.webm?t=1725360444
-    max: http://video.akamai.steamstatic.com/store_trailers/256961476/movie_max_vp9.webm?t=1725360444
+    '480': https://video.akamai.steamstatic.com/store_trailers/256961476/movie480_vp9.webm?t=1725360444
+    max: https://video.akamai.steamstatic.com/store_trailers/256961476/movie_max_vp9.webm?t=1725360444
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256961476/movie480.mp4?t=1725360444
-    max: http://video.akamai.steamstatic.com/store_trailers/256961476/movie_max.mp4?t=1725360444
+    '480': https://video.akamai.steamstatic.com/store_trailers/256961476/movie480.mp4?t=1725360444
+    max: https://video.akamai.steamstatic.com/store_trailers/256961476/movie_max.mp4?t=1725360444
   highlight: true
 - id: 256907835
   name: The Edge of Allegoria - Steam Page Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256907835/movie.293x165.jpg?t=1664277771
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256907835/movie480_vp9.webm?t=1664277771
-    max: http://video.akamai.steamstatic.com/store_trailers/256907835/movie_max_vp9.webm?t=1664277771
+    '480': https://video.akamai.steamstatic.com/store_trailers/256907835/movie480_vp9.webm?t=1664277771
+    max: https://video.akamai.steamstatic.com/store_trailers/256907835/movie_max_vp9.webm?t=1664277771
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256907835/movie480.mp4?t=1664277771
-    max: http://video.akamai.steamstatic.com/store_trailers/256907835/movie_max.mp4?t=1664277771
+    '480': https://video.akamai.steamstatic.com/store_trailers/256907835/movie480.mp4?t=1664277771
+    max: https://video.akamai.steamstatic.com/store_trailers/256907835/movie_max.mp4?t=1664277771
   highlight: true
 genres:
 - Indie
@@ -194,4 +194,3 @@ support_info:
 tags:
 - rpg
 ---
-

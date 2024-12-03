@@ -34,21 +34,21 @@ movies:
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038860/movie.293x165.jpg?t=1723772012
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038860/movie480_vp9.webm?t=1723772012
-    max: http://video.akamai.steamstatic.com/store_trailers/257038860/movie_max_vp9.webm?t=1723772012
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038860/movie480_vp9.webm?t=1723772012
+    max: https://video.akamai.steamstatic.com/store_trailers/257038860/movie_max_vp9.webm?t=1723772012
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257038860/movie480.mp4?t=1723772012
-    max: http://video.akamai.steamstatic.com/store_trailers/257038860/movie_max.mp4?t=1723772012
+    '480': https://video.akamai.steamstatic.com/store_trailers/257038860/movie480.mp4?t=1723772012
+    max: https://video.akamai.steamstatic.com/store_trailers/257038860/movie_max.mp4?t=1723772012
   highlight: true
 - id: 257049339
   name: Gameplay Footage
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049339/movie.293x165.jpg?t=1724611148
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049339/movie480_vp9.webm?t=1724611148
-    max: http://video.akamai.steamstatic.com/store_trailers/257049339/movie_max_vp9.webm?t=1724611148
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049339/movie480_vp9.webm?t=1724611148
+    max: https://video.akamai.steamstatic.com/store_trailers/257049339/movie_max_vp9.webm?t=1724611148
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049339/movie480.mp4?t=1724611148
-    max: http://video.akamai.steamstatic.com/store_trailers/257049339/movie_max.mp4?t=1724611148
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049339/movie480.mp4?t=1724611148
+    max: https://video.akamai.steamstatic.com/store_trailers/257049339/movie_max.mp4?t=1724611148
   highlight: true
 genres:
 - Action
@@ -109,4 +109,3 @@ support_info:
 tags:
 - action
 ---
-

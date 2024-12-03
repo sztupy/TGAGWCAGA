@@ -32,11 +32,11 @@ movies:
   name: Teaser trailer v2
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066349/487bc976d1cac6b4d851b8b9cc916c0bc1da534b/movie_600x337.jpg?t=1729223293
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066349/movie480_vp9.webm?t=1729223293
-    max: http://video.akamai.steamstatic.com/store_trailers/257066349/movie_max_vp9.webm?t=1729223293
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066349/movie480_vp9.webm?t=1729223293
+    max: https://video.akamai.steamstatic.com/store_trailers/257066349/movie_max_vp9.webm?t=1729223293
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257066349/movie480.mp4?t=1729223293
-    max: http://video.akamai.steamstatic.com/store_trailers/257066349/movie_max.mp4?t=1729223293
+    '480': https://video.akamai.steamstatic.com/store_trailers/257066349/movie480.mp4?t=1729223293
+    max: https://video.akamai.steamstatic.com/store_trailers/257066349/movie_max.mp4?t=1729223293
   highlight: true
 genres:
 - Indie
@@ -126,4 +126,3 @@ support_info:
 tags:
 - strategy
 ---
-

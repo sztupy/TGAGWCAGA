@@ -37,11 +37,11 @@ movies:
   name: CACTUS | Gamescom 2024 Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047926/movie.293x165.jpg?t=1724272853
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257047926/movie480_vp9.webm?t=1724272853
-    max: http://video.akamai.steamstatic.com/store_trailers/257047926/movie_max_vp9.webm?t=1724272853
+    '480': https://video.akamai.steamstatic.com/store_trailers/257047926/movie480_vp9.webm?t=1724272853
+    max: https://video.akamai.steamstatic.com/store_trailers/257047926/movie_max_vp9.webm?t=1724272853
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257047926/movie480.mp4?t=1724272853
-    max: http://video.akamai.steamstatic.com/store_trailers/257047926/movie_max.mp4?t=1724272853
+    '480': https://video.akamai.steamstatic.com/store_trailers/257047926/movie480.mp4?t=1724272853
+    max: https://video.akamai.steamstatic.com/store_trailers/257047926/movie_max.mp4?t=1724272853
   highlight: true
 genres:
 - Action
@@ -137,4 +137,3 @@ tags:
 - action
 - adventure
 ---
-

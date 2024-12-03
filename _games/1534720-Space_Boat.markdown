@@ -72,21 +72,21 @@ movies:
   name: Demo Update!
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256923376/movie.293x165.jpg?t=1672440811
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256923376/movie480_vp9.webm?t=1672440811
-    max: http://video.akamai.steamstatic.com/store_trailers/256923376/movie_max_vp9.webm?t=1672440811
+    '480': https://video.akamai.steamstatic.com/store_trailers/256923376/movie480_vp9.webm?t=1672440811
+    max: https://video.akamai.steamstatic.com/store_trailers/256923376/movie_max_vp9.webm?t=1672440811
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256923376/movie480.mp4?t=1672440811
-    max: http://video.akamai.steamstatic.com/store_trailers/256923376/movie_max.mp4?t=1672440811
+    '480': https://video.akamai.steamstatic.com/store_trailers/256923376/movie480.mp4?t=1672440811
+    max: https://video.akamai.steamstatic.com/store_trailers/256923376/movie_max.mp4?t=1672440811
   highlight: true
 - id: 256938341
   name: Space Boat intro
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938341/movie.293x165.jpg?t=1680064485
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256938341/movie480_vp9.webm?t=1680064485
-    max: http://video.akamai.steamstatic.com/store_trailers/256938341/movie_max_vp9.webm?t=1680064485
+    '480': https://video.akamai.steamstatic.com/store_trailers/256938341/movie480_vp9.webm?t=1680064485
+    max: https://video.akamai.steamstatic.com/store_trailers/256938341/movie_max_vp9.webm?t=1680064485
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256938341/movie480.mp4?t=1680064485
-    max: http://video.akamai.steamstatic.com/store_trailers/256938341/movie_max.mp4?t=1680064485
+    '480': https://video.akamai.steamstatic.com/store_trailers/256938341/movie480.mp4?t=1680064485
+    max: https://video.akamai.steamstatic.com/store_trailers/256938341/movie_max.mp4?t=1680064485
   highlight: true
 genres:
 - Action
@@ -188,4 +188,3 @@ tags:
 - adventure
 - casual
 ---
-

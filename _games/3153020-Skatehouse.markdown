@@ -33,11 +33,11 @@ movies:
   name: ''
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071196/c4b043df257160d0a0be38d2c79896ce7271a22c/movie_600x337.jpg?t=1730843165
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071196/movie480_vp9.webm?t=1730843165
-    max: http://video.akamai.steamstatic.com/store_trailers/257071196/movie_max_vp9.webm?t=1730843165
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071196/movie480_vp9.webm?t=1730843165
+    max: https://video.akamai.steamstatic.com/store_trailers/257071196/movie_max_vp9.webm?t=1730843165
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071196/movie480.mp4?t=1730843165
-    max: http://video.akamai.steamstatic.com/store_trailers/257071196/movie_max.mp4?t=1730843165
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071196/movie480.mp4?t=1730843165
+    max: https://video.akamai.steamstatic.com/store_trailers/257071196/movie_max.mp4?t=1730843165
   highlight: true
 genres:
 - Simulation
@@ -102,4 +102,3 @@ support_info:
 tags:
 - simulation
 ---
-

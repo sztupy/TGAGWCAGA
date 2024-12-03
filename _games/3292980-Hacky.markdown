@@ -32,11 +32,11 @@ movies:
   name: Hacky Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064616/385f4fe3c29bca88b3d16f6bb457a1165b6da945/movie_600x337.jpg?t=1729242117
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064616/movie480_vp9.webm?t=1729242117
-    max: http://video.akamai.steamstatic.com/store_trailers/257064616/movie_max_vp9.webm?t=1729242117
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064616/movie480_vp9.webm?t=1729242117
+    max: https://video.akamai.steamstatic.com/store_trailers/257064616/movie_max_vp9.webm?t=1729242117
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257064616/movie480.mp4?t=1729242117
-    max: http://video.akamai.steamstatic.com/store_trailers/257064616/movie_max.mp4?t=1729242117
+    '480': https://video.akamai.steamstatic.com/store_trailers/257064616/movie480.mp4?t=1729242117
+    max: https://video.akamai.steamstatic.com/store_trailers/257064616/movie_max.mp4?t=1729242117
   highlight: true
 genres:
 - Indie
@@ -136,4 +136,3 @@ support_info:
 tags:
 - simulation
 ---
-

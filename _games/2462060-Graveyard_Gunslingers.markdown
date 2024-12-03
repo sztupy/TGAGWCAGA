@@ -31,11 +31,11 @@ movies:
   name: Release trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062537/335a6ae020b121859da43a77ddbc3e42980f2f93/movie_600x337.jpg?t=1728317907
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062537/movie480_vp9.webm?t=1728317907
-    max: http://video.akamai.steamstatic.com/store_trailers/257062537/movie_max_vp9.webm?t=1728317907
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062537/movie480_vp9.webm?t=1728317907
+    max: https://video.akamai.steamstatic.com/store_trailers/257062537/movie_max_vp9.webm?t=1728317907
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257062537/movie480.mp4?t=1728317907
-    max: http://video.akamai.steamstatic.com/store_trailers/257062537/movie_max.mp4?t=1728317907
+    '480': https://video.akamai.steamstatic.com/store_trailers/257062537/movie480.mp4?t=1728317907
+    max: https://video.akamai.steamstatic.com/store_trailers/257062537/movie_max.mp4?t=1728317907
   highlight: true
 genres:
 - Action
@@ -102,4 +102,3 @@ support_info:
 tags:
 - action
 ---
-

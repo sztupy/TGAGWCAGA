@@ -59,11 +59,11 @@ movies:
   name: Rogue Command - Early Access Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074137/bd384f771f98d0d123c9ee9c5b102d88fe34caba/movie_600x337.jpg?t=1731919174
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257074137/movie480_vp9.webm?t=1731919174
-    max: http://video.akamai.steamstatic.com/store_trailers/257074137/movie_max_vp9.webm?t=1731919174
+    '480': https://video.akamai.steamstatic.com/store_trailers/257074137/movie480_vp9.webm?t=1731919174
+    max: https://video.akamai.steamstatic.com/store_trailers/257074137/movie_max_vp9.webm?t=1731919174
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257074137/movie480.mp4?t=1731919174
-    max: http://video.akamai.steamstatic.com/store_trailers/257074137/movie_max.mp4?t=1731919174
+    '480': https://video.akamai.steamstatic.com/store_trailers/257074137/movie480.mp4?t=1731919174
+    max: https://video.akamai.steamstatic.com/store_trailers/257074137/movie_max.mp4?t=1731919174
   highlight: true
 genres:
 - Action
@@ -183,4 +183,3 @@ tags:
 - simulation
 - strategy
 ---
-

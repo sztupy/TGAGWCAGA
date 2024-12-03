@@ -33,11 +33,11 @@ movies:
   name: 'Pompeii: The Legacy Reval Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049892/movie.293x165.jpg?t=1725259819
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049892/movie480_vp9.webm?t=1725259819
-    max: http://video.akamai.steamstatic.com/store_trailers/257049892/movie_max_vp9.webm?t=1725259819
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049892/movie480_vp9.webm?t=1725259819
+    max: https://video.akamai.steamstatic.com/store_trailers/257049892/movie_max_vp9.webm?t=1725259819
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049892/movie480.mp4?t=1725259819
-    max: http://video.akamai.steamstatic.com/store_trailers/257049892/movie_max.mp4?t=1725259819
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049892/movie480.mp4?t=1725259819
+    max: https://video.akamai.steamstatic.com/store_trailers/257049892/movie_max.mp4?t=1725259819
   highlight: true
 genres:
 - Indie
@@ -152,4 +152,3 @@ tags:
 - simulation
 - strategy
 ---
-

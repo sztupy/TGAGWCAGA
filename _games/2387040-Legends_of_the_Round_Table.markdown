@@ -44,31 +44,31 @@ movies:
   name: Combat Preview
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039892/movie.293x165.jpg?t=1721755900
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039892/movie480_vp9.webm?t=1721755900
-    max: http://video.akamai.steamstatic.com/store_trailers/257039892/movie_max_vp9.webm?t=1721755900
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039892/movie480_vp9.webm?t=1721755900
+    max: https://video.akamai.steamstatic.com/store_trailers/257039892/movie_max_vp9.webm?t=1721755900
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039892/movie480.mp4?t=1721755900
-    max: http://video.akamai.steamstatic.com/store_trailers/257039892/movie_max.mp4?t=1721755900
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039892/movie480.mp4?t=1721755900
+    max: https://video.akamai.steamstatic.com/store_trailers/257039892/movie_max.mp4?t=1721755900
   highlight: true
 - id: 257009789
   name: Gameplay Preview
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257009789/movie.293x165.jpg?t=1711124319
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009789/movie480_vp9.webm?t=1711124319
-    max: http://video.akamai.steamstatic.com/store_trailers/257009789/movie_max_vp9.webm?t=1711124319
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009789/movie480_vp9.webm?t=1711124319
+    max: https://video.akamai.steamstatic.com/store_trailers/257009789/movie_max_vp9.webm?t=1711124319
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009789/movie480.mp4?t=1711124319
-    max: http://video.akamai.steamstatic.com/store_trailers/257009789/movie_max.mp4?t=1711124319
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009789/movie480.mp4?t=1711124319
+    max: https://video.akamai.steamstatic.com/store_trailers/257009789/movie_max.mp4?t=1711124319
   highlight: true
 - id: 256980664
   name: TEASER - Legends of the Round Table
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980664/movie.293x165.jpg?t=1711124323
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256980664/movie480_vp9.webm?t=1711124323
-    max: http://video.akamai.steamstatic.com/store_trailers/256980664/movie_max_vp9.webm?t=1711124323
+    '480': https://video.akamai.steamstatic.com/store_trailers/256980664/movie480_vp9.webm?t=1711124323
+    max: https://video.akamai.steamstatic.com/store_trailers/256980664/movie_max_vp9.webm?t=1711124323
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256980664/movie480.mp4?t=1711124323
-    max: http://video.akamai.steamstatic.com/store_trailers/256980664/movie_max.mp4?t=1711124323
+    '480': https://video.akamai.steamstatic.com/store_trailers/256980664/movie480.mp4?t=1711124323
+    max: https://video.akamai.steamstatic.com/store_trailers/256980664/movie_max.mp4?t=1711124323
   highlight: false
 genres:
 - Adventure
@@ -193,4 +193,3 @@ tags:
 - rpg
 - strategy
 ---
-

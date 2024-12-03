@@ -68,81 +68,81 @@ movies:
   name: Locations
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075544/5b34fe243eeb6262b0a10c84c30a5f52347212bf/movie_600x337.jpg?t=1732202281
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075544/movie480_vp9.webm?t=1732202281
-    max: http://video.akamai.steamstatic.com/store_trailers/257075544/movie_max_vp9.webm?t=1732202281
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075544/movie480_vp9.webm?t=1732202281
+    max: https://video.akamai.steamstatic.com/store_trailers/257075544/movie_max_vp9.webm?t=1732202281
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075544/movie480.mp4?t=1732202281
-    max: http://video.akamai.steamstatic.com/store_trailers/257075544/movie_max.mp4?t=1732202281
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075544/movie480.mp4?t=1732202281
+    max: https://video.akamai.steamstatic.com/store_trailers/257075544/movie_max.mp4?t=1732202281
   highlight: true
 - id: 257010125
   name: Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010125/movie.293x165.jpg?t=1712838113
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010125/movie480_vp9.webm?t=1712838113
-    max: http://video.akamai.steamstatic.com/store_trailers/257010125/movie_max_vp9.webm?t=1712838113
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010125/movie480_vp9.webm?t=1712838113
+    max: https://video.akamai.steamstatic.com/store_trailers/257010125/movie_max_vp9.webm?t=1712838113
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010125/movie480.mp4?t=1712838113
-    max: http://video.akamai.steamstatic.com/store_trailers/257010125/movie_max.mp4?t=1712838113
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010125/movie480.mp4?t=1712838113
+    max: https://video.akamai.steamstatic.com/store_trailers/257010125/movie_max.mp4?t=1712838113
   highlight: true
 - id: 257010159
   name: Boss fight
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010159/movie.293x165.jpg?t=1712838131
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010159/movie480_vp9.webm?t=1712838131
-    max: http://video.akamai.steamstatic.com/store_trailers/257010159/movie_max_vp9.webm?t=1712838131
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010159/movie480_vp9.webm?t=1712838131
+    max: https://video.akamai.steamstatic.com/store_trailers/257010159/movie_max_vp9.webm?t=1712838131
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010159/movie480.mp4?t=1712838131
-    max: http://video.akamai.steamstatic.com/store_trailers/257010159/movie_max.mp4?t=1712838131
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010159/movie480.mp4?t=1712838131
+    max: https://video.akamai.steamstatic.com/store_trailers/257010159/movie_max.mp4?t=1712838131
   highlight: true
 - id: 257073114
   name: Victorian Cemetery
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073114/6353f6cbf3dc317cc3fbb3467cc5427146ad7c73/movie_600x337.jpg?t=1731513399
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073114/movie480_vp9.webm?t=1731513399
-    max: http://video.akamai.steamstatic.com/store_trailers/257073114/movie_max_vp9.webm?t=1731513399
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073114/movie480_vp9.webm?t=1731513399
+    max: https://video.akamai.steamstatic.com/store_trailers/257073114/movie_max_vp9.webm?t=1731513399
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073114/movie480.mp4?t=1731513399
-    max: http://video.akamai.steamstatic.com/store_trailers/257073114/movie_max.mp4?t=1731513399
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073114/movie480.mp4?t=1731513399
+    max: https://video.akamai.steamstatic.com/store_trailers/257073114/movie_max.mp4?t=1731513399
   highlight: true
 - id: 257073112
   name: Swamp
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073112/263c8e20460debe60bb9e13a9b66b058c997b86b/movie_600x337.jpg?t=1731513393
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073112/movie480_vp9.webm?t=1731513393
-    max: http://video.akamai.steamstatic.com/store_trailers/257073112/movie_max_vp9.webm?t=1731513393
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073112/movie480_vp9.webm?t=1731513393
+    max: https://video.akamai.steamstatic.com/store_trailers/257073112/movie_max_vp9.webm?t=1731513393
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073112/movie480.mp4?t=1731513393
-    max: http://video.akamai.steamstatic.com/store_trailers/257073112/movie_max.mp4?t=1731513393
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073112/movie480.mp4?t=1731513393
+    max: https://video.akamai.steamstatic.com/store_trailers/257073112/movie_max.mp4?t=1731513393
   highlight: true
 - id: 257010153
   name: Platforming 1
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010153/movie.293x165.jpg?t=1712838119
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010153/movie480_vp9.webm?t=1712838119
-    max: http://video.akamai.steamstatic.com/store_trailers/257010153/movie_max_vp9.webm?t=1712838119
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010153/movie480_vp9.webm?t=1712838119
+    max: https://video.akamai.steamstatic.com/store_trailers/257010153/movie_max_vp9.webm?t=1712838119
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010153/movie480.mp4?t=1712838119
-    max: http://video.akamai.steamstatic.com/store_trailers/257010153/movie_max.mp4?t=1712838119
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010153/movie480.mp4?t=1712838119
+    max: https://video.akamai.steamstatic.com/store_trailers/257010153/movie_max.mp4?t=1712838119
   highlight: true
 - id: 257010157
   name: Combat skills
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010157/dec7765f4043fc8950ea8f90be110cb890593747/movie_600x337.jpg?t=1731513404
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010157/movie480_vp9.webm?t=1731513404
-    max: http://video.akamai.steamstatic.com/store_trailers/257010157/movie_max_vp9.webm?t=1731513404
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010157/movie480_vp9.webm?t=1731513404
+    max: https://video.akamai.steamstatic.com/store_trailers/257010157/movie_max_vp9.webm?t=1731513404
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010157/movie480.mp4?t=1731513404
-    max: http://video.akamai.steamstatic.com/store_trailers/257010157/movie_max.mp4?t=1731513404
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010157/movie480.mp4?t=1731513404
+    max: https://video.akamai.steamstatic.com/store_trailers/257010157/movie_max.mp4?t=1731513404
   highlight: true
 - id: 257010154
   name: Platforming
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010154/movie.293x165.jpg?t=1712838136
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010154/movie480_vp9.webm?t=1712838136
-    max: http://video.akamai.steamstatic.com/store_trailers/257010154/movie_max_vp9.webm?t=1712838136
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010154/movie480_vp9.webm?t=1712838136
+    max: https://video.akamai.steamstatic.com/store_trailers/257010154/movie_max_vp9.webm?t=1712838136
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257010154/movie480.mp4?t=1712838136
-    max: http://video.akamai.steamstatic.com/store_trailers/257010154/movie_max.mp4?t=1712838136
+    '480': https://video.akamai.steamstatic.com/store_trailers/257010154/movie480.mp4?t=1712838136
+    max: https://video.akamai.steamstatic.com/store_trailers/257010154/movie_max.mp4?t=1712838136
   highlight: true
 genres:
 - Action
@@ -201,4 +201,3 @@ tags:
 - action
 - adventure
 ---
-

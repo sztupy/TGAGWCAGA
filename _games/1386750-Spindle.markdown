@@ -49,21 +49,21 @@ movies:
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075772/e8add3efdf20763fbee7c8843d62068eddc012ab/movie_600x337.jpg?t=1732284065
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075772/movie480_vp9.webm?t=1732284065
-    max: http://video.akamai.steamstatic.com/store_trailers/257075772/movie_max_vp9.webm?t=1732284065
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075772/movie480_vp9.webm?t=1732284065
+    max: https://video.akamai.steamstatic.com/store_trailers/257075772/movie_max_vp9.webm?t=1732284065
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075772/movie480.mp4?t=1732284065
-    max: http://video.akamai.steamstatic.com/store_trailers/257075772/movie_max.mp4?t=1732284065
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075772/movie480.mp4?t=1732284065
+    max: https://video.akamai.steamstatic.com/store_trailers/257075772/movie_max.mp4?t=1732284065
   highlight: true
 - id: 256844819
   name: Kickstarter Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844819/movie.293x165.jpg?t=1627639067
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256844819/movie480_vp9.webm?t=1627639067
-    max: http://video.akamai.steamstatic.com/store_trailers/256844819/movie_max_vp9.webm?t=1627639067
+    '480': https://video.akamai.steamstatic.com/store_trailers/256844819/movie480_vp9.webm?t=1627639067
+    max: https://video.akamai.steamstatic.com/store_trailers/256844819/movie_max_vp9.webm?t=1627639067
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256844819/movie480.mp4?t=1627639067
-    max: http://video.akamai.steamstatic.com/store_trailers/256844819/movie_max.mp4?t=1627639067
+    '480': https://video.akamai.steamstatic.com/store_trailers/256844819/movie480.mp4?t=1627639067
+    max: https://video.akamai.steamstatic.com/store_trailers/256844819/movie_max.mp4?t=1627639067
   highlight: false
 genres:
 - Action
@@ -123,4 +123,3 @@ tags:
 - adventure
 - rpg
 ---
-

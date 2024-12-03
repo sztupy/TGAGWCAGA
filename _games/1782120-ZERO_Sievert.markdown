@@ -38,31 +38,31 @@ movies:
   name: ZERO Sievert - Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067359/7882c661883df6d5003c2c992bfdbc7b731dd8c6/movie_600x337.jpg?t=1729695872
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067359/movie480_vp9.webm?t=1729695872
-    max: http://video.akamai.steamstatic.com/store_trailers/257067359/movie_max_vp9.webm?t=1729695872
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067359/movie480_vp9.webm?t=1729695872
+    max: https://video.akamai.steamstatic.com/store_trailers/257067359/movie_max_vp9.webm?t=1729695872
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067359/movie480.mp4?t=1729695872
-    max: http://video.akamai.steamstatic.com/store_trailers/257067359/movie_max.mp4?t=1729695872
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067359/movie480.mp4?t=1729695872
+    max: https://video.akamai.steamstatic.com/store_trailers/257067359/movie_max.mp4?t=1729695872
   highlight: true
 - id: 256917504
   name: ZERO Sievert - Accolades Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917504/movie.293x165.jpg?t=1727423356
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256917504/movie480_vp9.webm?t=1727423356
-    max: http://video.akamai.steamstatic.com/store_trailers/256917504/movie_max_vp9.webm?t=1727423356
+    '480': https://video.akamai.steamstatic.com/store_trailers/256917504/movie480_vp9.webm?t=1727423356
+    max: https://video.akamai.steamstatic.com/store_trailers/256917504/movie_max_vp9.webm?t=1727423356
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256917504/movie480.mp4?t=1727423356
-    max: http://video.akamai.steamstatic.com/store_trailers/256917504/movie_max.mp4?t=1727423356
+    '480': https://video.akamai.steamstatic.com/store_trailers/256917504/movie480.mp4?t=1727423356
+    max: https://video.akamai.steamstatic.com/store_trailers/256917504/movie_max.mp4?t=1727423356
   highlight: true
 - id: 256898981
   name: ZERO Sievert - Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256898981/movie.293x165.jpg?t=1727423371
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256898981/movie480_vp9.webm?t=1727423371
-    max: http://video.akamai.steamstatic.com/store_trailers/256898981/movie_max_vp9.webm?t=1727423371
+    '480': https://video.akamai.steamstatic.com/store_trailers/256898981/movie480_vp9.webm?t=1727423371
+    max: https://video.akamai.steamstatic.com/store_trailers/256898981/movie_max_vp9.webm?t=1727423371
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256898981/movie480.mp4?t=1727423371
-    max: http://video.akamai.steamstatic.com/store_trailers/256898981/movie_max.mp4?t=1727423371
+    '480': https://video.akamai.steamstatic.com/store_trailers/256898981/movie480.mp4?t=1727423371
+    max: https://video.akamai.steamstatic.com/store_trailers/256898981/movie_max.mp4?t=1727423371
   highlight: false
 genres:
 - Action
@@ -153,4 +153,3 @@ tags:
 - action
 - adventure
 ---
-

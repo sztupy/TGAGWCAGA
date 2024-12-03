@@ -44,21 +44,21 @@ movies:
   name: Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049378/9145f3b92bb91cb5e0a00dac588c4b1b13b91ffe/movie_600x337.jpg?t=1732068749
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049378/movie480_vp9.webm?t=1732068749
-    max: http://video.akamai.steamstatic.com/store_trailers/257049378/movie_max_vp9.webm?t=1732068749
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049378/movie480_vp9.webm?t=1732068749
+    max: https://video.akamai.steamstatic.com/store_trailers/257049378/movie_max_vp9.webm?t=1732068749
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257049378/movie480.mp4?t=1732068749
-    max: http://video.akamai.steamstatic.com/store_trailers/257049378/movie_max.mp4?t=1732068749
+    '480': https://video.akamai.steamstatic.com/store_trailers/257049378/movie480.mp4?t=1732068749
+    max: https://video.akamai.steamstatic.com/store_trailers/257049378/movie_max.mp4?t=1732068749
   highlight: true
 - id: 257046666
   name: Welcome to Shadowtown!
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046666/movie.293x165.jpg?t=1723777280
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046666/movie480_vp9.webm?t=1723777280
-    max: http://video.akamai.steamstatic.com/store_trailers/257046666/movie_max_vp9.webm?t=1723777280
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046666/movie480_vp9.webm?t=1723777280
+    max: https://video.akamai.steamstatic.com/store_trailers/257046666/movie_max_vp9.webm?t=1723777280
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046666/movie480.mp4?t=1723777280
-    max: http://video.akamai.steamstatic.com/store_trailers/257046666/movie_max.mp4?t=1723777280
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046666/movie480.mp4?t=1723777280
+    max: https://video.akamai.steamstatic.com/store_trailers/257046666/movie_max.mp4?t=1723777280
   highlight: true
 genres:
 - Adventure
@@ -177,4 +177,3 @@ tags:
 - adventure
 - casual
 ---
-

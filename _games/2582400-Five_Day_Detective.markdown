@@ -27,11 +27,11 @@ movies:
   name: Five Day Detective Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025055/movie.293x165.jpg?t=1717854183
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025055/movie480_vp9.webm?t=1717854183
-    max: http://video.akamai.steamstatic.com/store_trailers/257025055/movie_max_vp9.webm?t=1717854183
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025055/movie480_vp9.webm?t=1717854183
+    max: https://video.akamai.steamstatic.com/store_trailers/257025055/movie_max_vp9.webm?t=1717854183
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257025055/movie480.mp4?t=1717854183
-    max: http://video.akamai.steamstatic.com/store_trailers/257025055/movie_max.mp4?t=1717854183
+    '480': https://video.akamai.steamstatic.com/store_trailers/257025055/movie480.mp4?t=1717854183
+    max: https://video.akamai.steamstatic.com/store_trailers/257025055/movie_max.mp4?t=1717854183
   highlight: true
 genres:
 - Adventure
@@ -99,4 +99,3 @@ tags:
 - adventure
 - casual
 ---
-

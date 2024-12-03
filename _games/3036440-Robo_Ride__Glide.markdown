@@ -39,11 +39,11 @@ movies:
   name: Robo Ride & Glide Announce Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067007/bf5002eba1a0e3e21169bccb56b1530a7d30b835/movie_600x337.jpg?t=1729817094
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067007/movie480_vp9.webm?t=1729817094
-    max: http://video.akamai.steamstatic.com/store_trailers/257067007/movie_max_vp9.webm?t=1729817094
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067007/movie480_vp9.webm?t=1729817094
+    max: https://video.akamai.steamstatic.com/store_trailers/257067007/movie_max_vp9.webm?t=1729817094
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257067007/movie480.mp4?t=1729817094
-    max: http://video.akamai.steamstatic.com/store_trailers/257067007/movie_max.mp4?t=1729817094
+    '480': https://video.akamai.steamstatic.com/store_trailers/257067007/movie480.mp4?t=1729817094
+    max: https://video.akamai.steamstatic.com/store_trailers/257067007/movie_max.mp4?t=1729817094
   highlight: true
 genres:
 - Action
@@ -117,4 +117,3 @@ support_info:
 tags:
 - action
 ---
-

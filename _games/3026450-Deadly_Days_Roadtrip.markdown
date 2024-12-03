@@ -54,11 +54,11 @@ movies:
   name: Early Pre Alpha Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046488/b4ca108dd513dbbe5b29c93be7f60f25e589bc14/movie_600x337.jpg?t=1732390121
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046488/movie480_vp9.webm?t=1732390121
-    max: http://video.akamai.steamstatic.com/store_trailers/257046488/movie_max_vp9.webm?t=1732390121
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046488/movie480_vp9.webm?t=1732390121
+    max: https://video.akamai.steamstatic.com/store_trailers/257046488/movie_max_vp9.webm?t=1732390121
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257046488/movie480.mp4?t=1732390121
-    max: http://video.akamai.steamstatic.com/store_trailers/257046488/movie_max.mp4?t=1732390121
+    '480': https://video.akamai.steamstatic.com/store_trailers/257046488/movie480.mp4?t=1732390121
+    max: https://video.akamai.steamstatic.com/store_trailers/257046488/movie_max.mp4?t=1732390121
   highlight: true
 genres:
 - Action
@@ -151,4 +151,3 @@ support_info:
 tags:
 - action
 ---
-

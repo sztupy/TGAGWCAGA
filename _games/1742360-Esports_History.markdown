@@ -34,11 +34,11 @@ movies:
   name: Gameplay trailer eng
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990581/movie.293x165.jpg?t=1722248025
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256990581/movie480_vp9.webm?t=1722248025
-    max: http://video.akamai.steamstatic.com/store_trailers/256990581/movie_max_vp9.webm?t=1722248025
+    '480': https://video.akamai.steamstatic.com/store_trailers/256990581/movie480_vp9.webm?t=1722248025
+    max: https://video.akamai.steamstatic.com/store_trailers/256990581/movie_max_vp9.webm?t=1722248025
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256990581/movie480.mp4?t=1722248025
-    max: http://video.akamai.steamstatic.com/store_trailers/256990581/movie_max.mp4?t=1722248025
+    '480': https://video.akamai.steamstatic.com/store_trailers/256990581/movie480.mp4?t=1722248025
+    max: https://video.akamai.steamstatic.com/store_trailers/256990581/movie_max.mp4?t=1722248025
   highlight: true
 genres:
 - Indie
@@ -115,4 +115,3 @@ tags:
 - simulation
 - strategy
 ---
-

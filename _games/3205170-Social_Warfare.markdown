@@ -34,11 +34,11 @@ movies:
   name: Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063300/18cf1ab30dce29526bedcdf4cdc9e19d7ebda5fa/movie_600x337.jpg?t=1728482917
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063300/movie480_vp9.webm?t=1728482917
-    max: http://video.akamai.steamstatic.com/store_trailers/257063300/movie_max_vp9.webm?t=1728482917
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063300/movie480_vp9.webm?t=1728482917
+    max: https://video.akamai.steamstatic.com/store_trailers/257063300/movie_max_vp9.webm?t=1728482917
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257063300/movie480.mp4?t=1728482917
-    max: http://video.akamai.steamstatic.com/store_trailers/257063300/movie_max.mp4?t=1728482917
+    '480': https://video.akamai.steamstatic.com/store_trailers/257063300/movie480.mp4?t=1728482917
+    max: https://video.akamai.steamstatic.com/store_trailers/257063300/movie_max.mp4?t=1728482917
   highlight: true
 genres:
 - Adventure
@@ -108,4 +108,3 @@ tags:
 - adventure
 - casual
 ---
-

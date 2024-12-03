@@ -41,11 +41,11 @@ movies:
   name: Button Man Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997721/4287b13b7ec8359d27099c698dfb75f656d9df63/movie_600x337.jpg?t=1728925200
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997721/movie480_vp9.webm?t=1728925200
-    max: http://video.akamai.steamstatic.com/store_trailers/256997721/movie_max_vp9.webm?t=1728925200
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997721/movie480_vp9.webm?t=1728925200
+    max: https://video.akamai.steamstatic.com/store_trailers/256997721/movie_max_vp9.webm?t=1728925200
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256997721/movie480.mp4?t=1728925200
-    max: http://video.akamai.steamstatic.com/store_trailers/256997721/movie_max.mp4?t=1728925200
+    '480': https://video.akamai.steamstatic.com/store_trailers/256997721/movie480.mp4?t=1728925200
+    max: https://video.akamai.steamstatic.com/store_trailers/256997721/movie_max.mp4?t=1728925200
   highlight: true
 genres:
 - Action
@@ -122,4 +122,3 @@ tags:
 - action
 - adventure
 ---
-

@@ -32,21 +32,21 @@ movies:
   name: Wholesome Direct Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257024875/movie.293x165.jpg?t=1717862233
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257024875/movie480_vp9.webm?t=1717862233
-    max: http://video.akamai.steamstatic.com/store_trailers/257024875/movie_max_vp9.webm?t=1717862233
+    '480': https://video.akamai.steamstatic.com/store_trailers/257024875/movie480_vp9.webm?t=1717862233
+    max: https://video.akamai.steamstatic.com/store_trailers/257024875/movie_max_vp9.webm?t=1717862233
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257024875/movie480.mp4?t=1717862233
-    max: http://video.akamai.steamstatic.com/store_trailers/257024875/movie_max.mp4?t=1717862233
+    '480': https://video.akamai.steamstatic.com/store_trailers/257024875/movie480.mp4?t=1717862233
+    max: https://video.akamai.steamstatic.com/store_trailers/257024875/movie_max.mp4?t=1717862233
   highlight: true
 - id: 256979574
   name: On Your Tail Teaser Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979574/movie.293x165.jpg?t=1699981551
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979574/movie480_vp9.webm?t=1699981551
-    max: http://video.akamai.steamstatic.com/store_trailers/256979574/movie_max_vp9.webm?t=1699981551
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979574/movie480_vp9.webm?t=1699981551
+    max: https://video.akamai.steamstatic.com/store_trailers/256979574/movie_max_vp9.webm?t=1699981551
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979574/movie480.mp4?t=1699981551
-    max: http://video.akamai.steamstatic.com/store_trailers/256979574/movie_max.mp4?t=1699981551
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979574/movie480.mp4?t=1699981551
+    max: https://video.akamai.steamstatic.com/store_trailers/256979574/movie_max.mp4?t=1699981551
   highlight: true
 genres:
 - Adventure
@@ -145,4 +145,3 @@ tags:
 - rpg
 - simulation
 ---
-

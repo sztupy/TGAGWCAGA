@@ -50,11 +50,11 @@ movies:
   name: Starless Abyss Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257055795/d55cc538475fce7905fd562ee326df2304e63717/movie_600x337.jpg?t=1728571610
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055795/movie480_vp9.webm?t=1728571610
-    max: http://video.akamai.steamstatic.com/store_trailers/257055795/movie_max_vp9.webm?t=1728571610
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055795/movie480_vp9.webm?t=1728571610
+    max: https://video.akamai.steamstatic.com/store_trailers/257055795/movie_max_vp9.webm?t=1728571610
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055795/movie480.mp4?t=1728571610
-    max: http://video.akamai.steamstatic.com/store_trailers/257055795/movie_max.mp4?t=1728571610
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055795/movie480.mp4?t=1728571610
+    max: https://video.akamai.steamstatic.com/store_trailers/257055795/movie_max.mp4?t=1728571610
   highlight: true
 genres:
 - Indie
@@ -98,4 +98,3 @@ support_info:
 tags:
 - strategy
 ---
-

@@ -47,51 +47,51 @@ movies:
   name: BattleJuice Alchemist | ACT II Reveal Trailer | gamescom 2024
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048842/movie.293x165.jpg?t=1724419294
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048842/movie480_vp9.webm?t=1724419294
-    max: http://video.akamai.steamstatic.com/store_trailers/257048842/movie_max_vp9.webm?t=1724419294
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048842/movie480_vp9.webm?t=1724419294
+    max: https://video.akamai.steamstatic.com/store_trailers/257048842/movie_max_vp9.webm?t=1724419294
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257048842/movie480.mp4?t=1724419294
-    max: http://video.akamai.steamstatic.com/store_trailers/257048842/movie_max.mp4?t=1724419294
+    '480': https://video.akamai.steamstatic.com/store_trailers/257048842/movie480.mp4?t=1724419294
+    max: https://video.akamai.steamstatic.com/store_trailers/257048842/movie_max.mp4?t=1724419294
   highlight: true
 - id: 257026349
   name: BattleJuice Alchemist — Official Language Update Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026349/movie.293x165.jpg?t=1716904987
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026349/movie480_vp9.webm?t=1716904987
-    max: http://video.akamai.steamstatic.com/store_trailers/257026349/movie_max_vp9.webm?t=1716904987
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026349/movie480_vp9.webm?t=1716904987
+    max: https://video.akamai.steamstatic.com/store_trailers/257026349/movie_max_vp9.webm?t=1716904987
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257026349/movie480.mp4?t=1716904987
-    max: http://video.akamai.steamstatic.com/store_trailers/257026349/movie_max.mp4?t=1716904987
+    '480': https://video.akamai.steamstatic.com/store_trailers/257026349/movie480.mp4?t=1716904987
+    max: https://video.akamai.steamstatic.com/store_trailers/257026349/movie_max.mp4?t=1716904987
   highlight: true
 - id: 257009054
   name: BattleJuice Alchemist — Early Access Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257009054/movie.293x165.jpg?t=1711053330
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009054/movie480_vp9.webm?t=1711053330
-    max: http://video.akamai.steamstatic.com/store_trailers/257009054/movie_max_vp9.webm?t=1711053330
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009054/movie480_vp9.webm?t=1711053330
+    max: https://video.akamai.steamstatic.com/store_trailers/257009054/movie_max_vp9.webm?t=1711053330
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257009054/movie480.mp4?t=1711053330
-    max: http://video.akamai.steamstatic.com/store_trailers/257009054/movie_max.mp4?t=1711053330
+    '480': https://video.akamai.steamstatic.com/store_trailers/257009054/movie480.mp4?t=1711053330
+    max: https://video.akamai.steamstatic.com/store_trailers/257009054/movie_max.mp4?t=1711053330
   highlight: true
 - id: 256996145
   name: BattleJuice Alchemist - Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256996145/movie.293x165.jpg?t=1706537022
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256996145/movie480_vp9.webm?t=1706537022
-    max: http://video.akamai.steamstatic.com/store_trailers/256996145/movie_max_vp9.webm?t=1706537022
+    '480': https://video.akamai.steamstatic.com/store_trailers/256996145/movie480_vp9.webm?t=1706537022
+    max: https://video.akamai.steamstatic.com/store_trailers/256996145/movie_max_vp9.webm?t=1706537022
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256996145/movie480.mp4?t=1706537022
-    max: http://video.akamai.steamstatic.com/store_trailers/256996145/movie_max.mp4?t=1706537022
+    '480': https://video.akamai.steamstatic.com/store_trailers/256996145/movie480.mp4?t=1706537022
+    max: https://video.akamai.steamstatic.com/store_trailers/256996145/movie_max.mp4?t=1706537022
   highlight: true
 - id: 256972908
   name: BattleJuice Alchemist - Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256972908/movie.293x165.jpg?t=1711053786
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256972908/movie480_vp9.webm?t=1711053786
-    max: http://video.akamai.steamstatic.com/store_trailers/256972908/movie_max_vp9.webm?t=1711053786
+    '480': https://video.akamai.steamstatic.com/store_trailers/256972908/movie480_vp9.webm?t=1711053786
+    max: https://video.akamai.steamstatic.com/store_trailers/256972908/movie_max_vp9.webm?t=1711053786
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256972908/movie480.mp4?t=1711053786
-    max: http://video.akamai.steamstatic.com/store_trailers/256972908/movie_max.mp4?t=1711053786
+    '480': https://video.akamai.steamstatic.com/store_trailers/256972908/movie480.mp4?t=1711053786
+    max: https://video.akamai.steamstatic.com/store_trailers/256972908/movie_max.mp4?t=1711053786
   highlight: true
 genres:
 - Action
@@ -211,4 +211,3 @@ tags:
 - adventure
 - rpg
 ---
-

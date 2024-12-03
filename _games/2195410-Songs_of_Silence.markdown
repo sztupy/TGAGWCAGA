@@ -40,21 +40,21 @@ movies:
   name: Songs of Silence - 1.0 Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073104/15c41836251fdef85d3a33969898638d03b64e2b/movie_600x337.jpg?t=1731517679
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073104/movie480_vp9.webm?t=1731517679
-    max: http://video.akamai.steamstatic.com/store_trailers/257073104/movie_max_vp9.webm?t=1731517679
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073104/movie480_vp9.webm?t=1731517679
+    max: https://video.akamai.steamstatic.com/store_trailers/257073104/movie_max_vp9.webm?t=1731517679
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073104/movie480.mp4?t=1731517679
-    max: http://video.akamai.steamstatic.com/store_trailers/257073104/movie_max.mp4?t=1731517679
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073104/movie480.mp4?t=1731517679
+    max: https://video.akamai.steamstatic.com/store_trailers/257073104/movie_max.mp4?t=1731517679
   highlight: true
 - id: 257073147
   name: Songs of Silence - 1.0 Story Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073147/b2bb38205edf86281844b3e9136bfbcd724fc3b0/movie_600x337.jpg?t=1731520863
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073147/movie480_vp9.webm?t=1731520863
-    max: http://video.akamai.steamstatic.com/store_trailers/257073147/movie_max_vp9.webm?t=1731520863
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073147/movie480_vp9.webm?t=1731520863
+    max: https://video.akamai.steamstatic.com/store_trailers/257073147/movie_max_vp9.webm?t=1731520863
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257073147/movie480.mp4?t=1731520863
-    max: http://video.akamai.steamstatic.com/store_trailers/257073147/movie_max.mp4?t=1731520863
+    '480': https://video.akamai.steamstatic.com/store_trailers/257073147/movie480.mp4?t=1731520863
+    max: https://video.akamai.steamstatic.com/store_trailers/257073147/movie_max.mp4?t=1731520863
   highlight: true
 genres:
 - Indie
@@ -180,4 +180,3 @@ support_info:
 tags:
 - strategy
 ---
-

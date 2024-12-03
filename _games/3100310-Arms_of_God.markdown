@@ -32,11 +32,11 @@ movies:
   name: Arms Of God Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075851/e93d9d4638ba961918a93146e6c21168e803ad93/movie_600x337.jpg?t=1732288152
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075851/movie480_vp9.webm?t=1732288152
-    max: http://video.akamai.steamstatic.com/store_trailers/257075851/movie_max_vp9.webm?t=1732288152
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075851/movie480_vp9.webm?t=1732288152
+    max: https://video.akamai.steamstatic.com/store_trailers/257075851/movie_max_vp9.webm?t=1732288152
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075851/movie480.mp4?t=1732288152
-    max: http://video.akamai.steamstatic.com/store_trailers/257075851/movie_max.mp4?t=1732288152
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075851/movie480.mp4?t=1732288152
+    max: https://video.akamai.steamstatic.com/store_trailers/257075851/movie_max.mp4?t=1732288152
   highlight: true
 genres:
 - Action
@@ -174,4 +174,3 @@ support_info:
 tags:
 - action
 ---
-

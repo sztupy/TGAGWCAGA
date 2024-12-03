@@ -23,11 +23,11 @@ movies:
   name: Official Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076381/5f1dacc8bbfcbc8906b961cbd0adda16925e212f/movie_600x337.jpg?t=1732524671
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076381/movie480_vp9.webm?t=1732524671
-    max: http://video.akamai.steamstatic.com/store_trailers/257076381/movie_max_vp9.webm?t=1732524671
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076381/movie480_vp9.webm?t=1732524671
+    max: https://video.akamai.steamstatic.com/store_trailers/257076381/movie_max_vp9.webm?t=1732524671
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076381/movie480.mp4?t=1732524671
-    max: http://video.akamai.steamstatic.com/store_trailers/257076381/movie_max.mp4?t=1732524671
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076381/movie480.mp4?t=1732524671
+    max: https://video.akamai.steamstatic.com/store_trailers/257076381/movie_max.mp4?t=1732524671
   highlight: true
 genres:
 - Action
@@ -159,4 +159,3 @@ tags:
 - action
 - adventure
 ---
-

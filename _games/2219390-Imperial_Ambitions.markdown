@@ -45,41 +45,41 @@ movies:
   name: Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920834/movie.293x165.jpg?t=1687531805
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256920834/movie480_vp9.webm?t=1687531805
-    max: http://video.akamai.steamstatic.com/store_trailers/256920834/movie_max_vp9.webm?t=1687531805
+    '480': https://video.akamai.steamstatic.com/store_trailers/256920834/movie480_vp9.webm?t=1687531805
+    max: https://video.akamai.steamstatic.com/store_trailers/256920834/movie_max_vp9.webm?t=1687531805
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256920834/movie480.mp4?t=1687531805
-    max: http://video.akamai.steamstatic.com/store_trailers/256920834/movie_max.mp4?t=1687531805
+    '480': https://video.akamai.steamstatic.com/store_trailers/256920834/movie480.mp4?t=1687531805
+    max: https://video.akamai.steamstatic.com/store_trailers/256920834/movie_max.mp4?t=1687531805
   highlight: true
 - id: 256958497
   name: Embarking disembarking mechanics
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958497/movie.293x165.jpg?t=1689626429
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958497/movie480_vp9.webm?t=1689626429
-    max: http://video.akamai.steamstatic.com/store_trailers/256958497/movie_max_vp9.webm?t=1689626429
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958497/movie480_vp9.webm?t=1689626429
+    max: https://video.akamai.steamstatic.com/store_trailers/256958497/movie_max_vp9.webm?t=1689626429
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958497/movie480.mp4?t=1689626429
-    max: http://video.akamai.steamstatic.com/store_trailers/256958497/movie_max.mp4?t=1689626429
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958497/movie480.mp4?t=1689626429
+    max: https://video.akamai.steamstatic.com/store_trailers/256958497/movie_max.mp4?t=1689626429
   highlight: true
 - id: 256954769
   name: Seafaring mechanics
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256954769/movie.293x165.jpg?t=1687531801
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256954769/movie480_vp9.webm?t=1687531801
-    max: http://video.akamai.steamstatic.com/store_trailers/256954769/movie_max_vp9.webm?t=1687531801
+    '480': https://video.akamai.steamstatic.com/store_trailers/256954769/movie480_vp9.webm?t=1687531801
+    max: https://video.akamai.steamstatic.com/store_trailers/256954769/movie_max_vp9.webm?t=1687531801
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256954769/movie480.mp4?t=1687531801
-    max: http://video.akamai.steamstatic.com/store_trailers/256954769/movie_max.mp4?t=1687531801
+    '480': https://video.akamai.steamstatic.com/store_trailers/256954769/movie480.mp4?t=1687531801
+    max: https://video.akamai.steamstatic.com/store_trailers/256954769/movie_max.mp4?t=1687531801
   highlight: true
 - id: 256958498
   name: Linking Unlinking regiments
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958498/movie.293x165.jpg?t=1689626435
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958498/movie480_vp9.webm?t=1689626435
-    max: http://video.akamai.steamstatic.com/store_trailers/256958498/movie_max_vp9.webm?t=1689626435
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958498/movie480_vp9.webm?t=1689626435
+    max: https://video.akamai.steamstatic.com/store_trailers/256958498/movie_max_vp9.webm?t=1689626435
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256958498/movie480.mp4?t=1689626435
-    max: http://video.akamai.steamstatic.com/store_trailers/256958498/movie_max.mp4?t=1689626435
+    '480': https://video.akamai.steamstatic.com/store_trailers/256958498/movie480.mp4?t=1689626435
+    max: https://video.akamai.steamstatic.com/store_trailers/256958498/movie_max.mp4?t=1689626435
   highlight: true
 genres:
 - Simulation
@@ -312,4 +312,3 @@ tags:
 - simulation
 - strategy
 ---
-

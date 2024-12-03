@@ -35,11 +35,11 @@ movies:
   name: Aerostrike Official Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075981/1c8bc12aafef334cc911bc2699c3b59a49fc5686/movie_600x337.jpg?t=1732320661
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075981/movie480_vp9.webm?t=1732320661
-    max: http://video.akamai.steamstatic.com/store_trailers/257075981/movie_max_vp9.webm?t=1732320661
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075981/movie480_vp9.webm?t=1732320661
+    max: https://video.akamai.steamstatic.com/store_trailers/257075981/movie_max_vp9.webm?t=1732320661
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075981/movie480.mp4?t=1732320661
-    max: http://video.akamai.steamstatic.com/store_trailers/257075981/movie_max.mp4?t=1732320661
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075981/movie480.mp4?t=1732320661
+    max: https://video.akamai.steamstatic.com/store_trailers/257075981/movie_max.mp4?t=1732320661
   highlight: true
 genres:
 - Action
@@ -108,4 +108,3 @@ tags:
 - action
 - adventure
 ---
-

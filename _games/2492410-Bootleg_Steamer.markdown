@@ -35,31 +35,31 @@ movies:
   name: Bootleg Steamer Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257012425/movie.293x165.jpg?t=1711936137
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257012425/movie480_vp9.webm?t=1711936137
-    max: http://video.akamai.steamstatic.com/store_trailers/257012425/movie_max_vp9.webm?t=1711936137
+    '480': https://video.akamai.steamstatic.com/store_trailers/257012425/movie480_vp9.webm?t=1711936137
+    max: https://video.akamai.steamstatic.com/store_trailers/257012425/movie_max_vp9.webm?t=1711936137
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257012425/movie480.mp4?t=1711936137
-    max: http://video.akamai.steamstatic.com/store_trailers/257012425/movie_max.mp4?t=1711936137
+    '480': https://video.akamai.steamstatic.com/store_trailers/257012425/movie480.mp4?t=1711936137
+    max: https://video.akamai.steamstatic.com/store_trailers/257012425/movie_max.mp4?t=1711936137
   highlight: true
 - id: 257016030
   name: Bootleg Steamer Gameplay Footage
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016030/movie.293x165.jpg?t=1713233055
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016030/movie480_vp9.webm?t=1713233055
-    max: http://video.akamai.steamstatic.com/store_trailers/257016030/movie_max_vp9.webm?t=1713233055
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016030/movie480_vp9.webm?t=1713233055
+    max: https://video.akamai.steamstatic.com/store_trailers/257016030/movie_max_vp9.webm?t=1713233055
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016030/movie480.mp4?t=1713233055
-    max: http://video.akamai.steamstatic.com/store_trailers/257016030/movie_max.mp4?t=1713233055
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016030/movie480.mp4?t=1713233055
+    max: https://video.akamai.steamstatic.com/store_trailers/257016030/movie_max.mp4?t=1713233055
   highlight: true
 - id: 257004410
   name: Bootleg Steamer Cinematic
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257004410/movie.293x165.jpg?t=1709256867
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257004410/movie480_vp9.webm?t=1709256867
-    max: http://video.akamai.steamstatic.com/store_trailers/257004410/movie_max_vp9.webm?t=1709256867
+    '480': https://video.akamai.steamstatic.com/store_trailers/257004410/movie480_vp9.webm?t=1709256867
+    max: https://video.akamai.steamstatic.com/store_trailers/257004410/movie_max_vp9.webm?t=1709256867
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257004410/movie480.mp4?t=1709256867
-    max: http://video.akamai.steamstatic.com/store_trailers/257004410/movie_max.mp4?t=1709256867
+    '480': https://video.akamai.steamstatic.com/store_trailers/257004410/movie480.mp4?t=1709256867
+    max: https://video.akamai.steamstatic.com/store_trailers/257004410/movie_max.mp4?t=1709256867
   highlight: false
 genres:
 - Action
@@ -239,4 +239,3 @@ tags:
 - casual
 - strategy
 ---
-

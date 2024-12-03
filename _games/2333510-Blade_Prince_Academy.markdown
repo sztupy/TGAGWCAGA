@@ -38,21 +38,21 @@ movies:
   name: Blade Prince Academy Release trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257005938/movie.293x165.jpg?t=1709824515
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257005938/movie480_vp9.webm?t=1709824515
-    max: http://video.akamai.steamstatic.com/store_trailers/257005938/movie_max_vp9.webm?t=1709824515
+    '480': https://video.akamai.steamstatic.com/store_trailers/257005938/movie480_vp9.webm?t=1709824515
+    max: https://video.akamai.steamstatic.com/store_trailers/257005938/movie_max_vp9.webm?t=1709824515
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257005938/movie480.mp4?t=1709824515
-    max: http://video.akamai.steamstatic.com/store_trailers/257005938/movie_max.mp4?t=1709824515
+    '480': https://video.akamai.steamstatic.com/store_trailers/257005938/movie480.mp4?t=1709824515
+    max: https://video.akamai.steamstatic.com/store_trailers/257005938/movie_max.mp4?t=1709824515
   highlight: true
 - id: 256995723
   name: Blade Prince Academy Characters' trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256995723/movie.293x165.jpg?t=1705949410
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256995723/movie480_vp9.webm?t=1705949410
-    max: http://video.akamai.steamstatic.com/store_trailers/256995723/movie_max_vp9.webm?t=1705949410
+    '480': https://video.akamai.steamstatic.com/store_trailers/256995723/movie480_vp9.webm?t=1705949410
+    max: https://video.akamai.steamstatic.com/store_trailers/256995723/movie_max_vp9.webm?t=1705949410
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256995723/movie480.mp4?t=1705949410
-    max: http://video.akamai.steamstatic.com/store_trailers/256995723/movie_max.mp4?t=1705949410
+    '480': https://video.akamai.steamstatic.com/store_trailers/256995723/movie480.mp4?t=1705949410
+    max: https://video.akamai.steamstatic.com/store_trailers/256995723/movie_max.mp4?t=1705949410
   highlight: true
 genres:
 - Indie
@@ -162,4 +162,3 @@ tags:
 - rpg
 - strategy
 ---
-

@@ -34,21 +34,21 @@ movies:
   name: "#Blud Claws for Alarm Trailer"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071400/e19db16a2beb2fc55f65214d20c3df5f5a26d70e/movie_600x337.jpg?t=1730932861
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071400/movie480_vp9.webm?t=1730932861
-    max: http://video.akamai.steamstatic.com/store_trailers/257071400/movie_max_vp9.webm?t=1730932861
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071400/movie480_vp9.webm?t=1730932861
+    max: https://video.akamai.steamstatic.com/store_trailers/257071400/movie_max_vp9.webm?t=1730932861
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071400/movie480.mp4?t=1730932861
-    max: http://video.akamai.steamstatic.com/store_trailers/257071400/movie_max.mp4?t=1730932861
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071400/movie480.mp4?t=1730932861
+    max: https://video.akamai.steamstatic.com/store_trailers/257071400/movie_max.mp4?t=1730932861
   highlight: true
 - id: 257031807
   name: "#BLUD Launch Trailer"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031807/movie.293x165.jpg?t=1718729957
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257031807/movie480_vp9.webm?t=1718729957
-    max: http://video.akamai.steamstatic.com/store_trailers/257031807/movie_max_vp9.webm?t=1718729957
+    '480': https://video.akamai.steamstatic.com/store_trailers/257031807/movie480_vp9.webm?t=1718729957
+    max: https://video.akamai.steamstatic.com/store_trailers/257031807/movie_max_vp9.webm?t=1718729957
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257031807/movie480.mp4?t=1718729957
-    max: http://video.akamai.steamstatic.com/store_trailers/257031807/movie_max.mp4?t=1718729957
+    '480': https://video.akamai.steamstatic.com/store_trailers/257031807/movie480.mp4?t=1718729957
+    max: https://video.akamai.steamstatic.com/store_trailers/257031807/movie_max.mp4?t=1718729957
   highlight: true
 genres:
 - Action
@@ -154,4 +154,3 @@ tags:
 - adventure
 - rpg
 ---
-

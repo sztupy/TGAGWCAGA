@@ -46,21 +46,21 @@ movies:
   name: Treacherous Journeys Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257013808/movie.293x165.jpg?t=1712527724
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257013808/movie480_vp9.webm?t=1712527724
-    max: http://video.akamai.steamstatic.com/store_trailers/257013808/movie_max_vp9.webm?t=1712527724
+    '480': https://video.akamai.steamstatic.com/store_trailers/257013808/movie480_vp9.webm?t=1712527724
+    max: https://video.akamai.steamstatic.com/store_trailers/257013808/movie_max_vp9.webm?t=1712527724
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257013808/movie480.mp4?t=1712527724
-    max: http://video.akamai.steamstatic.com/store_trailers/257013808/movie_max.mp4?t=1712527724
+    '480': https://video.akamai.steamstatic.com/store_trailers/257013808/movie480.mp4?t=1712527724
+    max: https://video.akamai.steamstatic.com/store_trailers/257013808/movie_max.mp4?t=1712527724
   highlight: true
 - id: 256933260
   name: Treacherous Journeys Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256933260/movie.293x165.jpg?t=1677673801
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256933260/movie480_vp9.webm?t=1677673801
-    max: http://video.akamai.steamstatic.com/store_trailers/256933260/movie_max_vp9.webm?t=1677673801
+    '480': https://video.akamai.steamstatic.com/store_trailers/256933260/movie480_vp9.webm?t=1677673801
+    max: https://video.akamai.steamstatic.com/store_trailers/256933260/movie_max_vp9.webm?t=1677673801
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256933260/movie480.mp4?t=1677673801
-    max: http://video.akamai.steamstatic.com/store_trailers/256933260/movie_max.mp4?t=1677673801
+    '480': https://video.akamai.steamstatic.com/store_trailers/256933260/movie480.mp4?t=1677673801
+    max: https://video.akamai.steamstatic.com/store_trailers/256933260/movie_max.mp4?t=1677673801
   highlight: true
 genres:
 - Action
@@ -159,4 +159,3 @@ tags:
 - action
 - rpg
 ---
-

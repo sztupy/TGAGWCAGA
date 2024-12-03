@@ -47,21 +47,21 @@ movies:
   name: Stars in the Trash - Official Release Date Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076845/a31dc0f7a87b7442c39056119bac61f0cfe71629/movie_600x337.jpg?t=1732663386
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076845/movie480_vp9.webm?t=1732663386
-    max: http://video.akamai.steamstatic.com/store_trailers/257076845/movie_max_vp9.webm?t=1732663386
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076845/movie480_vp9.webm?t=1732663386
+    max: https://video.akamai.steamstatic.com/store_trailers/257076845/movie_max_vp9.webm?t=1732663386
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257076845/movie480.mp4?t=1732663386
-    max: http://video.akamai.steamstatic.com/store_trailers/257076845/movie_max.mp4?t=1732663386
+    '480': https://video.akamai.steamstatic.com/store_trailers/257076845/movie480.mp4?t=1732663386
+    max: https://video.akamai.steamstatic.com/store_trailers/257076845/movie_max.mp4?t=1732663386
   highlight: true
 - id: 257052514
   name: International Cat Day Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257052514/movie.293x165.jpg?t=1725487735
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257052514/movie480_vp9.webm?t=1725487735
-    max: http://video.akamai.steamstatic.com/store_trailers/257052514/movie_max_vp9.webm?t=1725487735
+    '480': https://video.akamai.steamstatic.com/store_trailers/257052514/movie480_vp9.webm?t=1725487735
+    max: https://video.akamai.steamstatic.com/store_trailers/257052514/movie_max_vp9.webm?t=1725487735
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257052514/movie480.mp4?t=1725487735
-    max: http://video.akamai.steamstatic.com/store_trailers/257052514/movie_max.mp4?t=1725487735
+    '480': https://video.akamai.steamstatic.com/store_trailers/257052514/movie480.mp4?t=1725487735
+    max: https://video.akamai.steamstatic.com/store_trailers/257052514/movie_max.mp4?t=1725487735
   highlight: true
 genres:
 - Adventure
@@ -161,4 +161,3 @@ support_info:
 tags:
 - adventure
 ---
-

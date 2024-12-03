@@ -53,21 +53,21 @@ movies:
   name: 'Roguematch : The Extraplanar Invasion Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257055001/movie.293x165.jpg?t=1726315944
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055001/movie480_vp9.webm?t=1726315944
-    max: http://video.akamai.steamstatic.com/store_trailers/257055001/movie_max_vp9.webm?t=1726315944
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055001/movie480_vp9.webm?t=1726315944
+    max: https://video.akamai.steamstatic.com/store_trailers/257055001/movie_max_vp9.webm?t=1726315944
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055001/movie480.mp4?t=1726315944
-    max: http://video.akamai.steamstatic.com/store_trailers/257055001/movie_max.mp4?t=1726315944
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055001/movie480.mp4?t=1726315944
+    max: https://video.akamai.steamstatic.com/store_trailers/257055001/movie_max.mp4?t=1726315944
   highlight: true
 - id: 256941779
   name: Roguematch Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941779/movie.293x165.jpg?t=1726315951
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256941779/movie480_vp9.webm?t=1726315951
-    max: http://video.akamai.steamstatic.com/store_trailers/256941779/movie_max_vp9.webm?t=1726315951
+    '480': https://video.akamai.steamstatic.com/store_trailers/256941779/movie480_vp9.webm?t=1726315951
+    max: https://video.akamai.steamstatic.com/store_trailers/256941779/movie_max_vp9.webm?t=1726315951
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256941779/movie480.mp4?t=1726315951
-    max: http://video.akamai.steamstatic.com/store_trailers/256941779/movie_max.mp4?t=1726315951
+    '480': https://video.akamai.steamstatic.com/store_trailers/256941779/movie480.mp4?t=1726315951
+    max: https://video.akamai.steamstatic.com/store_trailers/256941779/movie_max.mp4?t=1726315951
   highlight: true
 genres:
 - RPG
@@ -178,4 +178,3 @@ support_info:
 tags:
 - rpg
 ---
-

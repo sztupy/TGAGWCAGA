@@ -61,61 +61,61 @@ movies:
   name: Cuisineer Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979896/movie.293x165.jpg?t=1699551181
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979896/movie480_vp9.webm?t=1699551181
-    max: http://video.akamai.steamstatic.com/store_trailers/256979896/movie_max_vp9.webm?t=1699551181
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979896/movie480_vp9.webm?t=1699551181
+    max: https://video.akamai.steamstatic.com/store_trailers/256979896/movie_max_vp9.webm?t=1699551181
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256979896/movie480.mp4?t=1699551181
-    max: http://video.akamai.steamstatic.com/store_trailers/256979896/movie_max.mp4?t=1699551181
+    '480': https://video.akamai.steamstatic.com/store_trailers/256979896/movie480.mp4?t=1699551181
+    max: https://video.akamai.steamstatic.com/store_trailers/256979896/movie_max.mp4?t=1699551181
   highlight: true
 - id: 256992996
   name: Cuisineer 101
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256992996/movie.293x165.jpg?t=1704829705
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256992996/movie480_vp9.webm?t=1704829705
-    max: http://video.akamai.steamstatic.com/store_trailers/256992996/movie_max_vp9.webm?t=1704829705
+    '480': https://video.akamai.steamstatic.com/store_trailers/256992996/movie480_vp9.webm?t=1704829705
+    max: https://video.akamai.steamstatic.com/store_trailers/256992996/movie_max_vp9.webm?t=1704829705
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256992996/movie480.mp4?t=1704829705
-    max: http://video.akamai.steamstatic.com/store_trailers/256992996/movie_max.mp4?t=1704829705
+    '480': https://video.akamai.steamstatic.com/store_trailers/256992996/movie480.mp4?t=1704829705
+    max: https://video.akamai.steamstatic.com/store_trailers/256992996/movie_max.mp4?t=1704829705
   highlight: true
 - id: 256966780
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256966780/movie.293x165.jpg?t=1693507800
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256966780/movie480_vp9.webm?t=1693507800
-    max: http://video.akamai.steamstatic.com/store_trailers/256966780/movie_max_vp9.webm?t=1693507800
+    '480': https://video.akamai.steamstatic.com/store_trailers/256966780/movie480_vp9.webm?t=1693507800
+    max: https://video.akamai.steamstatic.com/store_trailers/256966780/movie_max_vp9.webm?t=1693507800
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256966780/movie480.mp4?t=1693507800
-    max: http://video.akamai.steamstatic.com/store_trailers/256966780/movie_max.mp4?t=1693507800
+    '480': https://video.akamai.steamstatic.com/store_trailers/256966780/movie480.mp4?t=1693507800
+    max: https://video.akamai.steamstatic.com/store_trailers/256966780/movie_max.mp4?t=1693507800
   highlight: true
 - id: 256953296
   name: Dungeon-to-Table Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256953296/movie.293x165.jpg?t=1686927677
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256953296/movie480_vp9.webm?t=1686927677
-    max: http://video.akamai.steamstatic.com/store_trailers/256953296/movie_max_vp9.webm?t=1686927677
+    '480': https://video.akamai.steamstatic.com/store_trailers/256953296/movie480_vp9.webm?t=1686927677
+    max: https://video.akamai.steamstatic.com/store_trailers/256953296/movie_max_vp9.webm?t=1686927677
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256953296/movie480.mp4?t=1686927677
-    max: http://video.akamai.steamstatic.com/store_trailers/256953296/movie_max.mp4?t=1686927677
+    '480': https://video.akamai.steamstatic.com/store_trailers/256953296/movie480.mp4?t=1686927677
+    max: https://video.akamai.steamstatic.com/store_trailers/256953296/movie_max.mp4?t=1686927677
   highlight: false
 - id: 256883065
   name: Early Gameplay
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256883065/movie.293x165.jpg?t=1686926334
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256883065/movie480_vp9.webm?t=1686926334
-    max: http://video.akamai.steamstatic.com/store_trailers/256883065/movie_max_vp9.webm?t=1686926334
+    '480': https://video.akamai.steamstatic.com/store_trailers/256883065/movie480_vp9.webm?t=1686926334
+    max: https://video.akamai.steamstatic.com/store_trailers/256883065/movie_max_vp9.webm?t=1686926334
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256883065/movie480.mp4?t=1686926334
-    max: http://video.akamai.steamstatic.com/store_trailers/256883065/movie_max.mp4?t=1686926334
+    '480': https://video.akamai.steamstatic.com/store_trailers/256883065/movie480.mp4?t=1686926334
+    max: https://video.akamai.steamstatic.com/store_trailers/256883065/movie_max.mp4?t=1686926334
   highlight: false
 - id: 256881672
   name: Early Production Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256881672/movie.293x165.jpg?t=1686926338
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256881672/movie480_vp9.webm?t=1686926338
-    max: http://video.akamai.steamstatic.com/store_trailers/256881672/movie_max_vp9.webm?t=1686926338
+    '480': https://video.akamai.steamstatic.com/store_trailers/256881672/movie480_vp9.webm?t=1686926338
+    max: https://video.akamai.steamstatic.com/store_trailers/256881672/movie_max_vp9.webm?t=1686926338
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256881672/movie480.mp4?t=1686926338
-    max: http://video.akamai.steamstatic.com/store_trailers/256881672/movie_max.mp4?t=1686926338
+    '480': https://video.akamai.steamstatic.com/store_trailers/256881672/movie480.mp4?t=1686926338
+    max: https://video.akamai.steamstatic.com/store_trailers/256881672/movie_max.mp4?t=1686926338
   highlight: false
 genres:
 - Action
@@ -222,4 +222,3 @@ tags:
 - rpg
 - simulation
 ---
-

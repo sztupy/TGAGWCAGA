@@ -52,11 +52,11 @@ movies:
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070291/b3081c226cdeb256f3fbf8899d7bbf363f639cff/movie_600x337.jpg?t=1730477217
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070291/movie480_vp9.webm?t=1730477217
-    max: http://video.akamai.steamstatic.com/store_trailers/257070291/movie_max_vp9.webm?t=1730477217
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070291/movie480_vp9.webm?t=1730477217
+    max: https://video.akamai.steamstatic.com/store_trailers/257070291/movie_max_vp9.webm?t=1730477217
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257070291/movie480.mp4?t=1730477217
-    max: http://video.akamai.steamstatic.com/store_trailers/257070291/movie_max.mp4?t=1730477217
+    '480': https://video.akamai.steamstatic.com/store_trailers/257070291/movie480.mp4?t=1730477217
+    max: https://video.akamai.steamstatic.com/store_trailers/257070291/movie_max.mp4?t=1730477217
   highlight: true
 genres:
 - Action
@@ -153,4 +153,3 @@ tags:
 - adventure
 - simulation
 ---
-

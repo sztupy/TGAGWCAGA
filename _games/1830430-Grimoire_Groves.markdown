@@ -52,11 +52,11 @@ movies:
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257072625/03e4941d0e46be66310959ee39c6236aae472640/movie_600x337.jpg?t=1731607980
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257072625/movie480_vp9.webm?t=1731607980
-    max: http://video.akamai.steamstatic.com/store_trailers/257072625/movie_max_vp9.webm?t=1731607980
+    '480': https://video.akamai.steamstatic.com/store_trailers/257072625/movie480_vp9.webm?t=1731607980
+    max: https://video.akamai.steamstatic.com/store_trailers/257072625/movie_max_vp9.webm?t=1731607980
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257072625/movie480.mp4?t=1731607980
-    max: http://video.akamai.steamstatic.com/store_trailers/257072625/movie_max.mp4?t=1731607980
+    '480': https://video.akamai.steamstatic.com/store_trailers/257072625/movie480.mp4?t=1731607980
+    max: https://video.akamai.steamstatic.com/store_trailers/257072625/movie_max.mp4?t=1731607980
   highlight: true
 genres:
 - Action
@@ -142,4 +142,3 @@ tags:
 - rpg
 - strategy
 ---
-

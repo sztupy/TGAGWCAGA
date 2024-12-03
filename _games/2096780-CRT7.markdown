@@ -41,21 +41,21 @@ movies:
   name: Demo Launch Trailer - 3rd August
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956973/movie.293x165.jpg?t=1688734824
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256956973/movie480_vp9.webm?t=1688734824
-    max: http://video.akamai.steamstatic.com/store_trailers/256956973/movie_max_vp9.webm?t=1688734824
+    '480': https://video.akamai.steamstatic.com/store_trailers/256956973/movie480_vp9.webm?t=1688734824
+    max: https://video.akamai.steamstatic.com/store_trailers/256956973/movie_max_vp9.webm?t=1688734824
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256956973/movie480.mp4?t=1688734824
-    max: http://video.akamai.steamstatic.com/store_trailers/256956973/movie_max.mp4?t=1688734824
+    '480': https://video.akamai.steamstatic.com/store_trailers/256956973/movie480.mp4?t=1688734824
+    max: https://video.akamai.steamstatic.com/store_trailers/256956973/movie_max.mp4?t=1688734824
   highlight: true
 - id: 256956974
   name: An Introduction to CRT7
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956974/movie.293x165.jpg?t=1688734829
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256956974/movie480_vp9.webm?t=1688734829
-    max: http://video.akamai.steamstatic.com/store_trailers/256956974/movie_max_vp9.webm?t=1688734829
+    '480': https://video.akamai.steamstatic.com/store_trailers/256956974/movie480_vp9.webm?t=1688734829
+    max: https://video.akamai.steamstatic.com/store_trailers/256956974/movie_max_vp9.webm?t=1688734829
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256956974/movie480.mp4?t=1688734829
-    max: http://video.akamai.steamstatic.com/store_trailers/256956974/movie_max.mp4?t=1688734829
+    '480': https://video.akamai.steamstatic.com/store_trailers/256956974/movie480.mp4?t=1688734829
+    max: https://video.akamai.steamstatic.com/store_trailers/256956974/movie_max.mp4?t=1688734829
   highlight: false
 genres:
 - Adventure
@@ -180,4 +180,3 @@ tags:
 - adventure
 - casual
 ---
-

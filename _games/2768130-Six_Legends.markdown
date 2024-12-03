@@ -62,21 +62,21 @@ movies:
   name: Game Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060000/6f33e7b7c934a1d6c020737d9b736baad1047f43/movie_600x337.jpg?t=1727715148
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060000/movie480_vp9.webm?t=1727715148
-    max: http://video.akamai.steamstatic.com/store_trailers/257060000/movie_max_vp9.webm?t=1727715148
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060000/movie480_vp9.webm?t=1727715148
+    max: https://video.akamai.steamstatic.com/store_trailers/257060000/movie_max_vp9.webm?t=1727715148
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060000/movie480.mp4?t=1727715148
-    max: http://video.akamai.steamstatic.com/store_trailers/257060000/movie_max.mp4?t=1727715148
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060000/movie480.mp4?t=1727715148
+    max: https://video.akamai.steamstatic.com/store_trailers/257060000/movie_max.mp4?t=1727715148
   highlight: true
 - id: 257060274
   name: Story Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060274/6f33e7b7c934a1d6c020737d9b736baad1047f43/movie_600x337.jpg?t=1727715164
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060274/movie480_vp9.webm?t=1727715164
-    max: http://video.akamai.steamstatic.com/store_trailers/257060274/movie_max_vp9.webm?t=1727715164
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060274/movie480_vp9.webm?t=1727715164
+    max: https://video.akamai.steamstatic.com/store_trailers/257060274/movie_max_vp9.webm?t=1727715164
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257060274/movie480.mp4?t=1727715164
-    max: http://video.akamai.steamstatic.com/store_trailers/257060274/movie_max.mp4?t=1727715164
+    '480': https://video.akamai.steamstatic.com/store_trailers/257060274/movie480.mp4?t=1727715164
+    max: https://video.akamai.steamstatic.com/store_trailers/257060274/movie_max.mp4?t=1727715164
   highlight: true
 genres:
 - Adventure
@@ -165,4 +165,3 @@ tags:
 - adventure
 - casual
 ---
-

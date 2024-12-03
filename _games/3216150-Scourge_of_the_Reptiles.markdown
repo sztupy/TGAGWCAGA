@@ -50,11 +50,11 @@ movies:
   name: Scourge of the Reptiles Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057460/movie.293x165.jpg?t=1727300230
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257057460/movie480_vp9.webm?t=1727300230
-    max: http://video.akamai.steamstatic.com/store_trailers/257057460/movie_max_vp9.webm?t=1727300230
+    '480': https://video.akamai.steamstatic.com/store_trailers/257057460/movie480_vp9.webm?t=1727300230
+    max: https://video.akamai.steamstatic.com/store_trailers/257057460/movie_max_vp9.webm?t=1727300230
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257057460/movie480.mp4?t=1727300230
-    max: http://video.akamai.steamstatic.com/store_trailers/257057460/movie_max.mp4?t=1727300230
+    '480': https://video.akamai.steamstatic.com/store_trailers/257057460/movie480.mp4?t=1727300230
+    max: https://video.akamai.steamstatic.com/store_trailers/257057460/movie_max.mp4?t=1727300230
   highlight: true
 genres:
 - Indie
@@ -152,4 +152,3 @@ support_info:
 tags:
 - rpg
 ---
-

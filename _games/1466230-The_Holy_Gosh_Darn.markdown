@@ -50,21 +50,21 @@ movies:
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257058533/4731de18c1be6584cf160e8862e22b2ed9f40671/movie_600x337.jpg?t=1727359222
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257058533/movie480_vp9.webm?t=1727359222
-    max: http://video.akamai.steamstatic.com/store_trailers/257058533/movie_max_vp9.webm?t=1727359222
+    '480': https://video.akamai.steamstatic.com/store_trailers/257058533/movie480_vp9.webm?t=1727359222
+    max: https://video.akamai.steamstatic.com/store_trailers/257058533/movie_max_vp9.webm?t=1727359222
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257058533/movie480.mp4?t=1727359222
-    max: http://video.akamai.steamstatic.com/store_trailers/257058533/movie_max.mp4?t=1727359222
+    '480': https://video.akamai.steamstatic.com/store_trailers/257058533/movie480.mp4?t=1727359222
+    max: https://video.akamai.steamstatic.com/store_trailers/257058533/movie_max.mp4?t=1727359222
   highlight: true
 - id: 257016971
   name: Coming Summer 2024
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016971/movie.293x165.jpg?t=1713447401
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016971/movie480_vp9.webm?t=1713447401
-    max: http://video.akamai.steamstatic.com/store_trailers/257016971/movie_max_vp9.webm?t=1713447401
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016971/movie480_vp9.webm?t=1713447401
+    max: https://video.akamai.steamstatic.com/store_trailers/257016971/movie_max_vp9.webm?t=1713447401
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016971/movie480.mp4?t=1713447401
-    max: http://video.akamai.steamstatic.com/store_trailers/257016971/movie_max.mp4?t=1713447401
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016971/movie480.mp4?t=1713447401
+    max: https://video.akamai.steamstatic.com/store_trailers/257016971/movie_max.mp4?t=1713447401
   highlight: true
 genres:
 - Adventure
@@ -183,4 +183,3 @@ support_info:
 tags:
 - adventure
 ---
-

@@ -29,11 +29,11 @@ movies:
   name: Main trailer coming soon
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069550/2f004631dfa4385823385c4562d2f59529167d5b/movie_600x337.jpg?t=1731949217
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069550/movie480_vp9.webm?t=1731949217
-    max: http://video.akamai.steamstatic.com/store_trailers/257069550/movie_max_vp9.webm?t=1731949217
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069550/movie480_vp9.webm?t=1731949217
+    max: https://video.akamai.steamstatic.com/store_trailers/257069550/movie_max_vp9.webm?t=1731949217
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069550/movie480.mp4?t=1731949217
-    max: http://video.akamai.steamstatic.com/store_trailers/257069550/movie_max.mp4?t=1731949217
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069550/movie480.mp4?t=1731949217
+    max: https://video.akamai.steamstatic.com/store_trailers/257069550/movie_max.mp4?t=1731949217
   highlight: true
 genres:
 - Casual
@@ -131,4 +131,3 @@ tags:
 - casual
 - simulation
 ---
-

@@ -31,11 +31,11 @@ movies:
   name: Roombattle - Official Reveal Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257055226/movie.293x165.jpg?t=1726764679
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055226/movie480_vp9.webm?t=1726764679
-    max: http://video.akamai.steamstatic.com/store_trailers/257055226/movie_max_vp9.webm?t=1726764679
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055226/movie480_vp9.webm?t=1726764679
+    max: https://video.akamai.steamstatic.com/store_trailers/257055226/movie_max_vp9.webm?t=1726764679
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257055226/movie480.mp4?t=1726764679
-    max: http://video.akamai.steamstatic.com/store_trailers/257055226/movie_max.mp4?t=1726764679
+    '480': https://video.akamai.steamstatic.com/store_trailers/257055226/movie480.mp4?t=1726764679
+    max: https://video.akamai.steamstatic.com/store_trailers/257055226/movie_max.mp4?t=1726764679
   highlight: true
 genres:
 - Action
@@ -126,4 +126,3 @@ tags:
 - action
 - casual
 ---
-

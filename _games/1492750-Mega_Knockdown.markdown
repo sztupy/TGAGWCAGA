@@ -40,11 +40,11 @@ movies:
   name: Mega Knockdown Explainer Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256998778/movie.293x165.jpg?t=1725291627
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256998778/movie480_vp9.webm?t=1725291627
-    max: http://video.akamai.steamstatic.com/store_trailers/256998778/movie_max_vp9.webm?t=1725291627
+    '480': https://video.akamai.steamstatic.com/store_trailers/256998778/movie480_vp9.webm?t=1725291627
+    max: https://video.akamai.steamstatic.com/store_trailers/256998778/movie_max_vp9.webm?t=1725291627
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256998778/movie480.mp4?t=1725291627
-    max: http://video.akamai.steamstatic.com/store_trailers/256998778/movie_max.mp4?t=1725291627
+    '480': https://video.akamai.steamstatic.com/store_trailers/256998778/movie480.mp4?t=1725291627
+    max: https://video.akamai.steamstatic.com/store_trailers/256998778/movie_max.mp4?t=1725291627
   highlight: true
 genres:
 - Action
@@ -165,4 +165,3 @@ tags:
 - action
 - strategy
 ---
-

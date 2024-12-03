@@ -31,11 +31,11 @@ movies:
   name: Alpha Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069140/bf1ad0abf95f54beeb33e396c44cb33e34dcf397/movie_600x337.jpg?t=1730554706
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069140/movie480_vp9.webm?t=1730554706
-    max: http://video.akamai.steamstatic.com/store_trailers/257069140/movie_max_vp9.webm?t=1730554706
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069140/movie480_vp9.webm?t=1730554706
+    max: https://video.akamai.steamstatic.com/store_trailers/257069140/movie_max_vp9.webm?t=1730554706
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257069140/movie480.mp4?t=1730554706
-    max: http://video.akamai.steamstatic.com/store_trailers/257069140/movie_max.mp4?t=1730554706
+    '480': https://video.akamai.steamstatic.com/store_trailers/257069140/movie480.mp4?t=1730554706
+    max: https://video.akamai.steamstatic.com/store_trailers/257069140/movie_max.mp4?t=1730554706
   highlight: true
 genres:
 - Action
@@ -133,4 +133,3 @@ tags:
 - action
 - rpg
 ---
-

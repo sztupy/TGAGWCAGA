@@ -41,11 +41,11 @@ movies:
   name: Trailer 1
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256890545/movie.293x165.jpg?t=1654705001
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256890545/movie480_vp9.webm?t=1654705001
-    max: http://video.akamai.steamstatic.com/store_trailers/256890545/movie_max_vp9.webm?t=1654705001
+    '480': https://video.akamai.steamstatic.com/store_trailers/256890545/movie480_vp9.webm?t=1654705001
+    max: https://video.akamai.steamstatic.com/store_trailers/256890545/movie_max_vp9.webm?t=1654705001
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256890545/movie480.mp4?t=1654705001
-    max: http://video.akamai.steamstatic.com/store_trailers/256890545/movie_max.mp4?t=1654705001
+    '480': https://video.akamai.steamstatic.com/store_trailers/256890545/movie480.mp4?t=1654705001
+    max: https://video.akamai.steamstatic.com/store_trailers/256890545/movie_max.mp4?t=1654705001
   highlight: true
 genres:
 - Adventure
@@ -140,4 +140,3 @@ support_info:
 tags:
 - adventure
 ---
-

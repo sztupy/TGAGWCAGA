@@ -41,11 +41,11 @@ movies:
   name: Announcement & Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257054863/429fe56fdf8edf1a4705c3f055eec1481534a0e1/movie_600x337.jpg?t=1729633840
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257054863/movie480_vp9.webm?t=1729633840
-    max: http://video.akamai.steamstatic.com/store_trailers/257054863/movie_max_vp9.webm?t=1729633840
+    '480': https://video.akamai.steamstatic.com/store_trailers/257054863/movie480_vp9.webm?t=1729633840
+    max: https://video.akamai.steamstatic.com/store_trailers/257054863/movie_max_vp9.webm?t=1729633840
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257054863/movie480.mp4?t=1729633840
-    max: http://video.akamai.steamstatic.com/store_trailers/257054863/movie_max.mp4?t=1729633840
+    '480': https://video.akamai.steamstatic.com/store_trailers/257054863/movie480.mp4?t=1729633840
+    max: https://video.akamai.steamstatic.com/store_trailers/257054863/movie_max.mp4?t=1729633840
   highlight: true
 genres:
 - Action
@@ -138,4 +138,3 @@ tags:
 - action
 - rpg
 ---
-

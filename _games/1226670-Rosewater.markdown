@@ -44,21 +44,21 @@ movies:
   name: Official Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256985729/movie.293x165.jpg?t=1701367679
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256985729/movie480_vp9.webm?t=1701367679
-    max: http://video.akamai.steamstatic.com/store_trailers/256985729/movie_max_vp9.webm?t=1701367679
+    '480': https://video.akamai.steamstatic.com/store_trailers/256985729/movie480_vp9.webm?t=1701367679
+    max: https://video.akamai.steamstatic.com/store_trailers/256985729/movie_max_vp9.webm?t=1701367679
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256985729/movie480.mp4?t=1701367679
-    max: http://video.akamai.steamstatic.com/store_trailers/256985729/movie_max.mp4?t=1701367679
+    '480': https://video.akamai.steamstatic.com/store_trailers/256985729/movie480.mp4?t=1701367679
+    max: https://video.akamai.steamstatic.com/store_trailers/256985729/movie_max.mp4?t=1701367679
   highlight: true
 - id: 256772456
   name: Rosewater Teaser
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256772456/movie.293x165.jpg?t=1701367684
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256772456/movie480.webm?t=1701367684
-    max: http://video.akamai.steamstatic.com/store_trailers/256772456/movie_max.webm?t=1701367684
+    '480': https://video.akamai.steamstatic.com/store_trailers/256772456/movie480.webm?t=1701367684
+    max: https://video.akamai.steamstatic.com/store_trailers/256772456/movie_max.webm?t=1701367684
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256772456/movie480.mp4?t=1701367684
-    max: http://video.akamai.steamstatic.com/store_trailers/256772456/movie_max.mp4?t=1701367684
+    '480': https://video.akamai.steamstatic.com/store_trailers/256772456/movie480.mp4?t=1701367684
+    max: https://video.akamai.steamstatic.com/store_trailers/256772456/movie_max.mp4?t=1701367684
   highlight: true
 genres:
 - Adventure
@@ -139,4 +139,3 @@ support_info:
 tags:
 - adventure
 ---
-

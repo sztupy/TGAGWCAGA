@@ -47,31 +47,31 @@ movies:
   name: Launch Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015000/movie.293x165.jpg?t=1712756763
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257015000/movie480_vp9.webm?t=1712756763
-    max: http://video.akamai.steamstatic.com/store_trailers/257015000/movie_max_vp9.webm?t=1712756763
+    '480': https://video.akamai.steamstatic.com/store_trailers/257015000/movie480_vp9.webm?t=1712756763
+    max: https://video.akamai.steamstatic.com/store_trailers/257015000/movie_max_vp9.webm?t=1712756763
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257015000/movie480.mp4?t=1712756763
-    max: http://video.akamai.steamstatic.com/store_trailers/257015000/movie_max.mp4?t=1712756763
+    '480': https://video.akamai.steamstatic.com/store_trailers/257015000/movie480.mp4?t=1712756763
+    max: https://video.akamai.steamstatic.com/store_trailers/257015000/movie_max.mp4?t=1712756763
   highlight: true
 - id: 256999085
   name: Release Date Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999085/movie.293x165.jpg?t=1710355694
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999085/movie480_vp9.webm?t=1710355694
-    max: http://video.akamai.steamstatic.com/store_trailers/256999085/movie_max_vp9.webm?t=1710355694
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999085/movie480_vp9.webm?t=1710355694
+    max: https://video.akamai.steamstatic.com/store_trailers/256999085/movie_max_vp9.webm?t=1710355694
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256999085/movie480.mp4?t=1710355694
-    max: http://video.akamai.steamstatic.com/store_trailers/256999085/movie_max.mp4?t=1710355694
+    '480': https://video.akamai.steamstatic.com/store_trailers/256999085/movie480.mp4?t=1710355694
+    max: https://video.akamai.steamstatic.com/store_trailers/256999085/movie_max.mp4?t=1710355694
   highlight: true
 - id: 256891053
   name: Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891053/movie.293x165.jpg?t=1706805692
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256891053/movie480_vp9.webm?t=1706805692
-    max: http://video.akamai.steamstatic.com/store_trailers/256891053/movie_max_vp9.webm?t=1706805692
+    '480': https://video.akamai.steamstatic.com/store_trailers/256891053/movie480_vp9.webm?t=1706805692
+    max: https://video.akamai.steamstatic.com/store_trailers/256891053/movie_max_vp9.webm?t=1706805692
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256891053/movie480.mp4?t=1706805692
-    max: http://video.akamai.steamstatic.com/store_trailers/256891053/movie_max.mp4?t=1706805692
+    '480': https://video.akamai.steamstatic.com/store_trailers/256891053/movie480.mp4?t=1706805692
+    max: https://video.akamai.steamstatic.com/store_trailers/256891053/movie_max.mp4?t=1706805692
   highlight: true
 genres:
 - Action
@@ -161,4 +161,3 @@ tags:
 - action
 - adventure
 ---
-

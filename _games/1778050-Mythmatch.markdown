@@ -31,11 +31,11 @@ movies:
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031137/movie.293x165.jpg?t=1718353175
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257031137/movie480_vp9.webm?t=1718353175
-    max: http://video.akamai.steamstatic.com/store_trailers/257031137/movie_max_vp9.webm?t=1718353175
+    '480': https://video.akamai.steamstatic.com/store_trailers/257031137/movie480_vp9.webm?t=1718353175
+    max: https://video.akamai.steamstatic.com/store_trailers/257031137/movie_max_vp9.webm?t=1718353175
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257031137/movie480.mp4?t=1718353175
-    max: http://video.akamai.steamstatic.com/store_trailers/257031137/movie_max.mp4?t=1718353175
+    '480': https://video.akamai.steamstatic.com/store_trailers/257031137/movie480.mp4?t=1718353175
+    max: https://video.akamai.steamstatic.com/store_trailers/257031137/movie_max.mp4?t=1718353175
   highlight: true
 genres:
 - Simulation
@@ -108,4 +108,3 @@ support_info:
 tags:
 - simulation
 ---
-

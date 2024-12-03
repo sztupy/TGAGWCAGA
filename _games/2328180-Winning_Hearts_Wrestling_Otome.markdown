@@ -50,11 +50,11 @@ movies:
   name: Winning Hearts Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256933011/movie.293x165.jpg?t=1677625963
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256933011/movie480_vp9.webm?t=1677625963
-    max: http://video.akamai.steamstatic.com/store_trailers/256933011/movie_max_vp9.webm?t=1677625963
+    '480': https://video.akamai.steamstatic.com/store_trailers/256933011/movie480_vp9.webm?t=1677625963
+    max: https://video.akamai.steamstatic.com/store_trailers/256933011/movie_max_vp9.webm?t=1677625963
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256933011/movie480.mp4?t=1677625963
-    max: http://video.akamai.steamstatic.com/store_trailers/256933011/movie_max.mp4?t=1677625963
+    '480': https://video.akamai.steamstatic.com/store_trailers/256933011/movie480.mp4?t=1677625963
+    max: https://video.akamai.steamstatic.com/store_trailers/256933011/movie_max.mp4?t=1677625963
   highlight: true
 genres:
 - Casual
@@ -150,4 +150,3 @@ tags:
 - casual
 - simulation
 ---
-

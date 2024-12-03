@@ -62,21 +62,21 @@ movies:
   name: Genopanic Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257023772/movie.293x165.jpg?t=1715899761
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023772/movie480_vp9.webm?t=1715899761
-    max: http://video.akamai.steamstatic.com/store_trailers/257023772/movie_max_vp9.webm?t=1715899761
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023772/movie480_vp9.webm?t=1715899761
+    max: https://video.akamai.steamstatic.com/store_trailers/257023772/movie_max_vp9.webm?t=1715899761
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257023772/movie480.mp4?t=1715899761
-    max: http://video.akamai.steamstatic.com/store_trailers/257023772/movie_max.mp4?t=1715899761
+    '480': https://video.akamai.steamstatic.com/store_trailers/257023772/movie480.mp4?t=1715899761
+    max: https://video.akamai.steamstatic.com/store_trailers/257023772/movie_max.mp4?t=1715899761
   highlight: true
 - id: 257016888
   name: Genopanic General trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016888/movie.293x165.jpg?t=1713429122
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016888/movie480_vp9.webm?t=1713429122
-    max: http://video.akamai.steamstatic.com/store_trailers/257016888/movie_max_vp9.webm?t=1713429122
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016888/movie480_vp9.webm?t=1713429122
+    max: https://video.akamai.steamstatic.com/store_trailers/257016888/movie_max_vp9.webm?t=1713429122
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257016888/movie480.mp4?t=1713429122
-    max: http://video.akamai.steamstatic.com/store_trailers/257016888/movie_max.mp4?t=1713429122
+    '480': https://video.akamai.steamstatic.com/store_trailers/257016888/movie480.mp4?t=1713429122
+    max: https://video.akamai.steamstatic.com/store_trailers/257016888/movie_max.mp4?t=1713429122
   highlight: true
 genres:
 - Action
@@ -209,4 +209,3 @@ tags:
 - adventure
 - casual
 ---
-

@@ -35,11 +35,11 @@ movies:
   name: 'Sang: The Desert Blade KS Trailer'
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256895100/movie.293x165.jpg?t=1657139483
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256895100/movie480_vp9.webm?t=1657139483
-    max: http://video.akamai.steamstatic.com/store_trailers/256895100/movie_max_vp9.webm?t=1657139483
+    '480': https://video.akamai.steamstatic.com/store_trailers/256895100/movie480_vp9.webm?t=1657139483
+    max: https://video.akamai.steamstatic.com/store_trailers/256895100/movie_max_vp9.webm?t=1657139483
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256895100/movie480.mp4?t=1657139483
-    max: http://video.akamai.steamstatic.com/store_trailers/256895100/movie_max.mp4?t=1657139483
+    '480': https://video.akamai.steamstatic.com/store_trailers/256895100/movie480.mp4?t=1657139483
+    max: https://video.akamai.steamstatic.com/store_trailers/256895100/movie_max.mp4?t=1657139483
   highlight: true
 genres:
 - Action
@@ -122,4 +122,3 @@ tags:
 - adventure
 - rpg
 ---
-

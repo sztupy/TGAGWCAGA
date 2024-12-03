@@ -27,11 +27,11 @@ movies:
   name: Blast-A-Finn steam demo trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044690/09843ddfb0393038e52d6454cd38b842c1b02842/movie_600x337.jpg?t=1731697315
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044690/movie480_vp9.webm?t=1731697315
-    max: http://video.akamai.steamstatic.com/store_trailers/257044690/movie_max_vp9.webm?t=1731697315
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044690/movie480_vp9.webm?t=1731697315
+    max: https://video.akamai.steamstatic.com/store_trailers/257044690/movie_max_vp9.webm?t=1731697315
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257044690/movie480.mp4?t=1731697315
-    max: http://video.akamai.steamstatic.com/store_trailers/257044690/movie_max.mp4?t=1731697315
+    '480': https://video.akamai.steamstatic.com/store_trailers/257044690/movie480.mp4?t=1731697315
+    max: https://video.akamai.steamstatic.com/store_trailers/257044690/movie_max.mp4?t=1731697315
   highlight: true
 genres:
 - Action
@@ -75,4 +75,3 @@ tags:
 - action
 - casual
 ---
-

@@ -40,11 +40,11 @@ movies:
   name: Demo Trailer 0.41
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077927/868f20e0572f3025424e52df30dfbaaba13fd949/movie_600x337.jpg?t=1732987704
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257077927/movie480_vp9.webm?t=1732987704
-    max: http://video.akamai.steamstatic.com/store_trailers/257077927/movie_max_vp9.webm?t=1732987704
+    '480': https://video.akamai.steamstatic.com/store_trailers/257077927/movie480_vp9.webm?t=1732987704
+    max: https://video.akamai.steamstatic.com/store_trailers/257077927/movie_max_vp9.webm?t=1732987704
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257077927/movie480.mp4?t=1732987704
-    max: http://video.akamai.steamstatic.com/store_trailers/257077927/movie_max.mp4?t=1732987704
+    '480': https://video.akamai.steamstatic.com/store_trailers/257077927/movie480.mp4?t=1732987704
+    max: https://video.akamai.steamstatic.com/store_trailers/257077927/movie_max.mp4?t=1732987704
   highlight: true
 genres:
 - Action
@@ -114,4 +114,3 @@ support_info:
 tags:
 - action
 ---
-

@@ -56,11 +56,11 @@ movies:
   name: Chapter 1 Demo Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256890322/movie.293x165.jpg?t=1672699393
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256890322/movie480_vp9.webm?t=1672699393
-    max: http://video.akamai.steamstatic.com/store_trailers/256890322/movie_max_vp9.webm?t=1672699393
+    '480': https://video.akamai.steamstatic.com/store_trailers/256890322/movie480_vp9.webm?t=1672699393
+    max: https://video.akamai.steamstatic.com/store_trailers/256890322/movie_max_vp9.webm?t=1672699393
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256890322/movie480.mp4?t=1672699393
-    max: http://video.akamai.steamstatic.com/store_trailers/256890322/movie_max.mp4?t=1672699393
+    '480': https://video.akamai.steamstatic.com/store_trailers/256890322/movie480.mp4?t=1672699393
+    max: https://video.akamai.steamstatic.com/store_trailers/256890322/movie_max.mp4?t=1672699393
   highlight: true
 genres:
 - Adventure
@@ -136,4 +136,3 @@ tags:
 - adventure
 - rpg
 ---
-

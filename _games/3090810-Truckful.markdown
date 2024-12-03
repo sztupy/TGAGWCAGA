@@ -43,21 +43,21 @@ movies:
   name: The Helping Haul - Gameplay Reveal
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075788/d28c9623bf2c77239f57a95540896b6cffe2e655/movie_600x337.jpg?t=1732267309
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075788/movie480_vp9.webm?t=1732267309
-    max: http://video.akamai.steamstatic.com/store_trailers/257075788/movie_max_vp9.webm?t=1732267309
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075788/movie480_vp9.webm?t=1732267309
+    max: https://video.akamai.steamstatic.com/store_trailers/257075788/movie_max_vp9.webm?t=1732267309
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257075788/movie480.mp4?t=1732267309
-    max: http://video.akamai.steamstatic.com/store_trailers/257075788/movie_max.mp4?t=1732267309
+    '480': https://video.akamai.steamstatic.com/store_trailers/257075788/movie480.mp4?t=1732267309
+    max: https://video.akamai.steamstatic.com/store_trailers/257075788/movie_max.mp4?t=1732267309
   highlight: true
 - id: 257039854
   name: Truckful - Official Announcement Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039854/movie.293x165.jpg?t=1721744274
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039854/movie480_vp9.webm?t=1721744274
-    max: http://video.akamai.steamstatic.com/store_trailers/257039854/movie_max_vp9.webm?t=1721744274
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039854/movie480_vp9.webm?t=1721744274
+    max: https://video.akamai.steamstatic.com/store_trailers/257039854/movie_max_vp9.webm?t=1721744274
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257039854/movie480.mp4?t=1721744274
-    max: http://video.akamai.steamstatic.com/store_trailers/257039854/movie_max.mp4?t=1721744274
+    '480': https://video.akamai.steamstatic.com/store_trailers/257039854/movie480.mp4?t=1721744274
+    max: https://video.akamai.steamstatic.com/store_trailers/257039854/movie_max.mp4?t=1721744274
   highlight: true
 genres:
 - Action
@@ -141,4 +141,3 @@ support_info:
 tags:
 - action
 ---
-

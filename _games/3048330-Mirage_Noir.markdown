@@ -33,11 +33,11 @@ movies:
   name: Mirage Noir Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071667/126a2a81e79c0c534fa50c54f63a7b7561fb10a6/movie_600x337.jpg?t=1731037539
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071667/movie480_vp9.webm?t=1731037539
-    max: http://video.akamai.steamstatic.com/store_trailers/257071667/movie_max_vp9.webm?t=1731037539
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071667/movie480_vp9.webm?t=1731037539
+    max: https://video.akamai.steamstatic.com/store_trailers/257071667/movie_max_vp9.webm?t=1731037539
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257071667/movie480.mp4?t=1731037539
-    max: http://video.akamai.steamstatic.com/store_trailers/257071667/movie_max.mp4?t=1731037539
+    '480': https://video.akamai.steamstatic.com/store_trailers/257071667/movie480.mp4?t=1731037539
+    max: https://video.akamai.steamstatic.com/store_trailers/257071667/movie_max.mp4?t=1731037539
   highlight: true
 genres:
 - Adventure
@@ -162,4 +162,3 @@ tags:
 - adventure
 - casual
 ---
-

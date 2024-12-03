@@ -70,21 +70,21 @@ movies:
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257037119/movie.293x165.jpg?t=1720701636
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037119/movie480_vp9.webm?t=1720701636
-    max: http://video.akamai.steamstatic.com/store_trailers/257037119/movie_max_vp9.webm?t=1720701636
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037119/movie480_vp9.webm?t=1720701636
+    max: https://video.akamai.steamstatic.com/store_trailers/257037119/movie_max_vp9.webm?t=1720701636
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257037119/movie480.mp4?t=1720701636
-    max: http://video.akamai.steamstatic.com/store_trailers/257037119/movie_max.mp4?t=1720701636
+    '480': https://video.akamai.steamstatic.com/store_trailers/257037119/movie480.mp4?t=1720701636
+    max: https://video.akamai.steamstatic.com/store_trailers/257037119/movie_max.mp4?t=1720701636
   highlight: true
 - id: 256949799
   name: Reveal Trailer May 2023
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256949799/movie.293x165.jpg?t=1726834259
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256949799/movie480_vp9.webm?t=1726834259
-    max: http://video.akamai.steamstatic.com/store_trailers/256949799/movie_max_vp9.webm?t=1726834259
+    '480': https://video.akamai.steamstatic.com/store_trailers/256949799/movie480_vp9.webm?t=1726834259
+    max: https://video.akamai.steamstatic.com/store_trailers/256949799/movie_max_vp9.webm?t=1726834259
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/256949799/movie480.mp4?t=1726834259
-    max: http://video.akamai.steamstatic.com/store_trailers/256949799/movie_max.mp4?t=1726834259
+    '480': https://video.akamai.steamstatic.com/store_trailers/256949799/movie480.mp4?t=1726834259
+    max: https://video.akamai.steamstatic.com/store_trailers/256949799/movie_max.mp4?t=1726834259
   highlight: true
 genres:
 - Adventure
@@ -149,4 +149,3 @@ tags:
 - adventure
 - simulation
 ---
-

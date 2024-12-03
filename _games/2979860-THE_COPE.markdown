@@ -50,11 +50,11 @@ movies:
   name: The Cope - Official Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257021654/2ec069a744500c1d4865eddbc931a745d3deb1e0/movie_600x337.jpg?t=1733071981
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257021654/movie480_vp9.webm?t=1733071981
-    max: http://video.akamai.steamstatic.com/store_trailers/257021654/movie_max_vp9.webm?t=1733071981
+    '480': https://video.akamai.steamstatic.com/store_trailers/257021654/movie480_vp9.webm?t=1733071981
+    max: https://video.akamai.steamstatic.com/store_trailers/257021654/movie_max_vp9.webm?t=1733071981
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257021654/movie480.mp4?t=1733071981
-    max: http://video.akamai.steamstatic.com/store_trailers/257021654/movie_max.mp4?t=1733071981
+    '480': https://video.akamai.steamstatic.com/store_trailers/257021654/movie480.mp4?t=1733071981
+    max: https://video.akamai.steamstatic.com/store_trailers/257021654/movie_max.mp4?t=1733071981
   highlight: true
 genres:
 - Adventure
@@ -149,4 +149,3 @@ support_info:
 tags:
 - adventure
 ---
-

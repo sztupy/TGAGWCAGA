@@ -34,21 +34,21 @@ movies:
   name: "[Bober Bros] It's Just A Prank. Trailer"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031415/movie.293x165.jpg?t=1718445877
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257031415/movie480_vp9.webm?t=1718445877
-    max: http://video.akamai.steamstatic.com/store_trailers/257031415/movie_max_vp9.webm?t=1718445877
+    '480': https://video.akamai.steamstatic.com/store_trailers/257031415/movie480_vp9.webm?t=1718445877
+    max: https://video.akamai.steamstatic.com/store_trailers/257031415/movie_max_vp9.webm?t=1718445877
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257031415/movie480.mp4?t=1718445877
-    max: http://video.akamai.steamstatic.com/store_trailers/257031415/movie_max.mp4?t=1718445877
+    '480': https://video.akamai.steamstatic.com/store_trailers/257031415/movie480.mp4?t=1718445877
+    max: https://video.akamai.steamstatic.com/store_trailers/257031415/movie_max.mp4?t=1718445877
   highlight: true
 - id: 257030095
   name: "[Bober Bros] It's Just A Prank. Release Trailer"
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030095/movie.293x165.jpg?t=1718884486
   webm:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030095/movie480_vp9.webm?t=1718884486
-    max: http://video.akamai.steamstatic.com/store_trailers/257030095/movie_max_vp9.webm?t=1718884486
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030095/movie480_vp9.webm?t=1718884486
+    max: https://video.akamai.steamstatic.com/store_trailers/257030095/movie_max_vp9.webm?t=1718884486
   mp4:
-    '480': http://video.akamai.steamstatic.com/store_trailers/257030095/movie480.mp4?t=1718884486
-    max: http://video.akamai.steamstatic.com/store_trailers/257030095/movie_max.mp4?t=1718884486
+    '480': https://video.akamai.steamstatic.com/store_trailers/257030095/movie480.mp4?t=1718884486
+    max: https://video.akamai.steamstatic.com/store_trailers/257030095/movie_max.mp4?t=1718884486
   highlight: true
 genres:
 - Action
@@ -105,4 +105,3 @@ tags:
 - adventure
 - casual
 ---
-
