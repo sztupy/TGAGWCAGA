@@ -98,7 +98,6 @@ movies:
 genres:
 - Action
 - Adventure
-- Early Access
 steam_categories:
 - Single-player
 - Steam Achievements
