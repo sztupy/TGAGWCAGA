@@ -62,7 +62,7 @@ developers:
 publishers:
 - Whitethorn Games
 release_date:
-  coming_soon: true
+  coming_soon: false
   date: 5 Dec, 2024
 content_warning:
   ids: []
