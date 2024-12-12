@@ -3,36 +3,33 @@ title: Snakeloop
 description: 'Snakeloop is a challenging puzzle game based on a simple idea: What
   if you took classic Snake but inverted the goal and made it so you have to form
   a loop by eating your own tail.'
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/header.jpg?t=1731699404
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/d26b80085813a2c8d93353f5efb7af4ed6e2bbb8/capsule_231x87.jpg?t=1731699404
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/header.jpg?t=1733702547
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/955b69f3dac89f1b41737723390846c13c2b686b/capsule_231x87.jpg?t=1733702547
 categories: game
 steamid: 3336460
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_232879a66797c44ec34776f6ee0806a933721998.600x338.jpg?t=1731699404
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_232879a66797c44ec34776f6ee0806a933721998.1920x1080.jpg?t=1731699404
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_5ebc223a58d1521833598863d63257b52a60dacc.600x338.jpg?t=1733702547
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_5ebc223a58d1521833598863d63257b52a60dacc.1920x1080.jpg?t=1733702547
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_245d4cc0b9f5b8ca7fd621342fcaf61573ef5da7.600x338.jpg?t=1731699404
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_245d4cc0b9f5b8ca7fd621342fcaf61573ef5da7.1920x1080.jpg?t=1731699404
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_fe9c1a66a4f199e56fb7ef3016a2ca6a8a804b61.600x338.jpg?t=1733702547
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_fe9c1a66a4f199e56fb7ef3016a2ca6a8a804b61.1920x1080.jpg?t=1733702547
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_006adc77aedea459c2126a66891768112c1cbd71.600x338.jpg?t=1731699404
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_006adc77aedea459c2126a66891768112c1cbd71.1920x1080.jpg?t=1731699404
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_5439c2d7556952249a4011ea7a5f41dffe064906.600x338.jpg?t=1733702547
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_5439c2d7556952249a4011ea7a5f41dffe064906.1920x1080.jpg?t=1733702547
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_c17a0da6f7de297c48858beb6983b1347b42dd33.600x338.jpg?t=1731699404
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_c17a0da6f7de297c48858beb6983b1347b42dd33.1920x1080.jpg?t=1731699404
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_f3ae40ca3bf7a0366981aafc8a94b999fd7e20b5.600x338.jpg?t=1733702547
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_f3ae40ca3bf7a0366981aafc8a94b999fd7e20b5.1920x1080.jpg?t=1733702547
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_82d489185aeacee8a4765d3f34400f2674095a28.600x338.jpg?t=1731699404
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_82d489185aeacee8a4765d3f34400f2674095a28.1920x1080.jpg?t=1731699404
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_71dd3bb541807ebe91ff081f095385879a698f8f.600x338.jpg?t=1733702547
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_71dd3bb541807ebe91ff081f095385879a698f8f.1920x1080.jpg?t=1733702547
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_66d88de0ae47af496dddfea52c2a3281d615d3d6.600x338.jpg?t=1731699404
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_66d88de0ae47af496dddfea52c2a3281d615d3d6.1920x1080.jpg?t=1731699404
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_1e818487b4ec2717a61a3bd5eb114eec8063c31c.600x338.jpg?t=1733702547
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_1e818487b4ec2717a61a3bd5eb114eec8063c31c.1920x1080.jpg?t=1733702547
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_223d5cf3ce465a982faa344ffc02e91c0c9eb07b.600x338.jpg?t=1731699404
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_223d5cf3ce465a982faa344ffc02e91c0c9eb07b.1920x1080.jpg?t=1731699404
-- id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_7e2d29ef1657ada34f77a9543efba458d6830bcc.600x338.jpg?t=1731699404
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_7e2d29ef1657ada34f77a9543efba458d6830bcc.1920x1080.jpg?t=1731699404
-movies:
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_4f33c2258c70bf0f583a63cf85ba09c65d692cd0.600x338.jpg?t=1733702547
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336460/ss_4f33c2258c70bf0f583a63cf85ba09c65d692cd0.1920x1080.jpg?t=1733702547
+movies: []
 genres:
 - Casual
 - Indie

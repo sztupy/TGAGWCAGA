@@ -1,6 +1,7 @@
 ---
 title: Elder Lich
-description: An Action-RPG with lots of undead
+description: Experience your undeath with Elder Lich, a story-rich Action-RPG, where
+  most characters, including you, are undead.
 image: https://img.itch.zone/aW1nLzE4MjUzOTcxLnBuZw==/315x250%23c/Gbd6bH.png
 categories: game
 itchid: 3034950

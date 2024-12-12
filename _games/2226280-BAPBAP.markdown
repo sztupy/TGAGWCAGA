@@ -1,44 +1,50 @@
 ---
 title: BAPBAP
-description: Join BAPBAP, the wildest Hero Royale featuring a fresh line-up of characters
-  packed with unique abilities. Round up your squad and fight your way to be the last
-  team standing.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/header.jpg?t=1732039553
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/c6a968142d6a95411141d2a49c1b108432289b26/capsule_231x87.jpg?t=1732039553
+description: Join BAPBAP, the wildest Hero Roguelike Royale where no two matches are
+  ever the same! Round up your squad, pick a character, then adapt and style on all
+  challengers in order to become the last team standing.
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/header.jpg?t=1733343962
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/c6a968142d6a95411141d2a49c1b108432289b26/capsule_231x87.jpg?t=1733343962
 categories: game
 steamid: 2226280
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_4259940eae11d5b8e7f8547ad910d7d329282cff.600x338.jpg?t=1732039553
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_4259940eae11d5b8e7f8547ad910d7d329282cff.1920x1080.jpg?t=1732039553
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_eb2aef11e0ed1c63552452e34cd970e4d1014496.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_eb2aef11e0ed1c63552452e34cd970e4d1014496.1920x1080.jpg?t=1733343962
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_46e6f3b9d932230e35ab1689c0b262792d33699d.600x338.jpg?t=1732039553
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_46e6f3b9d932230e35ab1689c0b262792d33699d.1920x1080.jpg?t=1732039553
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_940caa4385311511f5528d2b6dbea9f1607132ad.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_940caa4385311511f5528d2b6dbea9f1607132ad.1920x1080.jpg?t=1733343962
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_ed698ea31539375ef9818e1c7d1bf61b3387e3e8.600x338.jpg?t=1732039553
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_ed698ea31539375ef9818e1c7d1bf61b3387e3e8.1920x1080.jpg?t=1732039553
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_237947832b14e48337567d0c685f1410586ee98b.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_237947832b14e48337567d0c685f1410586ee98b.1920x1080.jpg?t=1733343962
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_2be2f33316023b1568bc49cf481923822e93c364.600x338.jpg?t=1732039553
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_2be2f33316023b1568bc49cf481923822e93c364.1920x1080.jpg?t=1732039553
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_db55610c11e1099744193fff5ff262cc0ea31ecd.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_db55610c11e1099744193fff5ff262cc0ea31ecd.1920x1080.jpg?t=1733343962
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_0c4a2d9f703958b2ef9594d1007da95f7f30d9bf.600x338.jpg?t=1732039553
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_0c4a2d9f703958b2ef9594d1007da95f7f30d9bf.1920x1080.jpg?t=1732039553
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_89e50cfe7c95d3645dbcb272f35ed7f363345f13.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_89e50cfe7c95d3645dbcb272f35ed7f363345f13.1920x1080.jpg?t=1733343962
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_531923756701fe1fe4421b7582d52de60f6c4d6b.600x338.jpg?t=1732039553
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_531923756701fe1fe4421b7582d52de60f6c4d6b.1920x1080.jpg?t=1732039553
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_a9458b816ee2b04eb3116352f29bdaef0cf2a0f8.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_a9458b816ee2b04eb3116352f29bdaef0cf2a0f8.1920x1080.jpg?t=1733343962
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_9ae2d261883068a7a37424df88600840ce611d59.600x338.jpg?t=1732039553
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_9ae2d261883068a7a37424df88600840ce611d59.1920x1080.jpg?t=1732039553
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_ed698ea31539375ef9818e1c7d1bf61b3387e3e8.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_ed698ea31539375ef9818e1c7d1bf61b3387e3e8.1920x1080.jpg?t=1733343962
+- id: 7
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_62d7023209977f3943b75e42730c400a6d37f9d2.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_62d7023209977f3943b75e42730c400a6d37f9d2.1920x1080.jpg?t=1733343962
+- id: 8
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_66ae236951d097f3f692e6430192d50009b2578c.600x338.jpg?t=1733343962
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/ss_66ae236951d097f3f692e6430192d50009b2578c.1920x1080.jpg?t=1733343962
 movies:
-- id: 256938074
-  name: Gameplay Trailer
-  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938074/movie.293x165.jpg?t=1696532331
+- id: 257078966
+  name: BAPBAP Official Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078966/b3c6e71b4aed8dd7cc1c0aad0f42fbc0fe4379ed/movie_600x337.jpg?t=1733343951
   webm:
-    '480': https://video.akamai.steamstatic.com/store_trailers/256938074/movie480_vp9.webm?t=1696532331
-    max: https://video.akamai.steamstatic.com/store_trailers/256938074/movie_max_vp9.webm?t=1696532331
+    '480': https://video.akamai.steamstatic.com/store_trailers/257078966/movie480_vp9.webm?t=1733343951
+    max: https://video.akamai.steamstatic.com/store_trailers/257078966/movie_max_vp9.webm?t=1733343951
   mp4:
-    '480': https://video.akamai.steamstatic.com/store_trailers/256938074/movie480.mp4?t=1696532331
-    max: https://video.akamai.steamstatic.com/store_trailers/256938074/movie_max.mp4?t=1696532331
+    '480': https://video.akamai.steamstatic.com/store_trailers/257078966/movie480.mp4?t=1733343951
+    max: https://video.akamai.steamstatic.com/store_trailers/257078966/movie_max.mp4?t=1733343951
   highlight: true
 genres:
 - Action
@@ -66,50 +72,88 @@ release_date:
 content_warning:
   ids: []
   notes:
-about: Join BAPBAP, the wildest Hero Royale featuring a fresh line-up of characters
-  packed with unique abilities. Round up your squad and fight your way to be the last
-  team standing.<br><br>Master the diverse cast of characters and use all the environment
-  interactions to truly outplay your opponents. This ain’t your run-of-the-mill stat
-  check MOBA experience – there’s always an opportunity to turn around and outplay
-  your enemies!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/1_-_Style_on_your_enemies.gif?t=1732039553"
-  /><br>Master precision and read your opponents next move as you engage in free-flowing
-  combat. Everything is dodgeable so if you get hit, that’s on you.<br><br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/2_-_Master_the_Environment.gif?t=1732039553"
-  /><br>Use a pinball bumper to close the gap, operate a crane to drop a payload on
-  your unsuspecting enemies, or hell, throw an entire nuke at them. Utilizing everything
-  in the PVP sandbox will allow you to make tons of unique and creative plays!<br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/3_-_Play_As_a_Duck.gif?t=1732039553"
-  /><br>Or a fish piloting a mech. Or a Russian samurai. Or ramen with legs. You’ll
-  fall in love with our diverse cast of characters, each equipped with unique attacks
-  and abilities.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/4_-_Expect_the_Unexpected.gif?t=1732039553"
-  /><br>Fish up a boss, find a blood sacrifice altar, encounter a meteor storm or
-  find a hat that makes everything explode. Anything can happen so you better learn
-  to adapt - no two games are ever the same!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/5_-_Get_Those_Big_Plays.gif?t=1732039553"
-  /><br>Whether it’s the turnaround 1v3, hitting a sweet multi-target knock up or
-  just watching your mates get hit by their own trap – BAPBAP is here to give you
-  memories that will last a lifetime.
-detailed_description: Join BAPBAP, the wildest Hero Royale featuring a fresh line-up
-  of characters packed with unique abilities. Round up your squad and fight your way
-  to be the last team standing.<br><br>Master the diverse cast of characters and use
-  all the environment interactions to truly outplay your opponents. This ain’t your
-  run-of-the-mill stat check MOBA experience – there’s always an opportunity to turn
-  around and outplay your enemies!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/1_-_Style_on_your_enemies.gif?t=1732039553"
-  /><br>Master precision and read your opponents next move as you engage in free-flowing
-  combat. Everything is dodgeable so if you get hit, that’s on you.<br><br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/2_-_Master_the_Environment.gif?t=1732039553"
-  /><br>Use a pinball bumper to close the gap, operate a crane to drop a payload on
-  your unsuspecting enemies, or hell, throw an entire nuke at them. Utilizing everything
-  in the PVP sandbox will allow you to make tons of unique and creative plays!<br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/3_-_Play_As_a_Duck.gif?t=1732039553"
-  /><br>Or a fish piloting a mech. Or a Russian samurai. Or ramen with legs. You’ll
-  fall in love with our diverse cast of characters, each equipped with unique attacks
-  and abilities.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/4_-_Expect_the_Unexpected.gif?t=1732039553"
-  /><br>Fish up a boss, find a blood sacrifice altar, encounter a meteor storm or
-  find a hat that makes everything explode. Anything can happen so you better learn
-  to adapt - no two games are ever the same!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/5_-_Get_Those_Big_Plays.gif?t=1732039553"
-  /><br>Whether it’s the turnaround 1v3, hitting a sweet multi-target knock up or
-  just watching your mates get hit by their own trap – BAPBAP is here to give you
-  memories that will last a lifetime.
+about: "<p class=\"bb_paragraph\">Join <i>BAPBAP</i>, the Hero Roguelike Royale where
+  no two matches are ever the same.</p><p class=\"bb_paragraph\">Assemble your squad,
+  pick your characters and battle it out until you’re the last team standing in a
+  game where strategy, skill, and learning to adapt to the chaos will help you reign
+  supreme.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_1_-_Style_on_Enemies_2.png?t=1733343962\"
+  /></p><p class=\"bb_paragraph\">Tight, free-flowing combat that’ll have you screaming
+  for your mom to get the camera. Everything is dodgeable so if you get clapped, that’s
+  on you.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Style_on_Enemies_v2.gif?t=1733343962\"
+  /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><h2 class=\"bb_tag\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_2_-_Play_as_a_Duck_2.png?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\">Or a goldfish piloting a mech. Or a Russian samurai.
+  Or ramen with legs. Each characters comes with it’s own unique skillset and there’s
+  a character design for everyone—even the freaks \U0001F441️\U0001F444\U0001F441️.</p><p
+  class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Play_as_a_Duck_v2.2.gif?t=1733343962\"
+  /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><h2 class=\"bb_tag\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_3_-_Pick_your_Poison_2.png?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\">Whether it’s turning into an unmovable hunk of
+  metal, becoming a turretmancer, or literally poison, every game will present you
+  with freshly randomized build combos to gamba with. Build synergies, get winnergies.
+  <br> <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Pick_Your_Poison_v2.gif?t=1733343962\"
+  /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><h2 class=\"bb_tag\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_4_-_Master_the_Environment_2.png?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\">Block escape routes with a crane’s payload, transform
+  into a vending machine for a sneaky ambush, or do a drive-by in a 1942 Panzerkampfwagon
+  Tiger Tank. BAPBAP is a PvP sandbox where nothing make sense but also everything
+  makes sense.</p><h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Master_the_Env_v2.gif?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_5_-_Adapt_to_Chaos_2.png?t=1733343962\"
+  /></p><p class=\"bb_paragraph\">On top of all that, you could get ganked by a roaming
+  giga slime, fish up a nuclear bomb or find the excalishovel stuck in a stone - the
+  better you are at adapting, the more you’ll win.</p><h2 class=\"bb_tag\"><img class=\"bb_img\"
+  src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Adapt_to_Chaos_v2.gif?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_6_-_Get_those_Big_Plays_2.png?t=1733343962\"
+  /></p><p class=\"bb_paragraph\">Whether it’s the turnaround 1v3, hitting a sweet
+  multi-target knock up or just watching your mates get hit by their own trap – BAPBAP
+  is here to help you get that sweet hit of dopamine in this increasingly depressing
+  world. <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Make_those_Big_Plays_v2.gif?t=1733343962\"
+  /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>Welcome
+  to BAPBAP, where logic goes to die. </strong></p><p class=\"bb_paragraph\"><strong>Wishlist
+  the game i beg u</strong></p>"
+detailed_description: "<p class=\"bb_paragraph\">Join <i>BAPBAP</i>, the Hero Roguelike
+  Royale where no two matches are ever the same.</p><p class=\"bb_paragraph\">Assemble
+  your squad, pick your characters and battle it out until you’re the last team standing
+  in a game where strategy, skill, and learning to adapt to the chaos will help you
+  reign supreme.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_1_-_Style_on_Enemies_2.png?t=1733343962\"
+  /></p><p class=\"bb_paragraph\">Tight, free-flowing combat that’ll have you screaming
+  for your mom to get the camera. Everything is dodgeable so if you get clapped, that’s
+  on you.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Style_on_Enemies_v2.gif?t=1733343962\"
+  /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><h2 class=\"bb_tag\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_2_-_Play_as_a_Duck_2.png?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\">Or a goldfish piloting a mech. Or a Russian samurai.
+  Or ramen with legs. Each characters comes with it’s own unique skillset and there’s
+  a character design for everyone—even the freaks \U0001F441️\U0001F444\U0001F441️.</p><p
+  class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Play_as_a_Duck_v2.2.gif?t=1733343962\"
+  /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><h2 class=\"bb_tag\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_3_-_Pick_your_Poison_2.png?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\">Whether it’s turning into an unmovable hunk of
+  metal, becoming a turretmancer, or literally poison, every game will present you
+  with freshly randomized build combos to gamba with. Build synergies, get winnergies.
+  <br> <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Pick_Your_Poison_v2.gif?t=1733343962\"
+  /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><h2 class=\"bb_tag\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_4_-_Master_the_Environment_2.png?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\">Block escape routes with a crane’s payload, transform
+  into a vending machine for a sneaky ambush, or do a drive-by in a 1942 Panzerkampfwagon
+  Tiger Tank. BAPBAP is a PvP sandbox where nothing make sense but also everything
+  makes sense.</p><h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Master_the_Env_v2.gif?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_5_-_Adapt_to_Chaos_2.png?t=1733343962\"
+  /></p><p class=\"bb_paragraph\">On top of all that, you could get ganked by a roaming
+  giga slime, fish up a nuclear bomb or find the excalishovel stuck in a stone - the
+  better you are at adapting, the more you’ll win.</p><h2 class=\"bb_tag\"><img class=\"bb_img\"
+  src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Adapt_to_Chaos_v2.gif?t=1733343962\"
+  /></h2><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><img
+  class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Text_6_-_Get_those_Big_Plays_2.png?t=1733343962\"
+  /></p><p class=\"bb_paragraph\">Whether it’s the turnaround 1v3, hitting a sweet
+  multi-target knock up or just watching your mates get hit by their own trap – BAPBAP
+  is here to help you get that sweet hit of dopamine in this increasingly depressing
+  world. <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/extras/Make_those_Big_Plays_v2.gif?t=1733343962\"
+  /></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"></p><p class=\"bb_paragraph\"><strong>Welcome
+  to BAPBAP, where logic goes to die. </strong></p><p class=\"bb_paragraph\"><strong>Wishlist
+  the game i beg u</strong></p>"
 languages: English<strong>*</strong>, French, Spanish - Spain, German, Japanese, Portuguese
   - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio
   support

@@ -3,32 +3,32 @@ title: Social Warfare
 description: Be a troll-for-hire on social media! You will serve in the Social Warfare
   battalion and promote loyalty to the Great Kingdom of Eternia, while disrupting
   society in the enemy nation.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/header.jpg?t=1729469535
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/7a76623746e3bf723b3dc3ce52ce6c0723a76c48/capsule_231x87.jpg?t=1729469535
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/header.jpg?t=1733404719
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/7a76623746e3bf723b3dc3ce52ce6c0723a76c48/capsule_231x87.jpg?t=1733404719
 categories: game
 steamid: 3205170
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_f0365e7518ad84dead3235dabde632898487270e.600x338.jpg?t=1729469535
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_f0365e7518ad84dead3235dabde632898487270e.1920x1080.jpg?t=1729469535
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_f0365e7518ad84dead3235dabde632898487270e.600x338.jpg?t=1733404719
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_f0365e7518ad84dead3235dabde632898487270e.1920x1080.jpg?t=1733404719
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_dbec66f26dda7f0ce01c742adb8a6ebbe72f1b4e.600x338.jpg?t=1729469535
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_dbec66f26dda7f0ce01c742adb8a6ebbe72f1b4e.1920x1080.jpg?t=1729469535
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_dbec66f26dda7f0ce01c742adb8a6ebbe72f1b4e.600x338.jpg?t=1733404719
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_dbec66f26dda7f0ce01c742adb8a6ebbe72f1b4e.1920x1080.jpg?t=1733404719
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_8a31f1065a6a08909b127e9c9dd03abbb04ed54d.600x338.jpg?t=1729469535
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_8a31f1065a6a08909b127e9c9dd03abbb04ed54d.1920x1080.jpg?t=1729469535
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_8a31f1065a6a08909b127e9c9dd03abbb04ed54d.600x338.jpg?t=1733404719
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_8a31f1065a6a08909b127e9c9dd03abbb04ed54d.1920x1080.jpg?t=1733404719
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_fa8b0716387ff36e8fb09f6d648a80354f4fb89f.600x338.jpg?t=1729469535
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_fa8b0716387ff36e8fb09f6d648a80354f4fb89f.1920x1080.jpg?t=1729469535
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_fa8b0716387ff36e8fb09f6d648a80354f4fb89f.600x338.jpg?t=1733404719
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_fa8b0716387ff36e8fb09f6d648a80354f4fb89f.1920x1080.jpg?t=1733404719
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_1ab1b64b9f63d51f2cc7077a613385698ef90e62.600x338.jpg?t=1729469535
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_1ab1b64b9f63d51f2cc7077a613385698ef90e62.1920x1080.jpg?t=1729469535
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_1ab1b64b9f63d51f2cc7077a613385698ef90e62.600x338.jpg?t=1733404719
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_1ab1b64b9f63d51f2cc7077a613385698ef90e62.1920x1080.jpg?t=1733404719
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_9a5ecd577891758e5f4ce58ad3559337d874c1ca.600x338.jpg?t=1729469535
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_9a5ecd577891758e5f4ce58ad3559337d874c1ca.1920x1080.jpg?t=1729469535
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_9a5ecd577891758e5f4ce58ad3559337d874c1ca.600x338.jpg?t=1733404719
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_9a5ecd577891758e5f4ce58ad3559337d874c1ca.1920x1080.jpg?t=1733404719
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_76d750a31bcf4822cd7d003fb13a57c346672091.600x338.jpg?t=1729469535
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_76d750a31bcf4822cd7d003fb13a57c346672091.1920x1080.jpg?t=1729469535
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_76d750a31bcf4822cd7d003fb13a57c346672091.600x338.jpg?t=1733404719
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205170/ss_76d750a31bcf4822cd7d003fb13a57c346672091.1920x1080.jpg?t=1733404719
 movies:
 - id: 257063300
   name: Demo Trailer
@@ -59,7 +59,7 @@ publishers:
 - Sanuk Games
 release_date:
   coming_soon: true
-  date: '2024'
+  date: '2025'
 content_warning:
   ids:
   - 5

@@ -1,7 +1,7 @@
 ---
 title: LE FOL
-description: inspirado na jornada do louco, LE FOL conta a história de iris, uma mulher
-  perdida nos caminhos caósmicos
+description: narrativa de múltiplos finais, puzzles e poesia inspirado no tarot de
+  marselha e com arte neo-impressionista
 image: https://img.itch.zone/aW1nLzExNDU1Nzc0LnBuZw==/315x250%23c/V6d8bH.png
 categories: game
 itchid: 1748277

@@ -2,35 +2,41 @@
 title: Bambas!
 description: Relive your childhood and turn every crosswalk, curb, and puddle into
   an epic adventure with this innovative urban walking simulator.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/header.jpg?t=1730191414
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/adf13203c96d06b9596e2a301d6fc03575f05974/capsule_231x87.jpg?t=1730191414
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/header.jpg?t=1733828461
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/adf13203c96d06b9596e2a301d6fc03575f05974/capsule_231x87.jpg?t=1733828461
 categories: game
 steamid: 3274390
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_7c64a34c83ab8fff5293adc24a7afbf4948127a7.600x338.jpg?t=1730191414
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_7c64a34c83ab8fff5293adc24a7afbf4948127a7.1920x1080.jpg?t=1730191414
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_53a085acee93cd1ec4a241b6c341cbab809abf4f.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_53a085acee93cd1ec4a241b6c341cbab809abf4f.1920x1080.jpg?t=1733828461
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_73056cefbfad06fb8bdf39d44b51ac55c5d509e4.600x338.jpg?t=1730191414
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_73056cefbfad06fb8bdf39d44b51ac55c5d509e4.1920x1080.jpg?t=1730191414
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_699735b5ec1a250c88939b57719be13b8258049d.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_699735b5ec1a250c88939b57719be13b8258049d.1920x1080.jpg?t=1733828461
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_5fb7f90d30b15fe92746bbcfdb82a206c50e884f.600x338.jpg?t=1730191414
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_5fb7f90d30b15fe92746bbcfdb82a206c50e884f.1920x1080.jpg?t=1730191414
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_0eb09e1818d39a3c245a105aab1671c158a9f4c0.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_0eb09e1818d39a3c245a105aab1671c158a9f4c0.1920x1080.jpg?t=1733828461
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_d992eba198280d70d0b40cf76e2f6bf471b8efe6.600x338.jpg?t=1730191414
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_d992eba198280d70d0b40cf76e2f6bf471b8efe6.1920x1080.jpg?t=1730191414
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_e43d170e0699220060e7550db76c36353d879f99.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_e43d170e0699220060e7550db76c36353d879f99.1920x1080.jpg?t=1733828461
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_670af7e9d51ce8d9077ec186cb7b498840542603.600x338.jpg?t=1730191414
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_670af7e9d51ce8d9077ec186cb7b498840542603.1920x1080.jpg?t=1730191414
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_e77fb247e2ebbbd0236c8c9c49d1af0b10ba636d.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_e77fb247e2ebbbd0236c8c9c49d1af0b10ba636d.1920x1080.jpg?t=1733828461
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_a3774f334ff109502c67aa0132c9dd9f0484e0cb.600x338.jpg?t=1730191414
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_a3774f334ff109502c67aa0132c9dd9f0484e0cb.1920x1080.jpg?t=1730191414
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_a307ee66d571a9edadfa34556790e09a9d9801fb.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_a307ee66d571a9edadfa34556790e09a9d9801fb.1920x1080.jpg?t=1733828461
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_e24bb5376b92b35b347dc34333924a956dabc9ef.600x338.jpg?t=1730191414
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_e24bb5376b92b35b347dc34333924a956dabc9ef.1920x1080.jpg?t=1730191414
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_446d76131acf99530194b37f1eaf24a84f3e6105.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_446d76131acf99530194b37f1eaf24a84f3e6105.1920x1080.jpg?t=1733828461
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_75ee5665405bb0f1f1c21bca46a2dcd26d0702bd.600x338.jpg?t=1730191414
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_75ee5665405bb0f1f1c21bca46a2dcd26d0702bd.1920x1080.jpg?t=1730191414
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_8be064cda437ab791b49d2a936995a27990856d1.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_8be064cda437ab791b49d2a936995a27990856d1.1920x1080.jpg?t=1733828461
+- id: 8
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_7cb0d969719c1dd2d114f1037e9c7bbab5e1bdaf.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_7cb0d969719c1dd2d114f1037e9c7bbab5e1bdaf.1920x1080.jpg?t=1733828461
+- id: 9
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_511860276c6f43ded874026e55d053d357fbf130.600x338.jpg?t=1733828461
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/ss_511860276c6f43ded874026e55d053d357fbf130.1920x1080.jpg?t=1733828461
 movies:
 - id: 257067364
   name: Bambas! Teaser Trailer
@@ -69,38 +75,38 @@ about: <p class="bb_paragraph">Remember when you were a kid, and the streets wer
   your territory, where every curb, puddle, and sidewalk turned into an epic mission?
   <strong>Bambas!</strong> brings that magic back with a sandbox game that lets you
   relive those street adventures, thanks to a groundbreaking control system.</p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/bambas2.gif?t=1730191414"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/bambas2.gif?t=1733828461"
   /><br> <br>Explore a vibrant, detailed Mediterranean coastal city where creativity
   rules and exploration is your passport to fun. Use the controller’s sticks and triggers
   to control each sneaker independently, as if you were moving your own feet. Here,
   walking straight ahead isn’t enough; you’ll need to navigate crosswalks, kick cans,
   balance on curbs, and pull off impossible jumps to complete hundreds of challenges
-  and unlock countless customizable sneakers. <br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/bambas1.gif?t=1730191414"
+  and unlock countless customizable sneakers. <br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/bambas1.gif?t=1733828461"
   />  <br><br><strong>Bambas!</strong> isn’t just a game; it’s a tribute to urban
   culture. Break stereotypes with its non-linear narrative and environmental storytelling,
   where stories unfold around every corner. Discover hidden spots that hold secrets
   and characters that will lead you down unexpected paths. Lace up your kicks and
   step boldly, because every move in this game is an adventure with its own style.</p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/logos_eu_shop.png?t=1730191414"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/logos_eu_shop.png?t=1733828461"
   /></p>
 detailed_description: <p class="bb_paragraph">Remember when you were a kid, and the
   streets were your territory, where every curb, puddle, and sidewalk turned into
   an epic mission? <strong>Bambas!</strong> brings that magic back with a sandbox
   game that lets you relive those street adventures, thanks to a groundbreaking control
   system.</p><p class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/bambas2.gif?t=1730191414"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/bambas2.gif?t=1733828461"
   /><br> <br>Explore a vibrant, detailed Mediterranean coastal city where creativity
   rules and exploration is your passport to fun. Use the controller’s sticks and triggers
   to control each sneaker independently, as if you were moving your own feet. Here,
   walking straight ahead isn’t enough; you’ll need to navigate crosswalks, kick cans,
   balance on curbs, and pull off impossible jumps to complete hundreds of challenges
-  and unlock countless customizable sneakers. <br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/bambas1.gif?t=1730191414"
+  and unlock countless customizable sneakers. <br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/bambas1.gif?t=1733828461"
   />  <br><br><strong>Bambas!</strong> isn’t just a game; it’s a tribute to urban
   culture. Break stereotypes with its non-linear narrative and environmental storytelling,
   where stories unfold around every corner. Discover hidden spots that hold secrets
   and characters that will lead you down unexpected paths. Lace up your kicks and
   step boldly, because every move in this game is an adventure with its own style.</p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/logos_eu_shop.png?t=1730191414"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274390/extras/logos_eu_shop.png?t=1733828461"
   /></p>
 languages: English, French, Spanish - Spain, Simplified Chinese, Portuguese - Portugal,
   Catalan, German

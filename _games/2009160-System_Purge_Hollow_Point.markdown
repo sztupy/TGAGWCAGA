@@ -3,29 +3,29 @@ title: 'System Purge: Hollow Point'
 description: Faced with a horrifying tragedy, you must delve into a flowering realm
   of memories and nightmares to save your dead lover. SYSTEM PURGE - Hollow Point
   is a challenging, atmospheric, and action-packed 2D platformer.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/header.jpg?t=1730135855
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/capsule_231x87.jpg?t=1730135855
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/header.jpg?t=1733616604
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/capsule_231x87.jpg?t=1733616604
 categories: game
 steamid: 2009160
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_e41395627a641d6d01621311e8856a6ed382ab4c.600x338.jpg?t=1730135855
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_e41395627a641d6d01621311e8856a6ed382ab4c.1920x1080.jpg?t=1730135855
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_e41395627a641d6d01621311e8856a6ed382ab4c.600x338.jpg?t=1733616604
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_e41395627a641d6d01621311e8856a6ed382ab4c.1920x1080.jpg?t=1733616604
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_7613b7715e997e20fa30c46047fbd73ae29138ea.600x338.jpg?t=1730135855
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_7613b7715e997e20fa30c46047fbd73ae29138ea.1920x1080.jpg?t=1730135855
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_7613b7715e997e20fa30c46047fbd73ae29138ea.600x338.jpg?t=1733616604
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_7613b7715e997e20fa30c46047fbd73ae29138ea.1920x1080.jpg?t=1733616604
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_c53e85f6368f0b4ba20cd3fa06a4ea97b5e09e9f.600x338.jpg?t=1730135855
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_c53e85f6368f0b4ba20cd3fa06a4ea97b5e09e9f.1920x1080.jpg?t=1730135855
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_c53e85f6368f0b4ba20cd3fa06a4ea97b5e09e9f.600x338.jpg?t=1733616604
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_c53e85f6368f0b4ba20cd3fa06a4ea97b5e09e9f.1920x1080.jpg?t=1733616604
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_5a0e67d205799ff4a018647489a0c34880872a6d.600x338.jpg?t=1730135855
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_5a0e67d205799ff4a018647489a0c34880872a6d.1920x1080.jpg?t=1730135855
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_5a0e67d205799ff4a018647489a0c34880872a6d.600x338.jpg?t=1733616604
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_5a0e67d205799ff4a018647489a0c34880872a6d.1920x1080.jpg?t=1733616604
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_3c61926c868f3ebc94dd34617119b7b66afbc8b6.600x338.jpg?t=1730135855
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_3c61926c868f3ebc94dd34617119b7b66afbc8b6.1920x1080.jpg?t=1730135855
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_3c61926c868f3ebc94dd34617119b7b66afbc8b6.600x338.jpg?t=1733616604
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_3c61926c868f3ebc94dd34617119b7b66afbc8b6.1920x1080.jpg?t=1733616604
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_f9986b539515640eae5ca7d844f29955ba6d5c3b.600x338.jpg?t=1730135855
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_f9986b539515640eae5ca7d844f29955ba6d5c3b.1920x1080.jpg?t=1730135855
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_f9986b539515640eae5ca7d844f29955ba6d5c3b.600x338.jpg?t=1733616604
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009160/ss_f9986b539515640eae5ca7d844f29955ba6d5c3b.1920x1080.jpg?t=1733616604
 movies:
 - id: 257068689
   name: Trailer 2

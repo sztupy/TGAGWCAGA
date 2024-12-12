@@ -2,26 +2,26 @@
 title: Witchhammer
 description: Massacre hordes of enemies and destroy the inquisition in our brutal
   real-time deckbuilding roguelike. Your future lies in the cards, witch!
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/header.jpg?t=1732742377
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/capsule_231x87.jpg?t=1732742377
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/header.jpg?t=1733872941
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/capsule_231x87.jpg?t=1733872941
 categories: game
 steamid: 2616750
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_43d6dea8148b32e26d3df0b8e3c197d8fa7aec23.600x338.jpg?t=1732742377
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_43d6dea8148b32e26d3df0b8e3c197d8fa7aec23.1920x1080.jpg?t=1732742377
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_43d6dea8148b32e26d3df0b8e3c197d8fa7aec23.600x338.jpg?t=1733872941
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_43d6dea8148b32e26d3df0b8e3c197d8fa7aec23.1920x1080.jpg?t=1733872941
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_5ce894323f0835c50b016b8e8c65a05f42b8163f.600x338.jpg?t=1732742377
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_5ce894323f0835c50b016b8e8c65a05f42b8163f.1920x1080.jpg?t=1732742377
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_5ce894323f0835c50b016b8e8c65a05f42b8163f.600x338.jpg?t=1733872941
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_5ce894323f0835c50b016b8e8c65a05f42b8163f.1920x1080.jpg?t=1733872941
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_ccd80912aba8cd52300740d8c0497aaa7f793be0.600x338.jpg?t=1732742377
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_ccd80912aba8cd52300740d8c0497aaa7f793be0.1920x1080.jpg?t=1732742377
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_ccd80912aba8cd52300740d8c0497aaa7f793be0.600x338.jpg?t=1733872941
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_ccd80912aba8cd52300740d8c0497aaa7f793be0.1920x1080.jpg?t=1733872941
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_237894daf4fcb816c55bac3bce97ecdddba8304a.600x338.jpg?t=1732742377
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_237894daf4fcb816c55bac3bce97ecdddba8304a.1920x1080.jpg?t=1732742377
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_237894daf4fcb816c55bac3bce97ecdddba8304a.600x338.jpg?t=1733872941
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_237894daf4fcb816c55bac3bce97ecdddba8304a.1920x1080.jpg?t=1733872941
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_c8c2ec4b531059a9203de66226c032a6c16b4f91.600x338.jpg?t=1732742377
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_c8c2ec4b531059a9203de66226c032a6c16b4f91.1920x1080.jpg?t=1732742377
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_c8c2ec4b531059a9203de66226c032a6c16b4f91.600x338.jpg?t=1733872941
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/ss_c8c2ec4b531059a9203de66226c032a6c16b4f91.1920x1080.jpg?t=1733872941
 movies:
 - id: 256979194
   name: Witchhammer - Gameplay Trailer
@@ -38,7 +38,6 @@ genres:
 - Indie
 - RPG
 - Strategy
-- Early Access
 steam_categories:
 - Single-player
 platforms:
@@ -63,11 +62,11 @@ about: 'Play as Clovelin, a card reader who was convicted as a witch and made a 
   you will battle the Inquisition and try to destroy their most powerful weapon: the
   Witchhammer.<br><br><br>To master our real time deckbuilding roguelike you will
   not only learn how to avoid your enemies attacks but also how to play your cards
-  most efficiently.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif1.1.gif?t=1732742377"
+  most efficiently.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif1.1.gif?t=1733872941"
   /><br><br>After every wave of enemies you will improve your deck, making it more
-  powerful and adapting it to your own playstyle.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif3.1.gif?t=1732742377"
+  powerful and adapting it to your own playstyle.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif3.1.gif?t=1733872941"
   /><br><br>Try to find the best possible combination of spells to massacre your enemies.<br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif2.1.gif?t=1732742377"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif2.1.gif?t=1733872941"
   />'
 detailed_description: '<h1>Join our community</h1><p></p><br><h1>About the Game</h1>Play
   as Clovelin, a card reader who was convicted as a witch and made a deal with the
@@ -75,11 +74,11 @@ detailed_description: '<h1>Join our community</h1><p></p><br><h1>About the Game<
   battle the Inquisition and try to destroy their most powerful weapon: the Witchhammer.<br><br><br>To
   master our real time deckbuilding roguelike you will not only learn how to avoid
   your enemies attacks but also how to play your cards most efficiently.<br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif1.1.gif?t=1732742377"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif1.1.gif?t=1733872941"
   /><br><br>After every wave of enemies you will improve your deck, making it more
-  powerful and adapting it to your own playstyle.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif3.1.gif?t=1732742377"
+  powerful and adapting it to your own playstyle.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif3.1.gif?t=1733872941"
   /><br><br>Try to find the best possible combination of spells to massacre your enemies.<br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif2.1.gif?t=1732742377"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616750/extras/Witchhammer_gif2.1.gif?t=1733872941"
   />'
 languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
   German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>,

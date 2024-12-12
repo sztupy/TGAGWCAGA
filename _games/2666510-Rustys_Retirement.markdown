@@ -2,29 +2,29 @@
 title: Rusty's Retirement
 description: A relaxing idle-farming simulator that sits at the bottom of your screen
   while you do other things.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/header.jpg?t=1732609935
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/capsule_231x87.jpg?t=1732609935
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/header_alt_assets_0.jpg?t=1733861178
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/0aedfd5fe6783fa28d8b224356e338e565c81bd3/capsule_231x87_alt_assets_0.jpg?t=1733861178
 categories: game
 steamid: 2666510
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_f15441bfd5758bae1c69fa51a068c9869d26a200.600x338.jpg?t=1732609935
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_f15441bfd5758bae1c69fa51a068c9869d26a200.1920x1080.jpg?t=1732609935
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_f15441bfd5758bae1c69fa51a068c9869d26a200.600x338.jpg?t=1733861178
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_f15441bfd5758bae1c69fa51a068c9869d26a200.1920x1080.jpg?t=1733861178
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_3496a84df0dbe09dd5949e2e9d6b47892a80311f.600x338.jpg?t=1732609935
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_3496a84df0dbe09dd5949e2e9d6b47892a80311f.1920x1080.jpg?t=1732609935
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_3496a84df0dbe09dd5949e2e9d6b47892a80311f.600x338.jpg?t=1733861178
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_3496a84df0dbe09dd5949e2e9d6b47892a80311f.1920x1080.jpg?t=1733861178
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_19d23f2a13644dc3a1d41825562d985b2362d937.600x338.jpg?t=1732609935
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_19d23f2a13644dc3a1d41825562d985b2362d937.1920x1080.jpg?t=1732609935
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_19d23f2a13644dc3a1d41825562d985b2362d937.600x338.jpg?t=1733861178
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_19d23f2a13644dc3a1d41825562d985b2362d937.1920x1080.jpg?t=1733861178
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_85bb3668f2a3df2c32977da4d3971e730e58ab06.600x338.jpg?t=1732609935
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_85bb3668f2a3df2c32977da4d3971e730e58ab06.1920x1080.jpg?t=1732609935
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_85bb3668f2a3df2c32977da4d3971e730e58ab06.600x338.jpg?t=1733861178
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_85bb3668f2a3df2c32977da4d3971e730e58ab06.1920x1080.jpg?t=1733861178
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_6bbf47b0651ac753e303e77da2ae8b5b586f52c4.600x338.jpg?t=1732609935
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_6bbf47b0651ac753e303e77da2ae8b5b586f52c4.1920x1080.jpg?t=1732609935
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_6bbf47b0651ac753e303e77da2ae8b5b586f52c4.600x338.jpg?t=1733861178
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_6bbf47b0651ac753e303e77da2ae8b5b586f52c4.1920x1080.jpg?t=1733861178
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_b47c58abd7cebd95394962c4ff5f0e291acf3f8c.600x338.jpg?t=1732609935
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_b47c58abd7cebd95394962c4ff5f0e291acf3f8c.1920x1080.jpg?t=1732609935
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_b47c58abd7cebd95394962c4ff5f0e291acf3f8c.600x338.jpg?t=1733861178
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_b47c58abd7cebd95394962c4ff5f0e291acf3f8c.1920x1080.jpg?t=1733861178
 movies:
 - id: 257018524
   name: Release Trailer
@@ -73,7 +73,7 @@ content_warning:
 about: <p class="bb_paragraph">Rusty's Retirement is an <strong>idle-farming simulator</strong>
   designed to sit at the bottom of your screen allowing you to work on other tasks
   while caring for your farm!</p><p class="bb_paragraph"> </p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/extras/sits-at-bottom-of-screen.gif?t=1732609935"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/extras/sits-at-bottom-of-screen.gif?t=1733861178"
   /></p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Grow crops:</strong>
   <br>Plant crops and watch Rusty get to work as he waters, nurtures, and harvests.
   Unlock new crops as you progress, from crispy carrots to ripe tomatoes. </p><p class="bb_paragraph"></p><p
@@ -83,7 +83,7 @@ about: <p class="bb_paragraph">Rusty's Retirement is an <strong>idle-farming sim
   class="bb_paragraph"></p><p class="bb_paragraph"><strong>Automate with robots:</strong>
   <br>Deploy a team of cute little robots to assist with planting, watering, and harvesting.
   Customize and upgrade your helper bots to increase efficiency. </p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/extras/close-up.gif?t=1732609935"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/extras/close-up.gif?t=1733861178"
   /></p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Multitasking:</strong>
   <br>Rusty's Retirement is built to sit comfortably at the bottom of your screen
   allowing you to do other tasks while caring for your farm. Zoom in or out for a
@@ -97,7 +97,7 @@ about: <p class="bb_paragraph">Rusty's Retirement is an <strong>idle-farming sim
 detailed_description: <p class="bb_paragraph">Rusty's Retirement is an <strong>idle-farming
   simulator</strong> designed to sit at the bottom of your screen allowing you to
   work on other tasks while caring for your farm!</p><p class="bb_paragraph"> </p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/extras/sits-at-bottom-of-screen.gif?t=1732609935"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/extras/sits-at-bottom-of-screen.gif?t=1733861178"
   /></p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Grow crops:</strong>
   <br>Plant crops and watch Rusty get to work as he waters, nurtures, and harvests.
   Unlock new crops as you progress, from crispy carrots to ripe tomatoes. </p><p class="bb_paragraph"></p><p
@@ -107,7 +107,7 @@ detailed_description: <p class="bb_paragraph">Rusty's Retirement is an <strong>i
   class="bb_paragraph"></p><p class="bb_paragraph"><strong>Automate with robots:</strong>
   <br>Deploy a team of cute little robots to assist with planting, watering, and harvesting.
   Customize and upgrade your helper bots to increase efficiency. </p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/extras/close-up.gif?t=1732609935"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/extras/close-up.gif?t=1733861178"
   /></p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Multitasking:</strong>
   <br>Rusty's Retirement is built to sit comfortably at the bottom of your screen
   allowing you to do other tasks while caring for your farm. Zoom in or out for a

@@ -4,41 +4,41 @@ description: Survive the galaxy's toughest prison and rise to the top of a space
   Explore, fight, craft, trade and learn convicts' stories to escape the facility.
   Space Prison is a turn-based tactical survival game with deep strategy and social
   RPG elements.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/header.jpg?t=1732892252
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/c7be9b956addf038472b6737a34d2d6be847fcbc/capsule_231x87.jpg?t=1732892252
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/header.jpg?t=1733735525
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/c7be9b956addf038472b6737a34d2d6be847fcbc/capsule_231x87.jpg?t=1733735525
 categories: game
 steamid: 1865930
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_28ec87d52f1f2c1b716fbaf8671868198d792223.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_28ec87d52f1f2c1b716fbaf8671868198d792223.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_28ec87d52f1f2c1b716fbaf8671868198d792223.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_28ec87d52f1f2c1b716fbaf8671868198d792223.1920x1080.jpg?t=1733735525
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_b5456b8165b0df5f02a3b83b29059ae6772def0d.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_b5456b8165b0df5f02a3b83b29059ae6772def0d.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_b5456b8165b0df5f02a3b83b29059ae6772def0d.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_b5456b8165b0df5f02a3b83b29059ae6772def0d.1920x1080.jpg?t=1733735525
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_96ddbba67db28387d4e81f91ff2ade5d6771dc15.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_96ddbba67db28387d4e81f91ff2ade5d6771dc15.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_96ddbba67db28387d4e81f91ff2ade5d6771dc15.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_96ddbba67db28387d4e81f91ff2ade5d6771dc15.1920x1080.jpg?t=1733735525
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_1d808c709e06498a601bb076420ae3698f497f01.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_1d808c709e06498a601bb076420ae3698f497f01.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_1d808c709e06498a601bb076420ae3698f497f01.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_1d808c709e06498a601bb076420ae3698f497f01.1920x1080.jpg?t=1733735525
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_cf912f133b6aadf863831ac6c88d7b7a5ccac07b.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_cf912f133b6aadf863831ac6c88d7b7a5ccac07b.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_cf912f133b6aadf863831ac6c88d7b7a5ccac07b.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_cf912f133b6aadf863831ac6c88d7b7a5ccac07b.1920x1080.jpg?t=1733735525
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_28a903921b0a6ed814932be84b7e8bf3d05d0207.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_28a903921b0a6ed814932be84b7e8bf3d05d0207.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_28a903921b0a6ed814932be84b7e8bf3d05d0207.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_28a903921b0a6ed814932be84b7e8bf3d05d0207.1920x1080.jpg?t=1733735525
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_443889f80d60a222bd0bca68aaeadd5d156a128d.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_443889f80d60a222bd0bca68aaeadd5d156a128d.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_443889f80d60a222bd0bca68aaeadd5d156a128d.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_443889f80d60a222bd0bca68aaeadd5d156a128d.1920x1080.jpg?t=1733735525
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_2d735ea6587d41e05ea4ca6c746f2c891ceea545.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_2d735ea6587d41e05ea4ca6c746f2c891ceea545.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_2d735ea6587d41e05ea4ca6c746f2c891ceea545.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_2d735ea6587d41e05ea4ca6c746f2c891ceea545.1920x1080.jpg?t=1733735525
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_8eba4d0aacc8afa89d0998cde13338d38fcf8efe.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_8eba4d0aacc8afa89d0998cde13338d38fcf8efe.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_8eba4d0aacc8afa89d0998cde13338d38fcf8efe.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_8eba4d0aacc8afa89d0998cde13338d38fcf8efe.1920x1080.jpg?t=1733735525
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_0269b6b61a71eee581fc56a53ebded7f29f3489e.600x338.jpg?t=1732892252
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_0269b6b61a71eee581fc56a53ebded7f29f3489e.1920x1080.jpg?t=1732892252
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_0269b6b61a71eee581fc56a53ebded7f29f3489e.600x338.jpg?t=1733735525
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/ss_0269b6b61a71eee581fc56a53ebded7f29f3489e.1920x1080.jpg?t=1733735525
 movies:
 - id: 257038066
   name: Space Prison - Release trailer
@@ -92,25 +92,25 @@ about: '<i><strong>Welcome to Space Prison, inmate. Surviving is only the first 
   the ranks of a prison gang, with unique alien members who have their own stories
   and fighting styles. Unlock a gang hideout that will expand your tools and means
   of escape. Climb up the ranks by fighting your way up the hierarchy to become the
-  new boss.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Gang_GIF.gif?t=1732892252"
+  new boss.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Gang_GIF.gif?t=1733735525"
   /><h2 class="bb_tag"><strong>TACTICAL TURN-BASED COMBAT</strong></h2>Fight for your
   life in fast-paced, tactical turn-based brawls. Use improvised weapons and armour,
   as well as your skills and allies to successfully explore the facility and avoid
-  becoming another unrecoverable corpse.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Combat_GIF_V1.gif?t=1732892252"
+  becoming another unrecoverable corpse.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Combat_GIF_V1.gif?t=1733735525"
   /><h2 class="bb_tag"><strong>MAKE ALLIES TO SURVIVE</strong></h2>There are up to
   18 different inmate stories to discover as you gain their respect and build up your
   squad from adorable space rats to hardened criminals. Doing jobs for them will provide
-  you with much needed intel and materials as well.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Social_GIF_V3.gif?t=1732892252"
+  you with much needed intel and materials as well.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Social_GIF_V3.gif?t=1733735525"
   /><h2 class="bb_tag"><strong>CRAFT CONTRABAND</strong></h2>Scavenge for scrap, destroy
   prison property, upgrade your cell - craft illegal tools, weapons and materials
   to equip you and your squad. Keep contraband concealed to not get caught at security
-  checkpoints.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Crafting_GIF.gif?t=1732892252"
+  checkpoints.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Crafting_GIF.gif?t=1733735525"
   /><h2 class="bb_tag"><strong>DEATH IS NOT AN ESCAPE</strong></h2>Dying in Space
   Prison doesn’t mean you can dodge your life sentence. Should you be taken out, the
   rogue-lite recovery system will bring you back. However, your mind must be transferred
   into a new body, perhaps more alien than before. At least your cell is the same,
   all your hidden contraband exactly where you left it.<br><br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Character_GIF_V2.gif?t=1732892252"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Character_GIF_V2.gif?t=1733735525"
   />'
 detailed_description: '<i><strong>Welcome to Space Prison, inmate. Surviving is only
   the first step. To craft a way out, you''ll need to navigate the prison hierarchy
@@ -128,25 +128,25 @@ detailed_description: '<i><strong>Welcome to Space Prison, inmate. Surviving is 
   up the ranks of a prison gang, with unique alien members who have their own stories
   and fighting styles. Unlock a gang hideout that will expand your tools and means
   of escape. Climb up the ranks by fighting your way up the hierarchy to become the
-  new boss.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Gang_GIF.gif?t=1732892252"
+  new boss.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Gang_GIF.gif?t=1733735525"
   /><h2 class="bb_tag"><strong>TACTICAL TURN-BASED COMBAT</strong></h2>Fight for your
   life in fast-paced, tactical turn-based brawls. Use improvised weapons and armour,
   as well as your skills and allies to successfully explore the facility and avoid
-  becoming another unrecoverable corpse.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Combat_GIF_V1.gif?t=1732892252"
+  becoming another unrecoverable corpse.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Combat_GIF_V1.gif?t=1733735525"
   /><h2 class="bb_tag"><strong>MAKE ALLIES TO SURVIVE</strong></h2>There are up to
   18 different inmate stories to discover as you gain their respect and build up your
   squad from adorable space rats to hardened criminals. Doing jobs for them will provide
-  you with much needed intel and materials as well.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Social_GIF_V3.gif?t=1732892252"
+  you with much needed intel and materials as well.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Social_GIF_V3.gif?t=1733735525"
   /><h2 class="bb_tag"><strong>CRAFT CONTRABAND</strong></h2>Scavenge for scrap, destroy
   prison property, upgrade your cell - craft illegal tools, weapons and materials
   to equip you and your squad. Keep contraband concealed to not get caught at security
-  checkpoints.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Crafting_GIF.gif?t=1732892252"
+  checkpoints.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Crafting_GIF.gif?t=1733735525"
   /><h2 class="bb_tag"><strong>DEATH IS NOT AN ESCAPE</strong></h2>Dying in Space
   Prison doesn’t mean you can dodge your life sentence. Should you be taken out, the
   rogue-lite recovery system will bring you back. However, your mind must be transferred
   into a new body, perhaps more alien than before. At least your cell is the same,
   all your hidden contraband exactly where you left it.<br><br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Character_GIF_V2.gif?t=1732892252"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865930/extras/Character_GIF_V2.gif?t=1733735525"
   />'
 languages: English<strong>*</strong>, German, Polish, Portuguese - Brazil, Ukrainian,
   Simplified Chinese, French, Spanish - Latin America, Russian<br><strong>*</strong>languages

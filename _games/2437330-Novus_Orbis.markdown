@@ -4,29 +4,29 @@ description: 'A combo-based deckbuilding roguelike through a space-time loop: co
   cards, receive blessings, add pets to your party, and grow stronger. Chain together
   cards in the right order for max power, and act before the enemy does. Build synergistic
   decks, find many secrets, and make BIG numbers!'
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/header.jpg?t=1732213454
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/b0215a45c428330f9a04046d284bbd001d96363b/capsule_231x87.jpg?t=1732213454
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/header.jpg?t=1733532671
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/b0215a45c428330f9a04046d284bbd001d96363b/capsule_231x87.jpg?t=1733532671
 categories: game
 steamid: 2437330
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_87f5ee1e0eaa70e16a2511f209e98dbd7117b5c4.600x338.jpg?t=1732213454
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_87f5ee1e0eaa70e16a2511f209e98dbd7117b5c4.1920x1080.jpg?t=1732213454
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_87f5ee1e0eaa70e16a2511f209e98dbd7117b5c4.600x338.jpg?t=1733532671
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_87f5ee1e0eaa70e16a2511f209e98dbd7117b5c4.1920x1080.jpg?t=1733532671
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_90100fc48b8d735ac16e71d0ef8a456f2ba1e05a.600x338.jpg?t=1732213454
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_90100fc48b8d735ac16e71d0ef8a456f2ba1e05a.1920x1080.jpg?t=1732213454
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_90100fc48b8d735ac16e71d0ef8a456f2ba1e05a.600x338.jpg?t=1733532671
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_90100fc48b8d735ac16e71d0ef8a456f2ba1e05a.1920x1080.jpg?t=1733532671
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_0730f19dec7afb97a8faefcacaf54bbb88b36f7f.600x338.jpg?t=1732213454
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_0730f19dec7afb97a8faefcacaf54bbb88b36f7f.1920x1080.jpg?t=1732213454
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_0730f19dec7afb97a8faefcacaf54bbb88b36f7f.600x338.jpg?t=1733532671
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_0730f19dec7afb97a8faefcacaf54bbb88b36f7f.1920x1080.jpg?t=1733532671
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_fe2cccf85c64f6e7bec2edd5b158e059b760a9ce.600x338.jpg?t=1732213454
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_fe2cccf85c64f6e7bec2edd5b158e059b760a9ce.1920x1080.jpg?t=1732213454
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_fe2cccf85c64f6e7bec2edd5b158e059b760a9ce.600x338.jpg?t=1733532671
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_fe2cccf85c64f6e7bec2edd5b158e059b760a9ce.1920x1080.jpg?t=1733532671
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_912cc1a402d81354adf31ef69bc39f5f5cdf51cc.600x338.jpg?t=1732213454
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_912cc1a402d81354adf31ef69bc39f5f5cdf51cc.1920x1080.jpg?t=1732213454
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_912cc1a402d81354adf31ef69bc39f5f5cdf51cc.600x338.jpg?t=1733532671
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_912cc1a402d81354adf31ef69bc39f5f5cdf51cc.1920x1080.jpg?t=1733532671
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_90f02bed71fdb8303c3e4ffa8e3889270711d292.600x338.jpg?t=1732213454
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_90f02bed71fdb8303c3e4ffa8e3889270711d292.1920x1080.jpg?t=1732213454
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_90f02bed71fdb8303c3e4ffa8e3889270711d292.600x338.jpg?t=1733532671
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/ss_90f02bed71fdb8303c3e4ffa8e3889270711d292.1920x1080.jpg?t=1733532671
 movies:
 - id: 257065035
   name: Gameplay Trailer
@@ -56,7 +56,7 @@ publishers:
 - 2 Left Thumbs
 release_date:
   coming_soon: true
-  date: Q4 2024
+  date: Q1 2025
 content_warning:
   ids: []
   notes:
@@ -65,7 +65,7 @@ about: '<p class="bb_paragraph"><strong>Novus Orbis</strong> is a roguelike deck
   with a wealth of secrets to discover. </p><p class="bb_paragraph">Advance through
   the last pieces of this broken world, against an out-of-reach entity. </p><p class="bb_paragraph">Your
   goal is to explore, battle, and strengthen your might and knowledge to bring order
-  back to your land. </p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/Necrocube.gif?t=1732213454"
+  back to your land. </p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/Necrocube.gif?t=1733532671"
   /> </p><h2 class="bb_tag"><strong>Features</strong></h2><ul class="bb_ul"><li><p
   class="bb_paragraph"><i>Combo System:</i> Every card has a cost and a combo value:
   <strong> Play your cards in the right order to achieve their full potential</strong>,
@@ -80,7 +80,7 @@ about: '<p class="bb_paragraph"><strong>Novus Orbis</strong> is a roguelike deck
   and secret interactions! </p></li><li><p class="bb_paragraph"><i>Pets:</i> Find
   multiple companions per run, who will attack, support, heal <i>, and more</i> every
   turn. </p><p class="bb_paragraph"></p></li></ul><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/mage_vs_wall.gif?t=1732213454"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/mage_vs_wall.gif?t=1733532671"
   /></p><p class="bb_paragraph"> </p><p class="bb_paragraph">Please be sure to add
   <strong>Novus Orbis</strong> to your Wishlist! </p>'
 detailed_description: '<h1>AN EXTENSIVE DEMO</h1><p><h2 class="bb_tag">The Demo includes:</h2><ul
@@ -91,14 +91,14 @@ detailed_description: '<h1>AN EXTENSIVE DEMO</h1><p><h2 class="bb_tag">The Demo 
   and effects</p></li><li><p class="bb_paragraph"><strong>25 Enemies</strong>, between
   normal encounters, mini-bosses, and all boss varieties</p></li><li><p class="bb_paragraph"><strong>5
   Pets</strong>, each with their own special unlock conditions to discover</p></li></ul><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/elements_master_idle.gif?t=1732213454"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/elements_master_idle.gif?t=1733532671"
   /></p></p><br><h1>About the Game</h1><p class="bb_paragraph"><strong>Novus Orbis</strong>
   is a roguelike deckbuilder that encourages complex builds with deep deck combos,
   powerful Blessings, and a with a wealth of secrets to discover. </p><p class="bb_paragraph">Advance
   through the last pieces of this broken world, against an out-of-reach entity. </p><p
   class="bb_paragraph">Your goal is to explore, battle, and strengthen your might
   and knowledge to bring order back to your land. </p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/Necrocube.gif?t=1732213454"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/Necrocube.gif?t=1733532671"
   /> </p><h2 class="bb_tag"><strong>Features</strong></h2><ul class="bb_ul"><li><p
   class="bb_paragraph"><i>Combo System:</i> Every card has a cost and a combo value:
   <strong> Play your cards in the right order to achieve their full potential</strong>,
@@ -113,7 +113,7 @@ detailed_description: '<h1>AN EXTENSIVE DEMO</h1><p><h2 class="bb_tag">The Demo 
   and secret interactions! </p></li><li><p class="bb_paragraph"><i>Pets:</i> Find
   multiple companions per run, who will attack, support, heal <i>, and more</i> every
   turn. </p><p class="bb_paragraph"></p></li></ul><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/mage_vs_wall.gif?t=1732213454"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437330/extras/mage_vs_wall.gif?t=1733532671"
   /></p><p class="bb_paragraph"> </p><p class="bb_paragraph">Please be sure to add
   <strong>Novus Orbis</strong> to your Wishlist! </p>'
 languages: English, Japanese, French, Italian, Polish

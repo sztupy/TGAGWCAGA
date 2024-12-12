@@ -4,50 +4,50 @@ description: A narrative puzzle game with themes of love, fate and time. Follow 
   life stories of the two main characters and influence their destinies through interactions
   and choices. The game combines hand-drawn style and an immersive interactive experience
   to explore a profound journey of love and choice.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/header.jpg?t=1733111064
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/68622bb3120723d2456eb92b878aaf0650403212/capsule_231x87.jpg?t=1733111064
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/header.jpg?t=1733281371
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/68622bb3120723d2456eb92b878aaf0650403212/capsule_231x87.jpg?t=1733281371
 categories: game
 steamid: 2239130
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_3ab187f822fa8af0cc8a3df7dd7c900ed433fe18.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_3ab187f822fa8af0cc8a3df7dd7c900ed433fe18.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_3ab187f822fa8af0cc8a3df7dd7c900ed433fe18.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_3ab187f822fa8af0cc8a3df7dd7c900ed433fe18.1920x1080.jpg?t=1733281371
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_b53214418da75d7a8da44b7c08477b80b5b42ce1.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_b53214418da75d7a8da44b7c08477b80b5b42ce1.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_b53214418da75d7a8da44b7c08477b80b5b42ce1.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_b53214418da75d7a8da44b7c08477b80b5b42ce1.1920x1080.jpg?t=1733281371
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_35833d593f403c01d99037347b1707b86ec4f56a.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_35833d593f403c01d99037347b1707b86ec4f56a.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_35833d593f403c01d99037347b1707b86ec4f56a.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_35833d593f403c01d99037347b1707b86ec4f56a.1920x1080.jpg?t=1733281371
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_128839b16dac095df3c25dc85e69e451ddd80120.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_128839b16dac095df3c25dc85e69e451ddd80120.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_128839b16dac095df3c25dc85e69e451ddd80120.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_128839b16dac095df3c25dc85e69e451ddd80120.1920x1080.jpg?t=1733281371
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_21335b1201fb68796176f9b07215abd754f16a8f.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_21335b1201fb68796176f9b07215abd754f16a8f.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_21335b1201fb68796176f9b07215abd754f16a8f.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_21335b1201fb68796176f9b07215abd754f16a8f.1920x1080.jpg?t=1733281371
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_a9740174b45ab155e43ba8495effd5246a37fdde.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_a9740174b45ab155e43ba8495effd5246a37fdde.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_a9740174b45ab155e43ba8495effd5246a37fdde.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_a9740174b45ab155e43ba8495effd5246a37fdde.1920x1080.jpg?t=1733281371
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_04aad0df0d0cb2701631ad4ed2063e9f74e271de.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_04aad0df0d0cb2701631ad4ed2063e9f74e271de.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_04aad0df0d0cb2701631ad4ed2063e9f74e271de.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_04aad0df0d0cb2701631ad4ed2063e9f74e271de.1920x1080.jpg?t=1733281371
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_de2221d7d6e811b38a1d5ee8bb026de21c2eee3f.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_de2221d7d6e811b38a1d5ee8bb026de21c2eee3f.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_de2221d7d6e811b38a1d5ee8bb026de21c2eee3f.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_de2221d7d6e811b38a1d5ee8bb026de21c2eee3f.1920x1080.jpg?t=1733281371
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_0019257122d26c54b81122c166f28223847502eb.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_0019257122d26c54b81122c166f28223847502eb.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_0019257122d26c54b81122c166f28223847502eb.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_0019257122d26c54b81122c166f28223847502eb.1920x1080.jpg?t=1733281371
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_568bf53b823dd78e64bb06e825200f0c698de830.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_568bf53b823dd78e64bb06e825200f0c698de830.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_568bf53b823dd78e64bb06e825200f0c698de830.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_568bf53b823dd78e64bb06e825200f0c698de830.1920x1080.jpg?t=1733281371
 - id: 10
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_b5435e66eaa40d608a5930383cd1ca3a0eee0c81.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_b5435e66eaa40d608a5930383cd1ca3a0eee0c81.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_b5435e66eaa40d608a5930383cd1ca3a0eee0c81.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_b5435e66eaa40d608a5930383cd1ca3a0eee0c81.1920x1080.jpg?t=1733281371
 - id: 11
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_27b8b9eed14b6c9a275e8741ab1cc3fe01373de9.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_27b8b9eed14b6c9a275e8741ab1cc3fe01373de9.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_27b8b9eed14b6c9a275e8741ab1cc3fe01373de9.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_27b8b9eed14b6c9a275e8741ab1cc3fe01373de9.1920x1080.jpg?t=1733281371
 - id: 12
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_8822a73cada86ec5ba8f34589a5f7dc37c12103f.600x338.jpg?t=1733111064
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_8822a73cada86ec5ba8f34589a5f7dc37c12103f.1920x1080.jpg?t=1733111064
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_8822a73cada86ec5ba8f34589a5f7dc37c12103f.600x338.jpg?t=1733281371
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/ss_8822a73cada86ec5ba8f34589a5f7dc37c12103f.1920x1080.jpg?t=1733281371
 movies:
 - id: 256995822
   name: Reviver_trailer_EN
@@ -90,28 +90,28 @@ about: '<p class="bb_paragraph">A  narrative puzzle game about love and choices.
   </p><p class="bb_paragraph">BUG and Demo feedback: Please take a moment to fill
   out the Feedback Survey located in the tiny house on the game''s main menu. Your
   input is invaluable to us！</p><h2 class="bb_tag"><strong>Symphony of Two Souls</strong></h2><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/两个灵魂的故事交响601.gif?t=1733111064"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/两个灵魂的故事交响601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Reviver presents a series of emotionally rich scenes,
   following the life journey of two protagonists from youth to old age. Every interaction
   and choice subtly shapes their destinies, uncovering the profound connections between
   them.</p><h2 class="bb_tag"><strong>Innovative Interactive Gameplay</strong></h2><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/创新的互动玩法601.gif?t=1733111064"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/创新的互动玩法601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Every object and environment in the game is brought
   to life with detailed animations, offering an immersive interactive experience.
   This unique style not only enhances the game''s entertainment value but also deepens
   the player''s emotional connection to the story.</p><h2 class="bb_tag"><strong>Blend
   of Puzzle and Exploration</strong></h2><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/解谜与探索的融合601.gif?t=1733111064"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/解谜与探索的融合601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Explore <strong>over 50 puzzles and mini-games</strong>
   intricately woven into the storyline, with each challenge offering a chance to dive
   deeper into the narrative, uncovering secrets and clues hidden in the ordinary.</p><h2
   class="bb_tag"><strong>Visual Feast of Hand-Drawn Style</strong></h2><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/手绘风格的视觉盛宴601.gif?t=1733111064"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/手绘风格的视觉盛宴601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Reviver features exquisite hand-drawn illustrations,
   seamlessly blending emotionally rich interactive animations with detailed environmental
   design. Every scene tells its own story, silently unfolding the narrative through
   interaction and animation.</p><h2 class="bb_tag"><strong>Embark on a Journey Through
-  Time Together</strong></h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/共赴时光之旅601.gif?t=1733111064"
+  Time Together</strong></h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/共赴时光之旅601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Join Reviver and embark on a journey through different
   eras. In this adventure, discover how small interactions silently weave deeply moving
   stories, and explore a profound journey of love, choices, and destiny.</p>'
@@ -123,28 +123,28 @@ detailed_description: '<p class="bb_paragraph">A  narrative puzzle game about lo
   </p><p class="bb_paragraph">BUG and Demo feedback: Please take a moment to fill
   out the Feedback Survey located in the tiny house on the game''s main menu. Your
   input is invaluable to us！</p><h2 class="bb_tag"><strong>Symphony of Two Souls</strong></h2><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/两个灵魂的故事交响601.gif?t=1733111064"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/两个灵魂的故事交响601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Reviver presents a series of emotionally rich scenes,
   following the life journey of two protagonists from youth to old age. Every interaction
   and choice subtly shapes their destinies, uncovering the profound connections between
   them.</p><h2 class="bb_tag"><strong>Innovative Interactive Gameplay</strong></h2><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/创新的互动玩法601.gif?t=1733111064"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/创新的互动玩法601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Every object and environment in the game is brought
   to life with detailed animations, offering an immersive interactive experience.
   This unique style not only enhances the game''s entertainment value but also deepens
   the player''s emotional connection to the story.</p><h2 class="bb_tag"><strong>Blend
   of Puzzle and Exploration</strong></h2><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/解谜与探索的融合601.gif?t=1733111064"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/解谜与探索的融合601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Explore <strong>over 50 puzzles and mini-games</strong>
   intricately woven into the storyline, with each challenge offering a chance to dive
   deeper into the narrative, uncovering secrets and clues hidden in the ordinary.</p><h2
   class="bb_tag"><strong>Visual Feast of Hand-Drawn Style</strong></h2><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/手绘风格的视觉盛宴601.gif?t=1733111064"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/手绘风格的视觉盛宴601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Reviver features exquisite hand-drawn illustrations,
   seamlessly blending emotionally rich interactive animations with detailed environmental
   design. Every scene tells its own story, silently unfolding the narrative through
   interaction and animation.</p><h2 class="bb_tag"><strong>Embark on a Journey Through
-  Time Together</strong></h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/共赴时光之旅601.gif?t=1733111064"
+  Time Together</strong></h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239130/extras/共赴时光之旅601.gif?t=1733281371"
   /></p><p class="bb_paragraph">Join Reviver and embark on a journey through different
   eras. In this adventure, discover how small interactions silently weave deeply moving
   stories, and explore a profound journey of love, choices, and destiny.</p>'

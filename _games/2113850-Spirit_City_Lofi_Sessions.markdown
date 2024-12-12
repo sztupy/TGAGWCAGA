@@ -4,42 +4,41 @@ description: 'Spirit City: Lofi Sessions is a gamified focus tool, set to a soot
   lofi soundtrack. Discover and collect Spirits, customize your cozy virtual space,
   and facilitate your real-life tasks with a collection of handy features designed
   to improve concentration and ease stress.'
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/header_alt_assets_2.jpg?t=1732718374
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/83d771883e98fd9706f12f0053ac15cf3e09f899/capsule_231x87_alt_assets_2.jpg?t=1732718374
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/header_alt_assets_2.jpg?t=1733850783
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/83d771883e98fd9706f12f0053ac15cf3e09f899/capsule_231x87_alt_assets_2.jpg?t=1733850783
 categories: game
-featured: true
 steamid: 2113850
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_1c58b559cb42215257bc04eb0d1ee76a0a574ecb.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_1c58b559cb42215257bc04eb0d1ee76a0a574ecb.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_1c58b559cb42215257bc04eb0d1ee76a0a574ecb.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_1c58b559cb42215257bc04eb0d1ee76a0a574ecb.1920x1080.jpg?t=1733850783
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_963e00c101eec9bc73d13f2e7235200f5caf7349.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_963e00c101eec9bc73d13f2e7235200f5caf7349.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_963e00c101eec9bc73d13f2e7235200f5caf7349.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_963e00c101eec9bc73d13f2e7235200f5caf7349.1920x1080.jpg?t=1733850783
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_b3ba7132b3eb0b88ea9b547ecc60cf006b0916d9.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_b3ba7132b3eb0b88ea9b547ecc60cf006b0916d9.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_b3ba7132b3eb0b88ea9b547ecc60cf006b0916d9.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_b3ba7132b3eb0b88ea9b547ecc60cf006b0916d9.1920x1080.jpg?t=1733850783
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_923abe3f755d35ff5c6e07d33411f988fc6e6003.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_923abe3f755d35ff5c6e07d33411f988fc6e6003.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_923abe3f755d35ff5c6e07d33411f988fc6e6003.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_923abe3f755d35ff5c6e07d33411f988fc6e6003.1920x1080.jpg?t=1733850783
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_a0e0495a55e65465416f88b7ba7f3322b489c974.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_a0e0495a55e65465416f88b7ba7f3322b489c974.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_a0e0495a55e65465416f88b7ba7f3322b489c974.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_a0e0495a55e65465416f88b7ba7f3322b489c974.1920x1080.jpg?t=1733850783
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_1c94bf73fe26fa01774b3e511b4d71054cb8ae18.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_1c94bf73fe26fa01774b3e511b4d71054cb8ae18.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_1c94bf73fe26fa01774b3e511b4d71054cb8ae18.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_1c94bf73fe26fa01774b3e511b4d71054cb8ae18.1920x1080.jpg?t=1733850783
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_da1685dfa4082f00aa9a43a0d129662ae6396aab.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_da1685dfa4082f00aa9a43a0d129662ae6396aab.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_da1685dfa4082f00aa9a43a0d129662ae6396aab.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_da1685dfa4082f00aa9a43a0d129662ae6396aab.1920x1080.jpg?t=1733850783
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_f7496c7a6e982138f62c37f7d90d68a94e0f0d4b.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_f7496c7a6e982138f62c37f7d90d68a94e0f0d4b.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_f7496c7a6e982138f62c37f7d90d68a94e0f0d4b.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_f7496c7a6e982138f62c37f7d90d68a94e0f0d4b.1920x1080.jpg?t=1733850783
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_a2aa30ad2d1fd93cdd352df174714ff1f9e4844f.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_a2aa30ad2d1fd93cdd352df174714ff1f9e4844f.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_a2aa30ad2d1fd93cdd352df174714ff1f9e4844f.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_a2aa30ad2d1fd93cdd352df174714ff1f9e4844f.1920x1080.jpg?t=1733850783
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_468a4ca3f9c2112cd0b6c79021410d6a1312c22a.600x338.jpg?t=1732718374
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_468a4ca3f9c2112cd0b6c79021410d6a1312c22a.1920x1080.jpg?t=1732718374
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_468a4ca3f9c2112cd0b6c79021410d6a1312c22a.600x338.jpg?t=1733850783
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/ss_468a4ca3f9c2112cd0b6c79021410d6a1312c22a.1920x1080.jpg?t=1733850783
 movies:
 - id: 257075240
   name: Winter Wonderland Update
@@ -94,17 +93,17 @@ about: '<strong>Spirit City: Lofi Sessions</strong> is a gamified focus tool, se
   rain and crackling fire provide the perfect background ambiance to relieve stress
   and unwind. All music in game is courtesy of Homework Radio and fully stream-friendly,
   perfect for featuring on youtube or twitch as a pleasing background.<br> <br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Desk_Compressed.gif?t=1732718374"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Desk_Compressed.gif?t=1733850783"
   /><h2 class="bb_tag">SHOW OFF YOUR STYLE</h2>Customize both your character and your
   bedroom to suit your mood, selecting from a multitude of fashion, hairstyle, color,
   and room decor options. From hoodies to horns, bookshelves to boba teas, fairy lights
   to fireplaces, there’s dozens of options available for you to flex your unique personality
-  and style.<br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Spirits_Compressed.gif?t=1732718374"
+  and style.<br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Spirits_Compressed.gif?t=1733850783"
   /><h2 class="bb_tag">ADORABLE SPIRIT COMPANIONS</h2>Explore different combinations
   of room activities, soundscapes, and decor options to lure out the mischievous Spirits
   that populate the world. Discover and collect them as you focus on your tasks. You''ll
   never be alone with a Spirit companion by your side. And yes, every Spirit can be
-  petted too!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Productivity_Compressed.gif?t=1732718374"
+  petted too!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Productivity_Compressed.gif?t=1733850783"
   /><h2 class="bb_tag">BEGIN YOUR PRODUCTIVITY JOURNEY</h2>Utilize built-in productivity
   tools, including a to-do list for organization, a pomodoro timer for focused work
   sessions, and a habit tracker and journal to foster a healthy routine. Earn XP for
@@ -137,17 +136,17 @@ detailed_description: '<strong>Spirit City: Lofi Sessions</strong> is a gamified
   as pattering rain and crackling fire provide the perfect background ambiance to
   relieve stress and unwind. All music in game is courtesy of Homework Radio and fully
   stream-friendly, perfect for featuring on youtube or twitch as a pleasing background.<br>
-  <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Desk_Compressed.gif?t=1732718374"
+  <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Desk_Compressed.gif?t=1733850783"
   /><h2 class="bb_tag">SHOW OFF YOUR STYLE</h2>Customize both your character and your
   bedroom to suit your mood, selecting from a multitude of fashion, hairstyle, color,
   and room decor options. From hoodies to horns, bookshelves to boba teas, fairy lights
   to fireplaces, there’s dozens of options available for you to flex your unique personality
-  and style.<br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Spirits_Compressed.gif?t=1732718374"
+  and style.<br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Spirits_Compressed.gif?t=1733850783"
   /><h2 class="bb_tag">ADORABLE SPIRIT COMPANIONS</h2>Explore different combinations
   of room activities, soundscapes, and decor options to lure out the mischievous Spirits
   that populate the world. Discover and collect them as you focus on your tasks. You''ll
   never be alone with a Spirit companion by your side. And yes, every Spirit can be
-  petted too!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Productivity_Compressed.gif?t=1732718374"
+  petted too!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/extras/SteamBanner_Productivity_Compressed.gif?t=1733850783"
   /><h2 class="bb_tag">BEGIN YOUR PRODUCTIVITY JOURNEY</h2>Utilize built-in productivity
   tools, including a to-do list for organization, a pomodoro timer for focused work
   sessions, and a habit tracker and journal to foster a healthy routine. Earn XP for

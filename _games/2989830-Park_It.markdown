@@ -3,26 +3,26 @@ title: Park It!
 description: Park It! is a grid-based puzzle game where players must strategically
   maneuver vehicles to park them in the designated spot and correct direction, all
   while managing limited fuel.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/header.jpg?t=1732559474
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/capsule_231x87.jpg?t=1732559474
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/header.jpg?t=1732938289
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/capsule_231x87.jpg?t=1732938289
 categories: game
 steamid: 2989830
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_1e37391b227fbdc4dae1da94a75b67a6ba235c89.600x338.jpg?t=1732559474
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_1e37391b227fbdc4dae1da94a75b67a6ba235c89.1920x1080.jpg?t=1732559474
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_1e37391b227fbdc4dae1da94a75b67a6ba235c89.600x338.jpg?t=1732938289
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_1e37391b227fbdc4dae1da94a75b67a6ba235c89.1920x1080.jpg?t=1732938289
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_4d6e34e161fb555f855eccf70c9fef3f5ffb4432.600x338.jpg?t=1732559474
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_4d6e34e161fb555f855eccf70c9fef3f5ffb4432.1920x1080.jpg?t=1732559474
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_4d6e34e161fb555f855eccf70c9fef3f5ffb4432.600x338.jpg?t=1732938289
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_4d6e34e161fb555f855eccf70c9fef3f5ffb4432.1920x1080.jpg?t=1732938289
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_1b73ec11a55ab1669e0d0d1aea18bcdaf6c2ec92.600x338.jpg?t=1732559474
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_1b73ec11a55ab1669e0d0d1aea18bcdaf6c2ec92.1920x1080.jpg?t=1732559474
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_1b73ec11a55ab1669e0d0d1aea18bcdaf6c2ec92.600x338.jpg?t=1732938289
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_1b73ec11a55ab1669e0d0d1aea18bcdaf6c2ec92.1920x1080.jpg?t=1732938289
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_f3d1b170ff82292f44f186fffe58a4085fbabfa9.600x338.jpg?t=1732559474
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_f3d1b170ff82292f44f186fffe58a4085fbabfa9.1920x1080.jpg?t=1732559474
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_f3d1b170ff82292f44f186fffe58a4085fbabfa9.600x338.jpg?t=1732938289
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_f3d1b170ff82292f44f186fffe58a4085fbabfa9.1920x1080.jpg?t=1732938289
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_a18c4f03c1d411a384d538385cec87fd6e4b8b61.600x338.jpg?t=1732559474
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_a18c4f03c1d411a384d538385cec87fd6e4b8b61.1920x1080.jpg?t=1732559474
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_a18c4f03c1d411a384d538385cec87fd6e4b8b61.600x338.jpg?t=1732938289
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/ss_a18c4f03c1d411a384d538385cec87fd6e4b8b61.1920x1080.jpg?t=1732938289
 movies:
 - id: 257045351
   name: Park It - Trailer
@@ -52,7 +52,7 @@ publishers:
 - Mishleto
 release_date:
   coming_soon: true
-  date: Q4 2024
+  date: Q1 2025
 content_warning:
   ids: []
   notes:
@@ -68,7 +68,7 @@ about: '<p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Park It! </
   MECHANICS</h2><p class="bb_paragraph">Consider the direction of the vehicle before
   parking. Optimise your moves with side turns. This highlights the engaging puzzle
   aspect that encourages players to think about the parking challenge.<img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/extras/ezgif-5-642ff6d8a6-ezgif.com-video-to-gif-converter.gif?t=1732559474"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/extras/ezgif-5-642ff6d8a6-ezgif.com-video-to-gif-converter.gif?t=1732938289"
   /> </p><p class="bb_paragraph"></p><p class="bb_paragraph">Can you park perfectly
   without running out of gas?</p><p class="bb_paragraph"> </p>'
 detailed_description: '<p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Park
@@ -83,7 +83,7 @@ detailed_description: '<p class="bb_paragraph"></p><p class="bb_paragraph"><stro
   </p><h2 class="bb_tag">CAR-INSPIRED MECHANICS</h2><p class="bb_paragraph">Consider
   the direction of the vehicle before parking. Optimise your moves with side turns.
   This highlights the engaging puzzle aspect that encourages players to think about
-  the parking challenge.<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/extras/ezgif-5-642ff6d8a6-ezgif.com-video-to-gif-converter.gif?t=1732559474"
+  the parking challenge.<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989830/extras/ezgif-5-642ff6d8a6-ezgif.com-video-to-gif-converter.gif?t=1732938289"
   /> </p><p class="bb_paragraph"></p><p class="bb_paragraph">Can you park perfectly
   without running out of gas?</p><p class="bb_paragraph"> </p>'
 languages: English, French, Italian, German, Spanish - Spain, Arabic, Simplified Chinese,

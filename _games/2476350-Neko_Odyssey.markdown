@@ -4,32 +4,32 @@ description: 'Neko Odyssey: A Game for Cat Lovers You Can''t Miss! Here’s a sl
   unusual Casual Adventure game where the main gameplay centers around taking pictures
   of cats. The pixel art graphics in a 3D setting create a charming atmosphere reminiscent
   of Japanese animation.'
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/header.jpg?t=1732521734
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/57f6f5760f208b2d5271b7eb4575a9bd3608c54b/capsule_231x87.jpg?t=1732521734
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/header.jpg?t=1733981524
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ff7af2c8bdab4a5f6465ee5abb5c32325c17a0b6/capsule_231x87.jpg?t=1733981524
 categories: game
 steamid: 2476350
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_6b7dab05ca6217c31a87bcf1f1117e6d65405074.600x338.jpg?t=1732521734
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_6b7dab05ca6217c31a87bcf1f1117e6d65405074.1920x1080.jpg?t=1732521734
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_6b7dab05ca6217c31a87bcf1f1117e6d65405074.600x338.jpg?t=1733981524
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_6b7dab05ca6217c31a87bcf1f1117e6d65405074.1920x1080.jpg?t=1733981524
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_b2258b37d6009508b3d7a97180f1d1534908f33d.600x338.jpg?t=1732521734
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_b2258b37d6009508b3d7a97180f1d1534908f33d.1920x1080.jpg?t=1732521734
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_b2258b37d6009508b3d7a97180f1d1534908f33d.600x338.jpg?t=1733981524
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_b2258b37d6009508b3d7a97180f1d1534908f33d.1920x1080.jpg?t=1733981524
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_9c47b4bc509f7879907eafb9fc4391292aafabe2.600x338.jpg?t=1732521734
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_9c47b4bc509f7879907eafb9fc4391292aafabe2.1920x1080.jpg?t=1732521734
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_9c47b4bc509f7879907eafb9fc4391292aafabe2.600x338.jpg?t=1733981524
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_9c47b4bc509f7879907eafb9fc4391292aafabe2.1920x1080.jpg?t=1733981524
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_69cf1c810a2683afed45b0b573d7d2826cfddcf2.600x338.jpg?t=1732521734
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_69cf1c810a2683afed45b0b573d7d2826cfddcf2.1920x1080.jpg?t=1732521734
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_69cf1c810a2683afed45b0b573d7d2826cfddcf2.600x338.jpg?t=1733981524
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_69cf1c810a2683afed45b0b573d7d2826cfddcf2.1920x1080.jpg?t=1733981524
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_175eed3ad841f2130dc2d4a0deddb030429d962f.600x338.jpg?t=1732521734
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_175eed3ad841f2130dc2d4a0deddb030429d962f.1920x1080.jpg?t=1732521734
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_175eed3ad841f2130dc2d4a0deddb030429d962f.600x338.jpg?t=1733981524
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_175eed3ad841f2130dc2d4a0deddb030429d962f.1920x1080.jpg?t=1733981524
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_ba675dfb338a9bcab5d137a88cb736c5fed280ec.600x338.jpg?t=1732521734
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_ba675dfb338a9bcab5d137a88cb736c5fed280ec.1920x1080.jpg?t=1732521734
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_ba675dfb338a9bcab5d137a88cb736c5fed280ec.600x338.jpg?t=1733981524
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_ba675dfb338a9bcab5d137a88cb736c5fed280ec.1920x1080.jpg?t=1733981524
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_f6c0e2e1deab1dae3f4244b12cee80538716015e.600x338.jpg?t=1732521734
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_f6c0e2e1deab1dae3f4244b12cee80538716015e.1920x1080.jpg?t=1732521734
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_f6c0e2e1deab1dae3f4244b12cee80538716015e.600x338.jpg?t=1733981524
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/ss_f6c0e2e1deab1dae3f4244b12cee80538716015e.1920x1080.jpg?t=1733981524
 movies:
 - id: 257030256
   name: Demo Out Now
@@ -77,7 +77,7 @@ content_warning:
 about: 'Neko Odyssey: A Game for Cat Lovers You Can''t Miss!<br>Here’s a slightly
   unusual Casual Adventure game where the main gameplay centers around taking pictures
   of cats. The pixel art graphics in a 3D setting create a charming atmosphere reminiscent
-  of Japanese animation.<br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/CatNormal01Sleep_1.gif?t=1732521734"
+  of Japanese animation.<br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/CatNormal01Sleep_1.gif?t=1733981524"
   /><br><br>In the game, you''ll have to search for cats in various locations throughout
   the town and take pictures to upload to social media (in game). Each photo you upload
   will earn likes from netizens. As you receive more likes, you''ll become better
@@ -85,17 +85,17 @@ about: 'Neko Odyssey: A Game for Cat Lovers You Can''t Miss!<br>Here’s a sligh
   the cat photography sessions, some cats may require you to establish a connection
   with them before allowing you to photograph them. You''ll also encounter certain
   events that will lead you to discover new photo opportunities.<br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/Shrine.gif?t=1732521734"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/Shrine.gif?t=1733981524"
   /><br><br>Apart from taking cat photos and sharing them on social media, the game
   features a main storyline where you''ll unravel the mysteries of the town based
   on the information you capture in your cat photos. You''ll experience excitement,
   cuteness, and inspiration along with the adventure in this game.<br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/PlayFatcat.gif?t=1732521734"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/PlayFatcat.gif?t=1733981524"
   />'
 detailed_description: 'Neko Odyssey: A Game for Cat Lovers You Can''t Miss!<br>Here’s
   a slightly unusual Casual Adventure game where the main gameplay centers around
   taking pictures of cats. The pixel art graphics in a 3D setting create a charming
-  atmosphere reminiscent of Japanese animation.<br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/CatNormal01Sleep_1.gif?t=1732521734"
+  atmosphere reminiscent of Japanese animation.<br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/CatNormal01Sleep_1.gif?t=1733981524"
   /><br><br>In the game, you''ll have to search for cats in various locations throughout
   the town and take pictures to upload to social media (in game). Each photo you upload
   will earn likes from netizens. As you receive more likes, you''ll become better
@@ -103,12 +103,12 @@ detailed_description: 'Neko Odyssey: A Game for Cat Lovers You Can''t Miss!<br>H
   the cat photography sessions, some cats may require you to establish a connection
   with them before allowing you to photograph them. You''ll also encounter certain
   events that will lead you to discover new photo opportunities.<br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/Shrine.gif?t=1732521734"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/Shrine.gif?t=1733981524"
   /><br><br>Apart from taking cat photos and sharing them on social media, the game
   features a main storyline where you''ll unravel the mysteries of the town based
   on the information you capture in your cat photos. You''ll experience excitement,
   cuteness, and inspiration along with the adventure in this game.<br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/PlayFatcat.gif?t=1732521734"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476350/extras/PlayFatcat.gif?t=1733981524"
   />'
 languages: English, Simplified Chinese, Traditional Chinese, Japanese, Thai
 reviews:

@@ -2,35 +2,35 @@
 title: Nocturne
 description: The afterlife is now digital. Discover that eternal life comes with sacrifice
   in a genre-defying RPG with unique rhythm combat.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/header.jpg?t=1722273284
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/capsule_231x87.jpg?t=1722273284
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/header.jpg?t=1732944507
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/capsule_231x87.jpg?t=1732944507
 categories: game
 steamid: 1374860
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_2cc3ffcdcc54f9d70340ea713fa786099e2cad38.600x338.jpg?t=1722273284
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_2cc3ffcdcc54f9d70340ea713fa786099e2cad38.1920x1080.jpg?t=1722273284
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_2cc3ffcdcc54f9d70340ea713fa786099e2cad38.600x338.jpg?t=1732944507
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_2cc3ffcdcc54f9d70340ea713fa786099e2cad38.1920x1080.jpg?t=1732944507
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_8253866c71acae6ed84b3d3865967d04bdafc4ca.600x338.jpg?t=1722273284
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_8253866c71acae6ed84b3d3865967d04bdafc4ca.1920x1080.jpg?t=1722273284
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_8253866c71acae6ed84b3d3865967d04bdafc4ca.600x338.jpg?t=1732944507
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_8253866c71acae6ed84b3d3865967d04bdafc4ca.1920x1080.jpg?t=1732944507
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_491855f64cc9e07bd5c0414576c17f1f5ee59be3.600x338.jpg?t=1722273284
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_491855f64cc9e07bd5c0414576c17f1f5ee59be3.1920x1080.jpg?t=1722273284
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_491855f64cc9e07bd5c0414576c17f1f5ee59be3.600x338.jpg?t=1732944507
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_491855f64cc9e07bd5c0414576c17f1f5ee59be3.1920x1080.jpg?t=1732944507
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_be3fa06fc5eb6876ea99d6d8c22e1c6a4c4c058c.600x338.jpg?t=1722273284
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_be3fa06fc5eb6876ea99d6d8c22e1c6a4c4c058c.1920x1080.jpg?t=1722273284
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_be3fa06fc5eb6876ea99d6d8c22e1c6a4c4c058c.600x338.jpg?t=1732944507
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_be3fa06fc5eb6876ea99d6d8c22e1c6a4c4c058c.1920x1080.jpg?t=1732944507
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_fd0bd4c7fe22efc16724b3fe0c8a4eb8b59e682f.600x338.jpg?t=1722273284
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_fd0bd4c7fe22efc16724b3fe0c8a4eb8b59e682f.1920x1080.jpg?t=1722273284
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_fd0bd4c7fe22efc16724b3fe0c8a4eb8b59e682f.600x338.jpg?t=1732944507
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_fd0bd4c7fe22efc16724b3fe0c8a4eb8b59e682f.1920x1080.jpg?t=1732944507
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_31aacf0c459efa612143a4505812afdd531e1cc5.600x338.jpg?t=1722273284
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_31aacf0c459efa612143a4505812afdd531e1cc5.1920x1080.jpg?t=1722273284
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_31aacf0c459efa612143a4505812afdd531e1cc5.600x338.jpg?t=1732944507
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_31aacf0c459efa612143a4505812afdd531e1cc5.1920x1080.jpg?t=1732944507
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_4af4ac0cf7527905501fc4e7ddd99bc1a434f8af.600x338.jpg?t=1722273284
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_4af4ac0cf7527905501fc4e7ddd99bc1a434f8af.1920x1080.jpg?t=1722273284
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_4af4ac0cf7527905501fc4e7ddd99bc1a434f8af.600x338.jpg?t=1732944507
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_4af4ac0cf7527905501fc4e7ddd99bc1a434f8af.1920x1080.jpg?t=1732944507
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_2e82d6f40bd2ab015e13ed7594a62924755f7a69.600x338.jpg?t=1722273284
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_2e82d6f40bd2ab015e13ed7594a62924755f7a69.1920x1080.jpg?t=1722273284
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_2e82d6f40bd2ab015e13ed7594a62924755f7a69.600x338.jpg?t=1732944507
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/ss_2e82d6f40bd2ab015e13ed7594a62924755f7a69.1920x1080.jpg?t=1732944507
 movies:
 - id: 257041447
   name: Trailer
@@ -75,13 +75,13 @@ content_warning:
 about: <h2 class="bb_tag">Rhythm Combat</h2>Master an entirely skill based rhythm
   combat with fierce battles and unexpected challenges. With multiple difficulty options,
   Nocturne is a game suitable for beginners and veterans of the rhythm genre. <br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/extras/16-9-glaucus-4thsize.gif?t=1722273284"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/extras/16-9-glaucus-4thsize.gif?t=1732944507"
   /><br>     <br>Find equipment to unlock powerful combat buffs or abilities. Defeat
   enemies to unlock them in Arcade mode, where you can challenge them again for highscores.
    <h2 class="bb_tag">Rich Narrative</h2><strong>The digital afterlife survived humanity's
   extinction.</strong><br>Nocturne is a story-driven RPG set within a digital afterlife.
   Millennia have passed since humanity's extinction; but somehow you've only just
-  arrived.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/extras/BridgeExportFinal.gif?t=1722273284"
+  arrived.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/extras/BridgeExportFinal.gif?t=1732944507"
   /><br><br>Your consciousness was uploaded to a world where a sentient AI has taken
   control, twisted creatures roam the land, and a vast corruption spreads.<h2 class="bb_tag">Classic
   RPG</h2>Make friends, battle enemies, and traverse a beautiful world as it falls
@@ -98,13 +98,13 @@ about: <h2 class="bb_tag">Rhythm Combat</h2>Master an entirely skill based rhyth
 detailed_description: <h2 class="bb_tag">Rhythm Combat</h2>Master an entirely skill
   based rhythm combat with fierce battles and unexpected challenges. With multiple
   difficulty options, Nocturne is a game suitable for beginners and veterans of the
-  rhythm genre. <br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/extras/16-9-glaucus-4thsize.gif?t=1722273284"
+  rhythm genre. <br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/extras/16-9-glaucus-4thsize.gif?t=1732944507"
   /><br>     <br>Find equipment to unlock powerful combat buffs or abilities. Defeat
   enemies to unlock them in Arcade mode, where you can challenge them again for highscores.
    <h2 class="bb_tag">Rich Narrative</h2><strong>The digital afterlife survived humanity's
   extinction.</strong><br>Nocturne is a story-driven RPG set within a digital afterlife.
   Millennia have passed since humanity's extinction; but somehow you've only just
-  arrived.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/extras/BridgeExportFinal.gif?t=1722273284"
+  arrived.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/extras/BridgeExportFinal.gif?t=1732944507"
   /><br><br>Your consciousness was uploaded to a world where a sentient AI has taken
   control, twisted creatures roam the land, and a vast corruption spreads.<h2 class="bb_tag">Classic
   RPG</h2>Make friends, battle enemies, and traverse a beautiful world as it falls

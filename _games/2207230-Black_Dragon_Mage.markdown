@@ -4,36 +4,46 @@ description: The Hall of Relics calls out to you, traveler! Unleash elemental ma
   slay demon hordes, and absorb their souls to grow in power. Hatch your very own
   companion dragon from an egg. Fly your dragon into battle. Avenge your death. An
   action-roguelite survivors shooter.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/header.jpg?t=1732794558
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/capsule_231x87.jpg?t=1732794558
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/header.jpg?t=1733728717
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/93c29a7b6f71233766130f11f2cb53669344d3c9/capsule_231x87_alt_assets_0.jpg?t=1733728717
 categories: game
 steamid: 2207230
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_05637a1cb81b2cf02d9e4543ed8a337dc14490df.600x338.jpg?t=1732794558
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_05637a1cb81b2cf02d9e4543ed8a337dc14490df.1920x1080.jpg?t=1732794558
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_aec53263d267c123a116412d4e653bab9eb6214b.600x338.jpg?t=1733728717
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_aec53263d267c123a116412d4e653bab9eb6214b.1920x1080.jpg?t=1733728717
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_09caa9a6fa71d287d05dc4bf46df01940a003538.600x338.jpg?t=1732794558
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_09caa9a6fa71d287d05dc4bf46df01940a003538.1920x1080.jpg?t=1732794558
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_968ff5194ce286baeb169baf028e1dc434c9c347.600x338.jpg?t=1733728717
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_968ff5194ce286baeb169baf028e1dc434c9c347.1920x1080.jpg?t=1733728717
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_3358e18e67a18eff7408432209224fa61bfd459b.600x338.jpg?t=1732794558
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_3358e18e67a18eff7408432209224fa61bfd459b.1920x1080.jpg?t=1732794558
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_fc8bb51620e08297717cbf6d22f3338f8a7ae561.600x338.jpg?t=1733728717
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_fc8bb51620e08297717cbf6d22f3338f8a7ae561.1920x1080.jpg?t=1733728717
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_d6afcd2b70263351b2a047491f094ae125dc23ec.600x338.jpg?t=1732794558
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_d6afcd2b70263351b2a047491f094ae125dc23ec.1920x1080.jpg?t=1732794558
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_b2adf6f5714f390fdeab4309082c024f602608fd.600x338.jpg?t=1733728717
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_b2adf6f5714f390fdeab4309082c024f602608fd.1920x1080.jpg?t=1733728717
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_1942ccbfb3f8493c8d5558d98f43bc44c59cc79d.600x338.jpg?t=1732794558
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_1942ccbfb3f8493c8d5558d98f43bc44c59cc79d.1920x1080.jpg?t=1732794558
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_34ddad2c9dbdcc4e94e1ba9d2ae73f48cf3c7536.600x338.jpg?t=1733728717
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_34ddad2c9dbdcc4e94e1ba9d2ae73f48cf3c7536.1920x1080.jpg?t=1733728717
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_d23b49679ca9f6b44ac5be4774b1b107b4eec83f.600x338.jpg?t=1732794558
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_d23b49679ca9f6b44ac5be4774b1b107b4eec83f.1920x1080.jpg?t=1732794558
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_f5b5dbbebb21d8f6c43d29783b6f1cd2c1663748.600x338.jpg?t=1733728717
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_f5b5dbbebb21d8f6c43d29783b6f1cd2c1663748.1920x1080.jpg?t=1733728717
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_fff6f09996851aa5712dbff5a037d963c65ff2fc.600x338.jpg?t=1732794558
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_fff6f09996851aa5712dbff5a037d963c65ff2fc.1920x1080.jpg?t=1732794558
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_ce7c4d1c2dfbbd71cea3543c7efe8135883d0b4d.600x338.jpg?t=1733728717
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_ce7c4d1c2dfbbd71cea3543c7efe8135883d0b4d.1920x1080.jpg?t=1733728717
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_26af8c6bea863210a6c2189be0239118b62bac47.600x338.jpg?t=1732794558
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_26af8c6bea863210a6c2189be0239118b62bac47.1920x1080.jpg?t=1732794558
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_168bcf6f06ae0ee3d63a158fa9cddfff71cbec02.600x338.jpg?t=1733728717
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/ss_168bcf6f06ae0ee3d63a158fa9cddfff71cbec02.1920x1080.jpg?t=1733728717
 movies:
+- id: 257078378
+  name: release trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078378/2185d358dafb11ba0b11f32a9ed7d286d356231f/movie_600x337.jpg?t=1733680911
+  webm:
+    '480': https://video.akamai.steamstatic.com/store_trailers/257078378/movie480_vp9.webm?t=1733680911
+    max: https://video.akamai.steamstatic.com/store_trailers/257078378/movie_max_vp9.webm?t=1733680911
+  mp4:
+    '480': https://video.akamai.steamstatic.com/store_trailers/257078378/movie480.mp4?t=1733680911
+    max: https://video.akamai.steamstatic.com/store_trailers/257078378/movie_max.mp4?t=1733680911
+  highlight: true
 - id: 256993525
   name: Gameplay Trailer
   thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993525/movie.293x165.jpg?t=1705413885
@@ -62,6 +72,7 @@ steam_categories:
 - Steam Achievements
 - Full controller support
 - Steam Cloud
+- Family Sharing
 platforms:
   windows: true
   mac: false
@@ -71,7 +82,7 @@ developers:
 publishers:
 - datablob
 release_date:
-  coming_soon: true
+  coming_soon: false
   date: 4 Dec, 2024
 content_warning:
   ids: []
@@ -83,23 +94,23 @@ about: <strong>Black Dragon Mage</strong> is a gorgeous <strong>dark fantasy, ac
   and satisfying <strong>build variety</strong>.<h2 class="bb_tag">Become the Black
   Dragon Mage</h2><strong>Hatch your very own dragon companion</strong> from an egg
   and <strong>ride it into battle as your ultimate weapon!</strong><br><br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/dragon-en.gif?t=1732794558"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/dragon-en.gif?t=1733728717"
   /><br><br><strong>Upgrade your mage &amp; weapons</strong> on every level-up and
   pick a unique combination of <strong>ARPG-style abilities</strong> for your run.
   Every death is a new opportunity to experiment and grow your might! Buy new <strong>meta-upgrades</strong>
   (weapons, abilities, upgrades, hats &amp; more!) in the <i>Hall of Relics</i> and
-  avenge your own death with newfound power.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/shred.gif?t=1732794558"
+  avenge your own death with newfound power.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/shred.gif?t=1733728717"
   /><br><br><strong>Grow your might!</strong> Launch increasingly large volleys of
   fireballs, or icy orbs that leave frosty mines and freeze foes on contact, blast
   the undead with your arcane beam staff or harness the dark and chaotic power of
   the void itself! All primary weapons can be modified through stats, or special upgrade
   paths called <i>Masteries</i>, to unlock their full strategic potential and build
-  variety.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/overpowered.gif?t=1732794558"
+  variety.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/overpowered.gif?t=1733728717"
   /><br><br><strong>Forge your own path</strong> on every run by experimenting with
   unique combinations of your core arsenal &amp; powerful <strong>ARPG-style defensive
   and offensive abilities</strong> such as the <i>Shield of Frost</i>, <i>Summoned
   Flameswords</i>, <i>Spiral Strike</i>, <i>Fiery Pentagram!</i> and more!<br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/abilities-longer.gif?t=1732794558"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/abilities-longer.gif?t=1733728717"
   /><br><br><strong>Turn the environment to your favor</strong> using your <i>(often
   outrageously explosive!)</i> strategic genius, outmaneuver your foes by leading
   them into deadly traps! Laugh as you watch them hurl across the battlefield... <i>Fools!</i>
@@ -112,23 +123,23 @@ detailed_description: <strong>Black Dragon Mage</strong> is a gorgeous <strong>d
   challenging <strong>boss fights</strong> and satisfying <strong>build variety</strong>.<h2
   class="bb_tag">Become the Black Dragon Mage</h2><strong>Hatch your very own dragon
   companion</strong> from an egg and <strong>ride it into battle as your ultimate
-  weapon!</strong><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/dragon-en.gif?t=1732794558"
+  weapon!</strong><br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/dragon-en.gif?t=1733728717"
   /><br><br><strong>Upgrade your mage &amp; weapons</strong> on every level-up and
   pick a unique combination of <strong>ARPG-style abilities</strong> for your run.
   Every death is a new opportunity to experiment and grow your might! Buy new <strong>meta-upgrades</strong>
   (weapons, abilities, upgrades, hats &amp; more!) in the <i>Hall of Relics</i> and
-  avenge your own death with newfound power.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/shred.gif?t=1732794558"
+  avenge your own death with newfound power.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/shred.gif?t=1733728717"
   /><br><br><strong>Grow your might!</strong> Launch increasingly large volleys of
   fireballs, or icy orbs that leave frosty mines and freeze foes on contact, blast
   the undead with your arcane beam staff or harness the dark and chaotic power of
   the void itself! All primary weapons can be modified through stats, or special upgrade
   paths called <i>Masteries</i>, to unlock their full strategic potential and build
-  variety.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/overpowered.gif?t=1732794558"
+  variety.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/overpowered.gif?t=1733728717"
   /><br><br><strong>Forge your own path</strong> on every run by experimenting with
   unique combinations of your core arsenal &amp; powerful <strong>ARPG-style defensive
   and offensive abilities</strong> such as the <i>Shield of Frost</i>, <i>Summoned
   Flameswords</i>, <i>Spiral Strike</i>, <i>Fiery Pentagram!</i> and more!<br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/abilities-longer.gif?t=1732794558"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207230/extras/abilities-longer.gif?t=1733728717"
   /><br><br><strong>Turn the environment to your favor</strong> using your <i>(often
   outrageously explosive!)</i> strategic genius, outmaneuver your foes by leading
   them into deadly traps! Laugh as you watch them hurl across the battlefield... <i>Fools!</i>

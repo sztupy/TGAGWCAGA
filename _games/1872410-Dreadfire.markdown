@@ -3,56 +3,57 @@ title: Dreadfire
 description: Dreadfire is a thrilling ultraviolent FPS game. Shred your enemies with
   a large destructive arsenal. Destroy them until none remain. They won't stop until
   you're dead.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/header.jpg?t=1733153543
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/capsule_231x87.jpg?t=1733153543
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/header.jpg?t=1733530712
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/capsule_231x87.jpg?t=1733530712
 categories: game
 steamid: 1872410
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_78f36a2f235f0073279ebe801255c983bcc5fb84.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_78f36a2f235f0073279ebe801255c983bcc5fb84.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_78f36a2f235f0073279ebe801255c983bcc5fb84.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_78f36a2f235f0073279ebe801255c983bcc5fb84.1920x1080.jpg?t=1733530712
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_628a81b2c53afe95f636b0fcebc2abe1d96c0d3c.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_628a81b2c53afe95f636b0fcebc2abe1d96c0d3c.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_628a81b2c53afe95f636b0fcebc2abe1d96c0d3c.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_628a81b2c53afe95f636b0fcebc2abe1d96c0d3c.1920x1080.jpg?t=1733530712
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_0e1aec00feee4e201cae934e866c5a87cedf1cb7.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_0e1aec00feee4e201cae934e866c5a87cedf1cb7.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_0e1aec00feee4e201cae934e866c5a87cedf1cb7.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_0e1aec00feee4e201cae934e866c5a87cedf1cb7.1920x1080.jpg?t=1733530712
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_2881549974d6c99713a5bbdfbad314c859af0283.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_2881549974d6c99713a5bbdfbad314c859af0283.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_2881549974d6c99713a5bbdfbad314c859af0283.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_2881549974d6c99713a5bbdfbad314c859af0283.1920x1080.jpg?t=1733530712
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_5f3607fa92e8346c3602a3a20d4685cbc0ae5796.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_5f3607fa92e8346c3602a3a20d4685cbc0ae5796.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_5f3607fa92e8346c3602a3a20d4685cbc0ae5796.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_5f3607fa92e8346c3602a3a20d4685cbc0ae5796.1920x1080.jpg?t=1733530712
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_a771e0c620d12ba5a85f93213bc95dec629e398a.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_a771e0c620d12ba5a85f93213bc95dec629e398a.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_a771e0c620d12ba5a85f93213bc95dec629e398a.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_a771e0c620d12ba5a85f93213bc95dec629e398a.1920x1080.jpg?t=1733530712
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_d0bbbfcc5b52c3f2dce5c7ef7064336d33feab68.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_d0bbbfcc5b52c3f2dce5c7ef7064336d33feab68.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_d0bbbfcc5b52c3f2dce5c7ef7064336d33feab68.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_d0bbbfcc5b52c3f2dce5c7ef7064336d33feab68.1920x1080.jpg?t=1733530712
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_eac8e8815ff6da989dc4d13087acb6fcaaf03432.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_eac8e8815ff6da989dc4d13087acb6fcaaf03432.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_eac8e8815ff6da989dc4d13087acb6fcaaf03432.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_eac8e8815ff6da989dc4d13087acb6fcaaf03432.1920x1080.jpg?t=1733530712
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_17ae3a553742d045419e97a173f762e98a34f598.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_17ae3a553742d045419e97a173f762e98a34f598.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_17ae3a553742d045419e97a173f762e98a34f598.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_17ae3a553742d045419e97a173f762e98a34f598.1920x1080.jpg?t=1733530712
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_7d4b239d3dc332f77996476fbd6dee06347c9aca.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_7d4b239d3dc332f77996476fbd6dee06347c9aca.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_7d4b239d3dc332f77996476fbd6dee06347c9aca.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_7d4b239d3dc332f77996476fbd6dee06347c9aca.1920x1080.jpg?t=1733530712
 - id: 10
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_3d46aab70163eb4597963f0a3fd4f06b586086b6.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_3d46aab70163eb4597963f0a3fd4f06b586086b6.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_3d46aab70163eb4597963f0a3fd4f06b586086b6.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_3d46aab70163eb4597963f0a3fd4f06b586086b6.1920x1080.jpg?t=1733530712
 - id: 11
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_d1edd03e03601a1c57a1808d8982ada9904cd471.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_d1edd03e03601a1c57a1808d8982ada9904cd471.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_d1edd03e03601a1c57a1808d8982ada9904cd471.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_d1edd03e03601a1c57a1808d8982ada9904cd471.1920x1080.jpg?t=1733530712
 - id: 12
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_1a86ccd76089e0c4846d7cc7fd445b056e575d1b.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_1a86ccd76089e0c4846d7cc7fd445b056e575d1b.1920x1080.jpg?t=1733153543
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_1a86ccd76089e0c4846d7cc7fd445b056e575d1b.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_1a86ccd76089e0c4846d7cc7fd445b056e575d1b.1920x1080.jpg?t=1733530712
 - id: 13
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_ffbf34385df8f5fd883982e39f3cac9a7b03fed0.600x338.jpg?t=1733153543
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_ffbf34385df8f5fd883982e39f3cac9a7b03fed0.1920x1080.jpg?t=1733153543
-movies:
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_ffbf34385df8f5fd883982e39f3cac9a7b03fed0.600x338.jpg?t=1733530712
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/ss_ffbf34385df8f5fd883982e39f3cac9a7b03fed0.1920x1080.jpg?t=1733530712
+movies: []
 genres:
 - Action
+- Early Access
 steam_categories:
 - Single-player
 - Steam Achievements
@@ -73,7 +74,7 @@ content_warning:
   - 5
   notes: This game contains frequent blood, gore, violence, profanity, themes of suicide,
     and disturbing imagery.
-about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/extras/DreadfireDesc.png?t=1733153543"
+about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/extras/DreadfireDesc.png?t=1733530712"
   /><br><br>Dreadfire is a hardcore, thrilling and visceral ultraviolent first-person
   shooter game. Vigorously annihilate your opponents with a robust toolset of assertive
   weapons. Leave no survivors! <br><br>Welcome to Gateway Biotech! You play as a silent
@@ -104,7 +105,7 @@ about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item
   with the game's development or provide me with your feedback, feel free to join
   my Discord server and chat with me there! I will always try to respond as quickly
   as I can.
-detailed_description: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/extras/DreadfireDesc.png?t=1733153543"
+detailed_description: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872410/extras/DreadfireDesc.png?t=1733530712"
   /><br><br>Dreadfire is a hardcore, thrilling and visceral ultraviolent first-person
   shooter game. Vigorously annihilate your opponents with a robust toolset of assertive
   weapons. Leave no survivors! <br><br>Welcome to Gateway Biotech! You play as a silent

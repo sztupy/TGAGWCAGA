@@ -4,83 +4,83 @@ description: Soar the skies in Aloft, the co-op sandbox survival game set in a w
   of floating islands. Build any island into a skyship, your home in the clouds. Find
   lost knowledge, cure the fungal corruption, and brave the hurricane to restore the
   ecosystem.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/header.jpg?t=1733166192
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/capsule_231x87.jpg?t=1733166192
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/header.jpg?t=1733262601
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/capsule_231x87.jpg?t=1733262601
 categories: game
 steamid: 1660080
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_5366555578732b860754d10bd8f2efa31dab8875.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_5366555578732b860754d10bd8f2efa31dab8875.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_5366555578732b860754d10bd8f2efa31dab8875.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_5366555578732b860754d10bd8f2efa31dab8875.1920x1080.jpg?t=1733262601
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_1242822247f9029b9fac36f43f62e8e211f82aa3.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_1242822247f9029b9fac36f43f62e8e211f82aa3.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_1242822247f9029b9fac36f43f62e8e211f82aa3.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_1242822247f9029b9fac36f43f62e8e211f82aa3.1920x1080.jpg?t=1733262601
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_cfc390dd67eeb7145c18f5af88b8b4c3cee414ce.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_cfc390dd67eeb7145c18f5af88b8b4c3cee414ce.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_cfc390dd67eeb7145c18f5af88b8b4c3cee414ce.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_cfc390dd67eeb7145c18f5af88b8b4c3cee414ce.1920x1080.jpg?t=1733262601
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_72425b35f1cf7ce818678d2abd16087d84a1a063.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_72425b35f1cf7ce818678d2abd16087d84a1a063.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_72425b35f1cf7ce818678d2abd16087d84a1a063.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_72425b35f1cf7ce818678d2abd16087d84a1a063.1920x1080.jpg?t=1733262601
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_41b4e2245ebf7f0452876800459b70e570b20b1e.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_41b4e2245ebf7f0452876800459b70e570b20b1e.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_41b4e2245ebf7f0452876800459b70e570b20b1e.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_41b4e2245ebf7f0452876800459b70e570b20b1e.1920x1080.jpg?t=1733262601
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_a936812d33a6c18f0400a0f848b2e264bd699084.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_a936812d33a6c18f0400a0f848b2e264bd699084.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_a936812d33a6c18f0400a0f848b2e264bd699084.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_a936812d33a6c18f0400a0f848b2e264bd699084.1920x1080.jpg?t=1733262601
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_0071af50200e3bd138a50c7bf8638f4f2656be20.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_0071af50200e3bd138a50c7bf8638f4f2656be20.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_0071af50200e3bd138a50c7bf8638f4f2656be20.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_0071af50200e3bd138a50c7bf8638f4f2656be20.1920x1080.jpg?t=1733262601
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_9a3c39d924b1b50e9b5b9dcae302f1a0948c8420.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_9a3c39d924b1b50e9b5b9dcae302f1a0948c8420.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_9a3c39d924b1b50e9b5b9dcae302f1a0948c8420.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_9a3c39d924b1b50e9b5b9dcae302f1a0948c8420.1920x1080.jpg?t=1733262601
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_97ed34fa54503a084181fdf634d865150216ceb2.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_97ed34fa54503a084181fdf634d865150216ceb2.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_97ed34fa54503a084181fdf634d865150216ceb2.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_97ed34fa54503a084181fdf634d865150216ceb2.1920x1080.jpg?t=1733262601
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_d10d98dc0c9878eaac0cffb77a468d48abc37a0d.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_d10d98dc0c9878eaac0cffb77a468d48abc37a0d.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_d10d98dc0c9878eaac0cffb77a468d48abc37a0d.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_d10d98dc0c9878eaac0cffb77a468d48abc37a0d.1920x1080.jpg?t=1733262601
 - id: 10
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_33ece6c709b0bc3879847554139da7df296ee2ea.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_33ece6c709b0bc3879847554139da7df296ee2ea.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_33ece6c709b0bc3879847554139da7df296ee2ea.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_33ece6c709b0bc3879847554139da7df296ee2ea.1920x1080.jpg?t=1733262601
 - id: 11
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_0a5f8abc7a0a2dea440aab1bd2a00bca6541f59a.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_0a5f8abc7a0a2dea440aab1bd2a00bca6541f59a.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_0a5f8abc7a0a2dea440aab1bd2a00bca6541f59a.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_0a5f8abc7a0a2dea440aab1bd2a00bca6541f59a.1920x1080.jpg?t=1733262601
 - id: 12
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_002c807cbc9ea4dc592a5e2cc27406c0455c54b3.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_002c807cbc9ea4dc592a5e2cc27406c0455c54b3.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_002c807cbc9ea4dc592a5e2cc27406c0455c54b3.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_002c807cbc9ea4dc592a5e2cc27406c0455c54b3.1920x1080.jpg?t=1733262601
 - id: 13
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_f44a76d9b9cfc48e5159a8cb8235736ad549605a.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_f44a76d9b9cfc48e5159a8cb8235736ad549605a.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_f44a76d9b9cfc48e5159a8cb8235736ad549605a.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_f44a76d9b9cfc48e5159a8cb8235736ad549605a.1920x1080.jpg?t=1733262601
 - id: 14
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_3ce21656f376f9de065a15420dd5ca96e0ab2695.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_3ce21656f376f9de065a15420dd5ca96e0ab2695.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_3ce21656f376f9de065a15420dd5ca96e0ab2695.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_3ce21656f376f9de065a15420dd5ca96e0ab2695.1920x1080.jpg?t=1733262601
 - id: 15
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_10afbd406994e4bb2809e10c847d1b0d52e8d023.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_10afbd406994e4bb2809e10c847d1b0d52e8d023.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_10afbd406994e4bb2809e10c847d1b0d52e8d023.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_10afbd406994e4bb2809e10c847d1b0d52e8d023.1920x1080.jpg?t=1733262601
 - id: 16
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_d7083b7e3cc4c6e34934972c632ea626aa248836.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_d7083b7e3cc4c6e34934972c632ea626aa248836.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_d7083b7e3cc4c6e34934972c632ea626aa248836.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_d7083b7e3cc4c6e34934972c632ea626aa248836.1920x1080.jpg?t=1733262601
 - id: 17
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_e182b3b25e0dacde4a2c9a652bda1384150cfe6e.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_e182b3b25e0dacde4a2c9a652bda1384150cfe6e.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_e182b3b25e0dacde4a2c9a652bda1384150cfe6e.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_e182b3b25e0dacde4a2c9a652bda1384150cfe6e.1920x1080.jpg?t=1733262601
 - id: 18
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_a5c23e0158de376541d9b6f1e36f98bde9b5edb1.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_a5c23e0158de376541d9b6f1e36f98bde9b5edb1.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_a5c23e0158de376541d9b6f1e36f98bde9b5edb1.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_a5c23e0158de376541d9b6f1e36f98bde9b5edb1.1920x1080.jpg?t=1733262601
 - id: 19
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_6ce613f5e68b327fde7ea8c910e5b3388858b736.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_6ce613f5e68b327fde7ea8c910e5b3388858b736.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_6ce613f5e68b327fde7ea8c910e5b3388858b736.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_6ce613f5e68b327fde7ea8c910e5b3388858b736.1920x1080.jpg?t=1733262601
 - id: 20
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_b6f18c49120c96cf9202bbb3aa652f0b8a829343.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_b6f18c49120c96cf9202bbb3aa652f0b8a829343.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_b6f18c49120c96cf9202bbb3aa652f0b8a829343.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_b6f18c49120c96cf9202bbb3aa652f0b8a829343.1920x1080.jpg?t=1733262601
 - id: 21
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_30dbd2e06517047ade54d72171fd714efcdedc08.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_30dbd2e06517047ade54d72171fd714efcdedc08.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_30dbd2e06517047ade54d72171fd714efcdedc08.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_30dbd2e06517047ade54d72171fd714efcdedc08.1920x1080.jpg?t=1733262601
 - id: 22
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_6cb15ff5f14622a596954d307a89f0d8050882b1.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_6cb15ff5f14622a596954d307a89f0d8050882b1.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_6cb15ff5f14622a596954d307a89f0d8050882b1.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_6cb15ff5f14622a596954d307a89f0d8050882b1.1920x1080.jpg?t=1733262601
 - id: 23
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_42f671f6713c1a7a421e5a4b0c5dd71e9000667f.600x338.jpg?t=1733166192
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_42f671f6713c1a7a421e5a4b0c5dd71e9000667f.1920x1080.jpg?t=1733166192
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_42f671f6713c1a7a421e5a4b0c5dd71e9000667f.600x338.jpg?t=1733262601
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/ss_42f671f6713c1a7a421e5a4b0c5dd71e9000667f.1920x1080.jpg?t=1733262601
 movies:
 - id: 257073019
   name: Release Date Announcement
@@ -148,7 +148,7 @@ release_date:
 content_warning:
   ids: []
   notes:
-about: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/logo-design-desc.png?t=1733166192"
+about: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/logo-design-desc.png?t=1733262601"
   /></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Aloft
   is a feel-good, cozy survival game set in the clouds, where you can transform any
   island into a flying ship and explore the vast skies.</strong></p><p class="bb_paragraph"></p><p
@@ -159,30 +159,30 @@ about: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.st
   lost knowledge, brew powerful antidotes, enrich the biodiversity of the islands,
   and restore balance to the airborne ecosystem.<strong></strong></p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><strong><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/airborne-survival.png?t=1733166192"
-  /></strong></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Airborne_Survival_V4.gif?t=1733166192"
+  class="bb_paragraph"></p><p class="bb_paragraph"><strong><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/airborne-survival.png?t=1733262601"
+  /></strong></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Airborne_Survival_V4.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Aloft’s feel-good survival is more about rewarding
   positive action than punishing mistakes.</strong></p><p class="bb_paragraph">The
   sky provides everything you need; cook up delicious meals for buffs, gather resources
   to craft tools, and explore to find new technology. Soar the open sky freely and
   discover ancient ruins to uncover the secrets of the past.</p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/skyship-base-building.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Skyship_Building_V2.gif?t=1733166192"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/skyship-base-building.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Skyship_Building_V2.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Soar the open skies in a vast sandbox world
   and turn any island into your personal skyship.</strong></p><p class="bb_paragraph">Build
   and customize it into your personal home. With a helm, rudder, and sails constructed,
   you are ready to sail the winds and explore the skies. You are the captain of your
   adventure!</p><p class="bb_paragraph"> </p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/ENG_HARNESS_THE_WINDS.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Harness_the_Wind_V2.gif?t=1733166192"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/ENG_HARNESS_THE_WINDS.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Harness_the_Wind_V2.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>The wind is an ever-present ally in Aloft.</strong></p><p
   class="bb_paragraph">Install windmills and a network of cables and pulleys to automate
   your machines and production. Fly into strong winds to supercharge your crafting
   power and sailing speed, but make sure your sails can handle it.<br> </p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/protect-living-ecosystem.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/combat-cleanse.gif?t=1733166192"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/protect-living-ecosystem.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/combat-cleanse.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Each island is its own living ecosystem, vulnerable
   to unsustainable gathering and the fungi corruption.</strong></p><p class="bb_paragraph">Find
   and cure islands from corruption by defeating the mushroom creatures in combat.
@@ -190,16 +190,16 @@ about: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.st
   their biodiversity, you gain access to new special resources, and make them more
   resistant to the corruption.<br> </p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/ENG_FARM_PRODUCE_CARE_ANIMALS.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Demo_StoreUpdate_GIF_PETTING_HARVESTING_V3.gif?t=1733166192"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/ENG_FARM_PRODUCE_CARE_ANIMALS.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Demo_StoreUpdate_GIF_PETTING_HARVESTING_V3.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Collect seeds and animals on your travels
   and bring them to your home island.</strong></p><p class="bb_paragraph">Plant various
   crops in your garden to cook up delicious recipes, and care for the cuddliest of
   animals to gain rare resources. Form a true bond by meeting all their needs, and
   they will even protect you. </p><p class="bb_paragraph"> </p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/community-crafting.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/community-crafting.gif?t=1733166192"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/community-crafting.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/community-crafting.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Creativity lies at the heart of Aloft, which
   can be enjoyed as a peaceful solo experience or with up to 7 other players.</strong></p><p
   class="bb_paragraph">Bring your entire island base when you join another player’s
@@ -208,14 +208,9 @@ about: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.st
   their worlds.<br><br><br>Craft the island of your dreams, challenge the corruption,
   restore balance, and express your creativity in the limitless skies of Aloft.</p><p
   class="bb_paragraph"></p><p class="bb_paragraph">See you in the clouds!</p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/EXPLORE_STONE__STEAM_PAGE.png?t=1733166192"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/EXPLORE_STONE__STEAM_PAGE.png?t=1733262601"
   /></p>
-detailed_description: <h1>Discord</h1><p><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Demo_Announcement_StoreUpdate_Discord_QR.png?t=1733166192"
-  /></p><p class="bb_paragraph"></p><p class="bb_paragraph">Join the Aloft community
-  on Discord for announcements, development updates, behind-the-scenes content, and
-  more!</p></p><br><h1>About the Game</h1><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/logo-design-desc.png?t=1733166192"
+detailed_description: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/logo-design-desc.png?t=1733262601"
   /></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"><strong>Aloft
   is a feel-good, cozy survival game set in the clouds, where you can transform any
   island into a flying ship and explore the vast skies.</strong></p><p class="bb_paragraph"></p><p
@@ -226,30 +221,30 @@ detailed_description: <h1>Discord</h1><p><p class="bb_paragraph"><img class="bb_
   lost knowledge, brew powerful antidotes, enrich the biodiversity of the islands,
   and restore balance to the airborne ecosystem.<strong></strong></p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><strong><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/airborne-survival.png?t=1733166192"
-  /></strong></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Airborne_Survival_V4.gif?t=1733166192"
+  class="bb_paragraph"></p><p class="bb_paragraph"><strong><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/airborne-survival.png?t=1733262601"
+  /></strong></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Airborne_Survival_V4.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Aloft’s feel-good survival is more about rewarding
   positive action than punishing mistakes.</strong></p><p class="bb_paragraph">The
   sky provides everything you need; cook up delicious meals for buffs, gather resources
   to craft tools, and explore to find new technology. Soar the open sky freely and
   discover ancient ruins to uncover the secrets of the past.</p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/skyship-base-building.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Skyship_Building_V2.gif?t=1733166192"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/skyship-base-building.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Skyship_Building_V2.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Soar the open skies in a vast sandbox world
   and turn any island into your personal skyship.</strong></p><p class="bb_paragraph">Build
   and customize it into your personal home. With a helm, rudder, and sails constructed,
   you are ready to sail the winds and explore the skies. You are the captain of your
   adventure!</p><p class="bb_paragraph"> </p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/ENG_HARNESS_THE_WINDS.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Harness_the_Wind_V2.gif?t=1733166192"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/ENG_HARNESS_THE_WINDS.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Steam_Harness_the_Wind_V2.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>The wind is an ever-present ally in Aloft.</strong></p><p
   class="bb_paragraph">Install windmills and a network of cables and pulleys to automate
   your machines and production. Fly into strong winds to supercharge your crafting
   power and sailing speed, but make sure your sails can handle it.<br> </p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/protect-living-ecosystem.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/combat-cleanse.gif?t=1733166192"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/protect-living-ecosystem.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/combat-cleanse.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Each island is its own living ecosystem, vulnerable
   to unsustainable gathering and the fungi corruption.</strong></p><p class="bb_paragraph">Find
   and cure islands from corruption by defeating the mushroom creatures in combat.
@@ -257,16 +252,16 @@ detailed_description: <h1>Discord</h1><p><p class="bb_paragraph"><img class="bb_
   their biodiversity, you gain access to new special resources, and make them more
   resistant to the corruption.<br> </p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/ENG_FARM_PRODUCE_CARE_ANIMALS.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Demo_StoreUpdate_GIF_PETTING_HARVESTING_V3.gif?t=1733166192"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/ENG_FARM_PRODUCE_CARE_ANIMALS.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/AL_Demo_StoreUpdate_GIF_PETTING_HARVESTING_V3.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Collect seeds and animals on your travels
   and bring them to your home island.</strong></p><p class="bb_paragraph">Plant various
   crops in your garden to cook up delicious recipes, and care for the cuddliest of
   animals to gain rare resources. Form a true bond by meeting all their needs, and
   they will even protect you. </p><p class="bb_paragraph"> </p><p class="bb_paragraph"></p><p
   class="bb_paragraph"></p><p class="bb_paragraph"></p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/community-crafting.png?t=1733166192"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/community-crafting.gif?t=1733166192"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/community-crafting.png?t=1733262601"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/community-crafting.gif?t=1733262601"
   /></p><p class="bb_paragraph"><strong>Creativity lies at the heart of Aloft, which
   can be enjoyed as a peaceful solo experience or with up to 7 other players.</strong></p><p
   class="bb_paragraph">Bring your entire island base when you join another player’s
@@ -275,7 +270,7 @@ detailed_description: <h1>Discord</h1><p><p class="bb_paragraph"><img class="bb_
   their worlds.<br><br><br>Craft the island of your dreams, challenge the corruption,
   restore balance, and express your creativity in the limitless skies of Aloft.</p><p
   class="bb_paragraph"></p><p class="bb_paragraph">See you in the clouds!</p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/EXPLORE_STONE__STEAM_PAGE.png?t=1733166192"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660080/extras/EXPLORE_STONE__STEAM_PAGE.png?t=1733262601"
   /></p>
 languages: English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish,
   Portuguese - Brazil, Russian, Ukrainian, Simplified Chinese

@@ -12,6 +12,7 @@ genres:
 - but_good
 - charlie
 - fire_emblem
+- no-ai
 - srpg
 - srpg-studio
 - strategy

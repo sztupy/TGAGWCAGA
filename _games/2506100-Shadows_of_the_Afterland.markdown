@@ -4,29 +4,29 @@ description: You don’t recall your death; you haven’t even been born yet. Cr
   realms and possess the living to unearth your haunting past in this point-and-click
   adventure where you'll confront supernatural forces to find out if you are merely
   a pawn of destiny or if you can change your own future.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/header.jpg?t=1729374580
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/capsule_231x87.jpg?t=1729374580
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/header.jpg?t=1733904509
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/capsule_231x87.jpg?t=1733904509
 categories: game
 steamid: 2506100
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_b92a391679fbacab8e6b5c9096a921c6132274c0.600x338.jpg?t=1729374580
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_b92a391679fbacab8e6b5c9096a921c6132274c0.1920x1080.jpg?t=1729374580
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_b92a391679fbacab8e6b5c9096a921c6132274c0.600x338.jpg?t=1733904509
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_b92a391679fbacab8e6b5c9096a921c6132274c0.1920x1080.jpg?t=1733904509
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_0cb948d3d4f046ca4184993d1c4908790794f5cd.600x338.jpg?t=1729374580
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_0cb948d3d4f046ca4184993d1c4908790794f5cd.1920x1080.jpg?t=1729374580
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_0cb948d3d4f046ca4184993d1c4908790794f5cd.600x338.jpg?t=1733904509
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_0cb948d3d4f046ca4184993d1c4908790794f5cd.1920x1080.jpg?t=1733904509
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_8869c80742db7c73baf435561c3333ed1fe949ff.600x338.jpg?t=1729374580
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_8869c80742db7c73baf435561c3333ed1fe949ff.1920x1080.jpg?t=1729374580
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_8869c80742db7c73baf435561c3333ed1fe949ff.600x338.jpg?t=1733904509
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_8869c80742db7c73baf435561c3333ed1fe949ff.1920x1080.jpg?t=1733904509
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_5ff90a92150b99557359510f1db76b9347c5d1c1.600x338.jpg?t=1729374580
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_5ff90a92150b99557359510f1db76b9347c5d1c1.1920x1080.jpg?t=1729374580
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_5ff90a92150b99557359510f1db76b9347c5d1c1.600x338.jpg?t=1733904509
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_5ff90a92150b99557359510f1db76b9347c5d1c1.1920x1080.jpg?t=1733904509
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_def301b346a0a7fed59596caeaf44f32fbd0e51f.600x338.jpg?t=1729374580
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_def301b346a0a7fed59596caeaf44f32fbd0e51f.1920x1080.jpg?t=1729374580
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_def301b346a0a7fed59596caeaf44f32fbd0e51f.600x338.jpg?t=1733904509
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_def301b346a0a7fed59596caeaf44f32fbd0e51f.1920x1080.jpg?t=1733904509
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_1cc4d335d8a4a8e4d9c159f0633384f3c3f08927.600x338.jpg?t=1729374580
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_1cc4d335d8a4a8e4d9c159f0633384f3c3f08927.1920x1080.jpg?t=1729374580
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_1cc4d335d8a4a8e4d9c159f0633384f3c3f08927.600x338.jpg?t=1733904509
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/ss_1cc4d335d8a4a8e4d9c159f0633384f3c3f08927.1920x1080.jpg?t=1733904509
 movies:
 - id: 256972012
   name: Shadows of the Afterland teaser trailer
@@ -60,7 +60,7 @@ release_date:
 content_warning:
   ids: []
   notes:
-about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/pirolina_entra_steam.gif?t=1729374580"
+about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/pirolina_entra_steam.gif?t=1733904509"
   /><h2 class="bb_tag">Embark on a supernatural point-and-click adventure in which
   you are confronted with the most difficult decision of your life ... and death...</h2><br>Madrid,
   1960. A chilling incident unfolds at the city's old zoo, leading to a mysterious
@@ -74,7 +74,7 @@ about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item
   ally to accompany you on a transformative journey to confront the sinister forces
   lurking in the world of the living. As you gain César’s trust, you'll have to solve
   tricky point-and-click puzzles, harness the power of magic, navigate between worlds
-  and even possess the living.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/gaspar_suspicious_steam.gif?t=1729374580"
+  and even possess the living.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/gaspar_suspicious_steam.gif?t=1733904509"
   /><h2 class="bb_tag"><strong>FEATURES:</strong></h2><ul class="bb_ul"><li>Investigate
   a supernatural murder mystery that blends themes of identity, courage and destiny
   with the afterlife, reincarnation and the connection between past and future lives.</li></ul><ul
@@ -87,9 +87,9 @@ about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item
   pixel art scenes and animations.</li></ul><ul class="bb_ul"><li>Experience an original
   soundtrack that enhances the haunting atmosphere of the game.</li></ul><ul class="bb_ul"><li>The
   classic point-and-click experience with a modern one-click user interface.</li></ul><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/catalina_folleto_steam.gif?t=1729374580"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/catalina_folleto_steam.gif?t=1733904509"
   />
-detailed_description: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/pirolina_entra_steam.gif?t=1729374580"
+detailed_description: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/pirolina_entra_steam.gif?t=1733904509"
   /><h2 class="bb_tag">Embark on a supernatural point-and-click adventure in which
   you are confronted with the most difficult decision of your life ... and death...</h2><br>Madrid,
   1960. A chilling incident unfolds at the city's old zoo, leading to a mysterious
@@ -103,7 +103,7 @@ detailed_description: <img class="bb_img" src="https://shared.akamai.steamstatic
   ally to accompany you on a transformative journey to confront the sinister forces
   lurking in the world of the living. As you gain César’s trust, you'll have to solve
   tricky point-and-click puzzles, harness the power of magic, navigate between worlds
-  and even possess the living.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/gaspar_suspicious_steam.gif?t=1729374580"
+  and even possess the living.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/gaspar_suspicious_steam.gif?t=1733904509"
   /><h2 class="bb_tag"><strong>FEATURES:</strong></h2><ul class="bb_ul"><li>Investigate
   a supernatural murder mystery that blends themes of identity, courage and destiny
   with the afterlife, reincarnation and the connection between past and future lives.</li></ul><ul
@@ -116,7 +116,7 @@ detailed_description: <img class="bb_img" src="https://shared.akamai.steamstatic
   pixel art scenes and animations.</li></ul><ul class="bb_ul"><li>Experience an original
   soundtrack that enhances the haunting atmosphere of the game.</li></ul><ul class="bb_ul"><li>The
   classic point-and-click experience with a modern one-click user interface.</li></ul><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/catalina_folleto_steam.gif?t=1729374580"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506100/extras/catalina_folleto_steam.gif?t=1733904509"
   />
 languages: English, Spanish - Spain
 reviews:

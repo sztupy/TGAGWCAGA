@@ -4,81 +4,69 @@ description: 'Maseylia : Echoes of the Past is a 3D animated metroidvania. Lose 
   into the heart of an unknown techno-organic world where nature &amp; creatures gone
   wild. Unlock new skills that allow you to access new areas, find new paths and develop
   an advanced movement system to forge your own way.'
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/header.jpg?t=1732315054
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/98fcd2a9e2b1094ed41640f4b0efc6be8473e60f/capsule_231x87.jpg?t=1732315054
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/header.jpg?t=1733775631
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/65e02eeb8fd9188db1a711597c0a73d3c17eb1c1/capsule_231x87.jpg?t=1733775631
 categories: game
 steamid: 2938870
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_949d3999c6ced1017d5b1b42666be9be85935c3d.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_949d3999c6ced1017d5b1b42666be9be85935c3d.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_7264b4e20b7c3fd44b5794a77538eeeb124f520a.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_7264b4e20b7c3fd44b5794a77538eeeb124f520a.1920x1080.jpg?t=1733775631
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_43b6f4593e3f21b990746afcc6d88ef94adbed54.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_43b6f4593e3f21b990746afcc6d88ef94adbed54.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_5bbc1f38632260eabb1028e5763f2c177bdcea25.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_5bbc1f38632260eabb1028e5763f2c177bdcea25.1920x1080.jpg?t=1733775631
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_836af315bd23dcc5923ec0043cb18fc46cc76554.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_836af315bd23dcc5923ec0043cb18fc46cc76554.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_d534833fb5054c0b4fa8d6e5d0a52b1779cff66b.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_d534833fb5054c0b4fa8d6e5d0a52b1779cff66b.1920x1080.jpg?t=1733775631
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_08504e254eaad83c445a2b2cb1e648fcd7a81bea.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_08504e254eaad83c445a2b2cb1e648fcd7a81bea.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_4eeeeb8cabee5392c758102033f5cced6db6c5d0.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_4eeeeb8cabee5392c758102033f5cced6db6c5d0.1920x1080.jpg?t=1733775631
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_224a6f3a00b8132c0b9e62585df27f9f803f1ce2.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_224a6f3a00b8132c0b9e62585df27f9f803f1ce2.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_0a62de5a4b4d5d8d6fb278467e4eec25bdeb8554.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_0a62de5a4b4d5d8d6fb278467e4eec25bdeb8554.1920x1080.jpg?t=1733775631
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_f7434a323da6278a9d9c025a1437d3b2958a8f9d.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_f7434a323da6278a9d9c025a1437d3b2958a8f9d.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_f13c500e424e3525d97a31019c225e5e2951ceef.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_f13c500e424e3525d97a31019c225e5e2951ceef.1920x1080.jpg?t=1733775631
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_9c68b369587fda15fcbd82c07a57bf6202b71186.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_9c68b369587fda15fcbd82c07a57bf6202b71186.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_7ff1df3afcd5068fff7cab7d97ed9bbdeeee0941.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_7ff1df3afcd5068fff7cab7d97ed9bbdeeee0941.1920x1080.jpg?t=1733775631
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_d46769fe69ff17e18ee69ffda6a36f1601287ee2.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_d46769fe69ff17e18ee69ffda6a36f1601287ee2.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_c5d756d2595dad7f160c2a5e768dfa97c74bb265.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_c5d756d2595dad7f160c2a5e768dfa97c74bb265.1920x1080.jpg?t=1733775631
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_cbd388330f85ce98b8e229fe30490da2b17c2389.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_cbd388330f85ce98b8e229fe30490da2b17c2389.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_322ed849da877c23f8ff726bfe71ff4bef1aa37b.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_322ed849da877c23f8ff726bfe71ff4bef1aa37b.1920x1080.jpg?t=1733775631
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_684cbec08d665f8c0d8308e141da721b067fa53f.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_684cbec08d665f8c0d8308e141da721b067fa53f.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_8af6a462b7df7e83ff7c01e548907f55e927bd4c.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_8af6a462b7df7e83ff7c01e548907f55e927bd4c.1920x1080.jpg?t=1733775631
 - id: 10
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_544a265892eb44d92bb60e87891da0749d1df422.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_544a265892eb44d92bb60e87891da0749d1df422.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_f0a6e5bf133cfe27616bc0cc617794b00d835c65.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_f0a6e5bf133cfe27616bc0cc617794b00d835c65.1920x1080.jpg?t=1733775631
 - id: 11
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_bb0ac5305c0aaadc67d8789315eb5d1fd5031d75.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_bb0ac5305c0aaadc67d8789315eb5d1fd5031d75.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_1b028eebfda5e60fad1d4ecec2046c56c1ebdc46.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_1b028eebfda5e60fad1d4ecec2046c56c1ebdc46.1920x1080.jpg?t=1733775631
 - id: 12
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_6462fc2d3dde2e082cebdadfa9565d541425704f.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_6462fc2d3dde2e082cebdadfa9565d541425704f.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_d27f52222b5be6decf07a3a41842b0c97c5741c6.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_d27f52222b5be6decf07a3a41842b0c97c5741c6.1920x1080.jpg?t=1733775631
 - id: 13
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_222101a448e30f6178875a442a750b0a41ebcf65.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_222101a448e30f6178875a442a750b0a41ebcf65.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_f33078935d8c7116239034fa574b3019eb7c0471.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_f33078935d8c7116239034fa574b3019eb7c0471.1920x1080.jpg?t=1733775631
 - id: 14
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_127c3b14c8e53e8eb237f780cb70bb979b2a0b50.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_127c3b14c8e53e8eb237f780cb70bb979b2a0b50.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_41f0bb245a83c73eb3381a6f8cde645546e64a37.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_41f0bb245a83c73eb3381a6f8cde645546e64a37.1920x1080.jpg?t=1733775631
 - id: 15
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_be22adb28d3091658e6560771a7892f9bd367fd4.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_be22adb28d3091658e6560771a7892f9bd367fd4.1920x1080.jpg?t=1732315054
-- id: 16
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_464374ee42acedbe7abf47b7b0521f7dd9104605.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_464374ee42acedbe7abf47b7b0521f7dd9104605.1920x1080.jpg?t=1732315054
-- id: 17
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_161794507de3204f80aa9c43c08ec24629f506e5.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_161794507de3204f80aa9c43c08ec24629f506e5.1920x1080.jpg?t=1732315054
-- id: 18
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_8d45b23b51933814421e79f8a32a25bb434ca8d0.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_8d45b23b51933814421e79f8a32a25bb434ca8d0.1920x1080.jpg?t=1732315054
-- id: 19
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_e8fb50ecf8f4f8f667e0c381f49916d33c4f6472.600x338.jpg?t=1732315054
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_e8fb50ecf8f4f8f667e0c381f49916d33c4f6472.1920x1080.jpg?t=1732315054
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_2d44033830dbbae11e5f2303524f37af542b8ca3.600x338.jpg?t=1733775631
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/ss_2d44033830dbbae11e5f2303524f37af542b8ca3.1920x1080.jpg?t=1733775631
 movies:
 - id: 257050555
   name: 'Maseylia : Echoes of the Past - Announcement trailer'
-  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050555/0bde007fd4a63ad36bd4c697c406d02b2870e0aa/movie_600x337.jpg?t=1732315047
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050555/b5d44b540f64aaf72d61deb65bf96d006a8f7746/movie_600x337.jpg?t=1733775630
   webm:
-    '480': https://video.akamai.steamstatic.com/store_trailers/257050555/movie480_vp9.webm?t=1732315047
-    max: https://video.akamai.steamstatic.com/store_trailers/257050555/movie_max_vp9.webm?t=1732315047
+    '480': https://video.akamai.steamstatic.com/store_trailers/257050555/movie480_vp9.webm?t=1733775630
+    max: https://video.akamai.steamstatic.com/store_trailers/257050555/movie_max_vp9.webm?t=1733775630
   mp4:
-    '480': https://video.akamai.steamstatic.com/store_trailers/257050555/movie480.mp4?t=1732315047
-    max: https://video.akamai.steamstatic.com/store_trailers/257050555/movie_max.mp4?t=1732315047
+    '480': https://video.akamai.steamstatic.com/store_trailers/257050555/movie480.mp4?t=1733775630
+    max: https://video.akamai.steamstatic.com/store_trailers/257050555/movie_max.mp4?t=1733775630
   highlight: true
 - id: 257075971
   name: Thanks to your feedback during Steam Fest, here's what we've made after a
@@ -115,7 +103,7 @@ about: '<p class="bb_paragraph"><strong>Maseylia : Echoes of the Past</strong> i
   a 3d metroidvania that aims to reproduce the experience of a 2d metroidvania in
   3d. It features a labyrinthine world in which you''ll need to collect upgrades to
   unlock new passages and make your way out of the labyrinth.</p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/extras/view.gif?t=1732315054"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/extras/trailerWithNewHero-ezgif.com-video-to-gif-converter__1_.gif?t=1733775631"
   /></p><p class="bb_paragraph"> </p><p class="bb_paragraph">The game is very exploration
   and platform oriented, with many challenges to overcome in order to reach the end.
   </p><h2 class="bb_tag">What to expect ? </h2><ul class="bb_ul"><li><p class="bb_paragraph">A
@@ -125,13 +113,13 @@ about: '<p class="bb_paragraph"><strong>Maseylia : Echoes of the Past</strong> i
   gameplay! Abilities such as a 360 dash (Bash), pass through matter using a change
   of robot state (phasic transformation), quadruple jump and many more to unlock that
   will help you get out of this maze. </p></li><li><p class="bb_paragraph">Discover
-  a unique science-fiction atmosphere. <br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/extras/newhero.gif?t=1732315054"
+  a unique science-fiction atmosphere. <br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/extras/trailerWithNewHero-ezgif.com-video-to-gif-converter.gif?t=1733775631"
   /></p></li></ul>'
 detailed_description: '<p class="bb_paragraph"><strong>Maseylia : Echoes of the Past</strong>
   is a 3d metroidvania that aims to reproduce the experience of a 2d metroidvania
   in 3d. It features a labyrinthine world in which you''ll need to collect upgrades
   to unlock new passages and make your way out of the labyrinth.</p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/extras/view.gif?t=1732315054"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/extras/trailerWithNewHero-ezgif.com-video-to-gif-converter__1_.gif?t=1733775631"
   /></p><p class="bb_paragraph"> </p><p class="bb_paragraph">The game is very exploration
   and platform oriented, with many challenges to overcome in order to reach the end.
   </p><h2 class="bb_tag">What to expect ? </h2><ul class="bb_ul"><li><p class="bb_paragraph">A
@@ -141,7 +129,7 @@ detailed_description: '<p class="bb_paragraph"><strong>Maseylia : Echoes of the 
   gameplay! Abilities such as a 360 dash (Bash), pass through matter using a change
   of robot state (phasic transformation), quadruple jump and many more to unlock that
   will help you get out of this maze. </p></li><li><p class="bb_paragraph">Discover
-  a unique science-fiction atmosphere. <br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/extras/newhero.gif?t=1732315054"
+  a unique science-fiction atmosphere. <br> <br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938870/extras/trailerWithNewHero-ezgif.com-video-to-gif-converter.gif?t=1733775631"
   /></p></li></ul>'
 languages: English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>,
   German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>,

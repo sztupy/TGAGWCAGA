@@ -29,7 +29,7 @@ screenshots:
 - id: 6
   path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290400/ss_51a51810a6857f1577c72b409c549082b36d7955.600x338.jpg?t=1731868937
   path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290400/ss_51a51810a6857f1577c72b409c549082b36d7955.1920x1080.jpg?t=1731868937
-movies:
+movies: []
 genres:
 - Indie
 steam_categories:

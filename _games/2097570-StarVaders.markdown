@@ -7,7 +7,6 @@ image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209757
 capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/92aa5cc8b6a89d33c3270aacabcc8ea48c756ee5/capsule_231x87.jpg?t=1732133805
 categories: game
 steamid: 2097570
-featured: true
 screenshots:
 - id: 0
   path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/ss_b56a83d6004310d034fc6ce57bdc023091dff36a.600x338.jpg?t=1732133805

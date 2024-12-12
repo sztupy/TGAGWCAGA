@@ -4,23 +4,23 @@ description: Axyz is a retro gravity switching puzzle game that asks the player 
   use their environmental and spatial awareness to beat each level within the time
   limit. Soak in the vaporwave, switch gravity, collect tapes, and more in this tribute
   to 90s puzzle games.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/header.jpg?t=1732024857
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/capsule_231x87.jpg?t=1732024857
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/header.jpg?t=1733337574
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/capsule_231x87.jpg?t=1733337574
 categories: game
 steamid: 2850490
 screenshots:
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_a0188ef9651b9ca603e61180f1d9a373ee393e37.600x338.jpg?t=1732024857
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_a0188ef9651b9ca603e61180f1d9a373ee393e37.1920x1080.jpg?t=1732024857
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_a0188ef9651b9ca603e61180f1d9a373ee393e37.600x338.jpg?t=1733337574
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_a0188ef9651b9ca603e61180f1d9a373ee393e37.1920x1080.jpg?t=1733337574
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_68449a0e3825fcde70b797e16e5e5ab3b6cf3166.600x338.jpg?t=1732024857
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_68449a0e3825fcde70b797e16e5e5ab3b6cf3166.1920x1080.jpg?t=1732024857
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_68449a0e3825fcde70b797e16e5e5ab3b6cf3166.600x338.jpg?t=1733337574
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_68449a0e3825fcde70b797e16e5e5ab3b6cf3166.1920x1080.jpg?t=1733337574
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_6fe6e091c07f85863f18890c6b50bc0e8724fb1f.600x338.jpg?t=1732024857
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_6fe6e091c07f85863f18890c6b50bc0e8724fb1f.1920x1080.jpg?t=1732024857
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_6fe6e091c07f85863f18890c6b50bc0e8724fb1f.600x338.jpg?t=1733337574
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_6fe6e091c07f85863f18890c6b50bc0e8724fb1f.1920x1080.jpg?t=1733337574
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_0f068df74a8645f1d8840f8318bdfdf670e13160.600x338.jpg?t=1732024857
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_0f068df74a8645f1d8840f8318bdfdf670e13160.1920x1080.jpg?t=1732024857
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_0f068df74a8645f1d8840f8318bdfdf670e13160.600x338.jpg?t=1733337574
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/ss_0f068df74a8645f1d8840f8318bdfdf670e13160.1920x1080.jpg?t=1733337574
 movies:
 - id: 257067390
   name: Steam Trailer
@@ -53,38 +53,38 @@ content_warning:
   ids: []
   notes:
 about: <h2 class="bb_tag">A perspective-shifting puzzle game</h2><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/blossom.gif?t=1732024857"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/blossom.gif?t=1733337574"
   />Use your environmental and spacial awareness to find the key, reach the exit and
   beat the level within the time limit. </p><p class="bb_paragraph"></p><h2 class="bb_tag">Switch
-  Gravity</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/gravity_switch.gif?t=1732024857"
+  Gravity</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/gravity_switch.gif?t=1733337574"
   />Some items can only be reached by switching gravity. Levels will often have multiple
   ways to beat it and switching gravity is often the key. </p><p class="bb_paragraph"></p><h2
   class="bb_tag">Collect the Tapes</h2><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/tapes.gif?t=1732024857"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/tapes.gif?t=1733337574"
   />Each level has 5 tapes to collect in any order, providing an optional challenge
   for those wishing to push themselves to the limits. Find as many as you can to unlock
   even more difficult levels and reach 100% completion.</p><p class="bb_paragraph"></p><h2
-  class="bb_tag">Be kind, rewind</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/gif4.gif?t=1732024857"
+  class="bb_tag">Be kind, rewind</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/gif4.gif?t=1733337574"
   />The rewind feature gives players the chance to learn from their mistakes without
   starting levels over again. May there be other uses for it?</p><p class="bb_paragraph"></p><h2
-  class="bb_tag">Beat the levels</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/levels.gif?t=1732024857"
+  class="bb_tag">Beat the levels</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/levels.gif?t=1733337574"
   />Play over 100 mind-bending levels across 8 worlds.</p>
 detailed_description: <h2 class="bb_tag">A perspective-shifting puzzle game</h2><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/blossom.gif?t=1732024857"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/blossom.gif?t=1733337574"
   />Use your environmental and spacial awareness to find the key, reach the exit and
   beat the level within the time limit. </p><p class="bb_paragraph"></p><h2 class="bb_tag">Switch
-  Gravity</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/gravity_switch.gif?t=1732024857"
+  Gravity</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/gravity_switch.gif?t=1733337574"
   />Some items can only be reached by switching gravity. Levels will often have multiple
   ways to beat it and switching gravity is often the key. </p><p class="bb_paragraph"></p><h2
   class="bb_tag">Collect the Tapes</h2><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/tapes.gif?t=1732024857"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/tapes.gif?t=1733337574"
   />Each level has 5 tapes to collect in any order, providing an optional challenge
   for those wishing to push themselves to the limits. Find as many as you can to unlock
   even more difficult levels and reach 100% completion.</p><p class="bb_paragraph"></p><h2
-  class="bb_tag">Be kind, rewind</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/gif4.gif?t=1732024857"
+  class="bb_tag">Be kind, rewind</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/gif4.gif?t=1733337574"
   />The rewind feature gives players the chance to learn from their mistakes without
   starting levels over again. May there be other uses for it?</p><p class="bb_paragraph"></p><h2
-  class="bb_tag">Beat the levels</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/levels.gif?t=1732024857"
+  class="bb_tag">Beat the levels</h2><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850490/extras/levels.gif?t=1733337574"
   />Play over 100 mind-bending levels across 8 worlds.</p>
 languages: English
 reviews:

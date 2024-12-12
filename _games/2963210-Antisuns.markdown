@@ -4,30 +4,30 @@ description: Antisuns is a tactical RPG set in the far future. Command your crew
   turn-based combat across multiple spaceships. See enemy moves ahead of time, and
   come up with the perfect response. Push your luck for greater rewards. If you fail,
   go back in time, for another randomly-generated run.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/header.jpg?t=1731600646
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/be42e34c2d12b13c5184625f807626b17a74f892/capsule_231x87.jpg?t=1731600646
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/header.jpg?t=1733139754
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/be42e34c2d12b13c5184625f807626b17a74f892/capsule_231x87.jpg?t=1733139754
 categories: game
 steamid: 2963210
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_d7102b372df2a956624c5430fa1741ca5a55a755.600x338.jpg?t=1731600646
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_d7102b372df2a956624c5430fa1741ca5a55a755.1920x1080.jpg?t=1731600646
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_d7102b372df2a956624c5430fa1741ca5a55a755.600x338.jpg?t=1733139754
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_d7102b372df2a956624c5430fa1741ca5a55a755.1920x1080.jpg?t=1733139754
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_0decd3be3f560621b1ea033cd34965927455801b.600x338.jpg?t=1731600646
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_0decd3be3f560621b1ea033cd34965927455801b.1920x1080.jpg?t=1731600646
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_0decd3be3f560621b1ea033cd34965927455801b.600x338.jpg?t=1733139754
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_0decd3be3f560621b1ea033cd34965927455801b.1920x1080.jpg?t=1733139754
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_fdaa989fc46edf14890400fbcefc7e5bc951a7c0.600x338.jpg?t=1731600646
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_fdaa989fc46edf14890400fbcefc7e5bc951a7c0.1920x1080.jpg?t=1731600646
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_fdaa989fc46edf14890400fbcefc7e5bc951a7c0.600x338.jpg?t=1733139754
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_fdaa989fc46edf14890400fbcefc7e5bc951a7c0.1920x1080.jpg?t=1733139754
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_e19a223309c03c5ebc22645f46b61ea29a9aa36d.600x338.jpg?t=1731600646
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_e19a223309c03c5ebc22645f46b61ea29a9aa36d.1920x1080.jpg?t=1731600646
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_e19a223309c03c5ebc22645f46b61ea29a9aa36d.600x338.jpg?t=1733139754
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_e19a223309c03c5ebc22645f46b61ea29a9aa36d.1920x1080.jpg?t=1733139754
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_b2627afd1885e0c9fd042ad20b56828e58a2cbb2.600x338.jpg?t=1731600646
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_b2627afd1885e0c9fd042ad20b56828e58a2cbb2.1920x1080.jpg?t=1731600646
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_b2627afd1885e0c9fd042ad20b56828e58a2cbb2.600x338.jpg?t=1733139754
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_b2627afd1885e0c9fd042ad20b56828e58a2cbb2.1920x1080.jpg?t=1733139754
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_b15c012f2f9df2fc4fc18476310e93d0d9564239.600x338.jpg?t=1731600646
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_b15c012f2f9df2fc4fc18476310e93d0d9564239.1920x1080.jpg?t=1731600646
-movies:
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_b15c012f2f9df2fc4fc18476310e93d0d9564239.600x338.jpg?t=1733139754
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963210/ss_b15c012f2f9df2fc4fc18476310e93d0d9564239.1920x1080.jpg?t=1733139754
+movies: []
 genres:
 - Indie
 - RPG

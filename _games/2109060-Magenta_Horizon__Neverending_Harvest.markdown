@@ -1,59 +1,50 @@
 ---
-title: Magenta Horizon
+title: Magenta Horizon - Neverending Harvest
 description: Magenta Horizon is a fast-paced 2D action platformer with challenging
   spectacle fighter inspired combat. Playing as a Reaper of the twisted purgatorial
   afterlife, push your skills to the limit to destroy the hordes of demons and epic
   bosses to reach your destination.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/header.jpg?t=1732820109
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/capsule_231x87.jpg?t=1732820109
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/header.jpg?t=1733526154
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/capsule_231x87.jpg?t=1733526154
 categories: game
 steamid: 2109060
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_5e81504b885317b52927531832286b03370212f6.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_5e81504b885317b52927531832286b03370212f6.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_5e81504b885317b52927531832286b03370212f6.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_5e81504b885317b52927531832286b03370212f6.1920x1080.jpg?t=1733526154
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_fd92e8069a3430953db3b29a032ba24ac78de21f.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_fd92e8069a3430953db3b29a032ba24ac78de21f.1920x1080.jpg?t=1732820109
-- id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_bd9fa7fcb39291937a75726d02c3754773a031fa.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_bd9fa7fcb39291937a75726d02c3754773a031fa.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_fd92e8069a3430953db3b29a032ba24ac78de21f.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_fd92e8069a3430953db3b29a032ba24ac78de21f.1920x1080.jpg?t=1733526154
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_44cd06094e415af1cb7f1e53bdd113d47c6cc8a9.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_44cd06094e415af1cb7f1e53bdd113d47c6cc8a9.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_44cd06094e415af1cb7f1e53bdd113d47c6cc8a9.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_44cd06094e415af1cb7f1e53bdd113d47c6cc8a9.1920x1080.jpg?t=1733526154
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_02b57fc12b1aad1818e3221d17dd168fba9f97b1.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_02b57fc12b1aad1818e3221d17dd168fba9f97b1.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_02b57fc12b1aad1818e3221d17dd168fba9f97b1.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_02b57fc12b1aad1818e3221d17dd168fba9f97b1.1920x1080.jpg?t=1733526154
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_0f9158d66afd0aa6e467b826d2b37524e7973da0.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_0f9158d66afd0aa6e467b826d2b37524e7973da0.1920x1080.jpg?t=1732820109
-- id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_7c03e808d30726faf7f981f62008a45dc862fc4b.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_7c03e808d30726faf7f981f62008a45dc862fc4b.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_0f9158d66afd0aa6e467b826d2b37524e7973da0.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_0f9158d66afd0aa6e467b826d2b37524e7973da0.1920x1080.jpg?t=1733526154
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_585a732d1f883e827600e18917749669ff876a68.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_585a732d1f883e827600e18917749669ff876a68.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_585a732d1f883e827600e18917749669ff876a68.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_585a732d1f883e827600e18917749669ff876a68.1920x1080.jpg?t=1733526154
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_7d5c3dfc3074c2ef95d024dc0505cb9c43c8573a.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_7d5c3dfc3074c2ef95d024dc0505cb9c43c8573a.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_7d5c3dfc3074c2ef95d024dc0505cb9c43c8573a.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_7d5c3dfc3074c2ef95d024dc0505cb9c43c8573a.1920x1080.jpg?t=1733526154
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_83e43125abac18d9a1b0d27e196bc722249182aa.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_83e43125abac18d9a1b0d27e196bc722249182aa.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_83e43125abac18d9a1b0d27e196bc722249182aa.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_83e43125abac18d9a1b0d27e196bc722249182aa.1920x1080.jpg?t=1733526154
 - id: 10
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_033e26a6c85bc1d277c4b0a1622cd7e93de36fa2.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_033e26a6c85bc1d277c4b0a1622cd7e93de36fa2.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_033e26a6c85bc1d277c4b0a1622cd7e93de36fa2.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_033e26a6c85bc1d277c4b0a1622cd7e93de36fa2.1920x1080.jpg?t=1733526154
 - id: 11
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_6c202069bccbef1af12191223b5bd7c329aa2f55.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_6c202069bccbef1af12191223b5bd7c329aa2f55.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_6c202069bccbef1af12191223b5bd7c329aa2f55.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_6c202069bccbef1af12191223b5bd7c329aa2f55.1920x1080.jpg?t=1733526154
 - id: 12
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_dfe16c8abf22d138c3441eac60b814743322208c.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_dfe16c8abf22d138c3441eac60b814743322208c.1920x1080.jpg?t=1732820109
-- id: 13
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_68cfd3b28a0f67e4d67f28354911e8bf6db26a2b.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_68cfd3b28a0f67e4d67f28354911e8bf6db26a2b.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_dfe16c8abf22d138c3441eac60b814743322208c.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_dfe16c8abf22d138c3441eac60b814743322208c.1920x1080.jpg?t=1733526154
 - id: 14
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_45b4b8218ee1dd731c5e7fb06c6fb9fa7c023f86.600x338.jpg?t=1732820109
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_45b4b8218ee1dd731c5e7fb06c6fb9fa7c023f86.1920x1080.jpg?t=1732820109
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_45b4b8218ee1dd731c5e7fb06c6fb9fa7c023f86.600x338.jpg?t=1733526154
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/ss_45b4b8218ee1dd731c5e7fb06c6fb9fa7c023f86.1920x1080.jpg?t=1733526154
 movies:
 - id: 256972703
   name: 'Magenta Horizon: Neverending Harvest (Full Version) Release Date Trailer'
@@ -115,7 +106,7 @@ publishers:
 - 2 Left Thumbs
 release_date:
   coming_soon: false
-  date: 29 May, 2023
+  date: 6 Dec, 2024
 content_warning:
   ids:
   - 2
@@ -127,8 +118,8 @@ about: '<h2 class="bb_tag">&quot;Soar over Purgatory and reap all the foes.&quot
   is a fast-paced 2D action platformer, with gameplay inspired by spectacle fighters,
   and a world designed to look and feel like a living prog-rock album cover. Test
   your skill with it''s vast, stylistic, expressive combat options!</p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew01.png?t=1732820109"
-  /> </p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore01.gif?t=1732820109"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew01.png?t=1733526154"
+  /> </p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore01.gif?t=1733526154"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Combat Freedom</strong>:
   Begin with a fully unlocked melee system. Learn at your own pace as you master expressive,
   stylistic combos and unique playstyles.</p></li></ul><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Perfect
@@ -136,8 +127,8 @@ about: '<h2 class="bb_tag">&quot;Soar over Purgatory and reap all the foes.&quot
   for efficient crowd control and maximum lethality.</p></li><li><p class="bb_paragraph"><strong>Risky
   Maneuvers</strong>: This game encourages an aggressive approach. Keep moving, weaving
   in ranged skills and healing bombs to mitigate damage taken.</p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew02.png?t=1732820109"
-  /> </p></li></ul><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore03.gif?t=1732820109"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew02.png?t=1733526154"
+  /> </p></li></ul><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore03.gif?t=1733526154"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Spectacle Fighter</strong>:
   Earn style points and aim for the prestigious Triple S rank by slaying enemies swiftly
   and creatively.</p></li></ul><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Difficulty
@@ -145,8 +136,8 @@ about: '<h2 class="bb_tag">&quot;Soar over Purgatory and reap all the foes.&quot
   and enemy compositions to push yourself to the limit.</p></li><li><p class="bb_paragraph"><strong>Personalized
   Playstyle</strong>: Experiment with the flexible Necklace system to further cater
   to differing combat preferences.</p><p class="bb_paragraph"></p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew03.png?t=1732820109"
-  /> </p></li></ul><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore02.gif?t=1732820109"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew03.png?t=1733526154"
+  /> </p></li></ul><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore02.gif?t=1733526154"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Dangerous Denizens</strong>:
   A volatile and diverse roster of horrific enemies and bosses ensures fresh and challenging
   gameplay throughout.</p></li></ul><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Exploration</strong>:
@@ -154,27 +145,20 @@ about: '<h2 class="bb_tag">&quot;Soar over Purgatory and reap all the foes.&quot
   challenging terrain.</p></li><li><p class="bb_paragraph"><strong>Soundtrack</strong>:
   A highly varied OST blending prog-rock/metal with jazz, disco, and orchestral influences
   to compliment the intense action and surrealist environments. </p></li></ul><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/TitleSteamSize.png?t=1732820109"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/TitleSteamSize.png?t=1733526154"
   /></p><p class="bb_paragraph">You play as <strong>Gretel</strong>, a reaper in this
   twisted purgatory, exiled for 200 years. After being freed from her sarcophagus
   by a wandering soul named Archibald - Gretel seeks purpose in her afterlife - guiding
   Archibald back to the sanctuary she was long ago exiled from. This journey will
   be along a perilous path, fraught with all manner of grotesque demons starving for
   souls. </p>'
-detailed_description: '<h1>Play Act 1 for FREE</h1><p><p class="bb_paragraph"><strong>Try
-  before you buy!</strong> The <u>FREE Steam Demo</u> includes ALL of <strong>Magenta
-  Horizon: Act 1</strong></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/freedemo.png?t=1732820109"
-  /></p><p class="bb_paragraph">Consider this as a vertical slice of the complete
-  product and a gateway to the larger challenges that await. But remember, <strong>Act
-  1</strong> is on the beginning. The game will only get <strong>harder</strong>,
-  <i>weirder</i>, and <u>more extreme</u> from here!</p></p><br><h1>About the Game</h1><h2
-  class="bb_tag">&quot;Soar over Purgatory and reap all the foes.&quot;</h2><p class="bb_paragraph">From
-  solo developer Maddison Baek,<strong><i> Magenta Horizon</i></strong> is a fast-paced
-  2D action platformer, with gameplay inspired by spectacle fighters, and a world
-  designed to look and feel like a living prog-rock album cover. Test your skill with
-  it''s vast, stylistic, expressive combat options!</p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew01.png?t=1732820109"
-  /> </p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore01.gif?t=1732820109"
+detailed_description: '<h2 class="bb_tag">&quot;Soar over Purgatory and reap all the
+  foes.&quot;</h2><p class="bb_paragraph">From solo developer Maddison Baek,<strong><i>
+  Magenta Horizon</i></strong> is a fast-paced 2D action platformer, with gameplay
+  inspired by spectacle fighters, and a world designed to look and feel like a living
+  prog-rock album cover. Test your skill with it''s vast, stylistic, expressive combat
+  options!</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew01.png?t=1733526154"
+  /> </p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore01.gif?t=1733526154"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Combat Freedom</strong>:
   Begin with a fully unlocked melee system. Learn at your own pace as you master expressive,
   stylistic combos and unique playstyles.</p></li></ul><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Perfect
@@ -182,8 +166,8 @@ detailed_description: '<h1>Play Act 1 for FREE</h1><p><p class="bb_paragraph"><s
   for efficient crowd control and maximum lethality.</p></li><li><p class="bb_paragraph"><strong>Risky
   Maneuvers</strong>: This game encourages an aggressive approach. Keep moving, weaving
   in ranged skills and healing bombs to mitigate damage taken.</p><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew02.png?t=1732820109"
-  /> </p></li></ul><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore03.gif?t=1732820109"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew02.png?t=1733526154"
+  /> </p></li></ul><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore03.gif?t=1733526154"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Spectacle Fighter</strong>:
   Earn style points and aim for the prestigious Triple S rank by slaying enemies swiftly
   and creatively.</p></li></ul><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Difficulty
@@ -191,8 +175,8 @@ detailed_description: '<h1>Play Act 1 for FREE</h1><p><p class="bb_paragraph"><s
   and enemy compositions to push yourself to the limit.</p></li><li><p class="bb_paragraph"><strong>Personalized
   Playstyle</strong>: Experiment with the flexible Necklace system to further cater
   to differing combat preferences.</p><p class="bb_paragraph"></p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew03.png?t=1732820109"
-  /> </p></li></ul><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore02.gif?t=1732820109"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/headernew03.png?t=1733526154"
+  /> </p></li></ul><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/MH_newstore02.gif?t=1733526154"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Dangerous Denizens</strong>:
   A volatile and diverse roster of horrific enemies and bosses ensures fresh and challenging
   gameplay throughout.</p></li></ul><ul class="bb_ul"><li><p class="bb_paragraph"><strong>Exploration</strong>:
@@ -200,17 +184,16 @@ detailed_description: '<h1>Play Act 1 for FREE</h1><p><p class="bb_paragraph"><s
   challenging terrain.</p></li><li><p class="bb_paragraph"><strong>Soundtrack</strong>:
   A highly varied OST blending prog-rock/metal with jazz, disco, and orchestral influences
   to compliment the intense action and surrealist environments. </p></li></ul><p class="bb_paragraph"></p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/TitleSteamSize.png?t=1732820109"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109060/extras/TitleSteamSize.png?t=1733526154"
   /></p><p class="bb_paragraph">You play as <strong>Gretel</strong>, a reaper in this
   twisted purgatory, exiled for 200 years. After being freed from her sarcophagus
   by a wandering soul named Archibald - Gretel seeks purpose in her afterlife - guiding
   Archibald back to the sanctuary she was long ago exiled from. This journey will
   be along a perilous path, fraught with all manner of grotesque demons starving for
   souls. </p>'
-languages: English<strong>*</strong>, Korean<br><strong>*</strong>languages with full
-  audio support
-reviews: "“For fans of fast-paced action platformers with exploration elements, Magenta
-  Horizon is highly recommended. (...)the available content offers substantial replayability.”<br>GameGrin<br>"
+languages: English<strong>*</strong>, Korean, Portuguese - Brazil, Russian<br><strong>*</strong>languages
+  with full audio support
+reviews:
 support_info:
   url: ''
   email: hellfirerailway@gmail.com

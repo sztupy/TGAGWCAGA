@@ -27,7 +27,7 @@ screenshots:
 - id: 5
   path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3343360/ss_16dc057979d2660c045fd25ec06783f642eb8898.600x338.jpg?t=1731467991
   path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3343360/ss_16dc057979d2660c045fd25ec06783f642eb8898.1920x1080.jpg?t=1731467991
-movies:
+movies: []
 genres:
 - Action
 - Adventure

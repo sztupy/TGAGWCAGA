@@ -57,6 +57,7 @@ release_date:
   date: To be announced
 content_warning:
   ids:
+  - 2
   - 5
   notes: There will be some cartoon like monster violence
 about: "<p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818480/extras/overview.png?t=1729771803\"

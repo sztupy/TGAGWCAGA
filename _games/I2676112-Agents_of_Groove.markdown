@@ -1,6 +1,7 @@
 ---
 title: Agents of Groove
-description: A story-driven rhythm game for Playdate
+description: A story-driven rhythm game for Playdate with a dynamic soundtrack. Help
+  undercover dancers stop an evil conspiracy!
 image: https://img.itch.zone/aW1nLzE2MzcxOTAyLnBuZw==/315x250%23c/vaxXLC.png
 categories: game
 itchid: 2676112
@@ -10,6 +11,7 @@ genres:
 - 2d
 - family-friendly
 - indie
+- no-ai
 - pirates
 - pixel-art
 - playdate

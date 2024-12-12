@@ -4,41 +4,41 @@ description: The Lunar party games are on! Compete as your favourite Lunar Zodia
   on unique boards and mini-games in this viral party game. Experience game-changing
   fast paced board play in blitz mode or chill out with conventional party game style
   with up to 8 players online - Wishlist Now!
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/header.jpg?t=1730382221
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/capsule_231x87.jpg?t=1730382221
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/header.jpg?t=1733819660
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/capsule_231x87.jpg?t=1733819660
 categories: game
 steamid: 1031080
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_26db368745bacb0cdf46755d9df920c2cc741627.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_26db368745bacb0cdf46755d9df920c2cc741627.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_26db368745bacb0cdf46755d9df920c2cc741627.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_26db368745bacb0cdf46755d9df920c2cc741627.1920x1080.jpg?t=1733819660
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_bea940e1ab373f41e9db78ff53b0a6bd45eb8dfa.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_bea940e1ab373f41e9db78ff53b0a6bd45eb8dfa.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_bea940e1ab373f41e9db78ff53b0a6bd45eb8dfa.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_bea940e1ab373f41e9db78ff53b0a6bd45eb8dfa.1920x1080.jpg?t=1733819660
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_2c0c1772a2e2d2da2c8def3736ee0f7144a317b3.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_2c0c1772a2e2d2da2c8def3736ee0f7144a317b3.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_2c0c1772a2e2d2da2c8def3736ee0f7144a317b3.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_2c0c1772a2e2d2da2c8def3736ee0f7144a317b3.1920x1080.jpg?t=1733819660
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_9a2eb76dbe134ecdf8721a65dd31745cb1c89c4e.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_9a2eb76dbe134ecdf8721a65dd31745cb1c89c4e.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_9a2eb76dbe134ecdf8721a65dd31745cb1c89c4e.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_9a2eb76dbe134ecdf8721a65dd31745cb1c89c4e.1920x1080.jpg?t=1733819660
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_8f5b7330133847eab6351b1a0ec980d3753274b0.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_8f5b7330133847eab6351b1a0ec980d3753274b0.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_8f5b7330133847eab6351b1a0ec980d3753274b0.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_8f5b7330133847eab6351b1a0ec980d3753274b0.1920x1080.jpg?t=1733819660
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_cc9449c7ac5800f5683f5c62a0f6f64412ebbe47.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_cc9449c7ac5800f5683f5c62a0f6f64412ebbe47.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_cc9449c7ac5800f5683f5c62a0f6f64412ebbe47.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_cc9449c7ac5800f5683f5c62a0f6f64412ebbe47.1920x1080.jpg?t=1733819660
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_636a7847e348226096ec09a564600facb1ea64b6.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_636a7847e348226096ec09a564600facb1ea64b6.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_636a7847e348226096ec09a564600facb1ea64b6.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_636a7847e348226096ec09a564600facb1ea64b6.1920x1080.jpg?t=1733819660
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_29adcaef464478faf64cd989c3210fa3e206e030.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_29adcaef464478faf64cd989c3210fa3e206e030.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_29adcaef464478faf64cd989c3210fa3e206e030.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_29adcaef464478faf64cd989c3210fa3e206e030.1920x1080.jpg?t=1733819660
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_65a4987b109767a6c541fa57612568d0a1d20fd0.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_65a4987b109767a6c541fa57612568d0a1d20fd0.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_65a4987b109767a6c541fa57612568d0a1d20fd0.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_65a4987b109767a6c541fa57612568d0a1d20fd0.1920x1080.jpg?t=1733819660
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_7f217c6c0ec95bbef21c48811500af29c5e7cdb3.600x338.jpg?t=1730382221
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_7f217c6c0ec95bbef21c48811500af29c5e7cdb3.1920x1080.jpg?t=1730382221
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_7f217c6c0ec95bbef21c48811500af29c5e7cdb3.600x338.jpg?t=1733819660
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/ss_7f217c6c0ec95bbef21c48811500af29c5e7cdb3.1920x1080.jpg?t=1733819660
 movies:
 - id: 256872200
   name: Lunars Trailer
@@ -85,7 +85,7 @@ publishers:
 - Anubis Arts
 release_date:
   coming_soon: true
-  date: Q1 2025
+  date: Q2 2025
 content_warning:
   ids: []
   notes:
@@ -95,7 +95,7 @@ about: '<p class="bb_paragraph">Lunars are zodiac animal plushies animated by ce
   in an <strong>intensely fun 8-player experience</strong> spanning <strong>wildly
   unique game boards</strong> and <strong>challenging mini-games</strong>. Add to
   your <strong>Wishlist </strong>for the latest updates and release info.</p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Characters.gif?t=1730382221"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Characters.gif?t=1733819660"
   /></p><p class="bb_paragraph">Unique play-styles with flexible options to play the
   game:</p><p class="bb_paragraph">    • <strong>Blitz Mode</strong>: Board becomes
   a live playfield where everyone rolls simultaneously and uses items at will. No
@@ -103,23 +103,23 @@ about: '<p class="bb_paragraph">Lunars are zodiac animal plushies animated by ce
   Mode:</strong> Take turns to roll in traditional party board game style and compete
   in mini-games when a turn is over. </p><p class="bb_paragraph">    • <strong>Mini-Games
   Mode:</strong> non-stop action in back-to-back mini-games. </p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/New_Boards.gif?t=1730382221"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/New_Boards.gif?t=1733819660"
   /><strong>Blitz mode eliminates</strong> the deliberate pace of <strong>waiting
   your turn</strong> in traditional party board games allowing for a <strong>fast-paced
   multiplayer</strong> experience. Traditional turn-based mode is still here for old-school
   paced fun while the new blitz mode allows quick play matches. </p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/MiniGames.gif?t=1730382221"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/MiniGames.gif?t=1733819660"
   /><strong>Diverse fun mini-games</strong> in everyday settings where Lunars party
   when no one is looking. Master <strong>unique free-for-all and team-based mini-games</strong>
   as you compete for the top Lunar.</p><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Board2.gif?t=1730382221"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Board2.gif?t=1733819660"
   />From Anubis'' desert sandbox inhabited by a cursed mummy to a cardboard kingdom
   with unruly knights and a sleeping dragon. Explore <strong>wildly varied board locations</strong>
   with <strong>different challenges, casts and gameplay styles</strong>.</p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/8Players.gif?t=1730382221"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/8Players.gif?t=1733819660"
   />Enjoy <strong>multiplayer mayhem</strong> with up to <strong>8 players online</strong>.
   Play with friends or join other like-minded Lunars in online matchmaking for fun
-  fast-paced rounds.</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Outfits.gif?t=1730382221"
+  fast-paced rounds.</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Outfits.gif?t=1733819660"
   />Express your vibe with an expanding <strong>library of accessories, outfits, pets
   &amp; styles</strong> to show off your favourite <strong>Lunar fashion</strong>.</p><p
   class="bb_paragraph"></p><p class="bb_paragraph"><strong>Lunars </strong>have their
@@ -131,7 +131,7 @@ detailed_description: '<p class="bb_paragraph">Lunars are zodiac animal plushies
   kinds of mischief in an <strong>intensely fun 8-player experience</strong> spanning
   <strong>wildly unique game boards</strong> and <strong>challenging mini-games</strong>.
   Add to your <strong>Wishlist </strong>for the latest updates and release info.</p><p
-  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Characters.gif?t=1730382221"
+  class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Characters.gif?t=1733819660"
   /></p><p class="bb_paragraph">Unique play-styles with flexible options to play the
   game:</p><p class="bb_paragraph">    • <strong>Blitz Mode</strong>: Board becomes
   a live playfield where everyone rolls simultaneously and uses items at will. No
@@ -139,23 +139,23 @@ detailed_description: '<p class="bb_paragraph">Lunars are zodiac animal plushies
   Mode:</strong> Take turns to roll in traditional party board game style and compete
   in mini-games when a turn is over. </p><p class="bb_paragraph">    • <strong>Mini-Games
   Mode:</strong> non-stop action in back-to-back mini-games. </p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/New_Boards.gif?t=1730382221"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/New_Boards.gif?t=1733819660"
   /><strong>Blitz mode eliminates</strong> the deliberate pace of <strong>waiting
   your turn</strong> in traditional party board games allowing for a <strong>fast-paced
   multiplayer</strong> experience. Traditional turn-based mode is still here for old-school
   paced fun while the new blitz mode allows quick play matches. </p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/MiniGames.gif?t=1730382221"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/MiniGames.gif?t=1733819660"
   /><strong>Diverse fun mini-games</strong> in everyday settings where Lunars party
   when no one is looking. Master <strong>unique free-for-all and team-based mini-games</strong>
   as you compete for the top Lunar.</p><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Board2.gif?t=1730382221"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Board2.gif?t=1733819660"
   />From Anubis'' desert sandbox inhabited by a cursed mummy to a cardboard kingdom
   with unruly knights and a sleeping dragon. Explore <strong>wildly varied board locations</strong>
   with <strong>different challenges, casts and gameplay styles</strong>.</p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/8Players.gif?t=1730382221"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/8Players.gif?t=1733819660"
   />Enjoy <strong>multiplayer mayhem</strong> with up to <strong>8 players online</strong>.
   Play with friends or join other like-minded Lunars in online matchmaking for fun
-  fast-paced rounds.</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Outfits.gif?t=1730382221"
+  fast-paced rounds.</p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031080/extras/Outfits.gif?t=1733819660"
   />Express your vibe with an expanding <strong>library of accessories, outfits, pets
   &amp; styles</strong> to show off your favourite <strong>Lunar fashion</strong>.</p><p
   class="bb_paragraph"></p><p class="bb_paragraph"><strong>Lunars </strong>have their

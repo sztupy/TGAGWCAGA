@@ -4,35 +4,35 @@ description: Blade Prince Academy is a new take on tactical RPGs, where you lead
   squad of Blade Princes to defend the city of Abjectalia in real-time with pause
   combat. Use your team's power to devastate any threat, but be vigilant, there is
   always a price to pay when you make a pact with darkness.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/header.jpg?t=1732892569
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/4397d9ab2117e38775fe69e6cc4f163ea3fec26d/capsule_231x87.jpg?t=1732892569
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/header.jpg?t=1733735347
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/4397d9ab2117e38775fe69e6cc4f163ea3fec26d/capsule_231x87.jpg?t=1733735347
 categories: game
 steamid: 2333510
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_65a4a934ac2b458f01e9b1096b851a1f1c5cde9c.600x338.jpg?t=1732892569
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_65a4a934ac2b458f01e9b1096b851a1f1c5cde9c.1920x1080.jpg?t=1732892569
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_65a4a934ac2b458f01e9b1096b851a1f1c5cde9c.600x338.jpg?t=1733735347
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_65a4a934ac2b458f01e9b1096b851a1f1c5cde9c.1920x1080.jpg?t=1733735347
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_57d3ccf7eea7a84f803943baae02a4a2a612cc18.600x338.jpg?t=1732892569
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_57d3ccf7eea7a84f803943baae02a4a2a612cc18.1920x1080.jpg?t=1732892569
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_57d3ccf7eea7a84f803943baae02a4a2a612cc18.600x338.jpg?t=1733735347
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_57d3ccf7eea7a84f803943baae02a4a2a612cc18.1920x1080.jpg?t=1733735347
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_8d082b3c089afa5771a5f440bb17f19112695cbd.600x338.jpg?t=1732892569
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_8d082b3c089afa5771a5f440bb17f19112695cbd.1920x1080.jpg?t=1732892569
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_8d082b3c089afa5771a5f440bb17f19112695cbd.600x338.jpg?t=1733735347
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_8d082b3c089afa5771a5f440bb17f19112695cbd.1920x1080.jpg?t=1733735347
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_a35b0e19afb0e389093a126ddcceebc093584bf5.600x338.jpg?t=1732892569
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_a35b0e19afb0e389093a126ddcceebc093584bf5.1920x1080.jpg?t=1732892569
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_a35b0e19afb0e389093a126ddcceebc093584bf5.600x338.jpg?t=1733735347
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_a35b0e19afb0e389093a126ddcceebc093584bf5.1920x1080.jpg?t=1733735347
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_3d2c12ee8887ef564c9630cc43533be366846b51.600x338.jpg?t=1732892569
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_3d2c12ee8887ef564c9630cc43533be366846b51.1920x1080.jpg?t=1732892569
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_3d2c12ee8887ef564c9630cc43533be366846b51.600x338.jpg?t=1733735347
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_3d2c12ee8887ef564c9630cc43533be366846b51.1920x1080.jpg?t=1733735347
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_43aa10a23862e5c28e8611460426296e63a40021.600x338.jpg?t=1732892569
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_43aa10a23862e5c28e8611460426296e63a40021.1920x1080.jpg?t=1732892569
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_43aa10a23862e5c28e8611460426296e63a40021.600x338.jpg?t=1733735347
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_43aa10a23862e5c28e8611460426296e63a40021.1920x1080.jpg?t=1733735347
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_e20771825dce60c5bbd78fe6c001d4ad957120ab.600x338.jpg?t=1732892569
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_e20771825dce60c5bbd78fe6c001d4ad957120ab.1920x1080.jpg?t=1732892569
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_e20771825dce60c5bbd78fe6c001d4ad957120ab.600x338.jpg?t=1733735347
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_e20771825dce60c5bbd78fe6c001d4ad957120ab.1920x1080.jpg?t=1733735347
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_2df437b43557bdad767b582040702908bef8e82a.600x338.jpg?t=1732892569
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_2df437b43557bdad767b582040702908bef8e82a.1920x1080.jpg?t=1732892569
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_2df437b43557bdad767b582040702908bef8e82a.600x338.jpg?t=1733735347
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/ss_2df437b43557bdad767b582040702908bef8e82a.1920x1080.jpg?t=1733735347
 movies:
 - id: 257005938
   name: Blade Prince Academy Release trailer
@@ -78,26 +78,26 @@ release_date:
 content_warning:
   ids: []
   notes:
-about: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA-GIF-2.gif?t=1732892569"
+about: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA-GIF-2.gif?t=1733735347"
   /><br><br>Take control of a squad of <strong>Blade Princes</strong>, highly-trained
   warriors that combine their skills to create devastating combos, striking down their
   foes.<br><br>Students at the <strong>Blade Prince Academy</strong> must protect
   the city of Abjectalia from all kinds of threats, whilst balancing their academic
   and social lives. Manage their time between battle and study so their lives don’t
-  fall to chaos!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA-GIF-1.gif?t=1732892569"
+  fall to chaos!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA-GIF-1.gif?t=1733735347"
   /><h2 class="bb_tag">Pause, Strategise, Execute</h2>Using the <i>‘true real-time
   with pause’</i> combat system of <strong>Blade Prince Academy</strong>, freeze time
   to plan your squad actions and determine the best sequence of attacks for the perfect
   combo. Deal status afflictions that weaken enemies over time whilst dodging attacks
   &amp; spells to keep up the fight. Push enemies into disadvantageous positions and
   use the environment against them - <strong>the possibilities are yours to create.</strong><br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA_GIF_3.gif?t=1732892569"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA_GIF_3.gif?t=1733735347"
   /><h2 class="bb_tag">Discover the Blade Prince Academy</h2>The Academy is where
   the <strong>Blade Princes</strong> learn new skills, rest up between battles, and
   hang out. Social relationships grow as you guide members of the team to become more
   comfortable with each other and new heroes come on board. Before you head out on
   another mission, gain intel about the on-goings of Abjectalia and prep your squads
-  abilities for the next assault.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/Chara_pres_616x346.gif?t=1732892569"
+  abilities for the next assault.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/Chara_pres_616x346.gif?t=1733735347"
   /><h2 class="bb_tag">Build your Squad</h2>Throughout your adventure, assemble a
   roster of different heroes, each with unique strengths, weaknesses, and backstories.
   Discover how each of them perform in combat and tailor your squad to suit your style
@@ -115,26 +115,26 @@ about: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_ite
   and more powerful spells!<br></li><li><strong>Challenging boss-fights</strong>:
   Fight unique bosses with terrifying powers that will require complete mastery of
   the combat system</li></ul>'
-detailed_description: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA-GIF-2.gif?t=1732892569"
+detailed_description: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA-GIF-2.gif?t=1733735347"
   /><br><br>Take control of a squad of <strong>Blade Princes</strong>, highly-trained
   warriors that combine their skills to create devastating combos, striking down their
   foes.<br><br>Students at the <strong>Blade Prince Academy</strong> must protect
   the city of Abjectalia from all kinds of threats, whilst balancing their academic
   and social lives. Manage their time between battle and study so their lives don’t
-  fall to chaos!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA-GIF-1.gif?t=1732892569"
+  fall to chaos!<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA-GIF-1.gif?t=1733735347"
   /><h2 class="bb_tag">Pause, Strategise, Execute</h2>Using the <i>‘true real-time
   with pause’</i> combat system of <strong>Blade Prince Academy</strong>, freeze time
   to plan your squad actions and determine the best sequence of attacks for the perfect
   combo. Deal status afflictions that weaken enemies over time whilst dodging attacks
   &amp; spells to keep up the fight. Push enemies into disadvantageous positions and
   use the environment against them - <strong>the possibilities are yours to create.</strong><br><br><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA_GIF_3.gif?t=1732892569"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/BPA_GIF_3.gif?t=1733735347"
   /><h2 class="bb_tag">Discover the Blade Prince Academy</h2>The Academy is where
   the <strong>Blade Princes</strong> learn new skills, rest up between battles, and
   hang out. Social relationships grow as you guide members of the team to become more
   comfortable with each other and new heroes come on board. Before you head out on
   another mission, gain intel about the on-goings of Abjectalia and prep your squads
-  abilities for the next assault.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/Chara_pres_616x346.gif?t=1732892569"
+  abilities for the next assault.<br><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333510/extras/Chara_pres_616x346.gif?t=1733735347"
   /><h2 class="bb_tag">Build your Squad</h2>Throughout your adventure, assemble a
   roster of different heroes, each with unique strengths, weaknesses, and backstories.
   Discover how each of them perform in combat and tailor your squad to suit your style

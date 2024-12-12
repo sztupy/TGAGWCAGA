@@ -27,7 +27,7 @@ screenshots:
 - id: 5
   path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146380/ss_5eefdc347250d9fdf24df36ce7b9d518fc026371.600x338.jpg?t=1731655875
   path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146380/ss_5eefdc347250d9fdf24df36ce7b9d518fc026371.1920x1080.jpg?t=1731655875
-movies:
+movies: []
 genres:
 - Casual
 - Indie

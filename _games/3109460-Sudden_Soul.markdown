@@ -24,7 +24,7 @@ screenshots:
 - id: 4
   path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3109460/ss_1dd38779d791794cd3d39a5a7507075180ce209b.600x338.jpg?t=1732154287
   path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3109460/ss_1dd38779d791794cd3d39a5a7507075180ce209b.1920x1080.jpg?t=1732154287
-movies:
+movies: []
 genres:
 - RPG
 steam_categories:

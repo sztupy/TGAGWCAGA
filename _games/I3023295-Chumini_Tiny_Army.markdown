@@ -12,6 +12,7 @@ genres:
 - hand-drawn
 - high-score
 - ludum-dare
+- no-ai
 - roguelike
 - survival
 - top-down

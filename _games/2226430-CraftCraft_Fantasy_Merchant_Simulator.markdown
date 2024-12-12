@@ -4,38 +4,38 @@ description: CraftCraft is an RPG merchant sim with hands on crafting. Create a 
   for a mermaid princess or a sword made of dragon blood - you choose! Express your
   creativity in your very own cozy crafting studio and change the lives of quirky
   locals in the mysterious port town of Windspell.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/header.jpg?t=1732116858
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/af526f0da49484f3082e0684255ebaf9f8cb33ac/capsule_231x87.jpg?t=1732116858
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/header.jpg?t=1733242789
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/af526f0da49484f3082e0684255ebaf9f8cb33ac/capsule_231x87.jpg?t=1733242789
 categories: game
 steamid: 2226430
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_bce8d52531e02877dd8746164c8b9fef60ace300.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_bce8d52531e02877dd8746164c8b9fef60ace300.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_bce8d52531e02877dd8746164c8b9fef60ace300.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_bce8d52531e02877dd8746164c8b9fef60ace300.1920x1080.jpg?t=1733242789
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_21ba2e5947f1d0c92139cae639aaebe477ead22e.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_21ba2e5947f1d0c92139cae639aaebe477ead22e.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_21ba2e5947f1d0c92139cae639aaebe477ead22e.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_21ba2e5947f1d0c92139cae639aaebe477ead22e.1920x1080.jpg?t=1733242789
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_d5673a13cda19fb55cb8c631a579e709d5d29d33.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_d5673a13cda19fb55cb8c631a579e709d5d29d33.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_d5673a13cda19fb55cb8c631a579e709d5d29d33.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_d5673a13cda19fb55cb8c631a579e709d5d29d33.1920x1080.jpg?t=1733242789
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_ba9f95c033736e664b9cdeef638b1ac79210d20a.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_ba9f95c033736e664b9cdeef638b1ac79210d20a.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_ba9f95c033736e664b9cdeef638b1ac79210d20a.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_ba9f95c033736e664b9cdeef638b1ac79210d20a.1920x1080.jpg?t=1733242789
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_bd5f98d933011c548a9f7198416e46bb3032da8f.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_bd5f98d933011c548a9f7198416e46bb3032da8f.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_bd5f98d933011c548a9f7198416e46bb3032da8f.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_bd5f98d933011c548a9f7198416e46bb3032da8f.1920x1080.jpg?t=1733242789
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_1bf7b1cdc54eb233b873241ef20e7eeabf10c5ac.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_1bf7b1cdc54eb233b873241ef20e7eeabf10c5ac.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_1bf7b1cdc54eb233b873241ef20e7eeabf10c5ac.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_1bf7b1cdc54eb233b873241ef20e7eeabf10c5ac.1920x1080.jpg?t=1733242789
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_b064a513e55f0c74f50cfd4d01e5d6cc040c9552.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_b064a513e55f0c74f50cfd4d01e5d6cc040c9552.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_b064a513e55f0c74f50cfd4d01e5d6cc040c9552.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_b064a513e55f0c74f50cfd4d01e5d6cc040c9552.1920x1080.jpg?t=1733242789
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_305c4dc551286c36236aa8c92a9a187383cd237e.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_305c4dc551286c36236aa8c92a9a187383cd237e.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_305c4dc551286c36236aa8c92a9a187383cd237e.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_305c4dc551286c36236aa8c92a9a187383cd237e.1920x1080.jpg?t=1733242789
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_0a04efdc43b0ce3801501d7bd3eb984218a18b04.600x338.jpg?t=1732116858
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_0a04efdc43b0ce3801501d7bd3eb984218a18b04.1920x1080.jpg?t=1732116858
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_0a04efdc43b0ce3801501d7bd3eb984218a18b04.600x338.jpg?t=1733242789
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/ss_0a04efdc43b0ce3801501d7bd3eb984218a18b04.1920x1080.jpg?t=1733242789
 movies:
 - id: 257064999
   name: Minitrailer
@@ -85,7 +85,7 @@ publishers:
 - Hawthorn Games
 release_date:
   coming_soon: true
-  date: 3 Jan, 2025
+  date: 8 Jan, 2025
 content_warning:
   ids:
   - 5
@@ -93,7 +93,7 @@ content_warning:
     about it. You can smith weapons in the game for heroes but no violent acts are
     shown or discussed in detail. Might have mentions of mental health topics like
     depression but nothing extreme.
-about: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/extras/Clickhere_7.gif?t=1732116858"
+about: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/extras/Clickhere_7.gif?t=1733242789"
   />CraftCraft is made by a small fully indie studio who made Death and Taxes.  </p><p
   class="bb_paragraph"></p><p class="bb_paragraph">✧ Become a jeweler or a smith in
   a quaint port town.</p><p class="bb_paragraph"></p><p class="bb_paragraph">✧ Create
@@ -109,7 +109,7 @@ about: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.st
   Full voice acting </p><p class="bb_paragraph">✧ Completely unique crafting simulation</p><p
   class="bb_paragraph">✧ Original soundtrack </p><p class="bb_paragraph">✧ Short branching
   story with multiple endings</p>
-detailed_description: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/extras/Clickhere_7.gif?t=1732116858"
+detailed_description: <p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226430/extras/Clickhere_7.gif?t=1733242789"
   />CraftCraft is made by a small fully indie studio who made Death and Taxes.  </p><p
   class="bb_paragraph"></p><p class="bb_paragraph">✧ Become a jeweler or a smith in
   a quaint port town.</p><p class="bb_paragraph"></p><p class="bb_paragraph">✧ Create

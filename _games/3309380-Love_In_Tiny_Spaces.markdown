@@ -24,7 +24,7 @@ screenshots:
 - id: 4
   path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3309380/ss_d57b6dd5d508716b4badecd25a7513ad7ccd0533.600x338.jpg?t=1730717779
   path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3309380/ss_d57b6dd5d508716b4badecd25a7513ad7ccd0533.1920x1080.jpg?t=1730717779
-movies:
+movies: []
 genres:
 - Adventure
 - Casual

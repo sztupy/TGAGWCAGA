@@ -4,26 +4,26 @@ description: Recruit Gods from different mythologies, buff and upgrade them, arr
   them in perfect formation, and create thousands of synergistic builds! Gods vs Horrors
   is a roguelike card auto-battler where you coordinate Gods to defend the Earth against
   Cosmic Horrors.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/header.jpg?t=1730815392
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/e87dc02c5c7ff56dff6ced356723b7faa3e7dc5a/capsule_231x87.jpg?t=1730815392
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/header.jpg?t=1733387258
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/e87dc02c5c7ff56dff6ced356723b7faa3e7dc5a/capsule_231x87.jpg?t=1733387258
 categories: game
 steamid: 2994240
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_aa4ac719b2e21e592e83f9679c5a6f51e5e07e46.600x338.jpg?t=1730815392
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_aa4ac719b2e21e592e83f9679c5a6f51e5e07e46.1920x1080.jpg?t=1730815392
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_aa4ac719b2e21e592e83f9679c5a6f51e5e07e46.600x338.jpg?t=1733387258
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_aa4ac719b2e21e592e83f9679c5a6f51e5e07e46.1920x1080.jpg?t=1733387258
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_e60bc778a856a1a67c0c83938e2dd760b0dec60d.600x338.jpg?t=1730815392
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_e60bc778a856a1a67c0c83938e2dd760b0dec60d.1920x1080.jpg?t=1730815392
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_e60bc778a856a1a67c0c83938e2dd760b0dec60d.600x338.jpg?t=1733387258
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_e60bc778a856a1a67c0c83938e2dd760b0dec60d.1920x1080.jpg?t=1733387258
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_a5bd28199f1b2089870da7712d970c06f5f0df9b.600x338.jpg?t=1730815392
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_a5bd28199f1b2089870da7712d970c06f5f0df9b.1920x1080.jpg?t=1730815392
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_a5bd28199f1b2089870da7712d970c06f5f0df9b.600x338.jpg?t=1733387258
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_a5bd28199f1b2089870da7712d970c06f5f0df9b.1920x1080.jpg?t=1733387258
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_1c8ef6276a2e52a921abad6f9a24c6c9998f64b7.600x338.jpg?t=1730815392
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_1c8ef6276a2e52a921abad6f9a24c6c9998f64b7.1920x1080.jpg?t=1730815392
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_1c8ef6276a2e52a921abad6f9a24c6c9998f64b7.600x338.jpg?t=1733387258
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_1c8ef6276a2e52a921abad6f9a24c6c9998f64b7.1920x1080.jpg?t=1733387258
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_b142fd470603b74d3eca032c6cb7da7ca19e6e13.600x338.jpg?t=1730815392
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_b142fd470603b74d3eca032c6cb7da7ca19e6e13.1920x1080.jpg?t=1730815392
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_b142fd470603b74d3eca032c6cb7da7ca19e6e13.600x338.jpg?t=1733387258
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/ss_b142fd470603b74d3eca032c6cb7da7ca19e6e13.1920x1080.jpg?t=1733387258
 movies:
 - id: 257025495
   name: Announcement Trailer
@@ -54,13 +54,13 @@ release_date:
 content_warning:
   ids: []
   notes:
-about: '<p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/roguelike_card_auto-battler.png?t=1730815392"
+about: '<p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/roguelike_card_auto-battler.png?t=1733387258"
   /><br>Gods vs Horrors is a roguelike card auto-battler focusing on synergies, scaling,
   and positioning. You''ll need to adapt to the choices offered and enemy compositions.
   Recruit and dismiss Gods, reroll your options, increase your devotion level to get
   access to more powerful Gods, and fight Cosmic Horrors in automated battles.</p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/loop_gif_2.gif?t=1730815392"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/all_decisions_matter.png?t=1730815392"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/loop_gif_2.gif?t=1733387258"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/all_decisions_matter.png?t=1733387258"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph">Take synergies and scaling to
   another level. Each roll could deliver the final piece for your build or enable
   a crazy change in your composition.</p></li><li><p class="bb_paragraph">Spend your
@@ -70,8 +70,8 @@ about: '<p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.s
   your Gods to counter the enemy''s formation and composition. Combat is automatic,
   easy to follow, and deterministic (no RNG). It can be sped up or slowed down as
   desired.</p></li></ul><p class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/big_number_gif_2.gif?t=1730815392"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/endless_variety.png?t=1730815392"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/big_number_gif_2.gif?t=1733387258"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/endless_variety.png?t=1733387258"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph">Create unique builds with 165
   gods from 10 mythologies and 30 different relics. Unlock options through play, increasing
   the variety of available choices without power creep (horizontal meta-progression).</p></li><li><p
@@ -79,17 +79,17 @@ about: '<p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.s
   of allies and environmental effects, requiring you to devise specific strategies
   to beat them.</p></li><li><p class="bb_paragraph">Apply difficulty modifiers to
   challenge your decision-making.</p></li></ul><p class="bb_paragraph"></p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/variety_2.gif?t=1730815392"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/variety_2.gif?t=1733387258"
   /></p><p class="bb_paragraph">Game inspirations: Hearthstone''s Battlegrounds mode,
   Slay the Spire, Super Auto Pets, Teamfight Tactics, Balatro, Magic the Gathering
   drafting.</p>'
-detailed_description: '<p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/roguelike_card_auto-battler.png?t=1730815392"
+detailed_description: '<p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/roguelike_card_auto-battler.png?t=1733387258"
   /><br>Gods vs Horrors is a roguelike card auto-battler focusing on synergies, scaling,
   and positioning. You''ll need to adapt to the choices offered and enemy compositions.
   Recruit and dismiss Gods, reroll your options, increase your devotion level to get
   access to more powerful Gods, and fight Cosmic Horrors in automated battles.</p><p
-  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/loop_gif_2.gif?t=1730815392"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/all_decisions_matter.png?t=1730815392"
+  class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/loop_gif_2.gif?t=1733387258"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/all_decisions_matter.png?t=1733387258"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph">Take synergies and scaling to
   another level. Each roll could deliver the final piece for your build or enable
   a crazy change in your composition.</p></li><li><p class="bb_paragraph">Spend your
@@ -99,8 +99,8 @@ detailed_description: '<p class="bb_paragraph"><img class="bb_img" src="https://
   your Gods to counter the enemy''s formation and composition. Combat is automatic,
   easy to follow, and deterministic (no RNG). It can be sped up or slowed down as
   desired.</p></li></ul><p class="bb_paragraph"></p><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/big_number_gif_2.gif?t=1730815392"
-  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/endless_variety.png?t=1730815392"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/big_number_gif_2.gif?t=1733387258"
+  /></p><p class="bb_paragraph"><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/endless_variety.png?t=1733387258"
   /></p><ul class="bb_ul"><li><p class="bb_paragraph">Create unique builds with 165
   gods from 10 mythologies and 30 different relics. Unlock options through play, increasing
   the variety of available choices without power creep (horizontal meta-progression).</p></li><li><p
@@ -108,7 +108,7 @@ detailed_description: '<p class="bb_paragraph"><img class="bb_img" src="https://
   of allies and environmental effects, requiring you to devise specific strategies
   to beat them.</p></li><li><p class="bb_paragraph">Apply difficulty modifiers to
   challenge your decision-making.</p></li></ul><p class="bb_paragraph"></p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/variety_2.gif?t=1730815392"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994240/extras/variety_2.gif?t=1733387258"
   /></p><p class="bb_paragraph">Game inspirations: Hearthstone''s Battlegrounds mode,
   Slay the Spire, Super Auto Pets, Teamfight Tactics, Balatro, Magic the Gathering
   drafting.</p>'

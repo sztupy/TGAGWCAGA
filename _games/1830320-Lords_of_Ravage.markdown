@@ -94,7 +94,8 @@ release_date:
   coming_soon: true
   date: Coming soon
 content_warning:
-  ids: []
+  ids:
+  - 5
   notes:
 about: <img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830320/extras/Map9.gif?t=1731064138"
   /><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830320/extras/Wishlist_Follow_ENG.gif?t=1731064138"

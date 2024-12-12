@@ -3,35 +3,35 @@ title: ARC SEED
 description: Face the interstellar Archangels in a turn-based tactical game with deckbuilding
   elements and destructible environment, where you pilot powerful mechs to save the
   Earth from destruction.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/header.jpg?t=1732272947
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/capsule_231x87.jpg?t=1732272947
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/header.jpg?t=1733845767
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/capsule_231x87.jpg?t=1733845767
 categories: game
 steamid: 2332970
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_d68934709de73cc2a74a483f969faa2a9bd06341.600x338.jpg?t=1732272947
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_d68934709de73cc2a74a483f969faa2a9bd06341.1920x1080.jpg?t=1732272947
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_d68934709de73cc2a74a483f969faa2a9bd06341.600x338.jpg?t=1733845767
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_d68934709de73cc2a74a483f969faa2a9bd06341.1920x1080.jpg?t=1733845767
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_d2469fc657163a66b29e3272ddb95c80106b4eb7.600x338.jpg?t=1732272947
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_d2469fc657163a66b29e3272ddb95c80106b4eb7.1920x1080.jpg?t=1732272947
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_d2469fc657163a66b29e3272ddb95c80106b4eb7.600x338.jpg?t=1733845767
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_d2469fc657163a66b29e3272ddb95c80106b4eb7.1920x1080.jpg?t=1733845767
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_71eeee2c2fb8e66e57f37f1ea6082d48946bdc25.600x338.jpg?t=1732272947
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_71eeee2c2fb8e66e57f37f1ea6082d48946bdc25.1920x1080.jpg?t=1732272947
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_71eeee2c2fb8e66e57f37f1ea6082d48946bdc25.600x338.jpg?t=1733845767
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_71eeee2c2fb8e66e57f37f1ea6082d48946bdc25.1920x1080.jpg?t=1733845767
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_5c04734aaa89e494302f926e59108a71a84b9e42.600x338.jpg?t=1732272947
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_5c04734aaa89e494302f926e59108a71a84b9e42.1920x1080.jpg?t=1732272947
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_5c04734aaa89e494302f926e59108a71a84b9e42.600x338.jpg?t=1733845767
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_5c04734aaa89e494302f926e59108a71a84b9e42.1920x1080.jpg?t=1733845767
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_ada8e693665db521481e46f6786206e3a8053db8.600x338.jpg?t=1732272947
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_ada8e693665db521481e46f6786206e3a8053db8.1920x1080.jpg?t=1732272947
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_ada8e693665db521481e46f6786206e3a8053db8.600x338.jpg?t=1733845767
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_ada8e693665db521481e46f6786206e3a8053db8.1920x1080.jpg?t=1733845767
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_897b1ba6911221822193b8709edd49f7d0e0671e.600x338.jpg?t=1732272947
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_897b1ba6911221822193b8709edd49f7d0e0671e.1920x1080.jpg?t=1732272947
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_897b1ba6911221822193b8709edd49f7d0e0671e.600x338.jpg?t=1733845767
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_897b1ba6911221822193b8709edd49f7d0e0671e.1920x1080.jpg?t=1733845767
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_ab03bc72cc16e3dad0bff380e3f306e1acee651c.600x338.jpg?t=1732272947
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_ab03bc72cc16e3dad0bff380e3f306e1acee651c.1920x1080.jpg?t=1732272947
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_ab03bc72cc16e3dad0bff380e3f306e1acee651c.600x338.jpg?t=1733845767
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_ab03bc72cc16e3dad0bff380e3f306e1acee651c.1920x1080.jpg?t=1733845767
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_f8fa96fc3761cb62636699e60c4f74f06f87a6d7.600x338.jpg?t=1732272947
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_f8fa96fc3761cb62636699e60c4f74f06f87a6d7.1920x1080.jpg?t=1732272947
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_f8fa96fc3761cb62636699e60c4f74f06f87a6d7.600x338.jpg?t=1733845767
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/ss_f8fa96fc3761cb62636699e60c4f74f06f87a6d7.1920x1080.jpg?t=1733845767
 movies:
 - id: 257042539
   name: Arc Seed Early Access Trailer
@@ -48,6 +48,8 @@ genres:
 - Early Access
 steam_categories:
 - Single-player
+- Partial Controller Support
+- Steam Cloud
 - Family Sharing
 platforms:
   windows: true
@@ -65,14 +67,14 @@ content_warning:
   notes:
 about: <p class="bb_paragraph">Choose your Pilot and Mech! Prepare to build your city
   defenses and manage your equipment.</p><p class="bb_paragraph"><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/extras/Mech_Launch_small.gif?t=1732272947"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/extras/Mech_Launch_small.gif?t=1733845767"
   />Face the incoming alien threat, known as Angels, that traveled interstellar space
   in their seed pods and arrived on Earth bringing death and destruction.</p><p class="bb_paragraph">
   </p><p class="bb_paragraph">You will need to upgrade your mech, manage your weapons
   and equipment. Build the perfect deck combination and survive all the incoming Archangels.</p><p
   class="bb_paragraph">You can also build your city defenses and with appropriate
   funding create the perfect city fortress.</p><p class="bb_paragraph"></p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/extras/Mech_startup_small.gif?t=1732272947"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/extras/Mech_startup_small.gif?t=1733845767"
   /></p><p class="bb_paragraph">Just don't forget to give enough time for the population
   to evacuate. Once the buildings are empty, you can use them as part of the offensive,
   to block incoming attacks or even crush the Angels between buildings.</p><p class="bb_paragraph"></p><p
@@ -88,14 +90,14 @@ about: <p class="bb_paragraph">Choose your Pilot and Mech! Prepare to build your
   if you fail, there are other cities you can still save, no time to rest!</p></li></ul>
 detailed_description: <p class="bb_paragraph">Choose your Pilot and Mech! Prepare
   to build your city defenses and manage your equipment.</p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/extras/Mech_Launch_small.gif?t=1732272947"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/extras/Mech_Launch_small.gif?t=1733845767"
   />Face the incoming alien threat, known as Angels, that traveled interstellar space
   in their seed pods and arrived on Earth bringing death and destruction.</p><p class="bb_paragraph">
   </p><p class="bb_paragraph">You will need to upgrade your mech, manage your weapons
   and equipment. Build the perfect deck combination and survive all the incoming Archangels.</p><p
   class="bb_paragraph">You can also build your city defenses and with appropriate
   funding create the perfect city fortress.</p><p class="bb_paragraph"></p><p class="bb_paragraph"><img
-  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/extras/Mech_startup_small.gif?t=1732272947"
+  class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332970/extras/Mech_startup_small.gif?t=1733845767"
   /></p><p class="bb_paragraph">Just don't forget to give enough time for the population
   to evacuate. Once the buildings are empty, you can use them as part of the offensive,
   to block incoming attacks or even crush the Angels between buildings.</p><p class="bb_paragraph"></p><p

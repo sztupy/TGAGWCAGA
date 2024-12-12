@@ -3,41 +3,41 @@ title: The Occultist
 description: "&quot;Images are engraved in my mind that would make any man tremble
   in fear... but I am not just any man. I am The Occultist.” Accompany Alan Rebels
   on his most terrifying occult investigation yet, in this spine-chilling horror experience."
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/header.jpg?t=1723125939
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/capsule_231x87.jpg?t=1723125939
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/header.jpg?t=1733910885
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/capsule_231x87.jpg?t=1733910885
 categories: game
 steamid: 2092840
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_0babeb4209bf05645f8d43a6f06411d8ac71add6.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_0babeb4209bf05645f8d43a6f06411d8ac71add6.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_0babeb4209bf05645f8d43a6f06411d8ac71add6.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_0babeb4209bf05645f8d43a6f06411d8ac71add6.1920x1080.jpg?t=1733910885
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_afcd4d171f83df384969fb0fd075ade6d107f161.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_afcd4d171f83df384969fb0fd075ade6d107f161.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_afcd4d171f83df384969fb0fd075ade6d107f161.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_afcd4d171f83df384969fb0fd075ade6d107f161.1920x1080.jpg?t=1733910885
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_601172c31ab279938186988b471b49d917f0f64c.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_601172c31ab279938186988b471b49d917f0f64c.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_601172c31ab279938186988b471b49d917f0f64c.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_601172c31ab279938186988b471b49d917f0f64c.1920x1080.jpg?t=1733910885
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_dc7c90848c4eef0c4225f139fd7eff82953cd436.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_dc7c90848c4eef0c4225f139fd7eff82953cd436.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_dc7c90848c4eef0c4225f139fd7eff82953cd436.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_dc7c90848c4eef0c4225f139fd7eff82953cd436.1920x1080.jpg?t=1733910885
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_e2d70aaae4bf73176830c9ddb727422cc3214682.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_e2d70aaae4bf73176830c9ddb727422cc3214682.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_e2d70aaae4bf73176830c9ddb727422cc3214682.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_e2d70aaae4bf73176830c9ddb727422cc3214682.1920x1080.jpg?t=1733910885
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_864f4be66fd9d0f5da7f382291c64cee7ba7cca2.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_864f4be66fd9d0f5da7f382291c64cee7ba7cca2.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_864f4be66fd9d0f5da7f382291c64cee7ba7cca2.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_864f4be66fd9d0f5da7f382291c64cee7ba7cca2.1920x1080.jpg?t=1733910885
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_ceb3ca3c559d6ab443d226eeccfbef726679e005.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_ceb3ca3c559d6ab443d226eeccfbef726679e005.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_ceb3ca3c559d6ab443d226eeccfbef726679e005.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_ceb3ca3c559d6ab443d226eeccfbef726679e005.1920x1080.jpg?t=1733910885
 - id: 7
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_bcca678334178366495c07fac27ee3cf0e2631b6.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_bcca678334178366495c07fac27ee3cf0e2631b6.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_bcca678334178366495c07fac27ee3cf0e2631b6.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_bcca678334178366495c07fac27ee3cf0e2631b6.1920x1080.jpg?t=1733910885
 - id: 8
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_41409c34734721e27117f181432f25853d523de4.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_41409c34734721e27117f181432f25853d523de4.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_41409c34734721e27117f181432f25853d523de4.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_41409c34734721e27117f181432f25853d523de4.1920x1080.jpg?t=1733910885
 - id: 9
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_9f2f6c361f6e747805786368b945339efbd17254.600x338.jpg?t=1723125939
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_9f2f6c361f6e747805786368b945339efbd17254.1920x1080.jpg?t=1723125939
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_9f2f6c361f6e747805786368b945339efbd17254.600x338.jpg?t=1733910885
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/ss_9f2f6c361f6e747805786368b945339efbd17254.1920x1080.jpg?t=1733910885
 movies:
 - id: 257044597
   name: Announcement Trailer EN
@@ -74,8 +74,8 @@ content_warning:
   - 5
   notes: 'This game may contain content not appropriate for all ages, or may not be
     appropriate for viewing at work: Violence or Gore, General Mature Content.'
-about: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/the_occultist_logo.png?t=1723125939"
-  /><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/Trailer_Alan_Pendulum.gif?t=1723125939"
+about: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/the_occultist_logo.png?t=1733910885"
+  /><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/Trailer_Alan_Pendulum.gif?t=1733910885"
   /><h2 class="bb_tag">FEATURES</h2><ul class="bb_ul"><li><strong>Mystic Pendulum</strong>:
   the most important object for Alan. Through it, he is able to interact with the
   environment and modify it due to its five unique and original mechanics.<br></li><li><strong>1st
@@ -92,7 +92,7 @@ about: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_ite
   From straightforward puzzles to those that require knowledge and insight into the
   occult arts.<br></li><li><strong>Soundtrack</strong>: The Occultist features an
   original soundtrack by renowned composer Pepe Herrero.</li></ul><br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/Pendulum_combined.gif?t=1723125939"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/Pendulum_combined.gif?t=1733910885"
   /><h2 class="bb_tag">STORY &amp; SETTING</h2><br>In The Occultist, paranormal investigator
   Alan Rebels travels to the mysterious island of GodStone to determine the cause
   of the sudden disappearance of his father. Even though he mentioned the island repeatedly
@@ -112,8 +112,8 @@ about: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_ite
   any investigation before, GodStone shakes Alan’s convictions of what is possible
   in the world of the occult. Maybe GodStone hides a curse that can be lifted… but
   should it be?'
-detailed_description: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/the_occultist_logo.png?t=1723125939"
-  /><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/Trailer_Alan_Pendulum.gif?t=1723125939"
+detailed_description: '<img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/the_occultist_logo.png?t=1733910885"
+  /><br><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/Trailer_Alan_Pendulum.gif?t=1733910885"
   /><h2 class="bb_tag">FEATURES</h2><ul class="bb_ul"><li><strong>Mystic Pendulum</strong>:
   the most important object for Alan. Through it, he is able to interact with the
   environment and modify it due to its five unique and original mechanics.<br></li><li><strong>1st
@@ -130,7 +130,7 @@ detailed_description: '<img class="bb_img" src="https://shared.akamai.steamstati
   From straightforward puzzles to those that require knowledge and insight into the
   occult arts.<br></li><li><strong>Soundtrack</strong>: The Occultist features an
   original soundtrack by renowned composer Pepe Herrero.</li></ul><br><img class="bb_img"
-  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/Pendulum_combined.gif?t=1723125939"
+  src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/extras/Pendulum_combined.gif?t=1733910885"
   /><h2 class="bb_tag">STORY &amp; SETTING</h2><br>In The Occultist, paranormal investigator
   Alan Rebels travels to the mysterious island of GodStone to determine the cause
   of the sudden disappearance of his father. Even though he mentioned the island repeatedly

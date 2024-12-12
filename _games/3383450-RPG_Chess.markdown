@@ -1,35 +1,35 @@
 ---
 title: RPG Chess
 description: A turn-based RPG, except it's also chess! Instead of capturing, your
-  pieces engage in thrilling 1v1 battles where they can gain experience, level up,
-  and unlock powerful abilities. Shape your team as you progress through the single-player
-  campaign or challenge others in online matches!
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/header.jpg?t=1733393949
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/0e6e2c290f8eb247fcda16030cb891f3db10f768/capsule_231x87.jpg?t=1733393949
+  pieces engage in thrilling 1v1 battles where they can level up and unlock powerful
+  abilities. Shape your team as you progress through the single-player campaign or
+  challenge others in online matches!
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/header.jpg?t=1733911775
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/0e6e2c290f8eb247fcda16030cb891f3db10f768/capsule_231x87.jpg?t=1733911775
 categories: game
 steamid: 3383450
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_3596a0109734ae3125299d345af29179491c48ff.600x338.jpg?t=1733393949
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_3596a0109734ae3125299d345af29179491c48ff.1920x1080.jpg?t=1733393949
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_3596a0109734ae3125299d345af29179491c48ff.600x338.jpg?t=1733911775
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_3596a0109734ae3125299d345af29179491c48ff.1920x1080.jpg?t=1733911775
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_9a997c847605c9e531aea77c0e5e38f9eb8aeb1b.600x338.jpg?t=1733393949
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_9a997c847605c9e531aea77c0e5e38f9eb8aeb1b.1920x1080.jpg?t=1733393949
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_9a997c847605c9e531aea77c0e5e38f9eb8aeb1b.600x338.jpg?t=1733911775
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_9a997c847605c9e531aea77c0e5e38f9eb8aeb1b.1920x1080.jpg?t=1733911775
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_9bf9d62d85eb75f2ac694cc325e50215f4b9efcd.600x338.jpg?t=1733393949
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_9bf9d62d85eb75f2ac694cc325e50215f4b9efcd.1920x1080.jpg?t=1733393949
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_9bf9d62d85eb75f2ac694cc325e50215f4b9efcd.600x338.jpg?t=1733911775
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_9bf9d62d85eb75f2ac694cc325e50215f4b9efcd.1920x1080.jpg?t=1733911775
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_03c62aa0e54b937d799158ed93fdb3b5c07128f8.600x338.jpg?t=1733393949
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_03c62aa0e54b937d799158ed93fdb3b5c07128f8.1920x1080.jpg?t=1733393949
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_03c62aa0e54b937d799158ed93fdb3b5c07128f8.600x338.jpg?t=1733911775
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_03c62aa0e54b937d799158ed93fdb3b5c07128f8.1920x1080.jpg?t=1733911775
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_0d55c4fb71080f69ccf8d232708b6735a4a743ca.600x338.jpg?t=1733393949
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_0d55c4fb71080f69ccf8d232708b6735a4a743ca.1920x1080.jpg?t=1733393949
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_0d55c4fb71080f69ccf8d232708b6735a4a743ca.600x338.jpg?t=1733911775
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_0d55c4fb71080f69ccf8d232708b6735a4a743ca.1920x1080.jpg?t=1733911775
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_fa5e7aa434a97268f9c414f5c6c029ec023a48b6.600x338.jpg?t=1733393949
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_fa5e7aa434a97268f9c414f5c6c029ec023a48b6.1920x1080.jpg?t=1733393949
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_fa5e7aa434a97268f9c414f5c6c029ec023a48b6.600x338.jpg?t=1733911775
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_fa5e7aa434a97268f9c414f5c6c029ec023a48b6.1920x1080.jpg?t=1733911775
 - id: 6
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_e46765ebc82c273d7f0ef99c2d6d3632b1081063.600x338.jpg?t=1733393949
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_e46765ebc82c273d7f0ef99c2d6d3632b1081063.1920x1080.jpg?t=1733393949
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_e46765ebc82c273d7f0ef99c2d6d3632b1081063.600x338.jpg?t=1733911775
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383450/ss_e46765ebc82c273d7f0ef99c2d6d3632b1081063.1920x1080.jpg?t=1733911775
 movies:
 - id: 257078059
   name: RPG Chess - Official Announcement Trailer
@@ -99,8 +99,8 @@ about: <h2 class="bb_tag"><strong>RPG CHESS - A TURN-BASED RPG, EXCEPT IT'S ALSO
   multiplayer offers endless opportunities for competitive and cooperative fun.</p></li></ul><p
   class="bb_paragraph"></p><h2 class="bb_tag"><strong>BUILD YOUR ARMY.  MASTER THE
   BOARD. EXCEL IN COMBAT.</strong></h2><p class="bb_paragraph">Forge your path as
-  a tactician and warrior in <strong>RPG Chess</strong>. Every move shapes your pieces,
-  and  every battle brings you closer to ultimate triumph.</p><p class="bb_paragraph">Ready
+  a tactician and warrior in <strong>RPG Chess</strong>. Every move shape your pieces,
+  and every battle brings you closer to ultimate triumph.</p><p class="bb_paragraph">Ready
   to experience chess in an exciting new way? Add <strong>RPG Chess</strong> to your
   wishlist today!</p>
 detailed_description: <h2 class="bb_tag"><strong>RPG CHESS - A TURN-BASED RPG, EXCEPT
@@ -134,8 +134,8 @@ detailed_description: <h2 class="bb_tag"><strong>RPG CHESS - A TURN-BASED RPG, E
   head-to-head or working together, multiplayer offers endless opportunities for competitive
   and cooperative fun.</p></li></ul><p class="bb_paragraph"></p><h2 class="bb_tag"><strong>BUILD
   YOUR ARMY.  MASTER THE BOARD. EXCEL IN COMBAT.</strong></h2><p class="bb_paragraph">Forge
-  your path as a tactician and warrior in <strong>RPG Chess</strong>. Every move shapes
-  your pieces, and  every battle brings you closer to ultimate triumph.</p><p class="bb_paragraph">Ready
+  your path as a tactician and warrior in <strong>RPG Chess</strong>. Every move shape
+  your pieces, and every battle brings you closer to ultimate triumph.</p><p class="bb_paragraph">Ready
   to experience chess in an exciting new way? Add <strong>RPG Chess</strong> to your
   wishlist today!</p>
 languages: English<strong>*</strong><br><strong>*</strong>languages with full audio

@@ -6,7 +6,6 @@ description: Battle your way through a seedy tavern filled with gambling addicte
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/header.jpg?t=1732795561
 capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/capsule_231x87.jpg?t=1732795561
 categories: game
-featured: true
 steamid: 2400510
 screenshots:
 - id: 0
