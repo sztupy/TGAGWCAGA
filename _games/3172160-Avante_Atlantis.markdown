@@ -4,30 +4,40 @@ description: Avante! Atlantis is a turn-based tactics game where the rise of Atl
   triggers a fierce global race for it's domination. Lead your nation through the
   ever-changing, mythical city, battling foes and uncovering the secrets that kept
   Atlantis hidden for centuries.
-image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/header.jpg?t=1732876091
-capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/d71d9ccc0e2ef03ae9225c13668ade648801f41c/capsule_231x87.jpg?t=1732876091
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/header.jpg?t=1732988389
+capsule_image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/d71d9ccc0e2ef03ae9225c13668ade648801f41c/capsule_231x87.jpg?t=1732988389
 categories: game
 steamid: 3172160
 screenshots:
 - id: 0
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_a1471a5a8ae99310b5d42c6cd6cf89d5afb575f6.600x338.jpg?t=1732876091
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_a1471a5a8ae99310b5d42c6cd6cf89d5afb575f6.1920x1080.jpg?t=1732876091
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_a1471a5a8ae99310b5d42c6cd6cf89d5afb575f6.600x338.jpg?t=1732988389
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_a1471a5a8ae99310b5d42c6cd6cf89d5afb575f6.1920x1080.jpg?t=1732988389
 - id: 1
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_097d4044dd64a0d70a34f7b23d5e5939be1441db.600x338.jpg?t=1732876091
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_097d4044dd64a0d70a34f7b23d5e5939be1441db.1920x1080.jpg?t=1732876091
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_097d4044dd64a0d70a34f7b23d5e5939be1441db.600x338.jpg?t=1732988389
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_097d4044dd64a0d70a34f7b23d5e5939be1441db.1920x1080.jpg?t=1732988389
 - id: 2
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_ea6cc9561369238ef61a48fc8672bb9eb6451721.600x338.jpg?t=1732876091
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_ea6cc9561369238ef61a48fc8672bb9eb6451721.1920x1080.jpg?t=1732876091
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_ea6cc9561369238ef61a48fc8672bb9eb6451721.600x338.jpg?t=1732988389
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_ea6cc9561369238ef61a48fc8672bb9eb6451721.1920x1080.jpg?t=1732988389
 - id: 3
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_4c5bfaf1b1ab2faa2dd36a0d0b305352d14167e5.600x338.jpg?t=1732876091
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_4c5bfaf1b1ab2faa2dd36a0d0b305352d14167e5.1920x1080.jpg?t=1732876091
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_4c5bfaf1b1ab2faa2dd36a0d0b305352d14167e5.600x338.jpg?t=1732988389
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_4c5bfaf1b1ab2faa2dd36a0d0b305352d14167e5.1920x1080.jpg?t=1732988389
 - id: 4
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_9300fae3ba4b88ef8eb5a6dfb9258ca4adb70345.600x338.jpg?t=1732876091
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_9300fae3ba4b88ef8eb5a6dfb9258ca4adb70345.1920x1080.jpg?t=1732876091
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_9300fae3ba4b88ef8eb5a6dfb9258ca4adb70345.600x338.jpg?t=1732988389
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_9300fae3ba4b88ef8eb5a6dfb9258ca4adb70345.1920x1080.jpg?t=1732988389
 - id: 5
-  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_7b913fe54548862a613b9b64b7198e51de661df3.600x338.jpg?t=1732876091
-  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_7b913fe54548862a613b9b64b7198e51de661df3.1920x1080.jpg?t=1732876091
+  path_thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_7b913fe54548862a613b9b64b7198e51de661df3.600x338.jpg?t=1732988389
+  path_full: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/ss_7b913fe54548862a613b9b64b7198e51de661df3.1920x1080.jpg?t=1732988389
 movies:
+- id: 257077694
+  name: Early Access Demo Trailer
+  thumbnail: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077694/693dd5b1af809274fe5c8f62bdc2dbfad5be05d9/movie_600x337.jpg?t=1732891034
+  webm:
+    '480': https://video.akamai.steamstatic.com/store_trailers/257077694/movie480_vp9.webm?t=1732891034
+    max: https://video.akamai.steamstatic.com/store_trailers/257077694/movie_max_vp9.webm?t=1732891034
+  mp4:
+    '480': https://video.akamai.steamstatic.com/store_trailers/257077694/movie480.mp4?t=1732891034
+    max: https://video.akamai.steamstatic.com/store_trailers/257077694/movie_max.mp4?t=1732891034
+  highlight: true
 genres:
 - Indie
 - Strategy
@@ -37,7 +47,6 @@ steam_categories:
 - PvP
 - Shared/Split Screen PvP
 - Shared/Split Screen
-- Steam Achievements
 - Full controller support
 - Remote Play Together
 platforms:
@@ -57,7 +66,7 @@ content_warning:
 about: '<p class="bb_paragraph">Dive into <strong>Avante! Atlantis</strong>, where
   tactical turn-based gameplay meets a captivating board game aesthetic! Embark on
   an epic quest through the legendary city of Atlantis, battling for power and uncovering
-  ancient secrets. <strong></strong><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/extras/2024-10-1911-44-42-ezgif.com-crop.gif?t=1732876091"
+  ancient secrets. <strong></strong><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/extras/2024-10-1911-44-42-ezgif.com-crop.gif?t=1732988389"
   /></p><h2 class="bb_tag"><strong>Main Features:</strong></h2><ul class="bb_ul"><li><p
   class="bb_paragraph"><strong>Single-Player Campaign:</strong> Embark on an epic
   journey through Atlantis, battling foes and uncovering the mysteries behind the
@@ -81,7 +90,7 @@ about: '<p class="bb_paragraph">Dive into <strong>Avante! Atlantis</strong>, whe
 detailed_description: '<p class="bb_paragraph">Dive into <strong>Avante! Atlantis</strong>,
   where tactical turn-based gameplay meets a captivating board game aesthetic! Embark
   on an epic quest through the legendary city of Atlantis, battling for power and
-  uncovering ancient secrets. <strong></strong><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/extras/2024-10-1911-44-42-ezgif.com-crop.gif?t=1732876091"
+  uncovering ancient secrets. <strong></strong><img class="bb_img" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172160/extras/2024-10-1911-44-42-ezgif.com-crop.gif?t=1732988389"
   /></p><h2 class="bb_tag"><strong>Main Features:</strong></h2><ul class="bb_ul"><li><p
   class="bb_paragraph"><strong>Single-Player Campaign:</strong> Embark on an epic
   journey through Atlantis, battling foes and uncovering the mysteries behind the
@@ -103,7 +112,7 @@ detailed_description: '<p class="bb_paragraph">Dive into <strong>Avante! Atlanti
   defeating your enemies and claiming Atlantis? Will the legendary city yield to your
   might? The adventure awaits—<strong><i>Avante</i></strong> to glory!</p>'
 languages: English, French, Turkish, Ukrainian, German, Simplified Chinese, Portuguese
-  - Brazil
+  - Brazil, Spanish - Spain
 reviews:
 support_info:
   url: ''
